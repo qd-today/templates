@@ -3,6 +3,8 @@
 [gxitm](https://github.com/gxitm)
 
 [AragonSnow](https://github.com/AragonSnow)
+
+[FellBan](https://github.com/FellBan)
 ## 网站
 Tips:链接里最好使用raw.githubusercontent.com的模板地址，其他的链接没有测试过
 网站|作者|链接|变量说明|备注/日志
@@ -13,3 +15,4 @@ natfrp|[gxitm](https://github.com/gxitm)|[natfrp.har](https://raw.githubusercont
 国航APP|[AragonSnow](https://github.com/AragonSnow)|[airchina.har](https://raw.githubusercontent.com/qiandao-today/templates/master/airchina.har)|id<br>authenticityRealm<br>param|抓包，app杀台后不用输密码登录就行，这两个链接里有这个参数<br>前两个在<br>https://m.airchina.com.cn:9061/worklight/apps/services/api/AirChina/iphone/init<br>param在<br>https://m.airchina.com.cn:9061/worklight/apps/services/api/AirChina/iphone/query<br>paramters=到&结束<br>
 轻之国度|[AragonSnow](https://github.com/AragonSnow)|[lightnovel 轻之国度.har](https://raw.githubusercontent.com/qiandao-today/templates/master/lightnovel%20%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6.har)|cks 网页cookie|https://www.lightnovel.us/
 south-plus论坛|[AragonSnow](https://github.com/AragonSnow)|[south-plus.har](https://raw.githubusercontent.com/qiandao-today/templates/master/south-plus.har)|pwd 密码<br> user 用户名|https://www.south-plus.net/
+精易论坛|[FellBan](https://github.com/FellBan)|[精易论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E7%B2%BE%E6%98%93%E8%AE%BA%E5%9D%9B.har)|cookie|https://bbs.125.la
