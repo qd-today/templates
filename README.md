@@ -16,3 +16,4 @@ natfrp|[gxitm](https://github.com/gxitm)|[natfrp.har](https://raw.githubusercont
 轻之国度|[AragonSnow](https://github.com/AragonSnow)|[lightnovel 轻之国度.har](https://raw.githubusercontent.com/qiandao-today/templates/master/lightnovel%20%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6.har)|cks 网页cookie|https://www.lightnovel.us/
 south-plus论坛|[AragonSnow](https://github.com/AragonSnow)|[south-plus.har](https://raw.githubusercontent.com/qiandao-today/templates/master/south-plus.har)|pwd 密码<br> user 用户名|https://www.south-plus.net/
 精易论坛|[FellBan](https://github.com/FellBan)|[精易论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E7%B2%BE%E6%98%93%E8%AE%BA%E5%9D%9B.har)|cookie|https://bbs.125.la
+腾讯视频VIP|[FellBan](https://github.com/q123458384)|[腾讯视频VIP.har](https://github.com/qiandao-today/templates/blob/master/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91vip.har)|cookie|腾讯视频手机APP抓包cookie
