@@ -23,5 +23,12 @@ WPS签到送会员|[devil](https://github.com/q123458384)|[WPS.har](https://raw.
 柠檬PT签到|[devil](https://github.com/q123458384)|[柠檬PT签到.har](https://raw.githubusercontent.com/qiandao-today/templates/master/leaguehd%E6%9F%A0%E6%AA%ACPT.har)|cookie|https://leaguehd.com/attendance.php
 ZodGame论坛|[github-h](https://github.com/github-h)|[ZodGame论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/ZodGame%E8%AE%BA%E5%9D%9B.har)|cookie|https://zodgame.xyz
 星空论坛seikuu|[github-h](https://github.com/github-h)|[星空论坛seikuu.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%98%9F%E7%A9%BA%E8%AE%BA%E5%9D%9Bseikuu.har)|cookie|https://bbs2.seikuu.com/
-萌幻之乡|[github-h](https://github.com/github-h)|[萌幻之乡.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E8%90%8C%E5%B9%BB%E4%B9%8B%E4%B9%A1.har)|cookie|https://www.hmoe.one/
-
+网易云音乐-电脑 AND 手机|[qiandao.today公共模板](https://qiandao.today/tpls/public)|[网易云音乐-电脑 AND 手机.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90-%e7%94%b5%e8%84%91+AND+%e6%89%8b%e6%9c%ba.har)|cookie|https://music.163.com/
+吾爱破解-HTTPS-Cookies版|[qiandao.today公共模板](https://qiandao.today/tpls/public)|[吾爱破解-HTTPS-Cookies版.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%90%be%e7%88%b1%e7%a0%b4%e8%a7%a3-HTTPS-Cookies%e7%89%88.har)|cookie|https://www.52pojie.cn/
+哥特动漫王国|[github-h](https://github.com/github-h)|[哥特动漫王国.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%93%a5%e7%89%b9%e5%8a%a8%e6%bc%ab%e7%8e%8b%e5%9b%bd.har)|cookie|https://www.gtloli.net/forum.php
+萌出血动漫论坛|[github-h](https://github.com/github-h)|[萌出血动漫论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%90%8c%e5%87%ba%e8%a1%80%e5%8a%a8%e6%bc%ab%e8%ae%ba%e5%9d%9b.har)|cookie|http://www.bbsmcx.com/forum.php
+ArcTime字幕平台|[github-h](https://github.com/github-h)|[ArcTime字幕平台.har](https://raw.githubusercontent.com/qiandao-today/templates/master/ArcTime%e5%ad%97%e5%b9%95%e5%b9%b3%e5%8f%b0.har)|用户名<br>密码|http://m.arctime.cn/
+柚坛社区|[github-h](https://github.com/github-h)|[柚坛社区.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e6%9f%9a%e5%9d%9b%e7%a4%be%e5%8c%ba0.har)|cookie|http://www.miuibbs.cn/
+keylol(原SteamCN蒸汽论坛)|[github-h](https://github.com/github-h)|[keylol(原SteamCN蒸汽论坛).har](https://raw.githubusercontent.com/qiandao-today/templates/master/keylol(%e5%8e%9fSteamCN%e8%92%b8%e6%b1%bd%e8%ae%ba%e5%9d%9b).har)|cookie|https://keylol.com/
+机锋论坛|[github-h](https://github.com/github-h)|[机锋论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e6%9c%ba%e9%94%8b%e8%ae%ba%e5%9d%9b.har)|cookie|http://bbs.gfan.com/
+HMOE俱乐部|[github-h](https://github.com/github-h)|[HMOE俱乐部.har](https://raw.githubusercontent.com/qiandao-today/templates/master/HMOE%e4%bf%b1%e4%b9%90%e9%83%a8.har)|cookie|https://club.hmoe.club/
