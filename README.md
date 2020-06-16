@@ -7,6 +7,8 @@
 
 [FellBan](https://github.com/FellBan)
 
+[Devil](https://github.com/q123458384)
+
 [github-h](https://github.com/github-h)
 
 ## 网站
@@ -39,3 +41,4 @@ HMOE俱乐部|[github-h](https://github.com/github-h)|[HMOE俱乐部.har](https:
 花火学院|[github-h](https://github.com/github-h)|[花火学院.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%8a%b1%e7%81%ab%e5%ad%a6%e9%99%a2.har)|cookie|https://www.say-huahuo.com/
 QQNTR论坛|[github-h](https://github.com/github-h)|[QQNTR论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/QQNTR%e8%ae%ba%e5%9d%9b.har)|cookie|https://iya.app/
 CSDN-专业IT技术论坛|[github-h](https://github.com/github-h)|[CSDN-专业IT技术论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/CSDN-%e4%b8%93%e4%b8%9aIT%e6%8a%80%e6%9c%af%e8%ae%ba%e5%9d%9b.har)|用户名+cookie|此为签到模块，记得定期抽奖<br>https://www.csdn.net/
+漫画补档|[AragonSnow](https://github.com/AragonSnow)|[漫画补档.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3.har)|用户名+密码|此模板默认是没有设置安全问题，没测试过有安全问题的是否能登陆成功
