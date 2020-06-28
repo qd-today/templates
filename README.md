@@ -11,6 +11,8 @@
 
 [github-h](https://github.com/github-h)
 
+[liuqitech](https://github.com/liuqitoday)
+
 ## 网站
 
 Tips:
@@ -46,3 +48,4 @@ QQNTR论坛|[github-h](https://github.com/github-h)|[QQNTR论坛.har](https://ra
 CSDN-专业IT技术论坛|[github-h](https://github.com/github-h)|[CSDN-专业IT技术论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/CSDN-%e4%b8%93%e4%b8%9aIT%e6%8a%80%e6%9c%af%e8%ae%ba%e5%9d%9b.har)|2020-06-25 19:24:22|用户名+cookie<br>此为签到模块，记得定期抽奖<br>https://www.csdn.net/
 漫画补档|[AragonSnow](https://github.com/AragonSnow)|[漫画补档.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3.har)|2020-06-16 02:24:44|用户名+密码<br>此模板默认是没有设置安全问题，没测试过有安全问题的是否能登陆成功<br>[https://www.manhuabudang.com/](https://www.manhuabudang.com/)
 华盟论坛|[github-h](https://github.com/github-h)|[华盟论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%8d%8e%e7%9b%9f%e8%ae%ba%e5%9d%9b.har)|2020-06-25 19:27:40|用户名+密码<br>https://bbs.77169.net/
+什么值得买|[liuqitech](https://github.com/liuqitoday)|[什么值得买_签到.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0_%E7%AD%BE%E5%88%B0.har)|2020-06-28 14:12:00|cookie<br>https://www.smzdm.com/
