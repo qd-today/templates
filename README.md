@@ -11,6 +11,10 @@
 
 [github-h](https://github.com/github-h)
 
+[liuqitech](https://github.com/liuqitoday)
+
+呆贼
+
 ## 网站
 
 Tips:
@@ -31,7 +35,7 @@ WPS签到送会员|[devil](https://github.com/q123458384)|[WPS.har](https://raw.
 柠檬PT签到|[devil](https://github.com/q123458384)|[柠檬PT签到.har](https://raw.githubusercontent.com/qiandao-today/templates/master/leaguehd%E6%9F%A0%E6%AA%ACPT.har)|2020-05-25 14:06:23|cookie<br>https://leaguehd.com/attendance.php
 ZodGame论坛|[github-h](https://github.com/github-h)|[ZodGame论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/ZodGame%E8%AE%BA%E5%9D%9B.har)|2020-06-25 19:20:44|cookie<br>https://zodgame.xyz
 星空论坛seikuu|[github-h](https://github.com/github-h)|[星空论坛seikuu.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%98%9F%E7%A9%BA%E8%AE%BA%E5%9D%9Bseikuu.har)|2020-06-25 17:51:54|cookie<br>https://bbs2.seikuu.com/
-网易云音乐-电脑 AND 手机|[qiandao.today公共模板](https://qiandao.today/tpls/public)|[网易云音乐-电脑 AND 手机.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90-%e7%94%b5%e8%84%91+AND+%e6%89%8b%e6%9c%ba.har)|2020-06-25 21:12:03|cookie<br>https://music.163.com/
+网易云音乐-电脑 AND 手机|[qiandao.today公共模板](https://qiandao.today/tpls/public)|[网易云音乐-电脑 AND 手机.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E7%94%B5%E8%84%91%20AND%20%E6%89%8B%E6%9C%BA.har)|2020-06-25 21:12:03|cookie<br>https://music.163.com/
 吾爱破解|[github-h](https://github.com/github-h)|[吾爱破解.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%90%be%e7%88%b1%e7%a0%b4%e8%a7%a3.har)|2020-06-09 10:59:44|cookie<br>https://www.52pojie.cn/
 哥特动漫王国|[github-h](https://github.com/github-h)|[哥特动漫王国.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%93%a5%e7%89%b9%e5%8a%a8%e6%bc%ab%e7%8e%8b%e5%9b%bd.har)|2020-06-25 19:20:16|cookie<br>https://www.gtloli.net/forum.php
 萌出血动漫论坛|[github-h](https://github.com/github-h)|[萌出血动漫论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%90%8c%e5%87%ba%e8%a1%80%e5%8a%a8%e6%bc%ab%e8%ae%ba%e5%9d%9b.har)|2020-06-25 17:52:07|cookie<br>http://www.bbsmcx.com/forum.php
@@ -46,3 +50,5 @@ QQNTR论坛|[github-h](https://github.com/github-h)|[QQNTR论坛.har](https://ra
 CSDN-专业IT技术论坛|[github-h](https://github.com/github-h)|[CSDN-专业IT技术论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/CSDN-%e4%b8%93%e4%b8%9aIT%e6%8a%80%e6%9c%af%e8%ae%ba%e5%9d%9b.har)|2020-06-25 19:24:22|用户名+cookie<br>此为签到模块，记得定期抽奖<br>https://www.csdn.net/
 漫画补档|[AragonSnow](https://github.com/AragonSnow)|[漫画补档.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3.har)|2020-06-16 02:24:44|用户名+密码<br>此模板默认是没有设置安全问题，没测试过有安全问题的是否能登陆成功<br>[https://www.manhuabudang.com/](https://www.manhuabudang.com/)
 华盟论坛|[github-h](https://github.com/github-h)|[华盟论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%8d%8e%e7%9b%9f%e8%ae%ba%e5%9d%9b.har)|2020-06-25 19:27:40|用户名+密码<br>https://bbs.77169.net/
+什么值得买|[liuqitech](https://github.com/liuqitoday)<br>呆贼|[什么值得买.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0.har)|2020-06-28 14:12:00|网页版 cookie<br>https://www.smzdm.com/
+Office-E5白嫖API调用|[gxitm](https://github.com/gxitm)|[Office-E5白嫖API调用.har](https://raw.githubusercontent.com/qiandao-today/templates/master/Office-E5%E7%99%BD%E5%AB%96API%E8%B0%83%E7%94%A8.har)|2020-07-03 21:45:38|refresh_token+client_id+secret<br>根据相关教程获取到三个参数，并要保证被调用的10个API有权限<br>url：https://developer.microsoft.com/zh-CN/microsoft-365/dev-program
