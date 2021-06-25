@@ -33,7 +33,8 @@
             "filename": "必填，content为空时通过此来读取har", 
             "content": "选填,不填则根据 filename 的值来读取对应的har文件", 
             "date": "必填， 日期",
-			"version":"必填， 版本号 yyyymmdd，框架通过版本号来判断是否更新模板"
+			"version":"必填， 版本号 yyyymmdd，框架通过版本号来判断是否更新模板",
+            "commenturl":"选填，模板对应的评论区，留空时不显示按钮"
         }
     }
 }
