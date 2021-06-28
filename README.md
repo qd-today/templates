@@ -2,22 +2,16 @@
 
 ## 鸣谢
 [gxitm](https://github.com/gxitm)
-
 [AragonSnow](https://github.com/AragonSnow)
-
 [FellBan](https://github.com/FellBan)
-
 [Devil](https://github.com/q123458384)
-
 [github-h](https://github.com/github-h)
-
 [liuqitech](https://github.com/liuqitoday)
-
 呆贼
-
 [stay](https://gitee.com/qypw)
+[acooler15](https://github.com/acooler15)
 
-**如何注册第三方库**
+## 如何注册第三方库
 2021021版本已经开放注册第三方库的功能，默认提供 https://github.com/qiandao-today/templates 仓库，如果需要自建第三方库，请主意一下几点：
 1. 仓库根目录必须要有 tpls_history.json 文件,需符合以下规范
 ```
@@ -101,3 +95,6 @@ IT天空|[github-h](https://github.com/github-h)|[IT天空.har](https://gitee.co
 隔壁网|[stay](https://gitee.com/qypw)|[隔壁网签到.har](https://gitee.com/qiandao-today/templates/raw/master/%E9%9A%94%E5%A3%81%E7%BD%91%E7%AD%BE%E5%88%B0.har)|2020-11-14 15:00:21|username 和 password 是登录的账号密码
 MIUI历史版本|[stay](https://gitee.com/qypw)|[MIUI历史版本.har](https://gitee.com/qiandao-today/templates/raw/master/MIUI%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.har)|2020-11-14 15:00:50|username 和 password 是登录的账号密码
 evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](https://gitee.com/qiandao-today/templates/raw/master/evacg(E%E6%AC%A1%E5%85%83).har)|2021-06-12 11:11:11|cookies和homeaction,都在打开首页的https://www.evacg.cc/wp-admin/admin-ajax.php?action 链接里
+数码之家|[acooler15](https://github.com/acooler15)|数码之家.har|2021-06-28 20:24:00|cookies
+迅维网|[acooler15](https://github.com/acooler15)|迅维网.har|2021-06-28 20:24:00|cookies
+远景论坛|[acooler15](https://github.com/acooler15)|远景论坛.har|2021-06-28 20:24:00|cookies

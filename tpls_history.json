@@ -1,5 +1,5 @@
 {
-    "version": "20210626",
+    "version": "20210628",
     "har": {
         "natfrp": {
             "name": "natfrp",
@@ -444,6 +444,42 @@
             "date": "2021-06-26 1:32:00",
             "version": "20210626",
             "commenturl": "https://github.com/qiandao-today/templates/issues/47"
+        },
+        "数码之家": {
+            "name": "数码之家",
+            "author": "acooler15",
+            "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/数码之家.har",
+            "update": false,
+            "comments": "首页cookie",
+            "filename": "数码之家.har",
+            "content": "",
+            "date": "2021-06-28 20:24:00",
+            "version": "20210628",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/50"
+        },
+        "迅维网": {
+            "name": "迅维网",
+            "author": "acooler15",
+            "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/迅维网.har",
+            "update": false,
+            "comments": "首页cookie",
+            "filename": "迅维网.har",
+            "content": "",
+            "date": "2021-06-28 20:24:00",
+            "version": "20210628",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/51"
+        },
+        "远景论坛": {
+            "name": "远景论坛",
+            "author": "acooler15",
+            "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/远景论坛.har",
+            "update": false,
+            "comments": "首页cookie",
+            "filename": "远景论坛.har",
+            "content": "",
+            "date": "2021-06-28 20:24:00",
+            "version": "20210628",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/52"
         }
     }
 }
