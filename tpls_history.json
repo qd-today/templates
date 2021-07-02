@@ -1,5 +1,5 @@
 {
-    "version": "20210629",
+    "version": "20210702",
     "har": {
         "natfrp": {
             "name": "natfrp",
@@ -504,6 +504,18 @@
             "date": "2021-06-29 16:00:00",
             "version": "20210629",
             "commenturl": "https://github.com/qiandao-today/templates/issues/55"
+        },
+        "91Wii核心玩家的集中营": {
+            "name": "91Wii核心玩家的集中营",
+            "author": "github-h",
+            "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/91Wii核心玩家的集中营.har",
+            "update": false,
+            "comments": "cookie",
+            "filename": "91Wii核心玩家的集中营.har",
+            "content": "",
+            "date": "2021-07-02 11:00:00",
+            "version": "20210702",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/56"
         }
     }
 }

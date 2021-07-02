@@ -97,6 +97,7 @@ IT天空|[github-h](https://github.com/github-h)|[IT天空.har](https://raw.gith
 隔壁网|[stay](https://gitee.com/qypw)|[隔壁网签到.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E9%9A%94%E5%A3%81%E7%BD%91%E7%AD%BE%E5%88%B0.har)|2020-11-14 15:00:21|username 和 password 是登录的账号密码
 MIUI历史版本|[stay](https://gitee.com/qypw)|[MIUI历史版本.har](https://raw.githubusercontent.com/qiandao-today/templates/master/MIUI%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.har)|2020-11-14 15:00:50|username 和 password 是登录的账号密码
 evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](https://raw.githubusercontent.com/qiandao-today/templates/master/evacg(E%E6%AC%A1%E5%85%83).har)|2021-06-12 11:11:11|cookies和homeaction,都在打开首页的https://www.evacg.cc/wp-admin/admin-ajax.php?action 链接里
-数码之家|[acooler15](https://github.com/acooler15)|[数码之家.har](https://raw.githubusercontent.com/qiandao-today/templates/master//%e6%95%b0%e7%a0%81%e4%b9%8b%e5%ae%b6.har)|2021-06-28 20:24:00|cookies
-迅维网|[acooler15](https://github.com/acooler15)|[迅维网.har](https://raw.githubusercontent.com/qiandao-today/templates/master//%e8%bf%85%e7%bb%b4%e7%bd%91.har)|2021-06-28 20:24:00|cookies
+数码之家|[acooler15](https://github.com/acooler15)|[数码之家.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e6%95%b0%e7%a0%81%e4%b9%8b%e5%ae%b6.har)|2021-06-28 20:24:00|cookies
+迅维网|[acooler15](https://github.com/acooler15)|[迅维网.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%bf%85%e7%bb%b4%e7%bd%91.har)|2021-06-28 20:24:00|cookies
 远景论坛|[acooler15](https://github.com/acooler15)|[远景论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master//%e8%bf%9c%e6%99%af%e8%ae%ba%e5%9d%9b.har)|2021-06-28 20:24:00|cookies
+91Wii核心玩家的集中营|[FellBan](https://github.com/FellBan)|[91Wii核心玩家的集中营.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91Wii核心玩家的集中营.har)|2021-07-02 11:00:00|cookies
