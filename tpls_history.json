@@ -531,14 +531,14 @@
         },
 		"91Wii核心玩家的集中营": {
             "name": "91Wii核心玩家的集中营",
-            "author": "github-h",
+            "author": "FellBan",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/91Wii核心玩家的集中营.har",
             "update": false,
             "comments": "cookie",
             "filename": "91Wii核心玩家的集中营.har",
             "content": "",
             "date": "2021-07-02 11:00:00",
-            "version": "20210702",
+            "version": "20210712",
             "commenturl": "https://github.com/qiandao-today/templates/issues/56"
         },     
         "致美化": {
