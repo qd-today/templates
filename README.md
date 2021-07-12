@@ -25,7 +25,7 @@
             "update": false, 
             "comments": "选填，har文件的注释，可用来解释har所需变量的说明", 
             "filename": "必填，content为空时通过此来读取har", 
-            "content": "选填,不填则根据 filename 的值来读取对应的har文件", 
+            "content": "选填,不填则根据 filename 的值来读取对应的har文件,默认为base64编码", 
             "date": "必填， 日期",
 			"version":"必填， 版本号 yyyymmdd，框架通过版本号来判断是否更新模板",
             "commenturl":"选填，模板对应的评论区，留空时不显示按钮"
@@ -70,7 +70,7 @@ ZodGame论坛|[github-h](https://github.com/github-h)|[ZodGame论坛.har](https:
 终点论坛|[github-h](https://github.com/github-h)|[终点论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e7%bb%88%e7%82%b9%e8%ae%ba%e5%9d%9b.har)|2021-02-13 16:00:00|cookie<br>https://bbs.zdfx.net/
 ~~哥特动漫王国~~|[github-h](https://github.com/github-h)|[哥特动漫王国.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%93%a5%e7%89%b9%e5%8a%a8%e6%bc%ab%e7%8e%8b%e5%9b%bd.har)|2021-03-10 16:00:00|cookie<br>~~CC盾验证对时间要求较高，为了减少因访问过慢而导致错误，请自行添加hosts文件~~<br>关站了，要是能活过来再修吧<br>https://www.gtloli.net/forum.php/
 萌出血动漫论坛|[github-h](https://github.com/github-h)|[萌出血动漫论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%90%8c%e5%87%ba%e8%a1%80%e5%8a%a8%e6%bc%ab%e8%ae%ba%e5%9d%9b.har)|2021-02-13 16:00:00|cookie<br>https://www.bbsmcx.com/forum.php
-好快的车车(原HMOE俱乐部)|[github-h](https://github.com/github-h)|[好快的车车.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%a5%bd%e5%bf%ab%e7%9a%84%e8%bd%a6%e8%bd%a6.har)|2021-06-29 16:00:00|用户名+密码<br>https://cheche.one/
+好快的车车(原HMOE俱乐部)|[github-h](https://github.com/github-h)|[好快的车车.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%a5%bd%e5%bf%ab%e7%9a%84%e8%bd%a6%e8%bd%a6.har)|2021-07-12 16:00:00|用户名+密码<br>https://cheche.one/
 花火学院|[github-h](https://github.com/github-h)|[花火学院.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%8a%b1%e7%81%ab%e5%ad%a6%e9%99%a2.har)|2021-02-13 16:00:00|cookie<br>https://www.say-huahuo.com/
 夏跡natsunokiseki|[github-h](https://github.com/github-h)|[夏跡natsunokiseki.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%a4%8f%e8%b7%a1natsunokiseki.har)|2021-02-13 16:00:00|用户名+密码<br>每日登录奖励<br>该论坛时不时会忘记续费主机导致任务失败<br>https://bbs.natsunokiseki.org/
 萌幻之乡|[github-h](https://github.com/github-h)|[萌幻之乡.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%90%8c%e5%b9%bb%e4%b9%8b%e4%b9%a1.har)|2021-06-29 16:00:00|cookie<br>https://www.hmoe1.net/
@@ -101,3 +101,4 @@ evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](
 迅维网|[acooler15](https://github.com/acooler15)|[迅维网.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%bf%85%e7%bb%b4%e7%bd%91.har)|2021-06-28 20:24:00|cookies
 远景论坛|[acooler15](https://github.com/acooler15)|[远景论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master//%e8%bf%9c%e6%99%af%e8%ae%ba%e5%9d%9b.har)|2021-06-28 20:24:00|cookies
 91Wii核心玩家的集中营|[FellBan](https://github.com/FellBan)|[91Wii核心玩家的集中营.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91Wii核心玩家的集中营.har)|2021-07-02 11:00:00|cookies
+致美化|[FellBan](https://github.com/FellBan)|[致美化.har](https://raw.githubusercontent.com/qiandao-today/templates/master/致美化.har)|2021-06-26 1:32:00|user(用户名)，password(密码)
