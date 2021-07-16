@@ -10,6 +10,7 @@
 呆贼
 [stay](https://gitee.com/qypw)
 [acooler15](https://github.com/acooler15)
+QQ群642842749
 
 ## 如何注册第三方库
 2021021版本已经开放注册第三方库的功能，默认提供 https://github.com/qiandao-today/templates 仓库，如果需要自建第三方库，请主意一下几点：
@@ -102,3 +103,4 @@ evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](
 远景论坛|[acooler15](https://github.com/acooler15)|[远景论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master//%e8%bf%9c%e6%99%af%e8%ae%ba%e5%9d%9b.har)|2021-06-28 20:24:00|cookies
 91Wii核心玩家的集中营|[FellBan](https://github.com/FellBan)|[91Wii核心玩家的集中营.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91Wii核心玩家的集中营.har)|2021-07-02 11:00:00|cookies
 致美化|[FellBan](https://github.com/FellBan)|[致美化.har](https://raw.githubusercontent.com/qiandao-today/templates/master/致美化.har)|2021-06-26 1:32:00|user(用户名)，password(密码)
+Hao4K|QQ群|[Hao 4K-账号版.har](https://raw.githubusercontent.com/qiandao-today/templates/master/Hao 4K-账号版.har)|2021-07-16 1:32:00|user(用户名)，password(密码)
