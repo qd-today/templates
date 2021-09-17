@@ -104,3 +104,5 @@ evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](
 91Wii核心玩家的集中营|[FellBan](https://github.com/FellBan)|[91Wii核心玩家的集中营.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91Wii核心玩家的集中营.har)|2021-07-02 11:00:00|cookies
 致美化|[FellBan](https://github.com/FellBan)|[致美化.har](https://raw.githubusercontent.com/qiandao-today/templates/master/致美化.har)|2021-06-26 1:32:00|user(用户名)，password(密码)
 Hao4K|QQ群|[Hao 4K-账号版.har](https://raw.githubusercontent.com/qiandao-today/templates/master/Hao 4K-账号版.har)|2021-07-16 1:32:00|user(用户名)，password(密码)
+掘金|[acooler15](https://github.com/acooler15)|[掘金.har](https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har)|2021-09-16 19:00:00|cookies
+有道云笔记|[acooler15](https://github.com/acooler15)|[有道云笔记.har](https://raw.githubusercontent.com/qiandao-today/templates/master/有道云笔记.har)|2021-09-16 19:00:00|cookies

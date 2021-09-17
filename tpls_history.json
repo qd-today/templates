@@ -552,7 +552,31 @@
             "date": "2021-07-16 1:32:00",
             "version": "20210716",
             "commenturl": "https://github.com/qiandao-today/templates/issues/60"
-        }  
+        },
+		"掘金": {
+            "name": "掘金",
+            "author": "acooler15",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har",
+            "update": false,
+            "comments": "首页cookie",
+            "filename": "掘金.har",
+            "content": "",
+            "date": "2021-09-16 19:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/64"
+        },
+		"有道云笔记": {
+            "name": "有道云笔记",
+            "author": "acooler15",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/有道云笔记.har",
+            "update": false,
+            "comments": "首页cookie",
+            "filename": "有道云笔记.har",
+            "content": "",
+            "date": "2021-09-16 19:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/65"
+        }
 
     }
 }
