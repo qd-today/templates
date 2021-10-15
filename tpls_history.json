@@ -12,8 +12,8 @@
             "date": "2020-05-15 07:03:47",
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/12"
-        }, 
-		"189天翼云盘": {
+        },
+        "189天翼云盘": {
             "name": "189天翼云盘",
             "author": "gxitm",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/189%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98.har",
@@ -25,7 +25,19 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/25"
         },
-		"轻之国度": {
+        "189天翼云盘-账号版": {
+            "name": "189天翼云盘-账号版",
+            "author": "a76yyyy",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/189%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98-%E8%B4%A6%E5%8F%B7%E7%89%88.har",
+            "update": false,
+            "comments": "用户名+密码<br>用户名为手机号<br>https://cloud.189.cn/",
+            "filename": "189天翼云盘-账号版.har",
+            "content": "",
+            "date": "2020-10-15 17:00:00",
+            "version": "20211015",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/25"
+        },
+        "轻之国度": {
             "name": "轻之国度",
             "author": "AragonSnow",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/lightnovel%20%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6.har",
@@ -37,7 +49,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/27"
         },
-		"精易论坛": {
+        "精易论坛": {
             "name": "精易论坛",
             "author": "FellBan",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E7%B2%BE%E6%98%93%E8%AE%BA%E5%9D%9B.har",
@@ -49,7 +61,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/37"
         },
-		"腾讯视频VIP": {
+        "腾讯视频VIP": {
             "name": "腾讯视频VIP",
             "author": "devil",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91vip.har",
@@ -61,7 +73,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/30"
         },
-		"柠檬PT签到": {
+        "柠檬PT签到": {
             "name": "柠檬PT签到",
             "author": "devil",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/leaguehd%E6%9F%A0%E6%AA%ACPT.har",
@@ -73,7 +85,7 @@
             "version": "20210716",
             "commenturl": "https://github.com/qiandao-today/templates/issues/15"
         },
-		"网易云音乐-电脑 AND 手机": {
+        "网易云音乐-电脑 AND 手机": {
             "name": "网易云音乐-电脑 AND 手机",
             "author": "qiandao.today公共模板",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E7%94%B5%E8%84%91%20AND%20%E6%89%8B%E6%9C%BA.har",
@@ -85,7 +97,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/28"
         },
-		"summer-plus(原south-plus)": {
+        "summer-plus(原south-plus)": {
             "name": "summer-plus(原south-plus)",
             "author": "AragonSnow,github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/summer-plus(%E5%8E%9Fsouth-plus).har",
@@ -109,7 +121,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/13"
         },
-		 "星空论坛seikuu": {
+        "星空论坛seikuu": {
             "name": "星空论坛seikuu",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%98%9F%E7%A9%BA%E8%AE%BA%E5%9D%9Bseikuu.har",
@@ -121,7 +133,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/18"
         },
-		"终点论坛": {
+        "终点论坛": {
             "name": "终点论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e7%bb%88%e7%82%b9%e8%ae%ba%e5%9d%9b.har",
@@ -133,7 +145,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/16"
         },
-		"~~哥特动漫王国~~": {
+        "~~哥特动漫王国~~": {
             "name": "~~哥特动漫王国~~",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%93%a5%e7%89%b9%e5%8a%a8%e6%bc%ab%e7%8e%8b%e5%9b%bd.har",
@@ -145,7 +157,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/44"
         },
-		"萌出血动漫论坛": {
+        "萌出血动漫论坛": {
             "name": "萌出血动漫论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%90%8c%e5%87%ba%e8%a1%80%e5%8a%a8%e6%bc%ab%e8%ae%ba%e5%9d%9b.har",
@@ -157,7 +169,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/45"
         },
-		 "好快的车车(原HMOE俱乐部)": {
+        "好快的车车(原HMOE俱乐部)": {
             "name": "好快的车车(原HMOE俱乐部)",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%a5%bd%e5%bf%ab%e7%9a%84%e8%bd%a6%e8%bd%a6.har",
@@ -169,7 +181,7 @@
             "version": "20210712",
             "commenturl": ""
         },
-		"花火学院": {
+        "花火学院": {
             "name": "花火学院",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%8a%b1%e7%81%ab%e5%ad%a6%e9%99%a2.har",
@@ -181,7 +193,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/39"
         },
-		"夏跡natsunokiseki": {
+        "夏跡natsunokiseki": {
             "name": "夏跡natsunokiseki",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%a4%8f%e8%b7%a1natsunokiseki.har",
@@ -193,7 +205,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/22"
         },
-		"萌幻之乡": {
+        "萌幻之乡": {
             "name": "萌幻之乡",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%90%8c%e5%b9%bb%e4%b9%8b%e4%b9%a1.har",
@@ -205,7 +217,7 @@
             "version": "20210629",
             "commenturl": "https://github.com/qiandao-today/templates/issues/23"
         },
-		"KDays论坛": {
+        "KDays论坛": {
             "name": "KDays论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/KDays%e8%ae%ba%e5%9d%9b.har",
@@ -217,7 +229,7 @@
             "version": "20210712",
             "commenturl": "https://github.com/qiandao-today/templates/issues/57"
         },
-		"吾爱破解": {
+        "吾爱破解": {
             "name": "吾爱破解",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%90%be%e7%88%b1%e7%a0%b4%e8%a7%a3.har",
@@ -229,7 +241,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/34"
         },
-		"ArcTime字幕平台": {
+        "ArcTime字幕平台": {
             "name": "ArcTime字幕平台",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/ArcTime%e5%ad%97%e5%b9%95%e5%b9%b3%e5%8f%b0.har",
@@ -241,7 +253,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/21"
         },
-		"柚坛社区": {
+        "柚坛社区": {
             "name": "柚坛社区",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e6%9f%9a%e5%9d%9b%e7%a4%be%e5%8c%ba.har",
@@ -253,7 +265,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/41"
         },
-		"keylol(原SteamCN蒸汽论坛)": {
+        "keylol(原SteamCN蒸汽论坛)": {
             "name": "keylol(原SteamCN蒸汽论坛)",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/keylol(%e5%8e%9fSteamCN%e8%92%b8%e6%b1%bd%e8%ae%ba%e5%9d%9b).har",
@@ -265,7 +277,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/17"
         },
-		"3DMGAME论坛": {
+        "3DMGAME论坛": {
             "name": "3DMGAME论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/3DMGAME%e8%ae%ba%e5%9d%9b.har",
@@ -277,7 +289,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/40"
         },
-		"QQNTR论坛": {
+        "QQNTR论坛": {
             "name": "QQNTR论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/QQNTR%e8%ae%ba%e5%9d%9b.har",
@@ -289,7 +301,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/24"
         },
-		"CSDN-专业IT技术论坛": {
+        "CSDN-专业IT技术论坛": {
             "name": "CSDN-专业IT技术论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/CSDN-%e4%b8%93%e4%b8%9aIT%e6%8a%80%e6%9c%af%e8%ae%ba%e5%9d%9b.har",
@@ -301,7 +313,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/19"
         },
-		"杉果游戏": {
+        "杉果游戏": {
             "name": "杉果游戏",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%9D%89%E6%9E%9C%E6%B8%B8%E6%88%8F.har",
@@ -313,7 +325,7 @@
             "version": "20210629",
             "commenturl": "https://github.com/qiandao-today/templates/issues/35"
         },
-		"华盟论坛": {
+        "华盟论坛": {
             "name": "华盟论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%8d%8e%e7%9b%9f%e8%ae%ba%e5%9d%9b.har",
@@ -325,7 +337,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/42"
         },
-		"飞客茶馆": {
+        "飞客茶馆": {
             "name": "飞客茶馆",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e9%a3%9e%e5%ae%a2%e8%8c%b6%e9%a6%86.har",
@@ -337,7 +349,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/38"
         },
-		"V2EX": {
+        "V2EX": {
             "name": "V2EX",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/V2EX.har",
@@ -349,7 +361,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/32"
         },
-		"花粉俱乐部": {
+        "花粉俱乐部": {
             "name": "花粉俱乐部",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%8a%b1%e7%b2%89%e4%bf%b1%e4%b9%90%e9%83%a8.har",
@@ -361,7 +373,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/14"
         },
-		"IT天空": {
+        "IT天空": {
             "name": "IT天空",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/IT%e5%a4%a9%e7%a9%ba.har",
@@ -373,7 +385,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/33"
         },
-		"恩山无线论坛": {
+        "恩山无线论坛": {
             "name": "恩山无线论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e6%81%a9%e5%b1%b1%e6%97%a0%e7%ba%bf%e8%ae%ba%e5%9d%9b.har",
@@ -385,7 +397,7 @@
             "version": "20210712",
             "commenturl": "https://github.com/qiandao-today/templates/issues/58"
         },
-		"万能福利吧": {
+        "万能福利吧": {
             "name": "万能福利吧",
             "author": "github-h",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/万能福利吧.har",
@@ -397,7 +409,7 @@
             "version": "20210629",
             "commenturl": "https://github.com/qiandao-today/templates/issues/54"
         },
-		"高清MP4粉": {
+        "高清MP4粉": {
             "name": "高清MP4粉",
             "author": "github-h",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/高清MP4粉.har",
@@ -409,7 +421,7 @@
             "version": "20210629",
             "commenturl": "https://github.com/qiandao-today/templates/issues/55"
         },
-		"漫画补档": {
+        "漫画补档": {
             "name": "漫画补档",
             "author": "AragonSnow",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3.har",
@@ -421,7 +433,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/26"
         },
-		"什么值得买": {
+        "什么值得买": {
             "name": "什么值得买",
             "author": "liuqitech,呆贼",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0.har",
@@ -433,7 +445,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/20"
         },
-		"联想智选app": {
+        "联想智选app": {
             "name": "联想智选app",
             "author": "aragonsnow",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E8%81%94%E6%83%B3%E6%99%BA%E9%80%89app.har",
@@ -445,7 +457,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/36"
         },
-		"隔壁网": {
+        "隔壁网": {
             "name": "隔壁网",
             "author": "stay",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E9%9A%94%E5%A3%81%E7%BD%91%E7%AD%BE%E5%88%B0.har",
@@ -457,7 +469,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/43"
         },
-		"MIUI历史版本": {
+        "MIUI历史版本": {
             "name": "MIUI历史版本",
             "author": "stay",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MIUI%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.har",
@@ -469,7 +481,7 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/29"
         },
-		"evacgE次元": {
+        "evacgE次元": {
             "name": "evacgE次元",
             "author": "AragonSnow",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/evacg(E%E6%AC%A1%E5%85%83).har",
@@ -481,7 +493,7 @@
             "version": "20210626",
             "commenturl": "https://github.com/qiandao-today/templates/issues/46"
         },
-		"数码之家": {
+        "数码之家": {
             "name": "数码之家",
             "author": "acooler15",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/数码之家.har",
@@ -493,7 +505,7 @@
             "version": "20210628",
             "commenturl": "https://github.com/qiandao-today/templates/issues/50"
         },
-		"迅维网": {
+        "迅维网": {
             "name": "迅维网",
             "author": "acooler15",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/迅维网.har",
@@ -505,7 +517,7 @@
             "version": "20210628",
             "commenturl": "https://github.com/qiandao-today/templates/issues/51"
         },
-		"远景论坛": {
+        "远景论坛": {
             "name": "远景论坛",
             "author": "acooler15",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/远景论坛.har",
@@ -517,7 +529,7 @@
             "version": "20210628",
             "commenturl": "https://github.com/qiandao-today/templates/issues/52"
         },
-		"91Wii核心玩家的集中营": {
+        "91Wii核心玩家的集中营": {
             "name": "91Wii核心玩家的集中营",
             "author": "FellBan",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/91Wii核心玩家的集中营.har",
@@ -528,7 +540,7 @@
             "date": "2021-07-02 11:00:00",
             "version": "20210712",
             "commenturl": "https://github.com/qiandao-today/templates/issues/56"
-        },     
+        },
         "致美化": {
             "name": "致美化",
             "author": "FellBan",
@@ -553,7 +565,7 @@
             "version": "20210716",
             "commenturl": "https://github.com/qiandao-today/templates/issues/60"
         },
-		"掘金": {
+        "掘金": {
             "name": "掘金",
             "author": "acooler15",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har",
@@ -565,7 +577,7 @@
             "version": "20210916",
             "commenturl": "https://github.com/qiandao-today/templates/issues/64"
         },
-		"有道云笔记": {
+        "有道云笔记": {
             "name": "有道云笔记",
             "author": "acooler15",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/有道云笔记.har",
