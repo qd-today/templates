@@ -1,6 +1,21 @@
-# 整理qiandao.today可用的har
+# 公共模板库 <sub>For Qiandao 签到框架</sub>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/qiandao-today/templates.svg?style=popout-square)
+
+## 简介
+
+> 项目基于开源的签到框架站使用, 发布者在此发布模板仅供示范, 使用公共模板产生的任何问题需自行承担!
+
+- [binux/qiandao](https://github.com/binux/qiandao) 最初版本框架，已停止维护。
+
+- [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao)  最新版框架，现持续更新中。
+
+- 现模板基于 [最新版框架](https://github.com/qiandao-today/qiandao) 使用, 具体使用方式请自行学习。
+
+> 极个别模板不兼容[旧版本](https://github.com/binux/qiandao)框架, 如有不兼容请使用 [最新版](https://github.com/qiandao-today/qiandao) 。
 
 ## 鸣谢
+
 [gxitm](https://github.com/gxitm)
 [AragonSnow](https://github.com/AragonSnow)
 [FellBan](https://github.com/FellBan)
@@ -11,11 +26,16 @@
 [stay](https://gitee.com/qypw)
 [acooler15](https://github.com/acooler15)
 [wjf0214](https://github.com/wjf0214)
-QQ群642842749
+[a76yyyy](https://github.com/a76yyyy)
+
+> 排名不分先后
+
+QQ群: 642842749
 
 ## 如何注册第三方库
-2021021版本已经开放注册第三方库的功能，默认提供 https://github.com/qiandao-today/templates 仓库，如果需要自建第三方库，请主意一下几点：
-1. 仓库根目录必须要有 tpls_history.json 文件,需符合以下规范
+
+20211021版本已经开放注册第三方库的功能，默认提供 https://github.com/qiandao-today/templates 仓库，如果需要自建第三方库，请注意一下几点：
+1. **仓库根目录必须要有 tpls_history.json 文件**, 需符合以下规范:
 ```
 {
     "version":"版本号 yyyymmdd",
@@ -35,18 +55,18 @@ QQ群642842749
     }
 }
 ```
-2. 加速默认是jsdeliver 加速，只支持github的加速
-3. 模板更新规则：上一次更新的24小时以后更新，通过name判断是否存在，如果不存在直接新增，如果存在则通过version判断,版本号大于当前缓存版本则更新
+2. 加速默认是jsdeliver 加速, 只支持Github的加速 
+3. 模板更新规则: 上一次更新的24小时以后更新, 通过name判断是否存在, 如果不存在直接新增, 如果存在则通过version判断, 版本号大于当前缓存版本则更新
 
 ## FAQ
 
 **部分模板订阅后使用网站cookie却提示未登录？**
 
-*并不是模板问题而是网站对UA有验证，UA更换cookie会失效。请自行查看模板所使用的 User-Agent ,并使用所获得的UA去登录获取cookie。( Firefox 可使用 User-Agent Switcher and Manager 来设置特定的UA，其他浏览器同理。)*
+*并不是模板问题而是网站可能对UA有验证，UA更换cookie会失效。请自行查看模板所使用的 User-Agent ,并使用所获得的UA去登录获取cookie。( Firefox 可使用 User-Agent Switcher and Manager 来设置特定的UA，其他浏览器同理。)*
 
 **想学习模板制作流程？**
 
-[签到宝典demo](https://www.bilibili.com/video/BV1ox411C7RT)
+[签到宝典demo](https://www.bilibili.com/video/<a target="_blank" style="text-decoration:underline;" href="https://www.bilibili.com/video/BV1ox411C7RT">BV1ox411C7RT</a>)
 
 [模板书写规范](https://github.com/github-h/qiandao-templates/blob/self-bak/README.md)
 
@@ -95,7 +115,7 @@ IT天空|[github-h](https://github.com/github-h)|[IT天空.har](https://raw.gith
 高清MP4粉|[github-h](https://github.com/github-h)|[高清MP4粉.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e9%ab%98%e6%b8%85mp4%e7%b2%89.har)|2021-06-29 16:00:00|cookie<br>每日签到<br>https://mp4fan.org/
 漫画补档|[AragonSnow](https://github.com/AragonSnow)|[漫画补档.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3.har)|2020-06-16 02:24:44|用户名+密码<br>此模板默认是没有设置安全问题，没测试过有安全问题的是否能登陆成功<br>[https://www.manhuabudang.com/](https://www.manhuabudang.com/)
 什么值得买|[liuqitech](https://github.com/liuqitoday)<br>呆贼|[什么值得买.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0.har)|2020-06-28 14:12:00|网页版 cookie<br>https://www.smzdm.com/
-联想智选app|[aragonsnow](https://github.com/aragonsnow)|[联想智选app.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E8%81%94%E6%83%B3%E6%99%BA%E9%80%89app.har)|2020-08-03 15:00:21|需要在京东智选APP 账号密码登录抓包 <br> account 和 password 是app登录的账号密码, loginType,邮箱是email,手机号是msisdn <br> IMEI 和 baseinfo 在 抓包的 https://api.club.lenovo.cn/users/getSessionID 的header里 <br> deviceId 在  抓包的 https://uss.lenovomm.com/authen/1.2/tgt/user/get 的post里
+联想智选app|[aragonsnow](https://github.com/aragonsnow)|[联想智选app.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E8%81%94%E6%83%B3%E6%99%BA%E9%80%89app.har)|2020-08-03 15:00:21|需要在联想智选APP 账号密码登录抓包 <br> account 和 password 是app登录的账号密码, loginType,邮箱是email,手机号是msisdn <br> IMEI 和 baseinfo 在 抓包的 https://api.club.lenovo.cn/users/getSessionID 的header里 <br> deviceId 在  抓包的 https://uss.lenovomm.com/authen/1.2/tgt/user/get 的post里
 隔壁网|[stay](https://gitee.com/qypw)|[隔壁网签到.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E9%9A%94%E5%A3%81%E7%BD%91%E7%AD%BE%E5%88%B0.har)|2020-11-14 15:00:21|username 和 password 是登录的账号密码
 MIUI历史版本|[stay](https://gitee.com/qypw)|[MIUI历史版本.har](https://raw.githubusercontent.com/qiandao-today/templates/master/MIUI%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC.har)|2020-11-14 15:00:50|username 和 password 是登录的账号密码
 evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](https://raw.githubusercontent.com/qiandao-today/templates/master/evacg(E%E6%AC%A1%E5%85%83).har)|2021-06-12 11:11:11|cookies和homeaction,都在打开首页的https://www.evacg.cc/wp-admin/admin-ajax.php?action 链接里
@@ -104,10 +124,9 @@ evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](
 远景论坛|[acooler15](https://github.com/acooler15)|[远景论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master//%e8%bf%9c%e6%99%af%e8%ae%ba%e5%9d%9b.har)|2021-06-28 20:24:00|cookies
 91Wii核心玩家的集中营|[FellBan](https://github.com/FellBan)|[91Wii核心玩家的集中营.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91Wii核心玩家的集中营.har)|2021-07-02 11:00:00|cookies
 致美化|[FellBan](https://github.com/FellBan)|[致美化.har](https://raw.githubusercontent.com/qiandao-today/templates/master/致美化.har)|2021-06-26 1:32:00|user(用户名)，password(密码)
-Hao4K|QQ群|[Hao 4K-账号版.har](https://raw.githubusercontent.com/qiandao-today/templates/master/Hao 4K-账号版.har)|2021-07-16 1:32:00|user(用户名)，password(密码)
+Hao4K|QQ群|[Hao 4K-账号版.har](https://github.com/qiandao-today/templates/blob/master/Hao%204K-%E8%B4%A6%E5%8F%B7%E7%89%88.har)|2021-07-16 1:32:00|user(用户名)，password(密码)
 掘金|[acooler15](https://github.com/acooler15)|[掘金.har](https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har)|2021-09-16 19:00:00|cookies
 有道云笔记|[acooler15](https://github.com/acooler15)|[有道云笔记.har](https://raw.githubusercontent.com/qiandao-today/templates/master/有道云笔记.har)|2021-09-16 19:00:00|cookies
 爱奇艺|[a76yyyy](https://github.com/a76yyyy)|[爱奇艺.har](https://raw.githubusercontent.com/qiandao-today/templates/master/爱奇艺.har)|2021-11-20 21:00:00|网址: https://www.iqiyi.com/<br>首页登录后在cookie中提取变量P00001和P00003<br>仅爱奇艺会员可用
 MZFastCloud|[wjf0214](https://github.com/wjf0214)|[MZFastCloud.har](https://raw.githubusercontent.com/qiandao-today/templates/master/MZFastCloud.har)|2021-11-20 21:00:00|username:账号<br>password:密码<br>https://www.mzfast.xyz/
 HiFiNi | [wjf0214](https://github.com/wjf0214) | [HiFiNi.har](https://raw.githubusercontent.com/qiandao-today/templates/master/HiFiNi.har) | 2021-11-20 21:00:00 | 登录后首页cookie<br>https://www.hifini.com/
-人人素材 | [wjf0214](https://github.com/wjf0214) | [人人素材.har](https://raw.githubusercontent.com/qiandao-today/templates/master/人人素材.har) | 2021-11-20 21:00:00 | username:账号,手机号<br>password:密码<br>https://www.rrcg.cn/
