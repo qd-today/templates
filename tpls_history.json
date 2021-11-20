@@ -672,6 +672,30 @@
             "date": "2021-11-20 22:30:00",
             "version":"20211120",
             "commenturl":"https://github.com/qiandao-today/templates/issues/80"
+        },
+        "粤梦缘": {
+            "name": "粤梦缘",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/粤梦缘.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.dranime.net/",
+            "filename": "粤梦缘.har",
+            "content": "",
+            "date": "2021-11-20 22:30:00",
+            "version":"20211120",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/81"
+        },
+        "幕后Muhou": {
+            "name": "幕后Muhou",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/幕后Muhou.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://muhou.net/",
+            "filename": "幕后Muhou.har",
+            "content": "",
+            "date": "2021-11-20 22:30:00",
+            "version":"20211120",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/82"
         }
     }
 }
