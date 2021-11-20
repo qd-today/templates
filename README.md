@@ -66,7 +66,7 @@ QQ群: 642842749
 
 **想学习模板制作流程？**
 
-[签到宝典demo](https://www.bilibili.com/video/<a target="_blank" style="text-decoration:underline;" href="https://www.bilibili.com/video/BV1ox411C7RT">BV1ox411C7RT</a>)
+[签到宝典demo](https://www.bilibili.com/video/BV1ox411C7RT)
 
 [模板书写规范](https://github.com/github-h/qiandao-templates/blob/self-bak/README.md)
 
@@ -124,9 +124,10 @@ evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](
 远景论坛|[acooler15](https://github.com/acooler15)|[远景论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master//%e8%bf%9c%e6%99%af%e8%ae%ba%e5%9d%9b.har)|2021-06-28 20:24:00|cookies
 91Wii核心玩家的集中营|[FellBan](https://github.com/FellBan)|[91Wii核心玩家的集中营.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91Wii核心玩家的集中营.har)|2021-07-02 11:00:00|cookies
 致美化|[FellBan](https://github.com/FellBan)|[致美化.har](https://raw.githubusercontent.com/qiandao-today/templates/master/致美化.har)|2021-06-26 1:32:00|user(用户名)，password(密码)
-Hao4K|QQ群|[Hao 4K-账号版.har](https://github.com/qiandao-today/templates/blob/master/Hao%204K-%E8%B4%A6%E5%8F%B7%E7%89%88.har)|2021-07-16 1:32:00|user(用户名)，password(密码)
+Hao4K|QQ群|[Hao 4K-账号版.har](https://raw.githubusercontent.com/qiandao-today/templates/blob/master/Hao%204K-%E8%B4%A6%E5%8F%B7%E7%89%88.har)|2021-07-16 1:32:00|user(用户名)，password(密码)
 掘金|[acooler15](https://github.com/acooler15)|[掘金.har](https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har)|2021-09-16 19:00:00|cookies
 有道云笔记|[acooler15](https://github.com/acooler15)|[有道云笔记.har](https://raw.githubusercontent.com/qiandao-today/templates/master/有道云笔记.har)|2021-09-16 19:00:00|cookies
 爱奇艺|[a76yyyy](https://github.com/a76yyyy)|[爱奇艺.har](https://raw.githubusercontent.com/qiandao-today/templates/master/爱奇艺.har)|2021-11-20 21:00:00|网址: https://www.iqiyi.com/<br>首页登录后在cookie中提取变量P00001和P00003<br>仅爱奇艺会员可用
 MZFastCloud|[wjf0214](https://github.com/wjf0214)|[MZFastCloud.har](https://raw.githubusercontent.com/qiandao-today/templates/master/MZFastCloud.har)|2021-11-20 21:00:00|username:账号<br>password:密码<br>https://www.mzfast.xyz/
 HiFiNi | [wjf0214](https://github.com/wjf0214) | [HiFiNi.har](https://raw.githubusercontent.com/qiandao-today/templates/master/HiFiNi.har) | 2021-11-20 21:00:00 | 登录后首页cookie<br>https://www.hifini.com/
+人人素材 | [wjf0214](https://github.com/wjf0214) | [人人素材.har](https://raw.githubusercontent.com/qiandao-today/templates/master/人人素材.har) | 2021-11-20 21:00:00 | username:账号,手机号<br>password:密码<br>https://www.rrcg.cn/
