@@ -660,6 +660,18 @@
             "date": "2021-11-20 22:30:00",
             "version":"20211120",
             "commenturl":"https://github.com/qiandao-today/templates/issues/79"
+        },
+        "hostloc主机论坛": {
+            "name": "hostloc主机论坛",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hostloc主机论坛.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://hostloc.com",
+            "filename": "hostloc主机论坛.har",
+            "content": "",
+            "date": "2021-11-20 22:30:00",
+            "version":"20211120",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/80"
         }
     }
 }
