@@ -588,7 +588,42 @@
             "date": "2021-09-16 19:00:00",
             "version": "20210916",
             "commenturl": "https://github.com/qiandao-today/templates/issues/65"
+        },
+        "爱奇艺": {
+            "name": "爱奇艺",
+            "author": "a76yyyy",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/爱奇艺.har",
+            "update": false,
+            "comments": "网址: https://www.iqiyi.com/<br>首页登录后在cookie中提取变量P00001和P00003<br>仅爱奇艺会员可用",
+            "filename": "爱奇艺.har",
+            "content": "",
+            "date": "2021-11-20 21:00:00",
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/74"
+        },
+        "MZFastCloud": {
+            "name": "MZFastCloud",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MZFastCloud.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.mzfast.xyz/",
+            "filename": "MZFastCloud.har",
+            "content": "",
+            "date": "2021-11-20 21:00:00",
+            "version":"20211120",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/75"
+        },
+        "HiFiNi": {
+            "name": "HiFiNi",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/HiFiNi.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.hifini.com/",
+            "filename": "HiFiNi.har",
+            "content": "",
+            "date": "2021-11-20 21:00:00",
+            "version":"20211120",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/76"
         }
-
     }
 }

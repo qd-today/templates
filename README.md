@@ -55,8 +55,8 @@ Tips:
 1. 链接里最好使用raw.githubusercontent.com的模板地址，其他的链接没有测试过
 2. 修改日期格式 四位年-两位月-两位日 24小时:两位分:两位秒 ，例子：2020-05-15 07:03:47
 
-网站|作者|链接|修改日期|备注/日志
-:-: | :-: | :-: | :-: |:-:
+网站 | 作者 | 链接 | 修改日期 | 备注/日志
+---  |  ---  |  ---  |  ---  |  --- 
 natfrp|[gxitm](https://github.com/gxitm)|[natfrp.har](https://raw.githubusercontent.com/qiandao-today/templates/master/natfrp.har)|2020-05-15 07:03:47|登录请求cookies：acw_tc，登录请求cookies：wordpress<br>url：https://openid.oxygen.moe/oauth/authorize/?response_type=code&client_id=ezEb7xY9ZHGwXMTtaUzdHcnKAGRnxUwphfMcIj9l
 189天翼云盘|[gxitm](https://github.com/gxitm)|[189天翼云盘.har](https://raw.githubusercontent.com/qiandao-today/templates/master/189%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98.har)|2020-06-08 14:35:16|手机抓包，accessToken在链接里<br>url：https://api.cloud.189.cn/login4MergedClient.action
 国航APP|[AragonSnow](https://github.com/AragonSnow)|[airchina.har](https://raw.githubusercontent.com/qiandao-today/templates/master/airchina.har)|2020-06-17 02:40:10|抓包，app杀台后不用输密码登录就行，这两个链接里有这个参数<br>前两个在<br>https://m.airchina.com.cn:9061/worklight/apps/services/api/AirChina/iphone/init<br>param在<br>https://m.airchina.com.cn:9061/worklight/apps/services/api/AirChina/iphone/query<br>paramters=到&结束<br>20200617更新：替换公共API地址，改用内置，需要配合aragonsonw/qiandao最新版使用
@@ -106,3 +106,6 @@ evacg(E次元)|[AragonSnow](https://github.com/AragonSnow)|[evacg(E次元).har](
 Hao4K|QQ群|[Hao 4K-账号版.har](https://raw.githubusercontent.com/qiandao-today/templates/master/Hao 4K-账号版.har)|2021-07-16 1:32:00|user(用户名)，password(密码)
 掘金|[acooler15](https://github.com/acooler15)|[掘金.har](https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har)|2021-09-16 19:00:00|cookies
 有道云笔记|[acooler15](https://github.com/acooler15)|[有道云笔记.har](https://raw.githubusercontent.com/qiandao-today/templates/master/有道云笔记.har)|2021-09-16 19:00:00|cookies
+爱奇艺|[a76yyyy](https://github.com/a76yyyy)|[爱奇艺.har](https://raw.githubusercontent.com/qiandao-today/templates/master/爱奇艺.har)|2021-11-20 21:00:00|网址: https://www.iqiyi.com/<br>首页登录后在cookie中提取变量P00001和P00003<br>仅爱奇艺会员可用
+MZFastCloud|[wjf0214](https://github.com/wjf0214)|[MZFastCloud.har](https://raw.githubusercontent.com/qiandao-today/templates/master/MZFastCloud.har)|2021-11-20 21:00:00|username:账号<br>password:密码<br>https://www.mzfast.xyz/
+HiFiNi | [wjf0214](https://github.com/wjf0214) | [HiFiNi.har](https://raw.githubusercontent.com/qiandao-today/templates/master/HiFiNi.har) | 2021-11-20 21:00:00 | 登录后首页cookie<br>https://www.hifini.com/
