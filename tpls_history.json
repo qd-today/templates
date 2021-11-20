@@ -438,7 +438,7 @@
             "author": "a76yyyy,wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/什么值得买7合一.har",
             "update": false,
-            "comments": "登录后首页cookie,content1,content2,content3为评论语句，有字数限制。不想评论的填1,2,3就行，会评论失败。不影响签到。<br>https://smzdm.com",
+            "comments": "登录后首页cookie,content1,content2,content3为评论语句，有字数限制。不想评论的不填就行，不影响签到。<br>https://smzdm.com",
             "filename": "什么值得买7合一.har",
             "content": "",
             "date": "2020-11-20 22:50:00",
