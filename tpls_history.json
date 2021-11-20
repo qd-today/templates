@@ -181,16 +181,16 @@
             "version": "20210712",
             "commenturl": ""
         },
-        "花火学院": {
-            "name": "花火学院",
-            "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%8a%b1%e7%81%ab%e5%ad%a6%e9%99%a2.har",
+        "花火学园": {
+            "name": "花火学园",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/花火学园.har",
             "update": false,
-            "comments": "cookie<br>https://www.say-huahuo.com/",
-            "filename": "花火学院.har",
-            "content": "W3sicmVxdWVzdCI6eyJtZXRob2QiOiJHRVQiLCJ1cmwiOiJodHRwczovL3d3dy5zYXlodWFodW8uY29tL2RzdV9wYXVsc2lnbi1zaWduLmh0bWwiLCJoZWFkZXJzIjpbeyJuYW1lIjoiSG9zdCIsInZhbHVlIjoid3d3LnNheWh1YWh1by5jb20ifSx7Im5hbWUiOiJVc2VyLUFnZW50IiwidmFsdWUiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAifSx7Im5hbWUiOiJBY2NlcHQiLCJ2YWx1ZSI6InRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsKi8qO3E9MC44In0seyJuYW1lIjoiQWNjZXB0LUxhbmd1YWdlIiwidmFsdWUiOiJ6aC1DTix6aDtxPTAuOCx6aC1UVztxPTAuNyx6aC1ISztxPTAuNSxlbi1VUztxPTAuMyxlbjtxPTAuMiJ9LHsibmFtZSI6IkFjY2VwdC1FbmNvZGluZyIsInZhbHVlIjoiZ3ppcCwgZGVmbGF0ZSwgYnIifSx7Im5hbWUiOiJETlQiLCJ2YWx1ZSI6IjEifSx7Im5hbWUiOiJDb25uZWN0aW9uIiwidmFsdWUiOiJrZWVwLWFsaXZlIn0seyJuYW1lIjoiQ29va2llIiwidmFsdWUiOiJ7e2Nvb2tpZX19In0seyJuYW1lIjoiVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0cyIsInZhbHVlIjoiMSJ9XSwiY29va2llcyI6W10sImRhdGEiOiIiLCJtaW1lVHlwZSI6IiJ9LCJydWxlIjp7InN1Y2Nlc3NfYXNzZXJ0cyI6W3sicmUiOiIyMDAiLCJmcm9tIjoic3RhdHVzIn1dLCJmYWlsZWRfYXNzZXJ0cyI6W3sicmUiOiLmgqjpnIDopoHlhYjnmbvlvZXmiY3og73nu6fnu63mnKzmk43kvZwiLCJmcm9tIjoiY29udGVudCJ9XSwiZXh0cmFjdF92YXJpYWJsZXMiOlt7InJlIjoibmFtZT1cImZvcm1oYXNoXCIgdmFsdWU9XCIoLis/KVwiIiwiZnJvbSI6ImNvbnRlbnQiLCJuYW1lIjoiZm9ybWhhc2gifV19fSx7InJlcXVlc3QiOnsibWV0aG9kIjoiUE9TVCIsInVybCI6Imh0dHBzOi8vd3d3LnNheWh1YWh1by5jb20vcGx1Z2luLnBocD9pZD1kc3VfcGF1bHNpZ24lM0FzaWduJm9wZXJhdGlvbj1xaWFuZGFvJmluZmxvYXQ9MSZpbmFqYXg9MSIsImhlYWRlcnMiOlt7Im5hbWUiOiJIb3N0IiwidmFsdWUiOiJ3d3cuc2F5aHVhaHVvLmNvbSJ9LHsibmFtZSI6IlVzZXItQWdlbnQiLCJ2YWx1ZSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg1LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODUuMCJ9LHsibmFtZSI6IkFjY2VwdCIsInZhbHVlIjoidGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCwqLyo7cT0wLjgifSx7Im5hbWUiOiJBY2NlcHQtTGFuZ3VhZ2UiLCJ2YWx1ZSI6InpoLUNOLHpoO3E9MC44LHpoLVRXO3E9MC43LHpoLUhLO3E9MC41LGVuLVVTO3E9MC4zLGVuO3E9MC4yIn0seyJuYW1lIjoiQWNjZXB0LUVuY29kaW5nIiwidmFsdWUiOiJnemlwLCBkZWZsYXRlLCBiciJ9LHsibmFtZSI6IkNvbnRlbnQtVHlwZSIsInZhbHVlIjoiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0seyJuYW1lIjoiT3JpZ2luIiwidmFsdWUiOiJodHRwczovL3d3dy5zYXlodWFodW8uY29tIn0seyJuYW1lIjoiRE5UIiwidmFsdWUiOiIxIn0seyJuYW1lIjoiQ29ubmVjdGlvbiIsInZhbHVlIjoia2VlcC1hbGl2ZSJ9LHsibmFtZSI6IlJlZmVyZXIiLCJ2YWx1ZSI6Imh0dHBzOi8vd3d3LnNheWh1YWh1by5jb20vZHN1X3BhdWxzaWduLXNpZ24uaHRtbCJ9LHsibmFtZSI6IlVwZ3JhZGUtSW5zZWN1cmUtUmVxdWVzdHMiLCJ2YWx1ZSI6IjEifSx7Im5hbWUiOiJQcmFnbWEiLCJ2YWx1ZSI6Im5vLWNhY2hlIn0seyJuYW1lIjoiQ2FjaGUtQ29udHJvbCIsInZhbHVlIjoibm8tY2FjaGUifV0sImNvb2tpZXMiOltdLCJkYXRhIjoiZm9ybWhhc2g9e3tmb3JtaGFzaHx1cmxlbmNvZGV9fSZxZHhxPWt4JnFkbW9kZT0xJnRvZGF5c2F5PSVFNSVCQyU4MCVFNSVCRiU4MyVFNSVCQyU4MCVFNSVCRiU4MyVFRiVCQyU4MSVFRiVCQyU4MSVFRiVCQyU4MSZmYXN0cmVwbHk9MCIsIm1pbWVUeXBlIjoiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0sInJ1bGUiOnsic3VjY2Vzc19hc3NlcnRzIjpbeyJyZSI6IjIwMCIsImZyb20iOiJzdGF0dXMifV0sImZhaWxlZF9hc3NlcnRzIjpbeyJyZSI6IuaCqOmcgOimgeWFiOeZu+W9leaJjeiDvee7p+e7reacrOaTjeS9nCIsImZyb20iOiJjb250ZW50In0seyJyZSI6IuacquWumuS5ieaTjeS9nCIsImZyb20iOiJjb250ZW50In1dLCJleHRyYWN0X3ZhcmlhYmxlcyI6W119fSx7ImNvbW1lbnQiOiLliKTmlq3nrb7liLDmiJDlip8r6I635Y+W56ev5YiGIiwicmVxdWVzdCI6eyJtZXRob2QiOiJHRVQiLCJ1cmwiOiJodHRwczovL3d3dy5zYXlodWFodW8uY29tL3BsdWdpbi5waHA/aWQ9ZHN1X3BhdWxzaWduJTNBc2lnbiIsImhlYWRlcnMiOlt7Im5hbWUiOiJIb3N0IiwidmFsdWUiOiJ3d3cuc2F5aHVhaHVvLmNvbSJ9LHsibmFtZSI6IlVzZXItQWdlbnQiLCJ2YWx1ZSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg1LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODUuMCJ9LHsibmFtZSI6IkFjY2VwdCIsInZhbHVlIjoidGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCwqLyo7cT0wLjgifSx7Im5hbWUiOiJBY2NlcHQtTGFuZ3VhZ2UiLCJ2YWx1ZSI6InpoLUNOLHpoO3E9MC44LHpoLVRXO3E9MC43LHpoLUhLO3E9MC41LGVuLVVTO3E9MC4zLGVuO3E9MC4yIn0seyJuYW1lIjoiQWNjZXB0LUVuY29kaW5nIiwidmFsdWUiOiJnemlwLCBkZWZsYXRlLCBiciJ9LHsibmFtZSI6IkROVCIsInZhbHVlIjoiMSJ9LHsibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifSx7Im5hbWUiOiJSZWZlcmVyIiwidmFsdWUiOiJodHRwczovL3d3dy5zYXlodWFodW8uY29tL2RzdV9wYXVsc2lnbi1zaWduLmh0bWwifSx7Im5hbWUiOiJDb29raWUiLCJ2YWx1ZSI6Int7Y29va2llfX0ifSx7Im5hbWUiOiJVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzIiwidmFsdWUiOiIxIn0seyJuYW1lIjoiUHJhZ21hIiwidmFsdWUiOiJuby1jYWNoZSJ9LHsibmFtZSI6IkNhY2hlLUNvbnRyb2wiLCJ2YWx1ZSI6Im5vLWNhY2hlIn1dLCJjb29raWVzIjpbXSwiZGF0YSI6IiIsIm1pbWVUeXBlIjoiIn0sInJ1bGUiOnsic3VjY2Vzc19hc3NlcnRzIjpbeyJyZSI6IjIwMCIsImZyb20iOiJzdGF0dXMifV0sImZhaWxlZF9hc3NlcnRzIjpbeyJyZSI6IuS7iuWkqeetvuWIsOS6huWQl++8nyIsImZyb20iOiJjb250ZW50In1dLCJleHRyYWN0X3ZhcmlhYmxlcyI6W3sicmUiOiI8Zm9udCBjb2xvcj1cIiNmZjAwY2NcIj48Yj4oLis/KTwvYj48L2ZvbnQ+IiwiZnJvbSI6ImNvbnRlbnQiLCJuYW1lIjoibG9nX3ZhbHVlIn1dfX0seyJjb21tZW50Ijoi55Sf5oiQ5pel5b+XIiwicmVxdWVzdCI6eyJtZXRob2QiOiJHRVQiLCJ1cmwiOiJodHRwOi8vbG9jYWxob3N0L3V0aWwvc3RyaW5nL3JlcGxhY2U/cj10ZXh0JnQ9JUMyJUEwJnA9JUMyJUEwJnM9JUU2JTgyJUE4JUU3JTlCJUFFJUU1JTg5JThEJUU4JThFJUI3JUU1JUJFJTk3JUU3JTlBJTg0JUU2JTgwJUJCJUU1JUE1JTk2JUU1JThBJUIxJUU0JUI4JUJBJTNBJUU3JTgzJTlGJUU4JThBJUIxJTIwe3tsb2dfdmFsdWV8dXJsZW5jb2RlfX0iLCJoZWFkZXJzIjpbXSwiY29va2llcyI6W119LCJydWxlIjp7InN1Y2Nlc3NfYXNzZXJ0cyI6W3sicmUiOiIyMDAiLCJmcm9tIjoic3RhdHVzIn1dLCJmYWlsZWRfYXNzZXJ0cyI6W10sImV4dHJhY3RfdmFyaWFibGVzIjpbeyJyZSI6Ii4rIiwiZnJvbSI6ImNvbnRlbnQiLCJuYW1lIjoiX19sb2dfXyJ9XX19XQ==",
-            "date": "2021-02-13 16:00:00",
-            "version": "20210428",
+            "comments": "username:账号<br>password:密码<br>https://www.sayhuahuo.com/",
+            "filename": "花火学园.har",
+            "content": "",
+            "date": "2021-11-20 21:20:00",
+            "version": "20211120",
             "commenturl": "https://github.com/qiandao-today/templates/issues/39"
         },
         "夏跡natsunokiseki": {
@@ -207,26 +207,26 @@
         },
         "萌幻之乡": {
             "name": "萌幻之乡",
-            "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%90%8c%e5%b9%bb%e4%b9%8b%e4%b9%a1.har",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/萌幻之乡.har",
             "update": false,
-            "comments": "cookie<br>https://www.hmoe.one/",
+            "comments": "登录后首页cookie<br>https://www.hmoe11.net/",
             "filename": "萌幻之乡.har",
-            "content": "W3sicmVxdWVzdCI6eyJtZXRob2QiOiJHRVQiLCJ1cmwiOiJodHRwczovL3d3dy5obW9lLm9uZS93cC1hZG1pbi9hZG1pbi1hamF4LnBocD9hY3Rpb249Zjc3OTZjZWUwYjhiMzUwNTU4MmZmZDE5ZDJjZWVhNjUmODMyNzg0MWFmODY4YTMxYmNmY2E0NTU5ZjI2OTkyOTIlNUJ0eXBlJTVEPWNoZWNrU2lnbmVkJmMyNzg4N2UzYjQ5NzY2MWFiZTFmZGExMjcyNjdjZjRjJTVCdHlwZSU1RD1jaGVja1VucmVhZCZhNzgwNTAzZGZmZjNhNzg0NDQyODhlMzM5MWFjODhiNiU1QnR5cGUlNUQ9Z2V0VW5yZWFkQ291bnQmMzUwODE1ZWY4YTg5Y2VjNTVjN2QyYWQxZWQ0MTQ5YTUlNUJ0eXBlJTVEPWdldEhvbWVwYWdlUG9zdHMiLCJoZWFkZXJzIjpbeyJuYW1lIjoiQ29va2llIiwidmFsdWUiOiJ7e2Nvb2tpZX19In0seyJuYW1lIjoiSG9zdCIsInZhbHVlIjoid3d3Lmhtb2Uub25lIn0seyJuYW1lIjoiVXNlci1BZ2VudCIsInZhbHVlIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODUuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NS4wIn0seyJuYW1lIjoiQWNjZXB0IiwidmFsdWUiOiIqLyoifSx7Im5hbWUiOiJBY2NlcHQtTGFuZ3VhZ2UiLCJ2YWx1ZSI6InpoLUNOLHpoO3E9MC44LHpoLVRXO3E9MC43LHpoLUhLO3E9MC41LGVuLVVTO3E9MC4zLGVuO3E9MC4yIn0seyJuYW1lIjoiQWNjZXB0LUVuY29kaW5nIiwidmFsdWUiOiJnemlwLCBkZWZsYXRlLCBiciJ9LHsibmFtZSI6IlJlZmVyZXIiLCJ2YWx1ZSI6Imh0dHBzOi8vd3d3Lmhtb2Uub25lLyJ9LHsibmFtZSI6IkROVCIsInZhbHVlIjoiMSJ9LHsibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifSx7Im5hbWUiOiJDYWNoZS1Db250cm9sIiwidmFsdWUiOiJtYXgtYWdlPTAifV0sImNvb2tpZXMiOltdLCJkYXRhIjoiIiwibWltZVR5cGUiOiIifSwicnVsZSI6eyJzdWNjZXNzX2Fzc2VydHMiOlt7InJlIjoiMjAwIiwiZnJvbSI6InN0YXR1cyJ9XSwiZmFpbGVkX2Fzc2VydHMiOltdLCJleHRyYWN0X3ZhcmlhYmxlcyI6W3sicmUiOiJcIl9ub25jZVwiOlwiKC4rPylcIiIsImZyb20iOiJjb250ZW50IiwibmFtZSI6Im5vbmNlIn1dfX0seyJjb21tZW50Ijoi562+5YiwIiwicmVxdWVzdCI6eyJtZXRob2QiOiJHRVQiLCJ1cmwiOiJodHRwczovL3d3dy5obW9lLm9uZS93cC1hZG1pbi9hZG1pbi1hamF4LnBocD9fbm9uY2U9e3tub25jZXx1cmxlbmNvZGV9fSZhY3Rpb249ODMyNzg0MWFmODY4YTMxYmNmY2E0NTU5ZjI2OTkyOTImdHlwZT1nb1NpZ24iLCJoZWFkZXJzIjpbeyJuYW1lIjoiSG9zdCIsInZhbHVlIjoid3d3Lmhtb2Uub25lIn0seyJuYW1lIjoiVXNlci1BZ2VudCIsInZhbHVlIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODUuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NS4wIn0seyJuYW1lIjoiQWNjZXB0IiwidmFsdWUiOiIqLyoifSx7Im5hbWUiOiJBY2NlcHQtTGFuZ3VhZ2UiLCJ2YWx1ZSI6InpoLUNOLHpoO3E9MC44LHpoLVRXO3E9MC43LHpoLUhLO3E9MC41LGVuLVVTO3E9MC4zLGVuO3E9MC4yIn0seyJuYW1lIjoiQWNjZXB0LUVuY29kaW5nIiwidmFsdWUiOiJnemlwLCBkZWZsYXRlLCBiciJ9LHsibmFtZSI6IlJlZmVyZXIiLCJ2YWx1ZSI6Imh0dHBzOi8vd3d3Lmhtb2Uub25lLyJ9LHsibmFtZSI6IkROVCIsInZhbHVlIjoiMSJ9LHsibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifV0sImNvb2tpZXMiOltdLCJkYXRhIjoiIiwibWltZVR5cGUiOiIifSwicnVsZSI6eyJzdWNjZXNzX2Fzc2VydHMiOlt7InJlIjoiMjAwIiwiZnJvbSI6InN0YXR1cyJ9XSwiZmFpbGVkX2Fzc2VydHMiOltdLCJleHRyYWN0X3ZhcmlhYmxlcyI6W3sicmUiOiJcIm1zZ1wiOlwiKC4rPylcIiIsImZyb20iOiJjb250ZW50IiwibmFtZSI6ImxvZ192YWx1ZSJ9XX19LHsiY29tbWVudCI6IueUn+aIkOaXpeW/lyIsInJlcXVlc3QiOnsibWV0aG9kIjoiR0VUIiwidXJsIjoiaHR0cDovL2xvY2FsaG9zdC91dGlsL3N0cmluZy9yZXBsYWNlP3I9dGV4dCZ0PSVDMiVBMCZwPSVDMiVBMCZzPXt7bG9nX3ZhbHVlfHVybGVuY29kZX19IiwiaGVhZGVycyI6W10sImNvb2tpZXMiOltdfSwicnVsZSI6eyJzdWNjZXNzX2Fzc2VydHMiOlt7InJlIjoiMjAwIiwiZnJvbSI6InN0YXR1cyJ9XSwiZmFpbGVkX2Fzc2VydHMiOltdLCJleHRyYWN0X3ZhcmlhYmxlcyI6W3sicmUiOiIuKyIsImZyb20iOiJjb250ZW50IiwibmFtZSI6Il9fbG9nX18ifV19fV0=",
-            "date": "2021-06-29 16:00:00",
-            "version": "20210629",
+            "content": "",
+            "date": "2021-11-20 21:20:00",
+            "version": "20211120",
             "commenturl": "https://github.com/qiandao-today/templates/issues/23"
         },
         "KDays论坛": {
             "name": "KDays论坛",
-            "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/KDays%e8%ae%ba%e5%9d%9b.har",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/KDays论坛.har",
             "update": false,
-            "comments": "cookie<br>http://bbs.kdays.net/",
+            "comments": "username:账号<br>password:密码<br>https://bbs.kdays.net/",
             "filename": "KDays论坛.har",
             "content": "",
-            "date": "2021-02-13 16:00:00",
-            "version": "20210712",
+            "date": "2021-11-20 21:20:00",
+            "version": "20211120",
             "commenturl": "https://github.com/qiandao-today/templates/issues/57"
         },
         "吾爱破解": {
@@ -421,16 +421,16 @@
             "version": "20210629",
             "commenturl": "https://github.com/qiandao-today/templates/issues/55"
         },
-        "漫画补档": {
-            "name": "漫画补档",
-            "author": "AragonSnow",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3.har",
+        "漫画补档(账号密码版)": {
+            "name": "漫画补档(账号密码版)",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/漫画补档(账号密码版).har",
             "update": false,
-            "comments": "用户名+密码<br>此模板默认是没有设置安全问题，没测试过有安全问题的是否能登陆成功<br>[https://www.manhuabudang.com/](https://www.manhuabudang.com/)",
-            "filename": "漫画补档.har",
-            "content": "W3sicmVxdWVzdCI6eyJtZXRob2QiOiJQT1NUIiwidXJsIjoiaHR0cHM6Ly93d3cubWFuaHVhYnVkYW5nLmNvbS9sb2dpbi5waHA/IiwiaGVhZGVycyI6W3sibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifSx7Im5hbWUiOiJQcmFnbWEiLCJ2YWx1ZSI6Im5vLWNhY2hlIn0seyJuYW1lIjoiQ2FjaGUtQ29udHJvbCIsInZhbHVlIjoibm8tY2FjaGUifSx7Im5hbWUiOiJVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzIiwidmFsdWUiOiIxIn0seyJuYW1lIjoiT3JpZ2luIiwidmFsdWUiOiJodHRwczovL3d3dy5tYW5odWFidWRhbmcuY29tIn0seyJuYW1lIjoiQ29udGVudC1UeXBlIiwidmFsdWUiOiJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQifSx7Im5hbWUiOiJVc2VyLUFnZW50IiwidmFsdWUiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjk3IFNhZmFyaS81MzcuMzYifSx7Im5hbWUiOiJBY2NlcHQiLCJ2YWx1ZSI6InRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgsYXBwbGljYXRpb24vc2lnbmVkLWV4Y2hhbmdlO3Y9YjM7cT0wLjkifSx7Im5hbWUiOiJTZWMtRmV0Y2gtU2l0ZSIsInZhbHVlIjoic2FtZS1vcmlnaW4ifSx7Im5hbWUiOiJTZWMtRmV0Y2gtTW9kZSIsInZhbHVlIjoibmF2aWdhdGUifSx7Im5hbWUiOiJTZWMtRmV0Y2gtVXNlciIsInZhbHVlIjoiPzEifSx7Im5hbWUiOiJTZWMtRmV0Y2gtRGVzdCIsInZhbHVlIjoiZG9jdW1lbnQifSx7Im5hbWUiOiJSZWZlcmVyIiwidmFsdWUiOiJodHRwczovL3d3dy5tYW5odWFidWRhbmcuY29tL3UucGhwIn0seyJuYW1lIjoiQWNjZXB0LUVuY29kaW5nIiwidmFsdWUiOiJnemlwLCBkZWZsYXRlLCBiciJ9LHsibmFtZSI6IkFjY2VwdC1MYW5ndWFnZSIsInZhbHVlIjoiemgtQ04semg7cT0wLjksemgtVFc7cT0wLjgifV0sImNvb2tpZXMiOltdLCJkYXRhIjoibGd0PTAmcHd1c2VyPXt7dXNlcm5hbWV8dXJsZW5jb2RlfX0mcHdwd2Q9e3twd2R8dXJsZW5jb2RlfX0mcXVlc3Rpb249MCZjdXN0b21xdWVzdD0mYW5zd2VyPSZoaWRlaWQ9MCZmb3J3YXJkPSZqdW1wdXJsPWh0dHBzJTNBJTJGJTJGd3d3Lm1hbmh1YWJ1ZGFuZy5jb20lMkZ1LnBocCZtPWJicyZzdGVwPTImY2t0aW1lPTMxNTM2MDAwIiwibWltZVR5cGUiOiJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQifSwicnVsZSI6eyJzdWNjZXNzX2Fzc2VydHMiOlt7InJlIjoiMzAyIiwiZnJvbSI6InN0YXR1cyJ9XSwiZmFpbGVkX2Fzc2VydHMiOltdLCJleHRyYWN0X3ZhcmlhYmxlcyI6W119fSx7InJlcXVlc3QiOnsibWV0aG9kIjoiR0VUIiwidXJsIjoiaHR0cHM6Ly93d3cubWFuaHVhYnVkYW5nLmNvbS91LnBocCIsImhlYWRlcnMiOlt7Im5hbWUiOiJDb25uZWN0aW9uIiwidmFsdWUiOiJrZWVwLWFsaXZlIn0seyJuYW1lIjoiUHJhZ21hIiwidmFsdWUiOiJuby1jYWNoZSJ9LHsibmFtZSI6IkNhY2hlLUNvbnRyb2wiLCJ2YWx1ZSI6Im5vLWNhY2hlIn0seyJuYW1lIjoiVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0cyIsInZhbHVlIjoiMSJ9LHsibmFtZSI6IlVzZXItQWdlbnQiLCJ2YWx1ZSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84My4wLjQxMDMuOTcgU2FmYXJpLzUzNy4zNiJ9LHsibmFtZSI6IkFjY2VwdCIsInZhbHVlIjoidGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCxhcHBsaWNhdGlvbi9zaWduZWQtZXhjaGFuZ2U7dj1iMztxPTAuOSJ9LHsibmFtZSI6IlNlYy1GZXRjaC1TaXRlIiwidmFsdWUiOiJzYW1lLW9yaWdpbiJ9LHsibmFtZSI6IlNlYy1GZXRjaC1Nb2RlIiwidmFsdWUiOiJuYXZpZ2F0ZSJ9LHsibmFtZSI6IlNlYy1GZXRjaC1Vc2VyIiwidmFsdWUiOiI/MSJ9LHsibmFtZSI6IlNlYy1GZXRjaC1EZXN0IiwidmFsdWUiOiJkb2N1bWVudCJ9LHsibmFtZSI6IlJlZmVyZXIiLCJ2YWx1ZSI6Imh0dHBzOi8vd3d3Lm1hbmh1YWJ1ZGFuZy5jb20vdS5waHAifSx7Im5hbWUiOiJBY2NlcHQtRW5jb2RpbmciLCJ2YWx1ZSI6Imd6aXAsIGRlZmxhdGUsIGJyIn0seyJuYW1lIjoiQWNjZXB0LUxhbmd1YWdlIiwidmFsdWUiOiJ6aC1DTix6aDtxPTAuOSx6aC1UVztxPTAuOCJ9XSwiY29va2llcyI6W10sImRhdGEiOiIiLCJtaW1lVHlwZSI6IiJ9LCJydWxlIjp7InN1Y2Nlc3NfYXNzZXJ0cyI6W3sicmUiOiIyMDAiLCJmcm9tIjoic3RhdHVzIn1dLCJmYWlsZWRfYXNzZXJ0cyI6W10sImV4dHJhY3RfdmFyaWFibGVzIjpbeyJyZSI6InZlcmlmeWhhc2ggPSAnKC4rPyknIiwiZnJvbSI6ImNvbnRlbnQiLCJuYW1lIjoidmVyaWZ5aGFzaCJ9XX19LHsicmVxdWVzdCI6eyJtZXRob2QiOiJQT1NUIiwidXJsIjoiaHR0cHM6Ly93d3cubWFuaHVhYnVkYW5nLmNvbS9qb2JjZW50ZXIucGhwP2FjdGlvbj1wdW5jaCZ2ZXJpZnk9e3t2ZXJpZnloYXNofHVybGVuY29kZX19JTJDe3t2ZXJpZnloYXNofHVybGVuY29kZX19IiwiaGVhZGVycyI6W3sibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifSx7Im5hbWUiOiJQcmFnbWEiLCJ2YWx1ZSI6Im5vLWNhY2hlIn0seyJuYW1lIjoiQ2FjaGUtQ29udHJvbCIsInZhbHVlIjoibm8tY2FjaGUifSx7Im5hbWUiOiJVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzIiwidmFsdWUiOiIxIn0seyJuYW1lIjoiT3JpZ2luIiwidmFsdWUiOiJodHRwczovL3d3dy5tYW5odWFidWRhbmcuY29tIn0seyJuYW1lIjoiQ29udGVudC1UeXBlIiwidmFsdWUiOiJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQifSx7Im5hbWUiOiJVc2VyLUFnZW50IiwidmFsdWUiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODMuMC40MTAzLjk3IFNhZmFyaS81MzcuMzYifSx7Im5hbWUiOiJBY2NlcHQiLCJ2YWx1ZSI6InRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgsYXBwbGljYXRpb24vc2lnbmVkLWV4Y2hhbmdlO3Y9YjM7cT0wLjkifSx7Im5hbWUiOiJTZWMtRmV0Y2gtU2l0ZSIsInZhbHVlIjoic2FtZS1vcmlnaW4ifSx7Im5hbWUiOiJTZWMtRmV0Y2gtTW9kZSIsInZhbHVlIjoibmF2aWdhdGUifSx7Im5hbWUiOiJTZWMtRmV0Y2gtVXNlciIsInZhbHVlIjoiPzEifSx7Im5hbWUiOiJTZWMtRmV0Y2gtRGVzdCIsInZhbHVlIjoiaWZyYW1lIn0seyJuYW1lIjoiUmVmZXJlciIsInZhbHVlIjoiaHR0cHM6Ly93d3cubWFuaHVhYnVkYW5nLmNvbS91LnBocCJ9LHsibmFtZSI6IkFjY2VwdC1FbmNvZGluZyIsInZhbHVlIjoiZ3ppcCwgZGVmbGF0ZSwgYnIifSx7Im5hbWUiOiJBY2NlcHQtTGFuZ3VhZ2UiLCJ2YWx1ZSI6InpoLUNOLHpoO3E9MC45LHpoLVRXO3E9MC44In1dLCJjb29raWVzIjpbXSwiZGF0YSI6InN0ZXA9MiIsIm1pbWVUeXBlIjoiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn0sInJ1bGUiOnsic3VjY2Vzc19hc3NlcnRzIjpbeyJyZSI6Im1lc3NhZ2UiLCJmcm9tIjoiY29udGVudCJ9LHsicmUiOiIyMDAiLCJmcm9tIjoic3RhdHVzIn1dLCJmYWlsZWRfYXNzZXJ0cyI6W10sImV4dHJhY3RfdmFyaWFibGVzIjpbeyJyZSI6Im1lc3NhZ2VcXFwiOlxcJyguKz8pXFwnIiwiZnJvbSI6ImNvbnRlbnQiLCJuYW1lIjoiX19sb2dfXyJ9XX19XQ==",
-            "date": "2020-06-16 02:24:44",
-            "version": "20210428",
+            "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>user:账号<br>pwd:密码<br>https://www.manhuabudang.com",
+            "filename": "漫画补档(账号密码版).har",
+            "content": "",
+            "date": "2020-11-20 21:20:00",
+            "version": "20211120",
             "commenturl": "https://github.com/qiandao-today/templates/issues/26"
         },
         "什么值得买": {
@@ -481,16 +481,16 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/29"
         },
-        "evacgE次元": {
-            "name": "evacgE次元",
-            "author": "AragonSnow",
-            "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/evacg(E%E6%AC%A1%E5%85%83).har",
+        "E次元": {
+            "name": "E次元",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/E次元.har",
             "update": false,
-            "comments": "cookie和homeaction,都在首页链接里",
-            "filename": "evacg(E次元).har",
+            "comments": "homeaction和cks 打开首页即可获取 https://www.evacg.cc/wp-admin/admin-ajax.php?action=<br>https://www.evacg.cc/",
+            "filename": "E次元.har",
             "content": "",
-            "date": "2021-06-26 1:32:00",
-            "version": "20210626",
+            "date": "2021-11-20 21:20:00",
+            "version": "20211120",
             "commenturl": "https://github.com/qiandao-today/templates/issues/46"
         },
         "数码之家": {
@@ -543,26 +543,26 @@
         },
         "致美化": {
             "name": "致美化",
-            "author": "FellBan",
-            "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/%E8%87%B4%E7%BE%8E%E5%8C%96.har",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/致美化.har",
             "update": false,
-            "comments": "user(用户名)，password(密码)",
+            "comments": "user:账号<br>pass:密码<br>https://zhutix.com",
             "filename": "致美化.har",
             "content": "",
-            "date": "2021-06-26 1:32:00",
-            "version": "20210626",
+            "date": "2021-11-20 21:20:00",
+            "version": "20211120",
             "commenturl": "https://github.com/qiandao-today/templates/issues/47"
         },
-        "Hao4K": {
-            "name": "Hao4K",
-            "author": "QQ群",
-            "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/Hao 4K-账号版.har",
+        "hao4k": {
+            "name": "hao4k",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hao4k.har",
             "update": false,
-            "comments": "user(用户名)，password(密码)",
-            "filename": "Hao 4K-账号版.har",
+            "comments": "登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.hao4k.cn/",
+            "filename": "hao4k.har",
             "content": "",
-            "date": "2021-07-16 1:32:00",
-            "version": "20210716",
+            "date": "2021-11-20 21:20:00",
+            "version": "20211120",
             "commenturl": "https://github.com/qiandao-today/templates/issues/60"
         },
         "掘金": {
