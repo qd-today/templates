@@ -10,6 +10,7 @@
 呆贼
 [stay](https://gitee.com/qypw)
 [acooler15](https://github.com/acooler15)
+[wjf0214](https://github.com/wjf0214)
 QQ群642842749
 
 ## 如何注册第三方库
@@ -109,3 +110,4 @@ Hao4K|QQ群|[Hao 4K-账号版.har](https://raw.githubusercontent.com/qiandao-tod
 爱奇艺|[a76yyyy](https://github.com/a76yyyy)|[爱奇艺.har](https://raw.githubusercontent.com/qiandao-today/templates/master/爱奇艺.har)|2021-11-20 21:00:00|网址: https://www.iqiyi.com/<br>首页登录后在cookie中提取变量P00001和P00003<br>仅爱奇艺会员可用
 MZFastCloud|[wjf0214](https://github.com/wjf0214)|[MZFastCloud.har](https://raw.githubusercontent.com/qiandao-today/templates/master/MZFastCloud.har)|2021-11-20 21:00:00|username:账号<br>password:密码<br>https://www.mzfast.xyz/
 HiFiNi | [wjf0214](https://github.com/wjf0214) | [HiFiNi.har](https://raw.githubusercontent.com/qiandao-today/templates/master/HiFiNi.har) | 2021-11-20 21:00:00 | 登录后首页cookie<br>https://www.hifini.com/
+人人素材 | [wjf0214](https://github.com/wjf0214) | [人人素材.har](https://raw.githubusercontent.com/qiandao-today/templates/master/人人素材.har) | 2021-11-20 21:00:00 | username:账号,手机号<br>password:密码<br>https://www.rrcg.cn/

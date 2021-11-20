@@ -624,6 +624,18 @@
             "date": "2021-11-20 21:00:00",
             "version":"20211120",
             "commenturl":"https://github.com/qiandao-today/templates/issues/76"
+        },
+        "人人素材": {
+            "name": "人人素材",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/人人素材.har",
+            "update": false,
+            "comments": "username:账号,手机号<br>password:密码<br>https://www.rrcg.cn/",
+            "filename": "人人素材.har",
+            "content": "",
+            "date": "2021-11-20 21:00:00",
+            "version":"20211120",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/77"
         }
     }
 }
