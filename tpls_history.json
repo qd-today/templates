@@ -696,6 +696,18 @@
             "date": "2021-11-20 22:30:00",
             "version":"20211120",
             "commenturl":"https://github.com/qiandao-today/templates/issues/82"
+        },
+        "一酷C4D": {
+            "name": "一酷C4D",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/一酷C4D.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://c4dco.com",
+            "filename": "一酷C4D.har",
+            "content": "",
+            "date": "2021-11-20 22:30:00",
+            "version":"20211120",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/83"
         }
     }
 }
