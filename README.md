@@ -132,3 +132,5 @@ MZFastCloud|[wjf0214](https://github.com/wjf0214)|[MZFastCloud.har](https://raw.
 HiFiNi | [wjf0214](https://github.com/wjf0214) | [HiFiNi.har](https://raw.githubusercontent.com/qiandao-today/templates/master/HiFiNi.har) | 2021-11-20 21:00:00 | 登录后首页cookie<br>https://www.hifini.com/
 人人素材 | [wjf0214](https://github.com/wjf0214) | [人人素材.har](https://raw.githubusercontent.com/qiandao-today/templates/master/人人素材.har) | 2021-11-20 21:00:00 | username:账号,手机号<br>password:密码<br>https://www.rrcg.cn/
 SolidWorks机械工程师网 | [wjf0214](https://github.com/wjf0214) | [SolidWorks机械工程师网.har](https://raw.githubusercontent.com/qiandao-today/templates/master/SolidWorks机械工程师网.har) | 2021-11-20 21:50:00 | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.swbbsc.com/
+卡饭 | [wjf0214](https://github.com/wjf0214) | [卡饭.har](https://raw.githubusercontent.com/qiandao-today/templates/master/卡饭.har) | 2021-11-20 22:30:00 | 账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://bbs.kafan.cn/
+
