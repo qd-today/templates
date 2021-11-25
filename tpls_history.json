@@ -717,8 +717,8 @@
             "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>http://h.shanse8.com/",
             "filename": "中国汉化论坛.har",
             "content": "",
-            "date": "2021-11-24 20:00:00",
-            "version":"20211124",
+            "date": "2021-11-25 14:00:00",
+            "version":"20211125",
             "commenturl":"https://github.com/qiandao-today/templates/issues/86"
         }
     }
