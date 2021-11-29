@@ -720,6 +720,18 @@
             "date": "2021-11-29 12:00:00",
             "version":"20211129",
             "commenturl":"https://github.com/qiandao-today/templates/issues/86"
+        },
+        "道客巴巴": {
+            "name": "道客巴巴",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/道客巴巴.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.doc88.com/",
+            "filename": "道客巴巴.har",
+            "content": "",
+            "date": "2021-11-29 12:20:00",
+            "version":"20211129",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/87"
         }
     }
 }
