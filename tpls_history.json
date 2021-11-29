@@ -301,16 +301,16 @@
             "version": "20210428",
             "commenturl": "https://github.com/qiandao-today/templates/issues/19"
         },
-        "杉果游戏": {
-            "name": "杉果游戏",
-            "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%9D%89%E6%9E%9C%E6%B8%B8%E6%88%8F.har",
+        "杉果": {
+            "name": "杉果",
+            "author": "github-h,wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/杉果.har",
             "update": false,
-            "comments": "用户名+密码<br>用户名为邮箱<br>https://ww.sonkwo.com/",
-            "filename": "杉果游戏.har",
-            "content": "W3siY29tbWVudCI6IueZu+mZhiIsInJlcXVlc3QiOnsibWV0aG9kIjoiUE9TVCIsInVybCI6Imh0dHBzOi8vYXV0aC5zb25rd28uY29tL2FwaS9hY2Nlc3NfdG9rZW4uanNvbj9sb2NhbGU9anMiLCJoZWFkZXJzIjpbeyJuYW1lIjoiSG9zdCIsInZhbHVlIjoiYXV0aC5zb25rd28uY29tIn0seyJuYW1lIjoiVXNlci1BZ2VudCIsInZhbHVlIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODUuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NS4wIn0seyJuYW1lIjoiQWNjZXB0IiwidmFsdWUiOiJhcHBsaWNhdGlvbi92bmQuc29ua3dvLnYxK2pzb24ifSx7Im5hbWUiOiJBY2NlcHQtTGFuZ3VhZ2UiLCJ2YWx1ZSI6InpoLUNOLHpoO3E9MC44LHpoLVRXO3E9MC43LHpoLUhLO3E9MC41LGVuLVVTO3E9MC4zLGVuO3E9MC4yIn0seyJuYW1lIjoiQWNjZXB0LUVuY29kaW5nIiwidmFsdWUiOiJnemlwLCBkZWZsYXRlLCBiciJ9LHsibmFtZSI6IkNvbnRlbnQtVHlwZSIsInZhbHVlIjoiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04In0seyJuYW1lIjoiT3JpZ2luIiwidmFsdWUiOiJodHRwczovL3d3dy5zb25rd28uY29tIn0seyJuYW1lIjoiRE5UIiwidmFsdWUiOiIxIn0seyJuYW1lIjoiQ29ubmVjdGlvbiIsInZhbHVlIjoia2VlcC1hbGl2ZSJ9LHsibmFtZSI6IlJlZmVyZXIiLCJ2YWx1ZSI6Imh0dHBzOi8vd3d3LnNvbmt3by5jb20vc2lnbl9pbj9yZXR1cm5fYWRkcj0lMkYifV0sImNvb2tpZXMiOltdLCJkYXRhIjoic29ua3dvX3ZlcnNpb249MSZzb25rd29fY2xpZW50PXdlYiZhY2NvdW50JTVCcmVtZW1iZXJfbWUlNUQ9dHJ1ZSZhY2NvdW50JTVCZW1haWxfb3JfcGhvbmVfbnVtYmVyX2VxJTVEPXt7IHVzZXJuYW1lIHx1cmxlbmNvZGV9fSZhY2NvdW50JTVCcGFzc3dvcmQlNUQ9e3sgcGFzc3dvcmQgfHVybGVuY29kZX19IiwibWltZVR5cGUiOiJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQifSwicnVsZSI6eyJzdWNjZXNzX2Fzc2VydHMiOlt7InJlIjoiMjAwIiwiZnJvbSI6InN0YXR1cyJ9XSwiZmFpbGVkX2Fzc2VydHMiOltdLCJleHRyYWN0X3ZhcmlhYmxlcyI6W3sicmUiOiJcImFjY2Vzc190b2tlblwiOlwiKC4rPylcIiIsImZyb20iOiJjb250ZW50IiwibmFtZSI6ImF1dGgifV19fSx7ImNvbW1lbnQiOiLnrb7liLAiLCJyZXF1ZXN0Ijp7Im1ldGhvZCI6IlBPU1QiLCJ1cmwiOiJodHRwczovL2F1dGguc29ua3dvLmNvbS9hcGkvbWUvY2xvY2tfaW4uanNvbj9sb2NhbGU9anMiLCJoZWFkZXJzIjpbeyJuYW1lIjoiSG9zdCIsInZhbHVlIjoiYXV0aC5zb25rd28uY29tIn0seyJuYW1lIjoiVXNlci1BZ2VudCIsInZhbHVlIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODUuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NS4wIn0seyJuYW1lIjoiQWNjZXB0IiwidmFsdWUiOiJhcHBsaWNhdGlvbi92bmQuc29ua3dvLnYxK2pzb24ifSx7Im5hbWUiOiJBY2NlcHQtTGFuZ3VhZ2UiLCJ2YWx1ZSI6InpoLUNOLHpoO3E9MC44LHpoLVRXO3E9MC43LHpoLUhLO3E9MC41LGVuLVVTO3E9MC4zLGVuO3E9MC4yIn0seyJuYW1lIjoiQWNjZXB0LUVuY29kaW5nIiwidmFsdWUiOiJnemlwLCBkZWZsYXRlLCBiciJ9LHsibmFtZSI6IkNvbnRlbnQtVHlwZSIsInZhbHVlIjoiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04In0seyJuYW1lIjoiQXV0aG9yaXphdGlvbiIsInZhbHVlIjoiQmVhcmVyIHt7YXV0aHx1cmxlbmNvZGV9fSJ9LHsibmFtZSI6IkNvbnRlbnQtTGVuZ3RoIiwidmFsdWUiOiIzNCJ9LHsibmFtZSI6Ik9yaWdpbiIsInZhbHVlIjoiaHR0cHM6Ly93d3cuc29ua3dvLmNvbSJ9LHsibmFtZSI6IkROVCIsInZhbHVlIjoiMSJ9LHsibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifSx7Im5hbWUiOiJSZWZlcmVyIiwidmFsdWUiOiJodHRwczovL3d3dy5zb25rd28uY29tLyJ9LHsibmFtZSI6IlByYWdtYSIsInZhbHVlIjoibm8tY2FjaGUifSx7Im5hbWUiOiJDYWNoZS1Db250cm9sIiwidmFsdWUiOiJuby1jYWNoZSJ9XSwiY29va2llcyI6W10sImRhdGEiOiJzb25rd29fdmVyc2lvbj0xJnNvbmt3b19jbGllbnQ9d2ViIiwibWltZVR5cGUiOiJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQifSwicnVsZSI6eyJzdWNjZXNzX2Fzc2VydHMiOlt7InJlIjoiZ3JlYXRlcl90aGFuIiwiZnJvbSI6ImNvbnRlbnQifSx7InJlIjoiMjAwIiwiZnJvbSI6InN0YXR1cyJ9XSwiZmFpbGVkX2Fzc2VydHMiOltdLCJleHRyYWN0X3ZhcmlhYmxlcyI6W119fSx7ImNvbW1lbnQiOiLojrflj5YxM+S9jeaXtumXtOaIsyIsInJlcXVlc3QiOnsibWV0aG9kIjoiR0VUIiwidXJsIjoiaHR0cHM6Ly9hLmpkLmNvbS8vYWpheC9xdWVyeVNlcnZlckRhdGEuaHRtbCIsImhlYWRlcnMiOlt7Im5hbWUiOiJIb3N0IiwidmFsdWUiOiJhLmpkLmNvbSJ9LHsibmFtZSI6IlVzZXItQWdlbnQiLCJ2YWx1ZSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg1LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODUuMCJ9LHsibmFtZSI6IkFjY2VwdCIsInZhbHVlIjoidGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCwqLyo7cT0wLjgifSx7Im5hbWUiOiJBY2NlcHQtTGFuZ3VhZ2UiLCJ2YWx1ZSI6InpoLUNOLHpoO3E9MC44LHpoLVRXO3E9MC43LHpoLUhLO3E9MC41LGVuLVVTO3E9MC4zLGVuO3E9MC4yIn0seyJuYW1lIjoiQWNjZXB0LUVuY29kaW5nIiwidmFsdWUiOiJnemlwLCBkZWZsYXRlLCBiciJ9LHsibmFtZSI6IkROVCIsInZhbHVlIjoiMSJ9LHsibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifSx7Im5hbWUiOiJVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzIiwidmFsdWUiOiIxIn0seyJuYW1lIjoiUHJhZ21hIiwidmFsdWUiOiJuby1jYWNoZSJ9LHsibmFtZSI6IkNhY2hlLUNvbnRyb2wiLCJ2YWx1ZSI6Im5vLWNhY2hlIn1dLCJjb29raWVzIjpbXX0sInJ1bGUiOnsic3VjY2Vzc19hc3NlcnRzIjpbeyJyZSI6IjIwMCIsImZyb20iOiJzdGF0dXMifV0sImZhaWxlZF9hc3NlcnRzIjpbXSwiZXh0cmFjdF92YXJpYWJsZXMiOlt7InJlIjoiKFxcZHsxM30pIiwiZnJvbSI6ImNvbnRlbnQiLCJuYW1lIjoidGltZSJ9XX19LHsicmVxdWVzdCI6eyJtZXRob2QiOiJHRVQiLCJ1cmwiOiJodHRwczovL2F1dGguc29ua3dvLmNvbS9hcGkvbWUuanNvbj9sb2NhbGU9anMmc29ua3dvX3ZlcnNpb249MSZzb25rd29fY2xpZW50PXdlYiZxJTVCaW50cm9kdWN0aW9uJTVEPXRydWUmcSU1QmJpcnRoZGF5JTVEPXRydWUmcSU1QnNob3dfc3RlYW1fcmV2aWV3JTVEPXRydWUmcSU1Qmxhc3Rfc2lnbl9pbl9hdF90aW1lc3RhbXAlNUQ9dHJ1ZSZxJTVCbGFzdF9zaWduX2luX2lwJTVEPXRydWUmcSU1QnNldF9wYXNzd29yZCU1RD10cnVlJnElNUJnZW5kZXIlNUQ9dHJ1ZSZxJTVCZW1haWxfYXN0ZXJpc2tzJTVEPXRydWUmcSU1QnBob25lX251bWJlcl9hc3Rlcmlza3MlNUQ9dHJ1ZSZxJTVCY3JlZGVudGlhbF9udW1fYXN0ZXJpc2tzJTVEPXRydWUmcSU1QnVubXV0ZV9hdF90aW1lc3RhbXAlNUQ9dHJ1ZSZxJTVCcG9pbnQlNUQlNUJ4cCU1RD10cnVlJnElNUJwb2ludCU1RCU1QnNjb3JlJTVEPXRydWUmcSU1QnBvaW50JTVEJTVCdGFza3MlNUQ9dHJ1ZSZxJTVCcGxhdGZvcm1zJTVEJTVCc2hvd19pZCU1RD10cnVlJnElNUJwbGF0Zm9ybXMlNUQlNUJraW5kJTVEPXRydWUmcSU1QndhbGxldCU1RCU1QmJhbGFuY2UlNUQ9dHJ1ZSZxJTVCd2FsbGV0JTVEJTVCc3RhdHVzJTVEPXRydWUmcSU1QnJlZ2lvbiU1RD10cnVlJl89e3t0aW1lfHVybGVuY29kZX19IiwiaGVhZGVycyI6W3sibmFtZSI6Ikhvc3QiLCJ2YWx1ZSI6ImF1dGguc29ua3dvLmNvbSJ9LHsibmFtZSI6IlVzZXItQWdlbnQiLCJ2YWx1ZSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg1LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODUuMCJ9LHsibmFtZSI6IkFjY2VwdCIsInZhbHVlIjoiYXBwbGljYXRpb24vdm5kLnNvbmt3by52MStqc29uIn0seyJuYW1lIjoiQWNjZXB0LUxhbmd1YWdlIiwidmFsdWUiOiJ6aC1DTix6aDtxPTAuOCx6aC1UVztxPTAuNyx6aC1ISztxPTAuNSxlbi1VUztxPTAuMyxlbjtxPTAuMiJ9LHsibmFtZSI6IkFjY2VwdC1FbmNvZGluZyIsInZhbHVlIjoiZ3ppcCwgZGVmbGF0ZSwgYnIifSx7Im5hbWUiOiJBdXRob3JpemF0aW9uIiwidmFsdWUiOiJCZWFyZXIge3thdXRofX0ifSx7Im5hbWUiOiJPcmlnaW4iLCJ2YWx1ZSI6Imh0dHBzOi8vd3d3LnNvbmt3by5jb20ifSx7Im5hbWUiOiJETlQiLCJ2YWx1ZSI6IjEifSx7Im5hbWUiOiJDb25uZWN0aW9uIiwidmFsdWUiOiJrZWVwLWFsaXZlIn0seyJuYW1lIjoiUmVmZXJlciIsInZhbHVlIjoiaHR0cHM6Ly93d3cuc29ua3dvLmNvbS9zZXR0aW5nIn1dLCJjb29raWVzIjpbXSwiZGF0YSI6IiIsIm1pbWVUeXBlIjoiIn0sInJ1bGUiOnsic3VjY2Vzc19hc3NlcnRzIjpbeyJyZSI6IjIwMCIsImZyb20iOiJzdGF0dXMifV0sImZhaWxlZF9hc3NlcnRzIjpbXSwiZXh0cmFjdF92YXJpYWJsZXMiOlt7InJlIjoiXCJzY29yZVwiOiguKz8pLCIsImZyb20iOiJjb250ZW50IiwibmFtZSI6ImxvZ19zY29yZSJ9XX19LHsiY29tbWVudCI6IueUn+aIkOaXpeW/lyIsInJlcXVlc3QiOnsibWV0aG9kIjoiR0VUIiwidXJsIjoiaHR0cDovL2xvY2FsaG9zdC91dGlsL3N0cmluZy9yZXBsYWNlP3I9dGV4dCZ0PSVDMiVBMCZwPSVDMiVBMCZzPSVFNyVBNyVBRiVFNSU4OCU4NiUzQSUyMHt7bG9nX3Njb3JlfHVybGVuY29kZX19IiwiaGVhZGVycyI6W10sImNvb2tpZXMiOltdfSwicnVsZSI6eyJzdWNjZXNzX2Fzc2VydHMiOlt7InJlIjoiMjAwIiwiZnJvbSI6InN0YXR1cyJ9XSwiZmFpbGVkX2Fzc2VydHMiOltdLCJleHRyYWN0X3ZhcmlhYmxlcyI6W3sicmUiOiIuKyIsImZyb20iOiJjb250ZW50IiwibmFtZSI6Il9fbG9nX18ifV19fV0=",
-            "date": "2021-06-29 16:00:00",
-            "version": "20210629",
+            "comments": "username:账号<br>password:密码<br>https://sonkwo.com/",
+            "filename": "杉果.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
             "commenturl": "https://github.com/qiandao-today/templates/issues/35"
         },
         "华盟论坛": {
@@ -495,14 +495,14 @@
         },
         "迅维网": {
             "name": "迅维网",
-            "author": "acooler15",
+            "author": "acooler15,wjf0214",
             "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/迅维网.har",
             "update": false,
-            "comments": "首页cookie",
+            "comments": "登录后首页cookie<br>https://www.chinafix.com",
             "filename": "迅维网.har",
             "content": "",
-            "date": "2021-06-28 20:24:00",
-            "version": "20210628",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
             "commenturl": "https://github.com/qiandao-today/templates/issues/51"
         },
         "远景论坛": {
@@ -598,8 +598,8 @@
             "filename": "MZFastCloud.har",
             "content": "",
             "date": "2021-11-20 21:00:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/75"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/75"
         },
         "HiFiNi": {
             "name": "HiFiNi",
@@ -610,8 +610,8 @@
             "filename": "HiFiNi.har",
             "content": "",
             "date": "2021-11-20 21:00:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/76"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/76"
         },
         "人人素材": {
             "name": "人人素材",
@@ -622,8 +622,8 @@
             "filename": "人人素材.har",
             "content": "",
             "date": "2021-11-20 21:00:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/77"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/77"
         },
         "SolidWorks机械工程师网": {
             "name": "SolidWorks机械工程师网",
@@ -634,8 +634,8 @@
             "filename": "SolidWorks机械工程师网.har",
             "content": "",
             "date": "2021-11-20 21:50:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/78"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/78"
         },
         "卡饭": {
             "name": "卡饭",
@@ -646,8 +646,8 @@
             "filename": "卡饭.har",
             "content": "",
             "date": "2021-11-20 22:30:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/79"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/79"
         },
         "hostloc主机论坛": {
             "name": "hostloc主机论坛",
@@ -658,8 +658,8 @@
             "filename": "hostloc主机论坛.har",
             "content": "",
             "date": "2021-11-20 22:30:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/80"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/80"
         },
         "粤梦缘": {
             "name": "粤梦缘",
@@ -670,8 +670,8 @@
             "filename": "粤梦缘.har",
             "content": "",
             "date": "2021-11-20 22:30:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/81"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/81"
         },
         "幕后Muhou": {
             "name": "幕后Muhou",
@@ -682,8 +682,8 @@
             "filename": "幕后Muhou.har",
             "content": "",
             "date": "2021-11-20 22:30:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/82"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/82"
         },
         "一酷C4D": {
             "name": "一酷C4D",
@@ -694,8 +694,8 @@
             "filename": "一酷C4D.har",
             "content": "",
             "date": "2021-11-20 22:30:00",
-            "version":"20211120",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/83"
+            "version": "20211120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/83"
         },
         "Fa米家": {
             "name": "Fa米家",
@@ -706,8 +706,8 @@
             "filename": "Fa米家.har",
             "content": "",
             "date": "2021-11-21 00:00:00",
-            "version":"20211121",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/85"
+            "version": "20211121",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/85"
         },
         "中国汉化论坛": {
             "name": "中国汉化论坛",
@@ -718,8 +718,8 @@
             "filename": "中国汉化论坛.har",
             "content": "",
             "date": "2021-11-29 12:00:00",
-            "version":"20211129",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/86"
+            "version": "20211129",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/86"
         },
         "道客巴巴": {
             "name": "道客巴巴",
@@ -730,8 +730,8 @@
             "filename": "道客巴巴.har",
             "content": "",
             "date": "2021-11-29 12:20:00",
-            "version":"20211129",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/87"
+            "version": "20211129",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/87"
         },
         "HDDolby": {
             "name": "HDDolby",
@@ -742,8 +742,416 @@
             "filename": "HDDolby.har",
             "content": "",
             "date": "2021-11-29 15:00:00",
-            "version":"20211129",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/88"
+            "version": "20211129",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/88"
+        },
+        "不移之火": {
+            "name": "不移之火",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/不移之火.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.byzhihuo.com/",
+            "filename": "不移之火.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/3"
+        },
+        "次元狗": {
+            "name": "次元狗",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/次元狗.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.acgndog.com/",
+            "filename": "次元狗.har",
+            "content": "",
+            "date": "2021-11-09 00:00:00",
+            "version": "20211109",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/49"
+        },
+        "好家伙机场": {
+            "name": "好家伙机场",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/好家伙机场.har",
+            "update": false,
+            "comments": "email:邮箱<br>passwd:密码<br>https://haojiahuo.live/",
+            "filename": "好家伙机场.har",
+            "content": "",
+            "date": "2021-10-02 13:00:00",
+            "version": "20211002",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/42"
+        },
+        "后期菌资源村": {
+            "name": "后期菌资源村",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/后期菌资源村.har",
+            "update": false,
+            "comments": "username:手机号<br>password:密码<br>http://www.houqijun.vip/",
+            "filename": "后期菌资源村.har",
+            "content": "",
+            "date": "2021-10-06 17:40:00",
+            "version": "20211006",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/43"
+        },
+        "几鸡": {
+            "name": "几鸡",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/几鸡.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>domain：网站域名",
+            "filename": "几鸡.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/14"
+        },
+        "晋江小说": {
+            "name": "晋江小说",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/晋江小说.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://m.jjwxc.net/",
+            "filename": "晋江小说.har",
+            "content": "",
+            "date": "2021-09-28 20:00:00",
+            "version": "20210928",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/34"
+        },
+        "经管之家": {
+            "name": "经管之家",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/经管之家.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://bbs.pinggu.org/",
+            "filename": "经管之家.har",
+            "content": "",
+            "date": "2021-09-21 10:00:00",
+            "version": "20210921",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/31"
+        },
+        "看雪安全论坛": {
+            "name": "看雪安全论坛",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/看雪安全论坛.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://bbs.pediy.com/",
+            "filename": "看雪安全论坛.har",
+            "content": "",
+            "date": "2021-09-28 20:00:00",
+            "version": "20210928",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/35"
+        },
+        "科技玩家": {
+            "name": "科技玩家",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/科技玩家.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.kejiwanjia.com/",
+            "filename": "科技玩家.har",
+            "content": "",
+            "date": "2021-11-19 10:30:00",
+            "version": "20211119",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/51"
+        },
+        "科学刀论坛": {
+            "name": "科学刀论坛",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/科学刀论坛.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.kxdao.net/",
+            "filename": "科学刀论坛.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/7"
+        },
+        "科学刀在线时间": {
+            "name": "科学刀在线时间",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/科学刀在线时间.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.kxdao.net/",
+            "filename": "科学刀在线时间.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/8"
+        },
+        "龙的天空": {
+            "name": "龙的天空",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/龙的天空.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.lkong.com/",
+            "filename": "龙的天空.har",
+            "content": "",
+            "date": "2021-10-18 10:00:00",
+            "version": "20211018",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/17"
+        },
+        "猫耳FM-每日鱼干": {
+            "name": "猫耳FM-每日鱼干",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/猫耳FM-每日鱼干.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.missevan.com",
+            "filename": "猫耳FM-每日鱼干.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/15"
+        },
+        "魅族社区": {
+            "name": "魅族社区",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/魅族社区.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://bbs.meizu.cn/",
+            "filename": "魅族社区.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210921",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/11"
+        },
+        "轻之文库": {
+            "name": "轻之文库",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/轻之文库.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.linovel.net/",
+            "filename": "轻之文库.har",
+            "content": "",
+            "date": "2021-11-19 17:00:00",
+            "version": "20211119",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/62"
+        },
+        "人人字幕组": {
+            "name": "人人字幕组",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/人人字幕组.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>DOMAIN：网站域名【http://www.yysub.net/】",
+            "filename": "人人字幕组.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/5"
+        },
+        "绅士领域": {
+            "name": "绅士领域",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/绅士领域.har",
+            "update": false,
+            "comments": "uid:个人uid可APP抓签到包看到",
+            "filename": "绅士领域.har",
+            "content": "",
+            "date": "2021-11-19 10:30:00",
+            "version": "20211119",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/47"
+        },
+        "时光相册": {
+            "name": "时光相册",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/时光相册.har",
+            "update": false,
+            "comments": "phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br>https://www.everphoto.cn/",
+            "filename": "时光相册.har",
+            "content": "",
+            "date": "2021-10-18 10:00:00",
+            "version": "20211018",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/21"
+        },
+        "手电大家谈": {
+            "name": "手电大家谈",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/手电大家谈.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.shoudian.org/",
+            "filename": "手电大家谈.har",
+            "content": "",
+            "date": "2021-11-03 22:00:00",
+            "version": "20211103",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/48"
+        },
+        "书香门第": {
+            "name": "书香门第",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/书香门第.har",
+            "update": false,
+            "comments": "account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br>http://www.txtnovel.top",
+            "filename": "书香门第.har",
+            "content": "",
+            "date": "2021-09-19 10:00:00",
+            "version": "20210919",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/22"
+        },
+        "王者营地": {
+            "name": "王者营地",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/王者营地.har",
+            "update": false,
+            "comments": "抓包 APP 中域名为 https://ssl.kohsocialapp.qq.com 请求内容的全部参数<br>APP自行商店下载",
+            "filename": "王者营地.har",
+            "content": "",
+            "date": "2021-11-21 01:00:00",
+            "version": "20211121",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/59"
+        },
+        "网易云游戏": {
+            "name": "网易云游戏",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/网易云游戏.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://cg.163.com/",
+            "filename": "网易云游戏.har",
+            "content": "",
+            "date": "2021-09-18 10:00:00",
+            "version": "20210918",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/18"
+        },
+        "香网小说": {
+            "name": "香网小说",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/香网小说.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://m.xiang5.com/",
+            "filename": "香网小说.har",
+            "content": "",
+            "date": "2021-11-19 10:30:00",
+            "version": "20211119",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/32"
+        },
+        "一加社区": {
+            "name": "一加社区",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/一加社区.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.oneplusbbs.com/",
+            "filename": "一加社区.har",
+            "content": "",
+            "date": "2021-11-12 15:00:00",
+            "version": "20211112",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/55"
+        },
+        "阅次元论坛": {
+            "name": "阅次元论坛",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/阅次元论坛.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.abooky.com/",
+            "filename": "阅次元论坛.har",
+            "content": "",
+            "date": "2021-11-09 00:00:00",
+            "version": "20211109",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/50"
+        },
+        "中国原创音乐基地5SING": {
+            "name": "中国原创音乐基地5SING",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/中国原创音乐基地5SING.har",
+            "update": false,
+            "comments": "登录后首页cookie,ck有效期一周<br>http://5sing.kugou.com/",
+            "filename": "中国原创音乐基地5SING.har",
+            "content": "",
+            "date": "2021-10-06 17:40:00",
+            "version": "20211006",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/44"
+        },
+        "bigfun": {
+            "name": "bigfun",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/bigfun.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.bigfun.cn",
+            "filename": "bigfun.har",
+            "content": "",
+            "date": "2021-09-19 10:00:00",
+            "version": "20210919",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/24"
+        },
+        "chiphell": {
+            "name": "chiphell",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/chiphell.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.chiphell.com",
+            "filename": "chiphell.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/9"
+        },
+        "element3ds": {
+            "name": "element3ds",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/element3ds.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.element3ds.com/",
+            "filename": "element3ds.har",
+            "content": "",
+            "date": "2021-09-16 10:00:00",
+            "version": "20210916",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/4"
+        },
+        "HDarea高清视界": {
+            "name": "HDarea高清视界",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/HDarea高清视界.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.hdarea.co/",
+            "filename": "HDarea高清视界.har",
+            "content": "",
+            "date": "2021-09-20 10:00:00",
+            "version": "20210920",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/30"
+        },
+        "level-plus": {
+            "name": "level-plus",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/level-plus.har",
+            "update": false,
+            "comments": "登录后首页cookie和UA<br>https://www.level-plus.net",
+            "filename": "level-plus.har",
+            "content": "",
+            "date": "2021-09-19 20:00:00",
+            "version": "20210919",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/26"
+        },
+        "QooApp": {
+            "name": "QooApp",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/QooApp.har",
+            "update": false,
+            "comments": "token:下载App抓包cookie,找到请求头部 x-user-token 的值",
+            "filename": "QooApp.har",
+            "content": "",
+            "date": "2021-11-10 12:00:00",
+            "version": "20211110",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/52"
+        },
+        "VCB-Studio分享论坛": {
+            "name": "VCB-Studio分享论坛",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/VCB-Studio分享论坛.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://bbs.acgrip.com",
+            "filename": "VCB-Studio分享论坛.har",
+            "content": "",
+            "date": "2021-11-22 00:30:00",
+            "version": "20211122",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/27"
+        },
+        "ZNDS智能电视网": {
+            "name": "ZNDS智能电视网",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/ZNDS智能电视网.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.znds.com/",
+            "filename": "ZNDS智能电视网.har",
+            "content": "",
+            "date": "2021-11-19 14:00:00",
+            "version": "20211119",
+            "commenturl": "https://github.com/wjf0214/qd-templates/discussions/60"
         }
     }
 }
