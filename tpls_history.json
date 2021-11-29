@@ -732,6 +732,18 @@
             "date": "2021-11-29 12:20:00",
             "version":"20211129",
             "commenturl":"https://github.com/qiandao-today/templates/issues/87"
+        },
+        "HDDolby": {
+            "name": "HDDolby",
+            "author": "a76yyyy",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/HDDolby.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.hddolby.com/index.php",
+            "filename": "HDDolby.har",
+            "content": "",
+            "date": "2021-11-29 15:00:00",
+            "version":"20211129",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/88"
         }
     }
 }
