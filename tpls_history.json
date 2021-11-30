@@ -517,16 +517,16 @@
             "version": "20210628",
             "commenturl": "https://github.com/qiandao-today/templates/issues/52"
         },
-        "91Wii核心玩家的集中营": {
-            "name": "91Wii核心玩家的集中营",
+        "91tvg主机玩家的营地": {
+            "name": "91tvg主机玩家的营地",
             "author": "wjf0214",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/91Wii核心玩家的集中营.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/91tvg主机玩家的营地.har",
             "update": false,
-            "comments": "登录后首页cookie<br>F12后,删除 XnMp_2132_visitcode 这个cookie，刷新页面。页面出现加法验证码页面，复制此时的cookie。请选中复制,不要右键复制值。<br>https://www.91wii.com/",
-            "filename": "91Wii核心玩家的集中营.har",
+            "comments": "登录后首页cookie<br>https://www.91tvg.com/",
+            "filename": "91tvg主机玩家的营地.har",
             "content": "",
-            "date": "2021-11-21 00:00:00",
-            "version": "20211121",
+            "date": "2021-11-30 11:00:00",
+            "version": "20211130",
             "commenturl": "https://github.com/qiandao-today/templates/issues/56"
         },
         "致美化": {

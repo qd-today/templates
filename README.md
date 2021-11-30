@@ -121,7 +121,7 @@ E次元| [wjf0214](https://github.com/wjf0214) |[E次元.har](https://raw.github
 数码之家|[acooler15](https://github.com/acooler15)|[数码之家.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e6%95%b0%e7%a0%81%e4%b9%8b%e5%ae%b6.har)|2021-06-28 20:24:00|cookies
 迅维网|[acooler15](https://github.com/acooler15)|[迅维网.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%bf%85%e7%bb%b4%e7%bd%91.har)|2021-06-28 20:24:00|cookies
 远景论坛|[acooler15](https://github.com/acooler15)|[远景论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master//%e8%bf%9c%e6%99%af%e8%ae%ba%e5%9d%9b.har)|2021-06-28 20:24:00|cookies
-91Wii核心玩家的集中营| [wjf0214](https://github.com/wjf0214) |[91Wii核心玩家的集中营.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91Wii核心玩家的集中营.har)|2021-11-21 00:00:00| 登录后首页cookie<br>F12后,删除 XnMp_2132_visitcode 这个cookie，刷新页面。页面出现加法验证码页面，复制此时的cookie。请选中复制,不要右键复制值。<br>https://www.91wii.com/
+91tvg主机玩家的营地| [wjf0214](https://github.com/wjf0214) |[91tvg主机玩家的营地.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91tvg主机玩家的营地.har)|2021-11-30 11:00:00| 登录后首页cookie<br>https://www.91tvg.com/
 致美化| [wjf0214](https://github.com/wjf0214) |[致美化.har](https://raw.githubusercontent.com/qiandao-today/templates/master/致美化.har)|2021-11-20 21:20:00| user:账号<br>pass:密码<br>https://zhutix.com
 hao4k| [wjf0214](https://github.com/wjf0214) |[hao4k.har](https://raw.githubusercontent.com/qiandao-today/templates/master/hao4k.har)|2021-11-20 21:20:00| 登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>https://www.hao4k.cn/
 掘金|[acooler15](https://github.com/acooler15)|[掘金.har](https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har)|2021-09-16 19:00:00|cookies
