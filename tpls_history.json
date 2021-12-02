@@ -414,11 +414,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/漫画补档(账号密码版).har",
             "update": false,
-            "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>user:账号<br>pwd:密码<br>https://www.manhuabudang.com",
+            "comments": "username:账号<br>password:密码<br>https://www.manhuabudang.com",
             "filename": "漫画补档(账号密码版).har",
             "content": "",
-            "date": "2020-11-20 21:20:00",
-            "version": "20211120",
+            "date": "2021-12-02 20:00:00",
+            "version": "20211202",
             "commenturl": "https://github.com/qiandao-today/templates/issues/26"
         },
         "什么值得买7合一": {
