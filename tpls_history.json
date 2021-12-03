@@ -1158,11 +1158,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/学破解论坛.har",
             "update": false,
-            "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx 选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://www.xuepojie.com/",
+            "comments": "username:账号<br>password:密码<br>https://www.xuepojie.com/",
             "filename": "学破解论坛.har",
             "content": "",
-            "date": "2021-11-30 15:00:00",
-            "version": "20211130",
+            "date": "2021-12-03 11:20:00",
+            "version": "20211203",
             "commenturl": "https://github.com/qiandao-today/templates/issues/124"
         },
         "爱玩网络": {
