@@ -198,11 +198,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/萌幻之乡.har",
             "update": false,
-            "comments": "登录后首页cookie<br>https://www.hmoe11.net/",
+            "comments": "username:账号<br>password:密码<br>https://www.hmoe11.net/",
             "filename": "萌幻之乡.har",
             "content": "",
-            "date": "2021-11-20 21:20:00",
-            "version": "20211120",
+            "date": "2021-12-03 10:40:00",
+            "version": "20211203",
             "commenturl": "https://github.com/qiandao-today/templates/issues/23"
         },
         "KDays论坛": {
