@@ -1164,6 +1164,18 @@
             "date": "2021-12-01 11:10:00",
             "version": "20211201",
             "commenturl": "https://github.com/qiandao-today/templates/issues/125"
+        },
+        "switch520": {
+            "name": "switch520",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/switch520.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://switch520.com/",
+            "filename": "switch520.har",
+            "content": "",
+            "date": "2021-12-06 16:30:00",
+            "version": "20211206",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/126"
         }
     }
 }

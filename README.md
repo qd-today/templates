@@ -124,6 +124,7 @@ Tips:
 | ZNDS智能电视网 | [wjf0214](https://github.com/wjf0214) | [ZNDS智能电视网.har](https://github.com/qiandao-today/templates/blob/master/ZNDS智能电视网.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br><https://www.znds.com/> |
 | 学破解论坛 | [wjf0214](https://github.com/wjf0214) | [学破解论坛.har](https://github.com/qiandao-today/templates/blob/master/学破解论坛.har) | 2021-12-03 11:20:00 | username:账号<br>password:密码<br><https://www.xuepojie.com/> |
 | 爱玩网络 | [wjf0214](https://github.com/wjf0214) | [爱玩网络.har](https://github.com/qiandao-today/templates/blob/master/爱玩网络.har) | 2021-12-01 11:10:00 | username:账号<br>password:密码<br><https://wngamebox.cn/> |
+| switch520 | [wjf0214](https://github.com/wjf0214) | [switch520.har](https://github.com/qiandao-today/templates/blob/master/switch520.har) | 2021-12-06 16:30:00 | username:账号<br>password:密码<br><https://switch520.com/> |
 
 ## 📄如何注册第三方库
 
