@@ -333,8 +333,8 @@
             "comments": "username:账号,手机号<br>password:密码<br><https://www.flyert.com/><br>由于网站登录授权特殊,授权次数不固定。请求暂定3次，超过3次。可能登录不成功。多试几次便可",
             "filename": "飞客茶馆.har",
             "content": "",
-            "date": "2021-12-05 15:30:00",
-            "version": "20211205",
+            "date": "2021-12-06 13:30:00",
+            "version": "20211206",
             "commenturl": "https://github.com/qiandao-today/templates/issues/38"
         },
         "V2EX": {
