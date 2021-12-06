@@ -1176,6 +1176,18 @@
             "date": "2021-12-06 16:30:00",
             "version": "20211206",
             "commenturl": "https://github.com/qiandao-today/templates/issues/126"
+        },
+        "远景论坛(账号版)": {
+            "name": "远景论坛(账号版)",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/远景论坛(账号版).har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://bbs.pcbeta.com/",
+            "filename": "远景论坛(账号版).har",
+            "content": "",
+            "date": "2021-12-06 22:30:00",
+            "version": "20211206",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/127"
         }
     }
 }
