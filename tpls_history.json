@@ -1093,16 +1093,16 @@
             "version": "20210920",
             "commenturl": "https://github.com/qiandao-today/templates/issues/119"
         },
-        "level-plus": {
-            "name": "level-plus",
+        "south-plus": {
+            "name": "south-plus",
             "author": "wjf0214",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/level-plus.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/south-plus.har",
             "update": false,
-            "comments": "登录后首页cookie和UA<br>https://www.level-plus.net",
-            "filename": "level-plus.har",
+            "comments": "登录后首页cookie和UA<br>domain:为网站域名，如【https://www.south-plus.net/】,https和后面的'/'都要有<br>https://www.south-plus.net",
+            "filename": "south-plus.har",
             "content": "",
-            "date": "2021-09-19 20:00:00",
-            "version": "20210919",
+            "date": "2021-12-07 21:40:00",
+            "version":"20211207",
             "commenturl": "https://github.com/qiandao-today/templates/issues/120"
         },
         "QooApp": {

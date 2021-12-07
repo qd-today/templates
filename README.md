@@ -118,7 +118,7 @@ Tips:
 | chiphell | [wjf0214](https://github.com/wjf0214) | [chiphell.har](https://github.com/qiandao-today/templates/blob/master/chiphell.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.chiphell.com> |
 | element3ds | [wjf0214](https://github.com/wjf0214) | [element3ds.har](https://github.com/qiandao-today/templates/blob/master/element3ds.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.element3ds.com/> |
 | HDarea高清视界 | [wjf0214](https://github.com/wjf0214) | [HDarea高清视界.har](https://github.com/qiandao-today/templates/blob/master/HDarea高清视界.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.hdarea.co/> |
-| level-plus | [wjf0214](https://github.com/wjf0214) | [level-plus.har](https://github.com/qiandao-today/templates/blob/master/level-plus.har) | 2021-11-29 16:00:00 | 登录后首页cookie和UA<br><https://www.level-plus.net> |
+| south-plus | [wjf0214](https://github.com/wjf0214) | [south-plus.har](https://github.com/qiandao-today/templates/blob/master/south-plus.har) | 2021-12-07 21:40:00 | 登录后首页cookie和UA<br>domain:为网站域名，如【https://www.south-plus.net/】,https和后面的'/'都要有<br><https://www.south-plus.net> |
 | QooApp | [wjf0214](https://github.com/wjf0214) | [QooApp.har](https://github.com/qiandao-today/templates/blob/master/QooApp.har) | 2021-11-29 16:00:00 | token:下载App抓包cookie,找到请求头部 x-user-token 的值 |
 | VCB-Studio分享论坛 | [wjf0214](https://github.com/wjf0214) | [VCB-Studio分享论坛.har](https://github.com/qiandao-today/templates/blob/master/VCB-Studio分享论坛.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://bbs.acgrip.com> |
 | ZNDS智能电视网 | [wjf0214](https://github.com/wjf0214) | [ZNDS智能电视网.har](https://github.com/qiandao-today/templates/blob/master/ZNDS智能电视网.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br><https://www.znds.com/> |
