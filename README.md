@@ -112,7 +112,7 @@ Tips:
 | 网易云游戏 | [wjf0214](https://github.com/wjf0214) | [网易云游戏.har](https://github.com/qiandao-today/templates/blob/master/网易云游戏.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://cg.163.com/> |
 | 香网小说 | [wjf0214](https://github.com/wjf0214) | [香网小说.har](https://github.com/qiandao-today/templates/blob/master/香网小说.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://m.xiang5.com/> |
 | 一加社区 | [wjf0214](https://github.com/wjf0214) | [一加社区.har](https://github.com/qiandao-today/templates/blob/master/一加社区.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.oneplusbbs.com/> |
-| 阅次元论坛 | [wjf0214](https://github.com/wjf0214) | [阅次元论坛.har](https://github.com/qiandao-today/templates/blob/master/阅次元论坛.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br><https://www.abooky.com/> |
+| 阅次元论坛 | [wjf0214](https://github.com/wjf0214) | [阅次元论坛.har](https://github.com/qiandao-today/templates/blob/master/阅次元论坛.har) | 2021-12-08 14:00:00 | username:账号<br>password:密码<br><https://www.abooky.com/> |
 | 中国原创音乐基地5SING | [wjf0214](https://github.com/wjf0214) | [中国原创音乐基地5SING.har](https://github.com/qiandao-today/templates/blob/master/中国原创音乐基地5SING.har) | 2021-11-29 16:00:00 | 登录后首页cookie,ck有效期一周<br><http://5sing.kugou.com/> |
 | bigfun | [wjf0214](https://github.com/wjf0214) | [bigfun.har](https://github.com/qiandao-today/templates/blob/master/bigfun.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.bigfun.cn> |
 | chiphell | [wjf0214](https://github.com/wjf0214) | [chiphell.har](https://github.com/qiandao-today/templates/blob/master/chiphell.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.chiphell.com> |
