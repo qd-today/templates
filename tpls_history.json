@@ -1188,6 +1188,18 @@
             "date": "2021-12-06 22:30:00",
             "version": "20211206",
             "commenturl": "https://github.com/qiandao-today/templates/issues/127"
+        },
+        "小米运动": {
+            "name": "小米运动",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/小米运动.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>步数默认为1w到2w之间随机，要想修改区间请到模板第5个请求【生成运动步数】这里，修改里面【random(最小值,最大值，0)】",
+            "filename": "小米运动.har",
+            "content": "",
+            "date": "2021-12-08 16:50:00",
+            "version": "20211208",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/128"
         }
     }
 }
