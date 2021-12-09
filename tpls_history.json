@@ -1200,6 +1200,18 @@
             "date": "2021-12-08 20:00:00",
             "version": "20211208",
             "commenturl":"https://github.com/qiandao-today/templates/issues/128"
+        },
+        "阡陌居": {
+            "name": "阡陌居",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/阡陌居.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>http://www.1000qm.vip/",
+            "filename": "阡陌居.har",
+            "content": "",
+            "date": "2021-12-09 18:00:00",
+            "version": "20211209",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/129"
         }
     }
 }
