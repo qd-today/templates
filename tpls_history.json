@@ -1224,6 +1224,18 @@
             "date": "2021-12-12 12:00:00",
             "version": "20211212",
             "commenturl":"https://github.com/qiandao-today/templates/issues/130"
+        },
+        "ToTheGlory": {
+            "name": "ToTheGlory",
+            "author": "a76yyyy",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/ToTheGlory.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://totheglory.im/",
+            "filename": "ToTheGlory.har",
+            "content": "",
+            "date": "2021-12-12 13:00:00",
+            "version": "20211212",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/131"
         }
     }
 }
