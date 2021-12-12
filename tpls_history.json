@@ -1212,6 +1212,18 @@
             "date": "2021-12-10 09:45:00",
             "version": "20211210",
             "commenturl":"https://github.com/qiandao-today/templates/issues/129"
+        },
+        "PtTime": {
+            "name": "PtTime",
+            "author": "a76yyyy",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/PtTime.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.pttime.org/",
+            "filename": "PtTime.har",
+            "content": "",
+            "date": "2021-12-12 12:00:00",
+            "version": "20211212",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/130"
         }
     }
 }
