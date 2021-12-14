@@ -1252,10 +1252,10 @@
         "OB PT签到 账号密码版": {
             "name": "OB PT签到 账号密码版",
             "author": "嘉然今天吃什么",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/OB签到.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/OBPT签到.har",
             "update": false,
             "comments": "OB站Cookie 30天过期一次，用账号密码版省心点",
-            "filename": "OB签到.har",
+            "filename": "OBPT签到.har",
             "content": "",
             "date": "2021-12-14 20:50:00",
             "version": "20211214",
