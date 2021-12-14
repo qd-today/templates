@@ -1236,6 +1236,30 @@
             "date": "2021-12-12 13:00:00",
             "version": "20211212",
             "commenturl":"https://github.com/qiandao-today/templates/issues/131"
+        },
+        "B站每日综合签到": {
+            "name": "B站每日综合签到",
+            "author": "嘉然今天吃什么",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/B站每日综合签到.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.bilibili.com/<br>每个操作都会相隔15秒。耐心等待，请不要重复点击测试！包含主站登陆经验+5视频观看经验+5视频分享经验+5,直播签到,B漫签到。带日志",
+            "filename": "B站每日综合签到.har",
+            "content": "",
+            "date": "2021-12-14 20:50:00",
+            "version": "20211214",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/132"
+        },
+        "OB PT签到 账号密码版": {
+            "name": "OB PT签到 账号密码版",
+            "author": "嘉然今天吃什么",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/OB PT签到 账号密码版.har",
+            "update": false,
+            "comments": "OB站Cookie 30天过期一次，用账号密码版省心点",
+            "filename": "OB PT签到 账号密码版.har",
+            "content": "",
+            "date": "2021-12-14 20:50:00",
+            "version": "20211214",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/133"
         }
     }
 }
