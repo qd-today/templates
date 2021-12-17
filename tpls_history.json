@@ -1284,6 +1284,18 @@
             "date": "2021-12-16 21:10:00",
             "version": "20211216",
             "commenturl":"https://github.com/qiandao-today/templates/issues/136"
+        },
+        "魔兽大数据": {
+            "name": "魔兽大数据",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/魔兽大数据.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>http://bj.wowdata.top/",
+            "filename": "魔兽大数据.har",
+            "content": "",
+            "date": "2021-12-17 17:00:00",
+            "version": "20211217",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/137"
         }
     }
 }

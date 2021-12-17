@@ -134,7 +134,7 @@ Tips:
 | OB PT签到 账号密码版 | [嘉然今天吃什么](https://github.com/ddd-zero) | [OBPT签到.har](https://github.com/qiandao-today/templates/blob/master/OBPT签到.har) | 2021-12-14 20:50:00 | OB站Cookie 30天过期一次，用账号密码版省心点 |
 | 33iQ | [FellBan](https://github.com/FellBan) | [33iQ.har](https://github.com/qiandao-today/templates/blob/master/33iQ.har) | 2021-12-16 21:10:00 | user:账号<br>pass:密码<br><https://www.33iq.com/> |
 | 万由论坛 | [FellBan](https://github.com/FellBan) | [万由论坛.har](https://github.com/qiandao-today/templates/blob/master/万由论坛.har) | 2021-12-16 21:10:00 | 登录后首页cookie<br><https://www.u-share.cn/> |
-
+| 魔兽大数据 | [wjf0214](https://github.com/wjf0214) | [魔兽大数据.har](https://github.com/qiandao-today/templates/blob/master/魔兽大数据.har) | 2021-12-17 17:00:00 | 登录后首页cookie<br><http://bj.wowdata.top/> |
 
 ## 📄如何注册第三方库
 
