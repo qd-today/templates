@@ -1026,11 +1026,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/阅次元论坛.har",
             "update": false,
-            "comments": "username:账号<br>password:密码<br>https://www.abooky.com/",
+            "comments": "登录后首页cookie<br>https://www.abooky.com/",
             "filename": "阅次元论坛.har",
             "content": "",
-            "date": "2021-12-08 14:00:00",
-            "version":"20211208",
+            "date": "2021-12-17 13:10:00",
+            "version":"20211217",
             "commenturl": "https://github.com/qiandao-today/templates/issues/114"
         },
         "中国原创音乐基地5SING": {
@@ -1077,8 +1077,8 @@
             "comments": "登录后首页cookie<br>https://www.element3ds.com/",
             "filename": "element3ds.har",
             "content": "",
-            "date": "2021-09-16 10:00:00",
-            "version": "20210916",
+            "date": "2021-12-17 13:10:00",
+            "version":"20211217",
             "commenturl": "https://github.com/qiandao-today/templates/issues/118"
         },
         "HDarea高清视界": {
@@ -1260,6 +1260,30 @@
             "date": "2021-12-14 20:50:00",
             "version": "20211214",
             "commenturl":"https://github.com/qiandao-today/templates/issues/134"
+        },
+        "33iQ": {
+            "name": "33iQ",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/33iQ.har",
+            "update": false,
+            "comments": "user:账号<br>pass:密码<br>https://www.33iq.com/",
+            "filename": "33iQ.har",
+            "content": "",
+            "date": "2021-12-16 21:10:00",
+            "version": "20211216",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/135"
+        },
+        "万由论坛": {
+            "name": "万由论坛",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/万由论坛.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.u-share.cn/",
+            "filename": "万由论坛.har",
+            "content": "",
+            "date": "2021-12-16 21:10:00",
+            "version": "20211216",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/136"
         }
     }
 }
