@@ -27,7 +27,7 @@ Tips:
 
 | 网站 | 作者 | 链接 | 修改日期 | 备注/日志 |
 | --- | --- | --- | --- | --- |
-| 189天翼云盘-账号版 | [gxitm](https://github.com/gxitm) <br> [a76yyyy](https://github.com/a76yyyy) | [189天翼云盘-账号版.har](https://raw.githubusercontent.com/qiandao-today/templates/master/189天翼云盘-账号版.har) | 2020-11-24 14:35:16 | 用户名+密码<br>用户名为手机号<br><https://cloud.189.cn/> |
+| 189天翼云盘-账号版 | [gxitm](https://github.com/gxitm) <br> [a76yyyy](https://github.com/a76yyyy) <br> [wjf0214](https://github.com/wjf0214) | [189天翼云盘-账号版.har](https://raw.githubusercontent.com/qiandao-today/templates/master/189天翼云盘-账号版.har) | 2021-12-24 20:30:00 | 用户名+密码<br>用户名为手机号<br><https://cloud.189.cn/> |
 | 国航APP | [AragonSnow](https://github.com/AragonSnow) | [airchina.har](https://raw.githubusercontent.com/qiandao-today/templates/master/airchina.har) | 2020-06-17 02:40:10 | 抓包，app杀台后不用输密码登录就行，这两个链接里有这个参数<br>前两个在<br><https://m.airchina.com.cn:9061/worklight/apps/services/api/AirChina/iphone/init> <br> param在 <br> <https://m.airchina.com.cn:9061/worklight/apps/services/api/AirChina/iphone/query> <br> paramters=到&结束<br>20200617更新：替换公共API地址，改用内置，需要配合aragonsonw/qiandao最新版使用 |
 | 轻之国度 | [AragonSnow](https://github.com/AragonSnow) | [lightnovel 轻之国度.har](https://raw.githubusercontent.com/qiandao-today/templates/master/lightnovel%20%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6.har) | 2020-05-20 15:43:45 | cks 网页cookie<br><https://www.lightnovel.us/> |
 | 精易论坛 | [FellBan](https://github.com/FellBan) | [精易论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/精易论坛.har) | 2020-05-21 09:23:54 | cookie<br><https://bbs.125.la> |
@@ -37,7 +37,7 @@ Tips:
 | summer-plus(原south-plus) | [AragonSnow](https://github.com/AragonSnow) <br> [github-h](https://github.com/github-h)  | [summer-plus(原south-plus).har](https://raw.githubusercontent.com/qiandao-today/templates/master/summer-plus(%E5%8E%9Fsouth-plus).har) | 2021-02-13 16:00:00 | cookie<br><https://www.summer-plus.net/> |
 | ZodGame论坛 | [github-h](https://github.com/github-h) | [ZodGame论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/ZodGame%E8%AE%BA%E5%9D%9B.har) | 2021-02-13 16:00:00 | cookie<br>若无法正常访问，国内vps请自行添加hosts文件<br><https://zodgame.xyz> |
 | 星空论坛seikuu | [github-h](https://github.com/github-h) | [星空论坛seikuu.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%98%9F%E7%A9%BA%E8%AE%BA%E5%9D%9Bseikuu.har) | 2021-02-13 16:00:00 | cookie<br><https://bbs2.seikuu.com/> |
-| 终点论坛 | [github-h](https://github.com/github-h) | [终点论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e7%bb%88%e7%82%b9%e8%ae%ba%e5%9d%9b.har) | 2021-02-13 16:00:00 | cookie<br><https://bbs.zdfx.net/> |
+| 终点论坛 | [FellBan](https://github.com/FellBan) | [终点论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e7%bb%88%e7%82%b9%e8%ae%ba%e5%9d%9b.har) | 2021-12-24 20:30:00 | cookie<br><https://bbs.zdfx.net/> |
 | 哥特动漫王国 | [github-h](https://github.com/github-h) | [哥特动漫王国.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%93%a5%e7%89%b9%e5%8a%a8%e6%bc%ab%e7%8e%8b%e5%9b%bd.har) | 2021-12-09 16:00:00 | cookie<br>论坛已经恢复，该模板带vip自动领取奖励，非vip用户也可以正常使用<br><https://www.gtloli.gay/forum.php/> |
 | 萌出血动漫论坛 | [github-h](https://github.com/github-h) | [萌出血动漫论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e8%90%8c%e5%87%ba%e8%a1%80%e5%8a%a8%e6%bc%ab%e8%ae%ba%e5%9d%9b.har) | 2021-12-09 16:00:00 | cookie<br><https://www.bbsmcx.com/forum.php> |
 | 好快的车车(原HMOE俱乐部) | [github-h](https://github.com/github-h) | [好快的车车.har](https://raw.githubusercontent.com/qiandao-today/templates/master/%e5%a5%bd%e5%bf%ab%e7%9a%84%e8%bd%a6%e8%bd%a6.har) | 2021-07-12 16:00:00 | 用户名+密码<br><https://cheche.one/> |
@@ -135,6 +135,7 @@ Tips:
 | 33iQ | [FellBan](https://github.com/FellBan) | [33iQ.har](https://github.com/qiandao-today/templates/blob/master/33iQ.har) | 2021-12-16 21:10:00 | user:账号<br>pass:密码<br><https://www.33iq.com/> |
 | 万由论坛 | [FellBan](https://github.com/FellBan) | [万由论坛.har](https://github.com/qiandao-today/templates/blob/master/万由论坛.har) | 2021-12-16 21:10:00 | 登录后首页cookie<br><https://www.u-share.cn/> |
 | 魔兽大数据 | [wjf0214](https://github.com/wjf0214) | [魔兽大数据.har](https://github.com/qiandao-today/templates/blob/master/魔兽大数据.har) | 2021-12-17 17:00:00 | 登录后首页cookie<br><http://bj.wowdata.top/> |
+
 
 ## 📄如何注册第三方库
 
