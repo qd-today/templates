@@ -1320,6 +1320,18 @@
             "date": "2021-12-28 13:00:00",
             "version": "20211228",
             "commenturl":"https://github.com/qiandao-today/templates/issues/141"
+        },
+        "SSPANEL机场通用签到": {
+            "name": "SSPANEL机场通用签到",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/SSPANEL机场通用签到.har",
+            "update": false,
+            "comments": "domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码",
+            "filename": "SSPANEL机场通用签到.har",
+            "content": "",
+            "date": "2021-12-28 14:20:00",
+            "version": "20211228",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/142"
         }
     }
 }

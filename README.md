@@ -136,7 +136,8 @@ Tips:
 | 万由论坛 | [FellBan](https://github.com/FellBan) | [万由论坛.har](https://github.com/qiandao-today/templates/blob/master/万由论坛.har) | 2021-12-16 21:10:00 | 登录后首页cookie<br><https://www.u-share.cn/> |
 | 魔兽大数据 | [wjf0214](https://github.com/wjf0214) | [魔兽大数据.har](https://github.com/qiandao-today/templates/blob/master/魔兽大数据.har) | 2021-12-17 17:00:00 | 登录后首页cookie<br><http://bj.wowdata.top/> |
 | 龙de船人 | [wjf0214](https://github.com/wjf0214) | [龙de船人.har](https://github.com/qiandao-today/templates/blob/master/龙de船人.har) | 2021-12-28 12:00:00 | 登录后首页cookie<br><https://www.imarine.cn/> |
-| 新赚吧 | [wjf0214](https://github.com/wjf0214) | [新赚吧.har](https://github.com/qiandao-today/templates/blob/master/新赚吧.har) | 2021-12-28 13:00:00 | username:手机号<br>password:密码<br><https://v1.xianbao.net/> |
+| 新赚吧 | [wjf0214](https://github.com/wjf0214) | [新赚吧.har](https://github.com/qiandao-today/templates/blob/master/新赚吧.har) | 2021-12-28 13:00:00 | username:账号<br>password:密码<br><https://v1.xianbao.net/> |
+| SSPANEL机场通用签到 | [wjf0214](https://github.com/wjf0214) | [SSPANEL机场通用签到.har](https://github.com/qiandao-today/templates/blob/master/SSPANEL机场通用签到.har) | 2021-12-28 14:20:00 | domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码 |
 
 ## 📄如何注册第三方库
 
