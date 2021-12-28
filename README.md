@@ -136,7 +136,7 @@ Tips:
 | 万由论坛 | [FellBan](https://github.com/FellBan) | [万由论坛.har](https://github.com/qiandao-today/templates/blob/master/万由论坛.har) | 2021-12-16 21:10:00 | 登录后首页cookie<br><https://www.u-share.cn/> |
 | 魔兽大数据 | [wjf0214](https://github.com/wjf0214) | [魔兽大数据.har](https://github.com/qiandao-today/templates/blob/master/魔兽大数据.har) | 2021-12-17 17:00:00 | 登录后首页cookie<br><http://bj.wowdata.top/> |
 | 龙de船人 | [wjf0214](https://github.com/wjf0214) | [龙de船人.har](https://github.com/qiandao-today/templates/blob/master/龙de船人.har) | 2021-12-28 12:00:00 | 登录后首页cookie<br><https://www.imarine.cn/> |
-
+| 新赚吧 | [wjf0214](https://github.com/wjf0214) | [新赚吧.har](https://github.com/qiandao-today/templates/blob/master/新赚吧.har) | 2021-12-28 13:00:00 | username:手机号<br>password:密码<br><https://v1.xianbao.net/> |
 
 ## 📄如何注册第三方库
 
