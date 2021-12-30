@@ -138,6 +138,7 @@ Tips:
 | 龙de船人 | [wjf0214](https://github.com/wjf0214) | [龙de船人.har](https://github.com/qiandao-today/templates/blob/master/龙de船人.har) | 2021-12-28 12:00:00 | 登录后首页cookie<br><https://www.imarine.cn/> |
 | 新赚吧 | [wjf0214](https://github.com/wjf0214) | [新赚吧.har](https://github.com/qiandao-today/templates/blob/master/新赚吧.har) | 2021-12-28 13:00:00 | username:账号<br>password:密码<br><https://v1.xianbao.net/> |
 | SSPANEL机场通用签到 | [wjf0214](https://github.com/wjf0214) | [SSPANEL机场通用签到.har](https://github.com/qiandao-today/templates/blob/master/SSPANEL机场通用签到.har) | 2021-12-28 14:20:00 | domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码 |
+| 萌盘总动员 | [wjf0214](https://github.com/wjf0214) | [萌盘总动员.har](https://github.com/qiandao-today/templates/blob/master/萌盘总动员.har) | 2021-12-30 14:00:00 | username:账号<br>password:密码<br><http://bdarea.net/> |
 
 ## 📄如何注册第三方库
 
