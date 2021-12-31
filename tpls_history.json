@@ -1305,8 +1305,8 @@
             "comments": "登录后首页cookie<br>https://www.imarine.cn/",
             "filename": "龙de船人.har",
             "content": "",
-            "date": "2021-12-28 12:00:00",
-            "version": "20211228",
+            "date": "2021-12-31 15:00:00",
+            "version": "20211231",
             "commenturl":"https://github.com/qiandao-today/templates/issues/140"
         },
         "新赚吧": {
@@ -1344,6 +1344,30 @@
             "date": "2021-12-30 14:00:00",
             "version": "20211230",
             "commenturl":"https://github.com/qiandao-today/templates/issues/143"
+        },
+        "98堂": {
+            "name": "98堂",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/98堂.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://wetytrytuyu.net/",
+            "filename": "98堂.har",
+            "content": "",
+            "date": "2021-12-31 15:00:00",
+            "version": "20211231",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/144"
+        },
+        "学犀牛中文网": {
+            "name": "学犀牛中文网",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/学犀牛中文网.har",
+            "update": false,
+            "comments": "登录后首页cookie，不要右键复制值，请选中后复制<br>https://www.xuexiniu.com/",
+            "filename": "学犀牛中文网.har",
+            "content": "",
+            "date": "2021-12-31 15:00:00",
+            "version": "20211231",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/145"
         }
     }
 }
