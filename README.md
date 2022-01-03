@@ -13,6 +13,8 @@
 - 现模板基于 [最新版框架](https://github.com/qiandao-today/qiandao) 使用, 具体使用方式请自行学习。
 
 > 极个别模板不兼容 [旧版本](https://github.com/binux/qiandao) 框架, 如有不兼容请使用 [最新版](https://github.com/qiandao-today/qiandao) 。
+>
+> 仅20211228及之后版本签到框架支持`api://`请求, 其他版本使用模板时请自行升级签到框架 或 将`api://`更换为`http://localhost/`
 
 ## 💭交流反馈
 
@@ -161,7 +163,7 @@ Tips:
                 "filename": "必填，content为空时通过此来读取har", 
                 "content": "选填,不填则根据 filename 的值来读取对应的har文件,默认为base64编码", 
                 "date": "必填， 日期",
-    "version":"必填， 版本号 yyyymmdd，框架通过版本号来判断是否更新模板",
+                "version":"必填， 版本号 yyyymmdd，框架通过版本号来判断是否更新模板",
                 "commenturl":"选填，模板对应的评论区，留空时不显示按钮"
             }
         }
