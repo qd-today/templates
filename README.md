@@ -143,6 +143,11 @@ Tips:
 | 萌盘总动员 | [wjf0214](https://github.com/wjf0214) | [萌盘总动员.har](https://github.com/qiandao-today/templates/blob/master/萌盘总动员.har) | 2021-12-30 14:00:00 | username:账号<br>password:密码<br><http://bdarea.net/> |
 | 98堂 | [wjf0214](https://github.com/wjf0214) | [98堂.har](https://github.com/qiandao-today/templates/blob/master/98堂.har) | 2021-12-31 15:00:00 | username:账号<br>password:密码<br><https://wetytrytuyu.net/> |
 | 学犀牛中文网 | [wjf0214](https://github.com/wjf0214) | [学犀牛中文网.har](https://github.com/qiandao-today/templates/blob/master/学犀牛中文网.har) | 2021-12-31 15:00:00 | 登录后首页cookie，不要右键复制值，请选中后复制<br><https://www.xuexiniu.com/> |
+| 大碗岛漫画 | [wjf0214](https://github.com/wjf0214) | [大碗岛漫画.har](https://github.com/qiandao-today/templates/blob/master/大碗岛漫画.har) | 2021-12-31 16:00:00 | username:账号<br>password:密码<br><http://www.dawandao.com/> |
+| 捌零发烧音乐网 | [wjf0214](https://github.com/wjf0214) | [捌零发烧音乐网.har](https://github.com/qiandao-today/templates/blob/master/捌零发烧音乐网.har) | 2022-01-03 10:00:00 | 登录后首页cookie<br><https://hifi.juyincar.com/> |
+| 武聆音雄配乐网 | [wjf0214](https://github.com/wjf0214) | [武聆音雄配乐网.har](https://github.com/qiandao-today/templates/blob/master/武聆音雄配乐网.har) | 2021-12-31 15:00:00 | username:账号<br>password:密码<br>message:签到回复帖子的语句，默认为'每日签到~'<br><https://www.wlyxmusic.net/> |
+| 56brand我来网 | [wjf0214](https://github.com/wjf0214) | [56brand我来网.har](https://github.com/qiandao-today/templates/blob/master/56brand我来网.har) | 2022-01-03 14:00:00 | username:账号<br>password:密码<br><http://www.56brand.com/> |
+| 野火论坛 | [wjf0214](https://github.com/wjf0214) | [野火论坛.har](https://github.com/qiandao-today/templates/blob/master/野火论坛.har) | 2022-01-05 21:00:00 | username:账号<br>password:密码<br><http://www.proewildfire.cn/> |
 
 ## 📄如何注册第三方库
 

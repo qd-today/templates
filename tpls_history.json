@@ -1368,6 +1368,66 @@
             "date": "2021-12-31 15:00:00",
             "version": "20211231",
             "commenturl":"https://github.com/qiandao-today/templates/issues/145"
+        },
+        "大碗岛漫画": {
+            "name": "大碗岛漫画",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/大碗岛漫画.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>http://www.dawandao.com/",
+            "filename": "大碗岛漫画.har",
+            "content": "",
+            "date": "2021-12-31 16:00:00",
+            "version": "20211231",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/146"
+        },
+        "捌零发烧音乐网": {
+            "name": "捌零发烧音乐网",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/捌零发烧音乐网.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://hifi.juyincar.com/",
+            "filename": "捌零发烧音乐网.har",
+            "content": "",
+            "date": "2022-01-03 10:00:00",
+            "version": "20220103",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/147"
+        },
+        "武聆音雄配乐网": {
+            "name": "武聆音雄配乐网",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/武聆音雄配乐网.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>message:签到回复帖子的语句，默认为'每日签到~'<br>https://www.wlyxmusic.net/",
+            "filename": "武聆音雄配乐网.har",
+            "content": "",
+            "date": "2022-01-03 10:00:00",
+            "version": "20220103",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/148"
+        },
+        "56brand我来网": {
+            "name": "56brand我来网",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/56brand我来网.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>http://www.56brand.com/",
+            "filename": "56brand我来网.har",
+            "content": "",
+            "date": "2022-01-03 14:00:00",
+            "version": "20220103",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/149"
+        },
+        "野火论坛": {
+            "name": "野火论坛",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/野火论坛.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>http://www.proewildfire.cn/",
+            "filename": "野火论坛.har",
+            "content": "",
+            "date": "2022-01-05 21:00:00",
+            "version": "20220105",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/150"
         }
     }
 }
