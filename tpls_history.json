@@ -1428,6 +1428,18 @@
             "date": "2022-01-05 21:00:00",
             "version": "20220105",
             "commenturl":"https://github.com/qiandao-today/templates/issues/150"
+        },
+        "3D溜溜网": {
+            "name": "3D溜溜网",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/3D溜溜网.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://user.3d66.com/",
+            "filename": "3D溜溜网.har",
+            "content": "",
+            "date": "2022-01-05 21:30:00",
+            "version": "20220105",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/151"
         }
     }
 }
