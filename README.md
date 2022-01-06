@@ -149,6 +149,7 @@ Tips:
 | 56brand我来网 | [wjf0214](https://github.com/wjf0214) | [56brand我来网.har](https://github.com/qiandao-today/templates/blob/master/56brand我来网.har) | 2022-01-03 14:00:00 | username:账号<br>password:密码<br><http://www.56brand.com/> |
 | 野火论坛 | [wjf0214](https://github.com/wjf0214) | [野火论坛.har](https://github.com/qiandao-today/templates/blob/master/野火论坛.har) | 2022-01-06 09:30:00 | username:账号<br>password:密码<br><http://www.proewildfire.cn/> |
 | 3D溜溜网 | [wjf0214](https://github.com/wjf0214) | [3D溜溜网.har](https://github.com/qiandao-today/templates/blob/master/3D溜溜网.har) | 2022-01-06 09:30:00 | 登录后首页cookie<br><https://user.3d66.com/> |
+| 宽带技术网 | [wjf0214](https://github.com/wjf0214) | [宽带技术网.har](https://github.com/qiandao-today/templates/blob/master/宽带技术网.har) | 2022-01-06 19:30:00 | 登录后首页cookie<br><http://www.chinadsl.net/> |
 
 ## 📄如何注册第三方库
 
