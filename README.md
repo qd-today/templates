@@ -118,7 +118,7 @@ Tips:
 | 中国原创音乐基地5SING | [wjf0214](https://github.com/wjf0214) | [中国原创音乐基地5SING.har](https://github.com/qiandao-today/templates/blob/master/中国原创音乐基地5SING.har) | 2021-11-29 16:00:00 | 登录后首页cookie,ck有效期一周<br><http://5sing.kugou.com/> |
 | bigfun | [wjf0214](https://github.com/wjf0214) | [bigfun.har](https://github.com/qiandao-today/templates/blob/master/bigfun.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.bigfun.cn> |
 | chiphell | [wjf0214](https://github.com/wjf0214) | [chiphell.har](https://github.com/qiandao-today/templates/blob/master/chiphell.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.chiphell.com> |
-| element3ds | [wjf0214](https://github.com/wjf0214) | [element3ds.har](https://github.com/qiandao-today/templates/blob/master/element3ds.har) | 2021-12-17 13:10:00 | 登录后首页cookie<br><https://www.element3ds.com/> |
+| element3ds | [wjf0214](https://github.com/wjf0214) | [element3ds.har](https://github.com/qiandao-today/templates/blob/master/element3ds.har) | 2022-01-06 10:00:00 | 登录后首页cookie<br><https://www.element3ds.com/> |
 | HDarea高清视界 | [wjf0214](https://github.com/wjf0214) | [HDarea高清视界.har](https://github.com/qiandao-today/templates/blob/master/HDarea高清视界.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.hdarea.co/> |
 | south-plus | [wjf0214](https://github.com/wjf0214) | [south-plus.har](https://github.com/qiandao-today/templates/blob/master/south-plus.har) | 2021-12-07 21:40:00 | 登录后首页cookie和UA<br>domain:为网站域名，如【https://www.south-plus.net/】,https和后面的'/'都要有<br><https://www.south-plus.net> |
 | QooApp | [wjf0214](https://github.com/wjf0214) | [QooApp.har](https://github.com/qiandao-today/templates/blob/master/QooApp.har) | 2021-11-29 16:00:00 | token:下载App抓包cookie,找到请求头部 x-user-token 的值 |
