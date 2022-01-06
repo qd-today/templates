@@ -1452,6 +1452,18 @@
             "date": "2022-01-06 19:30:00",
             "version": "20220106",
             "commenturl":"https://github.com/qiandao-today/templates/issues/152"
+        },
+        "摩登犀牛": {
+            "name": "摩登犀牛",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/摩登犀牛.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>http://bbs.rhino3d.us/",
+            "filename": "摩登犀牛.har",
+            "content": "",
+            "date": "2022-01-06 19:30:00",
+            "version": "20220106",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/153"
         }
     }
 }
