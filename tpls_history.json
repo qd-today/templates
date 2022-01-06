@@ -1425,8 +1425,8 @@
             "comments": "username:账号<br>password:密码<br>http://www.proewildfire.cn/",
             "filename": "野火论坛.har",
             "content": "",
-            "date": "2022-01-05 21:00:00",
-            "version": "20220105",
+            "date": "2022-01-06 09:30:00",
+            "version": "20220106",
             "commenturl":"https://github.com/qiandao-today/templates/issues/150"
         },
         "3D溜溜网": {
@@ -1437,8 +1437,8 @@
             "comments": "登录后首页cookie<br>https://user.3d66.com/",
             "filename": "3D溜溜网.har",
             "content": "",
-            "date": "2022-01-05 21:30:00",
-            "version": "20220105",
+            "date": "2022-01-06 09:30:00",
+            "version": "20220106",
             "commenturl":"https://github.com/qiandao-today/templates/issues/151"
         }
     }
