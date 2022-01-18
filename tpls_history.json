@@ -39,14 +39,14 @@
         },
         "精易论坛": {
             "name": "精易论坛",
-            "author": "FellBan",
+            "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E7%B2%BE%E6%98%93%E8%AE%BA%E5%9D%9B.har",
             "update": false,
             "comments": "cookie<br>https://bbs.125.la",
             "filename": "精易论坛.har",
-            "content": "W3sicmVxdWVzdCI6eyJtZXRob2QiOiJHRVQiLCJ1cmwiOiJodHRwczovL2Jicy4xMjUubGEvcGx1Z2luLnBocD9pZD1kc3VfcGF1bHNpZ24lM0FzaWduIiwiaGVhZGVycyI6W3sibmFtZSI6Ikhvc3QiLCJ2YWx1ZSI6ImJicy4xMjUubGEifSx7Im5hbWUiOiJDb25uZWN0aW9uIiwidmFsdWUiOiJrZWVwLWFsaXZlIn0seyJuYW1lIjoiQ2FjaGUtQ29udHJvbCIsInZhbHVlIjoibWF4LWFnZT0wIn0seyJuYW1lIjoiVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0cyIsInZhbHVlIjoiMSJ9LHsibmFtZSI6IlVzZXItQWdlbnQiLCJ2YWx1ZSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS81NS4wLjI4ODMuODcgU2FmYXJpLzUzNy4zNiJ9LHsibmFtZSI6IkFjY2VwdCIsInZhbHVlIjoidGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCwqLyo7cT0wLjgifSx7Im5hbWUiOiJBY2NlcHQtRW5jb2RpbmciLCJ2YWx1ZSI6Imd6aXAsIGRlZmxhdGUsIHNkY2gsIGJyIn0seyJuYW1lIjoiQWNjZXB0LUxhbmd1YWdlIiwidmFsdWUiOiJ6aC1DTix6aDtxPTAuOCJ9LHsibmFtZSI6IkNvb2tpZSIsInZhbHVlIjoie3tjb29raWV9fSJ9XSwiY29va2llcyI6W10sImRhdGEiOiIiLCJtaW1lVHlwZSI6IiJ9LCJydWxlIjp7InN1Y2Nlc3NfYXNzZXJ0cyI6W3sicmUiOiIyMDAiLCJmcm9tIjoic3RhdHVzIn1dLCJmYWlsZWRfYXNzZXJ0cyI6W10sImV4dHJhY3RfdmFyaWFibGVzIjpbeyJyZSI6ImZvcm1oYXNoPSguKylcIj4iLCJmcm9tIjoiY29udGVudCIsIm5hbWUiOiJmb3JtaGFzaCJ9XX19LHsicmVxdWVzdCI6eyJtZXRob2QiOiJQT1NUIiwidXJsIjoiaHR0cHM6Ly9iYnMuMTI1LmxhL3BsdWdpbi5waHA/aWQ9ZHN1X3BhdWxzaWduJTNBc2lnbiZvcGVyYXRpb249cWlhbmRhbyZpbmZsb2F0PTEiLCJoZWFkZXJzIjpbeyJuYW1lIjoiSG9zdCIsInZhbHVlIjoiYmJzLjEyNS5sYSJ9LHsibmFtZSI6IkNvbm5lY3Rpb24iLCJ2YWx1ZSI6ImtlZXAtYWxpdmUifSx7Im5hbWUiOiJDb250ZW50LUxlbmd0aCIsInZhbHVlIjoiNTUifSx7Im5hbWUiOiJBY2NlcHQiLCJ2YWx1ZSI6IiovKiJ9LHsibmFtZSI6Ik9yaWdpbiIsInZhbHVlIjoiaHR0cHM6Ly9iYnMuMTI1LmxhIn0seyJuYW1lIjoiWC1SZXF1ZXN0ZWQtV2l0aCIsInZhbHVlIjoiWE1MSHR0cFJlcXVlc3QifSx7Im5hbWUiOiJVc2VyLUFnZW50IiwidmFsdWUiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdPVzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNTUuMC4yODgzLjg3IFNhZmFyaS81MzcuMzYifSx7Im5hbWUiOiJDb250ZW50LVR5cGUiLCJ2YWx1ZSI6ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZDsgY2hhcnNldD1VVEYtOCJ9LHsibmFtZSI6IlJlZmVyZXIiLCJ2YWx1ZSI6Imh0dHBzOi8vYmJzLjEyNS5sYS9wbHVnaW4ucGhwP2lkPWRzdV9wYXVsc2lnbiUzQXNpZ24ifSx7Im5hbWUiOiJBY2NlcHQtRW5jb2RpbmciLCJ2YWx1ZSI6Imd6aXAsIGRlZmxhdGUsIGJyIn0seyJuYW1lIjoiQWNjZXB0LUxhbmd1YWdlIiwidmFsdWUiOiJ6aC1DTix6aDtxPTAuOCJ9LHsibmFtZSI6IkNvb2tpZSIsInZhbHVlIjoie3tjb29raWV9fSJ9XSwiY29va2llcyI6W10sImRhdGEiOiJmb3JtaGFzaD17e2Zvcm1oYXNofHVybGVuY29kZX19JnN1Ym1pdD0xJnRhcmdlcnVybD0mdG9kYXlzYXk9JnFkeHE9eWwiLCJtaW1lVHlwZSI6ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCJ9LCJydWxlIjp7InN1Y2Nlc3NfYXNzZXJ0cyI6W3sicmUiOiIyMDAiLCJmcm9tIjoic3RhdHVzIn1dLCJmYWlsZWRfYXNzZXJ0cyI6W10sImV4dHJhY3RfdmFyaWFibGVzIjpbXX19XQ==",
-            "date": "2020-05-21 09:23:54",
-            "version": "20210428",
+            "content": "",
+            "date": "2021-09-28 17:00:00",
+            "version": "20210928",
             "commenturl": "https://github.com/qiandao-today/templates/issues/37"
         },
         "腾讯视频VIP": {
