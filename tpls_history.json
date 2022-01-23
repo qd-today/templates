@@ -1245,8 +1245,8 @@
             "comments": "登录后首页cookie<br>https://www.bilibili.com/<br>每个操作都会相隔15秒。耐心等待，请不要重复点击测试！包含主站登陆经验+5视频观看经验+5视频分享经验+5,直播签到,B漫签到。带日志",
             "filename": "B站每日综合签到.har",
             "content": "",
-            "date": "2021-12-14 20:50:00",
-            "version": "20211214",
+            "date": "2022-01-24 02:13:00",
+            "version": "20220124",
             "commenturl":"https://github.com/qiandao-today/templates/issues/133"
         },
         "OB PT签到 账号密码版": {
@@ -1476,6 +1476,18 @@
             "date": "2022-01-11 17:10:00",
             "version": "20220111",
             "commenturl":"https://github.com/qiandao-today/templates/issues/154"
-        }
+        },
+        "OpenFrp": {
+            "name": "OpenFrp",
+            "author": "嘉然今天吃什么",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/OpenFrp.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://www.openfrp.net/",
+            "filename": "OpenFrp.har",
+            "content": "",
+            "date": "2022-01-24 02:13:00",
+            "version": "20220124",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/155"
+        }        
     }
 }

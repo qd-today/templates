@@ -132,7 +132,7 @@ Tips:
 | 阡陌居 | [wjf0214](https://github.com/wjf0214) | [阡陌居.har](https://github.com/qiandao-today/templates/blob/master/阡陌居.har) | 2021-12-10 09:45:00 | 登录后首页cookie<br>http://www.1000qm.vip/ |
 | PtTime | [a76yyyy](https://github.com/a76yyyy) | [PtTime.har](https://github.com/qiandao-today/templates/blob/master/PtTime.har) | 2022-01-03 14:00:00 | 登录后首页cookie<br>https://www.pttime.org/ |
 | ToTheGlory | [a76yyyy](https://github.com/a76yyyy) | [ToTheGlory.har](https://github.com/qiandao-today/templates/blob/master/ToTheGlory.har) | 2021-12-12 13:00:00 | 登录后首页cookie<br>https://totheglory.im/ |
-| B站每日综合签到 | [嘉然今天吃什么](https://b23.tv/ufhdcOs) | [B站每日综合签到.har](https://github.com/qiandao-today/templates/blob/master/B站每日综合签到.har) | 2021-12-14 20:50:00 | 登录后首页cookie<br>https://www.bilibili.com/<br>每个操作都会相隔15秒。耐心等待，请不要重复点击测试！包含主站登陆经验+5视频观看经验+5视频分享经验+5,直播签到,B漫签到。带日志 |
+| B站每日综合签到 | [嘉然今天吃什么](https://b23.tv/ufhdcOs) | [B站每日综合签到.har](https://github.com/qiandao-today/templates/blob/master/B站每日综合签到.har) | 2022-01-24 02:13:00 | 登录后首页cookie<br>https://www.bilibili.com/<br>每个操作都会相隔15秒。耐心等待，请不要重复点击测试！包含主站登陆经验+5视频观看经验+5视频分享经验+5,直播签到,B漫签到。带日志 |
 | OB PT签到 账号密码版 | [嘉然今天吃什么](https://b23.tv/ufhdcOs) | [OBPT签到.har](https://github.com/qiandao-today/templates/blob/master/OBPT签到.har) | 2021-12-14 20:50:00 | OB站Cookie 30天过期一次，用账号密码版省心点 |
 | 33iQ | [FellBan](https://github.com/FellBan) | [33iQ.har](https://github.com/qiandao-today/templates/blob/master/33iQ.har) | 2021-12-16 21:10:00 | user:账号<br>pass:密码<br><https://www.33iq.com/> |
 | 万由论坛 | [FellBan](https://github.com/FellBan) | [万由论坛.har](https://github.com/qiandao-today/templates/blob/master/万由论坛.har) | 2021-12-16 21:10:00 | 登录后首页cookie<br><https://www.u-share.cn/> |
@@ -152,6 +152,7 @@ Tips:
 | 宽带技术网 | [wjf0214](https://github.com/wjf0214) | [宽带技术网.har](https://github.com/qiandao-today/templates/blob/master/宽带技术网.har) | 2022-01-07 10:00:00 | 登录后首页cookie<br><http://www.chinadsl.net/> |
 | 摩登犀牛 | [wjf0214](https://github.com/wjf0214) | [摩登犀牛.har](https://github.com/qiandao-today/templates/blob/master/摩登犀牛.har) | 2022-01-06 19:30:00 | username:账号<br>password:密码<br><http://bbs.rhino3d.us/> |
 | Goldroom黄金屋 | [wjf0214](https://github.com/wjf0214) | [Goldroom黄金屋.har](https://github.com/qiandao-today/templates/blob/master/Goldroom黄金屋.har) | 2022-01-11 17:10:00 | 登录后首页cookie<br><http://goldroom.top/> |
+| OpenFrp | [嘉然今天吃什么](https://b23.tv/ufhdcOs) | [OpenFrp.har](https://github.com/qiandao-today/templates/blob/master/OpenFrp.har) | 2022-01-24 02:13:00 | 登录后首页cookie<br>https://www.openfrp.net/<br> |
 
 ## 📄如何注册第三方库
 
