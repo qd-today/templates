@@ -1488,6 +1488,18 @@
             "date": "2022-01-24 02:13:00",
             "version": "20220124",
             "commenturl":"https://github.com/qiandao-today/templates/issues/155"
-        }        
+        },
+        "心动日剧": {
+            "name": "心动日剧",
+            "author": "嘉然今天吃什么",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/心动日剧.har",
+            "update": false,
+            "comments": "账号密码版本，带日志<br>http://www.doki8.com/",
+            "filename": "心动日剧.har",
+            "content": "",
+            "date": "2022-01-25 01:36:00",
+            "version": "20220125",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/156"
+        }                
     }
 }
