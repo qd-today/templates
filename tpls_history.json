@@ -1500,6 +1500,18 @@
             "date": "2022-01-26 01:36:00",
             "version": "20220126",
             "commenturl":"https://github.com/qiandao-today/templates/issues/157"
-        }                
+        },
+		"tool.lu在线工具": {
+            "name": "tool.lu在线工具",
+            "author": "goooxyz",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/tool.lu%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7.har",
+            "update": false,
+            "comments": "登录后获取cookie<br>url：https://tool.lu/",
+            "filename": "tool.lu在线工具.har",
+            "content": ""
+            "date": "2022-02-06 21:00:00",
+            "version": "20220206",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/158"
+        }         
     }
 }
