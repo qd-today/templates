@@ -152,8 +152,9 @@ Tips:
 | 宽带技术网 | [wjf0214](https://github.com/wjf0214) | [宽带技术网.har](https://github.com/qiandao-today/templates/blob/master/宽带技术网.har) | 2022-01-07 10:00:00 | 登录后首页cookie<br><http://www.chinadsl.net/> |
 | 摩登犀牛 | [wjf0214](https://github.com/wjf0214) | [摩登犀牛.har](https://github.com/qiandao-today/templates/blob/master/摩登犀牛.har) | 2022-01-06 19:30:00 | username:账号<br>password:密码<br><http://bbs.rhino3d.us/> |
 | Goldroom黄金屋 | [wjf0214](https://github.com/wjf0214) | [Goldroom黄金屋.har](https://github.com/qiandao-today/templates/blob/master/Goldroom黄金屋.har) | 2022-01-11 17:10:00 | 登录后首页cookie<br><http://goldroom.top/> |
-| OpenFrp | [嘉然今天吃什么](https://b23.tv/ufhdcOs) | [OpenFrp.har](https://github.com/qiandao-today/templates/blob/master/OpenFrp.har) | 2022-01-24 02:13:00 | 登录后首页cookie<br>https://www.openfrp.net/<br> |
-| 心动日剧 | [嘉然今天吃什么](https://b23.tv/ufhdcOs) | [心动日剧.har](https://github.com/qiandao-today/templates/blob/master/心动日剧.har) | 2022-01-25 01:36:00 | 账号密码版本，带日志<br>http://www.doki8.com/<br> |
+| OpenFrp | [嘉然今天吃什么](https://b23.tv/ufhdcOs) | [OpenFrp.har](https://github.com/qiandao-today/templates/blob/master/OpenFrp.har) | 2022-01-24 02:13:00 | 登录后首页cookie<br><https://www.openfrp.net/> |
+| 心动日剧 | [嘉然今天吃什么](https://b23.tv/ufhdcOs) | [心动日剧.har](https://github.com/qiandao-today/templates/blob/master/心动日剧.har) | 2022-01-25 01:36:00 | 账号密码版本，带日志<br><http://www.doki8.com/> |
+| 河洛网 | [wjf0214](https://github.com/wjf0214) | [河洛网.har](https://github.com/qiandao-today/templates/blob/master/河洛网.har) | 2022-02-07 22:15:00 | username:账号<br>password:密码<br><https://www.horou.com/> |
 
 ## 📄如何注册第三方库
 

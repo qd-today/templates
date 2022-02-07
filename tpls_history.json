@@ -1500,6 +1500,18 @@
             "date": "2022-01-26 01:36:00",
             "version": "20220126",
             "commenturl":"https://github.com/qiandao-today/templates/issues/157"
-        }                
+        },
+        "河洛网": {
+            "name": "河洛网",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/河洛网.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.horou.com/",
+            "filename": "河洛网.har",
+            "content": "",
+            "date": "2022-02-07 22:15:00",
+            "version": "20220207",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/159"
+        }
     }
 }
