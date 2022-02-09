@@ -1528,14 +1528,14 @@
         "tool.lu在线工具": {
             "name": "tool.lu在线工具",
             "author": "goooxyz",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/tool.lu%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/tool.lu在线工具.har",
             "update": false,
             "comments": "登录后获取cookie<br>url：https://tool.lu/",
             "filename": "tool.lu在线工具.har",
-            "content": ""
+            "content": "",
             "date": "2022-02-08 01:00:00",
             "version": "20220208",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/161"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/162"
         }
     }
 }
