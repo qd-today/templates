@@ -105,7 +105,7 @@ Tips:
 | 猫耳FM-每日鱼干 | [wjf0214](https://github.com/wjf0214) | [猫耳FM-每日鱼干.har](https://github.com/qiandao-today/templates/blob/master/猫耳FM-每日鱼干.har) | 2021-12-08 22:00:00 | 登录后首页cookie<br><https://www.missevan.com> |
 | 魅族社区 | [wjf0214](https://github.com/wjf0214) | [魅族社区.har](https://github.com/qiandao-today/templates/blob/master/魅族社区.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://bbs.meizu.cn/> |
 | 轻之文库 | [wjf0214](https://github.com/wjf0214) | [轻之文库.har](https://github.com/qiandao-today/templates/blob/master/轻之文库.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br><https://www.linovel.net/> |
-| 人人字幕组 | [wjf0214](https://github.com/wjf0214) | [人人字幕组.har](https://github.com/qiandao-today/templates/blob/master/人人字幕组.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br>DOMAIN：网站域名【<https://www.yysub.net/>】 |
+| 人人字幕组 | [wjf0214](https://github.com/wjf0214) | [人人字幕组.har](https://github.com/qiandao-today/templates/blob/master/人人字幕组.har) | 2022-02-10 23:35:00 | username:账号<br>password:密码<br>DOMAIN：网站域名【<https://www.yysub.net/>】 |
 | 绅士领域 | [wjf0214](https://github.com/wjf0214) | [绅士领域.har](https://github.com/qiandao-today/templates/blob/master/绅士领域.har) | 2021-11-29 16:00:00 | uid:个人uid可APP抓签到包看到 |
 | 时光相册 | [wjf0214](https://github.com/wjf0214) | [时光相册.har](https://github.com/qiandao-today/templates/blob/master/时光相册.har) | 2021-11-29 16:00:00 | phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br><https://www.everphoto.cn/> |
 | 手电大家谈 | [wjf0214](https://github.com/wjf0214) | [手电大家谈.har](https://github.com/qiandao-today/templates/blob/master/手电大家谈.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br><https://www.shoudian.org/> |
