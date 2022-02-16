@@ -160,6 +160,7 @@ Tips:
 | 小云社区 | [wjf0214](https://github.com/wjf0214) | [小云社区.har](https://github.com/qiandao-today/templates/blob/master/小云社区.har) | 2022-02-16 15:40:00 | username:账号<br>password:密码<br><https://www.xiaoyunbbs.cn/> |
 | 我爱迅雷 | [wjf0214](https://github.com/wjf0214) | [我爱迅雷.har](https://github.com/qiandao-today/templates/blob/master/我爱迅雷.har) | 2022-02-16 16:10:00 | username:账号<br>password:密码<br><https://www.96yuedu.com/> |
 | geekhub | [wjf0214](https://github.com/wjf0214) | [geekhub.har](https://github.com/qiandao-today/templates/blob/master/geekhub.har) | 2022-02-16 17:10:00 | username:账号<br>password:密码<br><https://www.geekhub.com/> |
+| 52asus | [wjf0214](https://github.com/wjf0214) | [52asus.har](https://github.com/qiandao-today/templates/blob/master/52asus.har) | 2022-02-16 19:10:00 | username:账号<br>password:密码<br><https://www.52asus.com/> |
 
 ## 📄如何注册第三方库
 
