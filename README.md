@@ -157,8 +157,9 @@ Tips:
 | 河洛网 | [wjf0214](https://github.com/wjf0214) | [河洛网.har](https://github.com/qiandao-today/templates/blob/master/河洛网.har) | 2022-02-07 22:15:00 | username:账号<br>password:密码<br><https://www.horou.com/> |
 | 落叶次元 | [wjf0214](https://github.com/wjf0214) | [落叶次元.har](https://github.com/qiandao-today/templates/blob/master/落叶次元.har) | 2022-02-07 22:40:00 | username:邮箱<br>password:密码<br><https://www.lyocy.com/> |
 | tool.lu在线工具 | [goooxyz](https://github.com/goooxyz) | [tool.lu在线工具.har](https://github.com/qiandao-today/templates/blob/master/tool.lu在线工具.har) | 2022-02-08 01:00:00 | 登录后获取cookie<br><https://tool.lu/> |
-| 小云社区 | [wjf0214](https://github.com/wjf0214) | [小云社区.har](https://github.com/qiandao-today/templates/blob/master/小云社区.har) | 2022-02-16 15:40:00 | username:邮箱<br>password:密码<br><https://www.xiaoyunbbs.cn/> |
-| 我爱迅雷 | [wjf0214](https://github.com/wjf0214) | [我爱迅雷.har](https://github.com/qiandao-today/templates/blob/master/我爱迅雷.har) | 2022-02-16 16:10:00 | username:邮箱<br>password:密码<br><https://www.96yuedu.com/> |
+| 小云社区 | [wjf0214](https://github.com/wjf0214) | [小云社区.har](https://github.com/qiandao-today/templates/blob/master/小云社区.har) | 2022-02-16 15:40:00 | username:账号<br>password:密码<br><https://www.xiaoyunbbs.cn/> |
+| 我爱迅雷 | [wjf0214](https://github.com/wjf0214) | [我爱迅雷.har](https://github.com/qiandao-today/templates/blob/master/我爱迅雷.har) | 2022-02-16 16:10:00 | username:账号<br>password:密码<br><https://www.96yuedu.com/> |
+| geekhub | [wjf0214](https://github.com/wjf0214) | [geekhub.har](https://github.com/qiandao-today/templates/blob/master/geekhub.har) | 2022-02-16 17:10:00 | username:账号<br>password:密码<br><https://www.geekhub.com/> |
 
 ## 📄如何注册第三方库
 

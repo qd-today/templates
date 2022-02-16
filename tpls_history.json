@@ -1542,7 +1542,7 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/小云社区.har",
             "update": false,
-            "comments": "username:邮箱<br>password:密码<br>https://www.xiaoyunbbs.cn/",
+            "comments": "username:账号<br>password:密码<br>https://www.xiaoyunbbs.cn/",
             "filename": "小云社区.har",
             "content": "",
             "date": "2022-02-16 15:40:00",
@@ -1554,12 +1554,24 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/我爱迅雷.har",
             "update": false,
-            "comments": "username:邮箱<br>password:密码<br>https://www.96yuedu.com/",
+            "comments": "username:账号<br>password:密码<br>https://www.96yuedu.com/",
             "filename": "小云社区.har",
             "content": "",
             "date": "2022-02-16 16:10:00",
             "version": "20220216",
             "commenturl":"https://github.com/qiandao-today/templates/issues/165"
+        },
+        "geekhub": {
+            "name": "geekhub",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/geekhub.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.geekhub.com/",
+            "filename": "geekhub.har",
+            "content": "",
+            "date": "2022-02-16 17:10:00",
+            "version": "20220216",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/166"
         }
     }
 }
