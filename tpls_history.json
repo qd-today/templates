@@ -1141,16 +1141,16 @@
             "version": "20211119",
             "commenturl": "https://github.com/qiandao-today/templates/issues/123"
         },
-        "学破解论坛": {
-            "name": "学破解论坛",
+        "吾爱汇编": {
+            "name": "吾爱汇编",
             "author": "wjf0214",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/学破解论坛.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/吾爱汇编.har",
             "update": false,
-            "comments": "username:账号<br>password:密码<br>https://www.xuepojie.com/",
-            "filename": "学破解论坛.har",
+            "comments": "登录后首页cookie<br>https://www.52hb.com/",
+            "filename": "吾爱汇编.har",
             "content": "",
-            "date": "2021-12-08 22:00:00",
-            "version":"20211208",
+            "date": "2022-02-16 14:00:00",
+            "version":"20220214",
             "commenturl": "https://github.com/qiandao-today/templates/issues/124"
         },
         "爱玩网络": {
