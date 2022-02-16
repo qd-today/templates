@@ -1536,6 +1536,18 @@
             "date": "2022-02-08 01:00:00",
             "version": "20220208",
             "commenturl": "https://github.com/qiandao-today/templates/issues/162"
+        },
+        "小云社区": {
+            "name": "小云社区",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/小云社区.har",
+            "update": false,
+            "comments": "username:邮箱<br>password:密码<br>https://www.xiaoyunbbs.cn/",
+            "filename": "小云社区.har",
+            "content": "",
+            "date": "2022-02-16 15:40:00",
+            "version": "20220216",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/164"
         }
     }
 }
