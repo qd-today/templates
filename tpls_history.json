@@ -1596,6 +1596,18 @@
             "date": "2022-02-17 10:10:00",
             "version": "20220217",
             "commenturl":"https://github.com/qiandao-today/templates/issues/168"
+        },
+        "好书友": {
+            "name": "好书友",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/好书友.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.58shuyou.com/",
+            "filename": "好书友.har",
+            "content": "",
+            "date": "2022-02-17 10:40:00",
+            "version": "20220217",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/169"
         }
     }
 }
