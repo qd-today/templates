@@ -1608,6 +1608,18 @@
             "date": "2022-02-17 10:40:00",
             "version": "20220217",
             "commenturl":"https://github.com/qiandao-today/templates/issues/169"
+        },
+        "腾龙工作室": {
+            "name": "腾龙工作室",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/腾龙工作室.har",
+            "update": false,
+            "comments": "username:邮箱<br>password:密码<br>https://www.tenlonstudio.com/",
+            "filename": "腾龙工作室.har",
+            "content": "",
+            "date": "2022-02-17 11:10:00",
+            "version": "20220217",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/170"
         }
     }
 }
