@@ -1620,6 +1620,18 @@
             "date": "2022-02-17 11:10:00",
             "version": "20220217",
             "commenturl":"https://github.com/qiandao-today/templates/issues/170"
+        },
+        "蓝光演唱会": {
+            "name": "蓝光演唱会",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/蓝光演唱会.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.lgych.com/",
+            "filename": "蓝光演唱会.har",
+            "content": "",
+            "date": "2022-02-18 11:10:00",
+            "version": "20220218",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/171"
         }
     }
 }

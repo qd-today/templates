@@ -164,6 +164,7 @@ Tips:
 | eatASMR | [wjf0214](https://github.com/wjf0214) | [eatASMR.har](https://github.com/qiandao-today/templates/blob/master/eatASMR.har) | 2022-02-17 10:10:00 | username:账号<br>password:密码<br><https://eatasmr.com/> |
 | 好书友 | [wjf0214](https://github.com/wjf0214) | [好书友.har](https://github.com/qiandao-today/templates/blob/master/好书友.har) | 2022-02-17 10:40:00 | username:账号<br>password:密码<br><https://www.58shuyou.com/> |
 | 腾龙工作室 | [wjf0214](https://github.com/wjf0214) | [腾龙工作室.har](https://github.com/qiandao-today/templates/blob/master/腾龙工作室.har) | 2022-02-17 11:10:00 | username:邮箱<br>password:密码<br><https://www.tenlonstudio.com/> |
+| 蓝光演唱会 | [wjf0214](https://github.com/wjf0214) | [蓝光演唱会.har](https://github.com/qiandao-today/templates/blob/master/蓝光演唱会.har) | 2022-02-18 17:40:00 | username:账号<br>password:密码<br><https://www.lgych.com/> |
 
 ## 📄如何注册第三方库
 
