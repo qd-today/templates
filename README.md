@@ -124,7 +124,7 @@ Tips:
 | QooApp | [wjf0214](https://github.com/wjf0214) | [QooApp.har](https://github.com/qiandao-today/templates/blob/master/QooApp.har) | 2021-11-29 16:00:00 | token:下载App抓包cookie,找到请求头部 x-user-token 的值 |
 | VCB-Studio分享论坛 | [wjf0214](https://github.com/wjf0214) | [VCB-Studio分享论坛.har](https://github.com/qiandao-today/templates/blob/master/VCB-Studio分享论坛.har) | 2021-12-08 22:00:00 | 登录后首页cookie<br><https://bbs.acgrip.com> |
 | ZNDS智能电视网 | [wjf0214](https://github.com/wjf0214) | [ZNDS智能电视网.har](https://github.com/qiandao-today/templates/blob/master/ZNDS智能电视网.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br><https://www.znds.com/> |
-| 吾爱汇编 | [wjf0214](https://github.com/wjf0214) | [吾爱汇编.har](https://github.com/qiandao-today/templates/blob/master/吾爱汇编.har) | 2022-02-16 14:00:00 | 登录后首页cookie<br><https://www.52hb.com/> |
+| 吾爱汇编 | [wjf0214](https://github.com/wjf0214) | [吾爱汇编.har](https://github.com/qiandao-today/templates/blob/master/吾爱汇编.har) | 2022-02-19 21:50:00 | 登录后首页cookie<br><https://www.52hb.com/> |
 | 爱玩网络 | [wjf0214](https://github.com/wjf0214) | [爱玩网络.har](https://github.com/qiandao-today/templates/blob/master/爱玩网络.har) | 2021-12-01 11:10:00 | username:账号<br>password:密码<br><https://wngamebox.cn/> |
 | switch520 | [wjf0214](https://github.com/wjf0214) | [switch520.har](https://github.com/qiandao-today/templates/blob/master/switch520.har) | 2021-12-06 16:30:00 | username:账号<br>password:密码<br><https://switch520.com/> |
 | 远景论坛(账号版) | [wjf0214](https://github.com/wjf0214) | [远景论坛(账号版).har](https://github.com/qiandao-today/templates/blob/master/远景论坛(账号版).har) | 22021-12-08 22:00:00 | username:账号<br>password:密码<br><https://bbs.pcbeta.com/> |
