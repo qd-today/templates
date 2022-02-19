@@ -159,7 +159,7 @@ Tips:
 | tool.lu在线工具 | [goooxyz](https://github.com/goooxyz) | [tool.lu在线工具.har](https://github.com/qiandao-today/templates/blob/master/tool.lu在线工具.har) | 2022-02-08 01:00:00 | 登录后获取cookie<br><https://tool.lu/> |
 | 小云社区 | [wjf0214](https://github.com/wjf0214) | [小云社区.har](https://github.com/qiandao-today/templates/blob/master/小云社区.har) | 2022-02-16 15:40:00 | username:账号<br>password:密码<br><https://www.xiaoyunbbs.cn/> |
 | 我爱迅雷 | [wjf0214](https://github.com/wjf0214) | [我爱迅雷.har](https://github.com/qiandao-today/templates/blob/master/我爱迅雷.har) | 2022-02-16 16:10:00 | username:账号<br>password:密码<br><https://www.96yuedu.com/> |
-| geekhub | [wjf0214](https://github.com/wjf0214) | [geekhub.har](https://github.com/qiandao-today/templates/blob/master/geekhub.har) | 2022-02-16 17:10:00 | username:账号<br>password:密码<br><https://www.geekhub.com/> |
+| geekhub | [wjf0214](https://github.com/wjf0214) | [geekhub.har](https://github.com/qiandao-today/templates/blob/master/geekhub.har) | 2022-02-19 11:40:00 | username:账号<br>password:密码<br><https://www.geekhub.com/> |
 | 52asus | [wjf0214](https://github.com/wjf0214) | [52asus.har](https://github.com/qiandao-today/templates/blob/master/52asus.har) | 2022-02-16 19:10:00 | username:账号<br>password:密码<br><https://www.52asus.com/> |
 | eatASMR | [wjf0214](https://github.com/wjf0214) | [eatASMR.har](https://github.com/qiandao-today/templates/blob/master/eatASMR.har) | 2022-02-17 10:10:00 | username:账号<br>password:密码<br><https://eatasmr.com/> |
 | 好书友 | [wjf0214](https://github.com/wjf0214) | [好书友.har](https://github.com/qiandao-today/templates/blob/master/好书友.har) | 2022-02-17 10:40:00 | username:账号<br>password:密码<br><https://www.58shuyou.com/> |
