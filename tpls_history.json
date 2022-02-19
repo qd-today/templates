@@ -1632,6 +1632,18 @@
             "date": "2022-02-18 11:10:00",
             "version": "20220218",
             "commenturl":"https://github.com/qiandao-today/templates/issues/172"
+        },
+        "原盘天堂": {
+            "name": "原盘天堂",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/原盘天堂.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://4k3dyptt.com/",
+            "filename": "原盘天堂.har",
+            "content": "",
+            "date": "2022-02-19 22:30:00",
+            "version": "20220219",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/173"
         }
     }
 }
