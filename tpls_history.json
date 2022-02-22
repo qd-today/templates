@@ -1644,6 +1644,18 @@
             "date": "2022-02-19 22:30:00",
             "version": "20220219",
             "commenturl":"https://github.com/qiandao-today/templates/issues/173"
+        },
+        "WhereMyLife": {
+            "name": "WhereMyLife",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/WhereMyLife.har",
+            "update": false,
+            "comments": "username:邮箱<br>password:密码<br>https://wheremylife.cn/",
+            "filename": "WhereMyLife.har",
+            "content": "",
+            "date": "2022-02-22 10:40:00",
+            "version": "20220222",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/174"
         }
     }
 }
