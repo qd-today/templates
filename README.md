@@ -166,6 +166,10 @@ Tips:
 | 腾龙工作室 | [wjf0214](https://github.com/wjf0214) | [腾龙工作室.har](https://github.com/qiandao-today/templates/blob/master/腾龙工作室.har) | 2022-02-17 11:10:00 | username:邮箱<br>password:密码<br><https://www.tenlonstudio.com/> |
 | 蓝光演唱会 | [wjf0214](https://github.com/wjf0214) | [蓝光演唱会.har](https://github.com/qiandao-today/templates/blob/master/蓝光演唱会.har) | 2022-02-18 17:40:00 | username:账号<br>password:密码<br><https://www.lgych.com/> |
 | 原盘天堂 | [wjf0214](https://github.com/wjf0214) | [原盘天堂.har](https://github.com/qiandao-today/templates/blob/master/原盘天堂.har) | 2022-02-19 22:30:00 | username:账号<br>password:密码<br><https://4k3dyptt.com/> |
+| WhereMyLife | [wjf0214](https://github.com/wjf0214) | [WhereMyLife.har](https://github.com/qiandao-today/templates/blob/master/WhereMyLife.har) | 2022-02-22 10:40:00 | username:邮箱<br>password:密码<br><https://wheremylife.cn/> |
+| Gogo次元 | [wjf0214](https://github.com/wjf0214) | [Gogo次元.har](https://github.com/qiandao-today/templates/blob/master/Gogo次元.har) | 2022-02-22 15:00:00 | username:账号<br>password:密码<br><https://gogoacg.ws/> |
+| blue高清公馆 | [wjf0214](https://github.com/wjf0214) | [blue高清公馆.har](https://github.com/qiandao-today/templates/blob/master/blue高清公馆.har) | 2022-02-22 20:00:00 | username:账号<br>password:密码<br><https://www.bluegq.com/> |
+| 国配影迷社区 | [wjf0214](https://github.com/wjf0214) | [国配影迷社区.har](https://github.com/qiandao-today/templates/blob/master/国配影迷社区.har) | 2022-02-22 21:00:00 | 登录后首页cookie<br><https://club.ccmnn.com/> |
 
 ## 📄如何注册第三方库
 
