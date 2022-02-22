@@ -1680,6 +1680,18 @@
             "date": "2022-02-22 20:00:00",
             "version": "20220222",
             "commenturl":"https://github.com/qiandao-today/templates/issues/176"
+        },
+        "国配影迷社区": {
+            "name": "国配影迷社区",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/国配影迷社区.har",
+            "update": false,
+            "comments": "登录后首页cookie<br>https://club.ccmnn.com/",
+            "filename": "国配影迷社区.har",
+            "content": "",
+            "date": "2022-02-22 21:00:00",
+            "version": "20220222",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/177"
         }
     }
 }
