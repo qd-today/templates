@@ -1656,6 +1656,18 @@
             "date": "2022-02-22 10:40:00",
             "version": "20220222",
             "commenturl":"https://github.com/qiandao-today/templates/issues/174"
+        },
+        "Gogo次元": {
+            "name": "Gogo次元",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/Gogo次元.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://gogoacg.ws/",
+            "filename": "Gogo次元.har",
+            "content": "",
+            "date": "2022-02-22 15:00:00",
+            "version": "20220222",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/175"
         }
     }
 }
