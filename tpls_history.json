@@ -1290,11 +1290,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/魔兽大数据.har",
             "update": false,
-            "comments": "登录后首页cookie<br>http://bj.wowdata.top/",
+            "comments": "登录后首页cookie<br>content：世界频道发言的内容<br>http://bj.wowdata.top/",
             "filename": "魔兽大数据.har",
             "content": "",
-            "date": "2022-02-07 21:35:00",
-            "version": "20220207",
+            "date": "2022-02-22 23:00:00",
+            "version": "20220222",
             "commenturl":"https://github.com/qiandao-today/templates/issues/138"
         },
         "龙de船人": {
