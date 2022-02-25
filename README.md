@@ -170,6 +170,7 @@ Tips:
 | Gogo次元 | [wjf0214](https://github.com/wjf0214) | [Gogo次元.har](https://github.com/qiandao-today/templates/blob/master/Gogo次元.har) | 2022-02-22 15:00:00 | username:账号<br>password:密码<br><https://gogoacg.ws/> |
 | blue高清公馆 | [wjf0214](https://github.com/wjf0214) | [blue高清公馆.har](https://github.com/qiandao-today/templates/blob/master/blue高清公馆.har) | 2022-02-22 20:00:00 | username:账号<br>password:密码<br><https://www.bluegq.com/> |
 | 国配影迷社区 | [wjf0214](https://github.com/wjf0214) | [国配影迷社区.har](https://github.com/qiandao-today/templates/blob/master/国配影迷社区.har) | 2022-02-23 12:00:00 | 登录后首页cookie<br><https://club.ccmnn.com/> |
+| 飘云阁 | [wjf0214](https://github.com/wjf0214) | [飘云阁.har](https://github.com/qiandao-today/templates/blob/master/飘云阁.har) | 2022-02-25 15:20:00 | username:账号<br>password:密码<br><https://www.chinapyg.com/> |
 
 ## 📄如何注册第三方库
 

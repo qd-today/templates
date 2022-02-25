@@ -1692,6 +1692,18 @@
             "date": "2022-02-23 12:00:00",
             "version": "20220223",
             "commenturl":"https://github.com/qiandao-today/templates/issues/177"
+        },
+        "飘云阁": {
+            "name": "飘云阁",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/飘云阁.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.chinapyg.com/",
+            "filename": "飘云阁.har",
+            "content": "",
+            "date": "2022-02-25 15:20:00",
+            "version": "20220225",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/178"
         }
     }
 }
