@@ -1704,6 +1704,18 @@
             "date": "2022-02-25 15:20:00",
             "version": "20220225",
             "commenturl":"https://github.com/qiandao-today/templates/issues/178"
+        },
+        "书法江湖": {
+            "name": "书法江湖",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/书法江湖.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.shufajianghu.com/",
+            "filename": "书法江湖.har",
+            "content": "",
+            "date": "2022-02-27 00:00:00",
+            "version": "20220227",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/179"
         }
     }
 }
