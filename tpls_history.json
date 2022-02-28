@@ -642,11 +642,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/卡饭.har",
             "update": false,
-            "comments": "账号如果是中文请先去 http://tool.chinaz.com/tools/urlencode.aspx  选择gb2312进行UrlEncode编码后填入。<br>username:账号<br>password:密码<br>https://bbs.kafan.cn/",
+            "comments": "username:账号<br>password:密码<br>https://bbs.kafan.cn/",
             "filename": "卡饭.har",
             "content": "",
-            "date": "2021-11-20 22:30:00",
-            "version": "20211120",
+            "date": "2022-02-28 09:40:00",
+            "version": "20220228",
             "commenturl": "https://github.com/qiandao-today/templates/issues/79"
         },
         "hostloc主机论坛": {
