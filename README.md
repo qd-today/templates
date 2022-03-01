@@ -162,7 +162,7 @@ Tips:
 | geekhub | [wjf0214](https://github.com/wjf0214) | [geekhub.har](https://github.com/qiandao-today/templates/blob/master/geekhub.har) | 2022-02-19 11:40:00 | username:账号<br>password:密码<br><https://www.geekhub.com/> |
 | 52asus | [wjf0214](https://github.com/wjf0214) | [52asus.har](https://github.com/qiandao-today/templates/blob/master/52asus.har) | 2022-02-16 19:10:00 | username:账号<br>password:密码<br><https://www.52asus.com/> |
 | eatASMR | [wjf0214](https://github.com/wjf0214) | [eatASMR.har](https://github.com/qiandao-today/templates/blob/master/eatASMR.har) | 2022-02-17 10:10:00 | username:账号<br>password:密码<br><https://eatasmr.com/> |
-| 好书友 | [wjf0214](https://github.com/wjf0214) | [好书友.har](https://github.com/qiandao-today/templates/blob/master/好书友.har) | 2022-02-17 10:40:00 | username:账号<br>password:密码<br><https://www.58shuyou.com/> |
+| 好书友 | [wjf0214](https://github.com/wjf0214) | [好书友.har](https://github.com/qiandao-today/templates/blob/master/好书友.har) | 2022-03-01 23:35:00 | username:账号<br>password:密码<br><https://www.58shuyou.com/> |
 | 腾龙工作室 | [wjf0214](https://github.com/wjf0214) | [腾龙工作室.har](https://github.com/qiandao-today/templates/blob/master/腾龙工作室.har) | 2022-02-17 11:10:00 | username:邮箱<br>password:密码<br><https://www.tenlonstudio.com/> |
 | 蓝光演唱会 | [wjf0214](https://github.com/wjf0214) | [蓝光演唱会.har](https://github.com/qiandao-today/templates/blob/master/蓝光演唱会.har) | 2022-02-18 17:40:00 | username:账号<br>password:密码<br><https://www.lgych.com/> |
 | 原盘天堂 | [wjf0214](https://github.com/wjf0214) | [原盘天堂.har](https://github.com/qiandao-today/templates/blob/master/原盘天堂.har) | 2022-02-19 22:30:00 | username:账号<br>password:密码<br><https://4k3dyptt.com/> |
