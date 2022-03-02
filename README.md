@@ -110,7 +110,7 @@ Tips:
 | 时光相册 | [wjf0214](https://github.com/wjf0214) | [时光相册.har](https://github.com/qiandao-today/templates/blob/master/时光相册.har) | 2021-11-29 16:00:00 | phone:账号<br>password:密码<br>手机号密码 请抓登陆包查看 手机号里包括区号 86啥的 密码为加密后的密码<br><https://www.everphoto.cn/> |
 | 手电大家谈 | [wjf0214](https://github.com/wjf0214) | [手电大家谈.har](https://github.com/qiandao-today/templates/blob/master/手电大家谈.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br><https://www.shoudian.org/> |
 | 书香门第 | [wjf0214](https://github.com/wjf0214) | [书香门第.har](https://github.com/qiandao-today/templates/blob/master/书香门第.har) | 2021-11-29 16:00:00 | account:账号<br>password:密码<br>登陆账号密码(只支持字母+数字组合账号)<br><http://www.txtnovel.top> |
-| 王者营地 | [wjf0214](https://github.com/wjf0214) | [王者营地.har](https://github.com/qiandao-today/templates/blob/master/王者营地.har) | 2021-11-29 16:00:00 | 抓包 APP 中域名为 <https://ssl.kohsocialapp.qq.com> 请求内容的全部参数<br>APP自行商店下载 |
+| 王者营地 | [wjf0214](https://github.com/wjf0214) | [王者营地.har](https://github.com/qiandao-today/templates/blob/master/王者营地.har) | 2022-03-02 21:00:00 | 抓包 APP 中域名为 <https://ssl.kohsocialapp.qq.com> 请求内容的全部参数<br>APP自行商店下载 |
 | 网易云游戏 | [wjf0214](https://github.com/wjf0214) | [网易云游戏.har](https://github.com/qiandao-today/templates/blob/master/网易云游戏.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://cg.163.com/> |
 | 香网小说 | [wjf0214](https://github.com/wjf0214) | [香网小说.har](https://github.com/qiandao-today/templates/blob/master/香网小说.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://m.xiang5.com/> |
 | 一加社区 | [wjf0214](https://github.com/wjf0214) | [一加社区.har](https://github.com/qiandao-today/templates/blob/master/一加社区.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.oneplusbbs.com/> |
