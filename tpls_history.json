@@ -495,14 +495,14 @@
         },
         "迅维网": {
             "name": "迅维网",
-            "author": "acooler15,wjf0214",
-            "url": "https://cdn.jsdelivr.net/gh/qiandao-today/templates@master/迅维网.har",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/迅维网.har",
             "update": false,
-            "comments": "登录后首页cookie<br>https://www.chinafix.com",
+            "comments": "username:账号<br>password:密码<br>https://www.chinafix.com",
             "filename": "迅维网.har",
             "content": "",
-            "date": "2021-09-16 10:00:00",
-            "version": "20210916",
+            "date": "2022-03-02 23:00:00",
+            "version": "20220302",
             "commenturl": "https://github.com/qiandao-today/templates/issues/51"
         },
         "远景论坛": {
