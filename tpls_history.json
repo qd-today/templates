@@ -1716,6 +1716,18 @@
             "date": "2022-02-27 00:00:00",
             "version": "20220227",
             "commenturl":"https://github.com/qiandao-today/templates/issues/180"
+       },
+        "全球VPS交流社区": {
+            "name": "全球VPS交流社区", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/全球VPS交流社区.har", 
+            "update": false, 
+            "comments": "首页Cookie", 
+            "filename": "全球VPS交流社区.har", 
+            "content": "", 
+            "date": "2022-3-19 18:25:40
+            "version":"20220319
+            "commenturl":"https://github.com/qiandao-today/templates/issues/181"
         }
     }
 }
