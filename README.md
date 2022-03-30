@@ -174,6 +174,7 @@ Tips:
 | 书法江湖 | [wjf0214](https://github.com/wjf0214) | [书法江湖.har](https://github.com/qiandao-today/templates/blob/master/书法江湖.har) | 2022-02-27 00:00:00 | username:账号<br>password:密码<br><https://www.shufajianghu.com/> |
 | 全球VPS交流社区 | [FellBan](https://github.com/FellBan) | [全球VPS交流社区.har](https://github.com/qiandao-today/templates/blob/master/全球VPS交流社区.har) | 2022-03-29 11:02:06 | 更新账号登录加入OCR识别验证码<br><https://www.qqvps.com/> |
 | 鸿鹄论坛 | [FellBan](https://github.com/FellBan) | [鸿鹄论坛.har](https://github.com/qiandao-today/templates/blob/master/鸿鹄论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><https://bbs.hh010.com/> |
+| 攻城狮论坛-CCNA论坛 | [FellBan](https://github.com/FellBan) | [攻城狮论坛-CCNA论坛.har](https://github.com/qiandao-today/templates/blob/master/攻城狮论坛-CCNA论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><http://bbs.vlan5.com/> |
 
 ## 📄如何注册第三方库
 
