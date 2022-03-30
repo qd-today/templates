@@ -1729,17 +1729,17 @@
             "version":"20220329",
             "commenturl":"https://github.com/qiandao-today/templates/issues/181"
        },
-        "鸿鹄论坛": {
-            "name": "鸿鹄论坛", 
+        "攻城狮论坛-CCNA论坛": {
+            "name": "攻城狮论坛-CCNA论坛", 
             "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/鸿鹄论坛.har", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/攻城狮论坛-CCNA论坛.har", 
             "update": false, 
-            "comments": "首页Cookie", 
-            "filename": "鸿鹄论坛.har", 
+            "comments": "首页Cookie<br>http://bbs.vlan5.com/", 
+            "filename": "攻城狮论坛-CCNA论坛.har", 
             "content": "", 
-            "date": "2022年3月29日 11:33:18",
-            "version":"20220329",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/186"
+            "date": "2022年3月30日 10:32:00",
+            "version":"20220330",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/188"
         }
     }
 }
