@@ -573,8 +573,8 @@
             "comments": "首页cookie",
             "filename": "有道云笔记.har",
             "content": "",
-            "date": "2021-09-16 19:00:00",
-            "version": "20210916",
+            "date": "2022-03-31 22:00:00",
+            "version": "20220331",
             "commenturl": "https://github.com/qiandao-today/templates/issues/65"
         },
         "爱奇艺": {
@@ -1305,8 +1305,8 @@
             "comments": "登录后首页cookie<br>https://www.imarine.cn/",
             "filename": "龙de船人.har",
             "content": "",
-            "date": "2021-12-31 15:00:00",
-            "version": "20211231",
+            "date": "2022-03-31 13:45:00",
+            "version": "20220331",
             "commenturl":"https://github.com/qiandao-today/templates/issues/140"
         },
         "新赚吧": {
@@ -1722,11 +1722,11 @@
             "author": "FellBan", 
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/全球VPS交流社区.har", 
             "update": false, 
-            "comments": "首页Cookie", 
+            "comments": "username:账号<br>password:密码<br>https://www.qqvps.com", 
             "filename": "全球VPS交流社区.har", 
             "content": "", 
             "date": "2022-3-19 18:25:40",
-            "version":"20220319",
+            "version":"20220329",
             "commenturl":"https://github.com/qiandao-today/templates/issues/181"
         },
         "废文网": {
@@ -1740,6 +1740,30 @@
             "date": "2022-03-28 14:04:15",
             "version": "20220328",
             "commenturl":""
+       },
+        "鸿鹄论坛": {
+            "name": "鸿鹄论坛", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/鸿鹄论坛.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>http://bbs.vlan5.com/", 
+            "filename": "鸿鹄论坛.har", 
+            "content": "", 
+            "date": "2022年3月30日 10:32:00",
+            "version":"20220330",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/186"            
+       },
+        "攻城狮论坛-CCNA论坛": {
+            "name": "攻城狮论坛-CCNA论坛", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/攻城狮论坛-CCNA论坛.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>http://bbs.vlan5.com/", 
+            "filename": "攻城狮论坛-CCNA论坛.har", 
+            "content": "", 
+            "date": "2022年3月30日 10:32:00",
+            "version":"20220330",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/188"
         }
     }
 }

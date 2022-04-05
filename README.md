@@ -137,7 +137,7 @@ Tips:
 | 33iQ | [FellBan](https://github.com/FellBan) | [33iQ.har](https://github.com/qiandao-today/templates/blob/master/33iQ.har) | 2021-12-16 21:10:00 | user:账号<br>pass:密码<br><https://www.33iq.com/> |
 | 万由论坛 | [FellBan](https://github.com/FellBan) | [万由论坛.har](https://github.com/qiandao-today/templates/blob/master/万由论坛.har) | 2021-12-16 21:10:00 | 登录后首页cookie<br><https://www.u-share.cn/> |
 | 魔兽大数据 | [wjf0214](https://github.com/wjf0214) | [魔兽大数据.har](https://github.com/qiandao-today/templates/blob/master/魔兽大数据.har) | 2022-02-22 23:00:00 | 登录后首页cookie<br>content：世界频道发言的内容<br><http://bj.wowdata.top/> |
-| 龙de船人 | [wjf0214](https://github.com/wjf0214) | [龙de船人.har](https://github.com/qiandao-today/templates/blob/master/龙de船人.har) | 2021-12-31 15:00:00 | 登录后首页cookie<br><https://www.imarine.cn/> |
+| 龙de船人 | [wjf0214](https://github.com/wjf0214) | [龙de船人.har](https://github.com/qiandao-today/templates/blob/master/龙de船人.har) | 2022-03-31 13:45:00 | 登录后首页cookie<br><https://www.imarine.cn/> |
 | 新赚吧 | [wjf0214](https://github.com/wjf0214) | [新赚吧.har](https://github.com/qiandao-today/templates/blob/master/新赚吧.har) | 2021-12-28 13:00:00 | username:账号<br>password:密码<br><https://v1.xianbao.net/> |
 | SSPANEL机场通用签到 | [wjf0214](https://github.com/wjf0214) | [SSPANEL机场通用签到.har](https://github.com/qiandao-today/templates/blob/master/SSPANEL机场通用签到.har) | 2021-12-28 14:20:00 | domain:域名,如【https://xxx.com】,后面不带'/'<br>username:账号<br>password:密码 |
 | 萌盘总动员 | [wjf0214](https://github.com/wjf0214) | [萌盘总动员.har](https://github.com/qiandao-today/templates/blob/master/萌盘总动员.har) | 2021-12-30 14:00:00 | username:账号<br>password:密码<br><http://bdarea.net/> |
@@ -174,6 +174,9 @@ Tips:
 | 书法江湖 | [wjf0214](https://github.com/wjf0214) | [书法江湖.har](https://github.com/qiandao-today/templates/blob/master/书法江湖.har) | 2022-02-27 00:00:00 | username:账号<br>password:密码<br><https://www.shufajianghu.com/> |
 | 全球VPS交流社区 | [FellBan](https://github.com/FellBan) | [全球VPS交流社区.har](https://github.com/qiandao-today/templates/blob/master/全球VPS交流社区.har) | 2022-03-19 00:00:00 | 页面cookie<br><https://www.qqvps.com/> |
 | 废文网 | [Ovler-Young](https://github.com/Ovler-Young) | [废文网.har](https://github.com/qiandao-today/templates/blob/master/废文网.har) | 2022-03-28 14:04:15 | 登录后首页cookie<br>uid(前往usercenter，地址中有)<br><https://废文网.com/> |
+| 鸿鹄论坛 | [FellBan](https://github.com/FellBan) | [鸿鹄论坛.har](https://github.com/qiandao-today/templates/blob/master/鸿鹄论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><https://bbs.hh010.com/> |
+| 攻城狮论坛-CCNA论坛 | [FellBan](https://github.com/FellBan) | [攻城狮论坛-CCNA论坛.har](https://github.com/qiandao-today/templates/blob/master/攻城狮论坛-CCNA论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><http://bbs.vlan5.com/> |
+
 
 ## 📄如何注册第三方库
 
