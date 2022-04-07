@@ -1764,6 +1764,18 @@
             "date": "2022年3月30日 10:32:00",
             "version":"20220330",
             "commenturl":"https://github.com/qiandao-today/templates/issues/188"
+        },
+        "4K时光官网": {
+            "name": "4K时光官网", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/4K时光官网.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>http://bbs.vlan5.com/", 
+            "filename": "4K时光官网.har", 
+            "content": "", 
+            "date": "2022年4月7日 17:32:00",
+            "version":"20220407",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/190"
         }
     }
 }
