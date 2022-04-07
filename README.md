@@ -176,6 +176,7 @@ Tips:
 | 废文网 | [Ovler-Young](https://github.com/Ovler-Young) | [废文网.har](https://github.com/qiandao-today/templates/blob/master/废文网.har) | 2022-03-28 14:04:15 | 登录后首页cookie<br>uid(前往usercenter，地址中有)<br><https://废文网.com/> |
 | 鸿鹄论坛 | [FellBan](https://github.com/FellBan) | [鸿鹄论坛.har](https://github.com/qiandao-today/templates/blob/master/鸿鹄论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><https://bbs.hh010.com/> |
 | 攻城狮论坛-CCNA论坛 | [FellBan](https://github.com/FellBan) | [攻城狮论坛-CCNA论坛.har](https://github.com/qiandao-today/templates/blob/master/攻城狮论坛-CCNA论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><http://bbs.vlan5.com/> |
+| 4K时光官网 | [FellBan](https://github.com/FellBan) | [4K时光官网.har](https://github.com/qiandao-today/templates/blob/master/4K时光官网.har) | 2022-04-07 17:32:00 | 首页Cookie<br><https://www.4ksg.com/> |
 
 
 ## 📄如何注册第三方库
