@@ -172,7 +172,7 @@ Tips:
 | 国配影迷社区 | [wjf0214](https://github.com/wjf0214) | [国配影迷社区.har](https://github.com/qiandao-today/templates/blob/master/国配影迷社区.har) | 2022-02-23 12:00:00 | 登录后首页cookie<br><https://club.ccmnn.com/> |
 | 飘云阁 | [wjf0214](https://github.com/wjf0214) | [飘云阁.har](https://github.com/qiandao-today/templates/blob/master/飘云阁.har) | 2022-03-11 21:20:00 | username:账号<br>password:密码<br><https://www.chinapyg.com/> |
 | 书法江湖 | [wjf0214](https://github.com/wjf0214) | [书法江湖.har](https://github.com/qiandao-today/templates/blob/master/书法江湖.har) | 2022-02-27 00:00:00 | username:账号<br>password:密码<br><https://www.shufajianghu.com/> |
-| 全球VPS交流社区 | [FellBan](https://github.com/FellBan) | [全球VPS交流社区.har](https://github.com/qiandao-today/templates/blob/master/全球VPS交流社区.har) | 2022-03-19 00:00:00 | 页面cookie<br><https://www.qqvps.com/> |
+| 全球VPS交流社区 | [FellBan](https://github.com/FellBan) | [全球VPS交流社区.har](https://github.com/qiandao-today/templates/blob/master/全球VPS交流社区.har) | 2022-03-19 00:00:00 | username:账号<br>password:密码<br><https://www.qqvps.com/> |
 | 废文网 | [Ovler-Young](https://github.com/Ovler-Young) | [废文网.har](https://github.com/qiandao-today/templates/blob/master/废文网.har) | 2022-03-28 14:04:15 | 登录后首页cookie<br>uid(前往usercenter，地址中有)<br><https://废文网.com/> |
 | 鸿鹄论坛 | [FellBan](https://github.com/FellBan) | [鸿鹄论坛.har](https://github.com/qiandao-today/templates/blob/master/鸿鹄论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><https://bbs.hh010.com/> |
 | 攻城狮论坛-CCNA论坛 | [FellBan](https://github.com/FellBan) | [攻城狮论坛-CCNA论坛.har](https://github.com/qiandao-today/templates/blob/master/攻城狮论坛-CCNA论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><http://bbs.vlan5.com/> |
