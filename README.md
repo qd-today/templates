@@ -177,6 +177,8 @@ Tips:
 | 鸿鹄论坛 | [FellBan](https://github.com/FellBan) | [鸿鹄论坛.har](https://github.com/qiandao-today/templates/blob/master/鸿鹄论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><https://bbs.hh010.com/> |
 | 攻城狮论坛-CCNA论坛 | [FellBan](https://github.com/FellBan) | [攻城狮论坛-CCNA论坛.har](https://github.com/qiandao-today/templates/blob/master/攻城狮论坛-CCNA论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><http://bbs.vlan5.com/> |
 | 4K时光官网 | [FellBan](https://github.com/FellBan) | [4K时光官网.har](https://github.com/qiandao-today/templates/blob/master/4K时光官网.har) | 2022-04-07 17:32:00 | 首页Cookie<br><https://www.4ksg.com/> |
+| 紫猫学院社区 | [FellBan](https://github.com/FellBan) | [紫猫学院社区.har](https://github.com/qiandao-today/templates/blob/master/紫猫学院社区.har) | 2022-04-
+47 16:28:00 | 首页Cookie<br><https://zimaoxy.com/b/forum.php> |
 
 
 ## 📄如何注册第三方库
