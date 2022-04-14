@@ -1788,6 +1788,18 @@
             "date": "2022年4月14日 16:32:00",
             "version":"20220414",
             "commenturl":"https://github.com/qiandao-today/templates/issues/193"
+        },
+        "修图匠人": {
+            "name": "修图匠人", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/修图匠人.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://www.tsliuyu.com/", 
+            "filename": "修图匠人.har", 
+            "content": "", 
+            "date": "2022年4月14日 18:01:00",
+            "version":"20220414",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/194"            
         }
     }
 }
