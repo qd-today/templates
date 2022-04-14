@@ -1799,7 +1799,19 @@
             "content": "", 
             "date": "2022年4月14日 18:01:00",
             "version":"20220414",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/194"            
+            "commenturl":"https://github.com/qiandao-today/templates/issues/194"
+        },
+        "糖果VR资源网": {
+            "name": "糖果VR资源网", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/糖果VR资源网.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://www.tangguo2.com/forum.php", 
+            "filename": "糖果VR资源网.har", 
+            "content": "", 
+            "date": "2022年4月14日 18:24:00",
+            "version":"20220414",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/195"               
         }
     }
 }
