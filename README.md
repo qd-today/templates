@@ -179,6 +179,8 @@ Tips:
 | 4K时光官网 | [FellBan](https://github.com/FellBan) | [4K时光官网.har](https://github.com/qiandao-today/templates/blob/master/4K时光官网.har) | 2022-04-07 17:32:00 | 首页Cookie<br><https://www.4ksg.com/> |
 | 紫猫学院社区 | [FellBan](https://github.com/FellBan) | [紫猫学院社区.har](https://github.com/qiandao-today/templates/blob/master/紫猫学院社区.har) | 2022-04-
 47 16:28:00 | 首页Cookie<br><https://zimaoxy.com/b/forum.php> |
+| 修图匠人 | [FellBan](https://github.com/FellBan) | [修图匠人.har](https://github.com/qiandao-today/templates/blob/master/修图匠人.har) | 2022-04-
+47 18:01:00 | 首页Cookie<br><https://www.tsliuyu.com/> |
 
 
 ## 📄如何注册第三方库
