@@ -1775,7 +1775,19 @@
             "content": "", 
             "date": "2022年4月7日 17:32:00",
             "version":"20220407",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/190"
+            "commenturl":"https://github.com/qiandao-today/templates/issues/190"            
+        },
+        "紫猫学院社区": {
+            "name": "紫猫学院社区", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/紫猫学院社区.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://zimaoxy.com/b/forum.php", 
+            "filename": "紫猫学院社区.har", 
+            "content": "", 
+            "date": "2022年4月14日 16:32:00",
+            "version":"20220414",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/193"
         }
     }
 }
