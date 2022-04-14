@@ -181,6 +181,8 @@ Tips:
 47 16:28:00 | 首页Cookie<br><https://zimaoxy.com/b/forum.php> |
 | 修图匠人 | [FellBan](https://github.com/FellBan) | [修图匠人.har](https://github.com/qiandao-today/templates/blob/master/修图匠人.har) | 2022-04-
 47 18:01:00 | 首页Cookie<br><https://www.tsliuyu.com/> |
+| 糖果VR资源网 | [FellBan](https://github.com/FellBan) | [糖果VR资源网.har](https://github.com/qiandao-today/templates/blob/master/糖果VR资源网.har) | 2022-04-
+47 18:24:00 | 首页Cookie<br><https://www.tangguo2.com/forum.php> |
 
 
 ## 📄如何注册第三方库
