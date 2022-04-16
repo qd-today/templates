@@ -1749,7 +1749,7 @@
             "comments": "首页Cookie<br>https://bbs.hh010.com/", 
             "filename": "鸿鹄论坛.har", 
             "content": "", 
-            "date": "2022年3月30日 10:32:00",
+            "date": "2022-3-30 10:32:00",
             "version":"20220330",
             "commenturl":"https://github.com/qiandao-today/templates/issues/186"            
        },
@@ -1761,7 +1761,7 @@
             "comments": "首页Cookie<br>http://bbs.vlan5.com/", 
             "filename": "攻城狮论坛-CCNA论坛.har", 
             "content": "", 
-            "date": "2022年3月30日 10:32:00",
+            "date": "2022-3-30 10:32:00",
             "version":"20220330",
             "commenturl":"https://github.com/qiandao-today/templates/issues/188"
         },
@@ -1773,7 +1773,7 @@
             "comments": "首页Cookie<br>http://www.4ksg.cn/", 
             "filename": "4K时光官网.har", 
             "content": "", 
-            "date": "2022年4月7日 17:32:00",
+            "date": "2022-4-7 17:32:00",
             "version":"20220407",
             "commenturl":"https://github.com/qiandao-today/templates/issues/190"            
         },
@@ -1785,7 +1785,7 @@
             "comments": "首页Cookie<br>https://zimaoxy.com/b/forum.php", 
             "filename": "紫猫学院社区.har", 
             "content": "", 
-            "date": "2022年4月14日 16:32:00",
+            "date": "2022-4-14 16:32:00",
             "version":"20220414",
             "commenturl":"https://github.com/qiandao-today/templates/issues/193"
         },
@@ -1797,7 +1797,7 @@
             "comments": "首页Cookie<br>https://www.tsliuyu.com/", 
             "filename": "修图匠人.har", 
             "content": "", 
-            "date": "2022年4月14日 18:01:00",
+            "date": "2022-4-14 18:01:00",
             "version":"20220414",
             "commenturl":"https://github.com/qiandao-today/templates/issues/194"
         },
@@ -1809,9 +1809,33 @@
             "comments": "首页Cookie<br>https://www.tangguo2.com/forum.php", 
             "filename": "糖果VR资源网.har", 
             "content": "", 
-            "date": "2022年4月14日 18:24:00",
+            "date": "2022-4-14 18:24:00",
             "version":"20220414",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/195"               
+            "commenturl":"https://github.com/qiandao-today/templates/issues/195" 
+        },
+        "HDTime": {
+            "name": "HDTime", 
+            "author": "wjf0214", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/HDTime.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://hdtime.org/", 
+            "filename": "HDTime.har", 
+            "content": "", 
+            "date": "2022-4-16 15:48:00",
+            "version":"20220416",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/196" 
+         },
+        "聆音Club": {
+            "name": "聆音Club", 
+            "author": "wjf0214", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/聆音Club.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://pt.soulvoice.club/", 
+            "filename": "聆音Club.har", 
+            "content": "", 
+            "date": "2022-4-16 15:48:00",
+            "version":"20220416",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/197"           
         }
     }
 }
