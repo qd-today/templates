@@ -177,9 +177,12 @@ Tips:
 | 鸿鹄论坛 | [FellBan](https://github.com/FellBan) | [鸿鹄论坛.har](https://github.com/qiandao-today/templates/blob/master/鸿鹄论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><https://bbs.hh010.com/> |
 | 攻城狮论坛-CCNA论坛 | [FellBan](https://github.com/FellBan) | [攻城狮论坛-CCNA论坛.har](https://github.com/qiandao-today/templates/blob/master/攻城狮论坛-CCNA论坛.har) | 2022-03-29 11:35:27 | 首页Cookie<br><http://bbs.vlan5.com/> |
 | 4K时光官网 | [FellBan](https://github.com/FellBan) | [4K时光官网.har](https://github.com/qiandao-today/templates/blob/master/4K时光官网.har) | 2022-04-07 17:32:00 | 首页Cookie<br><https://www.4ksg.com/> |
-| 紫猫学院社区 | [FellBan](https://github.com/FellBan) | [紫猫学院社区.har](https://github.com/qiandao-today/templates/blob/master/紫猫学院社区.har) | 2022-04-47 16:28:00 | 首页Cookie<br><https://zimaoxy.com/b/forum.php> |
-| 修图匠人 | [FellBan](https://github.com/FellBan) | [修图匠人.har](https://github.com/qiandao-today/templates/blob/master/修图匠人.har) | 2022-04-47 18:01:00 | 首页Cookie<br><https://www.tsliuyu.com/> |
-| 糖果VR资源网 | [FellBan](https://github.com/FellBan) | [糖果VR资源网.har](https://github.com/qiandao-today/templates/blob/master/糖果VR资源网.har) | 2022-04-47 18:24:00 | 首页Cookie<br><https://www.tangguo2.com/forum.php> |
+| 紫猫学院社区 | [FellBan](https://github.com/FellBan) | [紫猫学院社区.har](https://github.com/qiandao-today/templates/blob/master/紫猫学院社区.har) | 2022-04-14 16:28:00 | 首页Cookie<br><https://zimaoxy.com/b/forum.php> |
+| 修图匠人 | [FellBan](https://github.com/FellBan) | [修图匠人.har](https://github.com/qiandao-today/templates/blob/master/修图匠人.har) | 2022-04-14 18:01:00 | 首页Cookie<br><https://www.tsliuyu.com/> |
+| 糖果VR资源网 | [FellBan](https://github.com/FellBan) | [糖果VR资源网.har](https://github.com/qiandao-today/templates/blob/master/糖果VR资源网.har) | 2022-04-14 18:24:00 | 首页Cookie<br><https://www.tangguo2.com/forum.php> |
+| HDTime | [wjf0214](https://github.com/wjf0214) | [HDTime.har](https://github.com/qiandao-today/templates/blob/master/HDTime.har) | 2022-04-16 18:24:00 | 首页Cookie<br><https://hdtime.org/> |
+| 聆音Club | [wjf0214](https://github.com/wjf0214) | [聆音Club.har](https://github.com/qiandao-today/templates/blob/master/聆音Club.har) | 2022-04-16 18:24:00 | 首页Cookie<br><https://pt.soulvoice.club/> |
+
 
 
 ## 📄如何注册第三方库
