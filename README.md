@@ -99,8 +99,8 @@ Tips:
 | 经管之家 | [wjf0214](https://github.com/wjf0214) | [经管之家.har](https://github.com/qiandao-today/templates/blob/master/经管之家.har) | 2021-12-08 22:00:00 | 登录后首页cookie<br><https://bbs.pinggu.org/> |
 | 看雪安全论坛 | [wjf0214](https://github.com/wjf0214) | [看雪安全论坛.har](https://github.com/qiandao-today/templates/blob/master/看雪安全论坛.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://bbs.pediy.com/> |
 | 科技玩家 | [wjf0214](https://github.com/wjf0214) | [科技玩家.har](https://github.com/qiandao-today/templates/blob/master/科技玩家.har) | 2021-11-29 16:00:00 | username:账号<br>password:密码<br><https://www.kejiwanjia.com/> |
-| 科学刀论坛 | [wjf0214](https://github.com/wjf0214) | [科学刀论坛.har](https://github.com/qiandao-today/templates/blob/master/科学刀论坛.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.kxdao.net/> |
-| 科学刀在线时间 | [wjf0214](https://github.com/wjf0214) | [科学刀在线时间.har](https://github.com/qiandao-today/templates/blob/master/科学刀在线时间.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.kxdao.net/> |
+| 科学刀论坛 | [wjf0214](https://github.com/wjf0214) | [科学刀论坛.har](https://github.com/qiandao-today/templates/blob/master/科学刀论坛.har) | 2022-04-24 13:40:00 | 登录后首页cookie<br><https://www.k7d.com/> |
+| 科学刀在线时间 | [wjf0214](https://github.com/wjf0214) | [科学刀在线时间.har](https://github.com/qiandao-today/templates/blob/master/科学刀在线时间.har) | 2022-04-24 13:40:00 | 登录后首页cookie<br><https://www.k7d.com/> |
 | 龙的天空 | [wjf0214](https://github.com/wjf0214) | [龙的天空.har](https://github.com/qiandao-today/templates/blob/master/龙的天空.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://www.lkong.com/> |
 | 猫耳FM-每日鱼干 | [wjf0214](https://github.com/wjf0214) | [猫耳FM-每日鱼干.har](https://github.com/qiandao-today/templates/blob/master/猫耳FM-每日鱼干.har) | 2021-12-08 22:00:00 | 登录后首页cookie<br><https://www.missevan.com> |
 | 魅族社区 | [wjf0214](https://github.com/wjf0214) | [魅族社区.har](https://github.com/qiandao-today/templates/blob/master/魅族社区.har) | 2021-11-29 16:00:00 | 登录后首页cookie<br><https://bbs.meizu.cn/> |
