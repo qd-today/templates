@@ -182,6 +182,7 @@ Tips:
 | 糖果VR资源网 | [FellBan](https://github.com/FellBan) | [糖果VR资源网.har](https://github.com/qiandao-today/templates/blob/master/糖果VR资源网.har) | 2022-04-14 18:24:00 | 首页Cookie<br><https://www.tangguo2.com/forum.php> |
 | HDTime | [wjf0214](https://github.com/wjf0214) | [HDTime.har](https://github.com/qiandao-today/templates/blob/master/HDTime.har) | 2022-04-16 18:24:00 | 首页Cookie<br><https://hdtime.org/> |
 | 聆音Club | [wjf0214](https://github.com/wjf0214) | [聆音Club.har](https://github.com/qiandao-today/templates/blob/master/聆音Club.har) | 2022-04-16 18:24:00 | 首页Cookie<br><https://pt.soulvoice.club/> |
+| MC百科 | [FellBan](https://github.com/FellBan) | [MC百科.har](https://github.com/qiandao-today/templates/blob/master/MC百科.har) | 2022-04-24 18:26:00 | 首页Cookie<br><https://center.mcmod.cn/> |
 
 
 
