@@ -1836,6 +1836,18 @@
             "date": "2022-04-16 15:48:00",
             "version":"20220416",
             "commenturl":"https://github.com/qiandao-today/templates/issues/197"           
+        },
+        "MC百科": {
+            "name": "MC百科", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MC百科.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://center.mcmod.cn/", 
+            "filename": "MC百科.har", 
+            "content": "", 
+            "date": "2022-04-24 11:29:00",
+            "version":"20220424",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/199"             
         }
     }
 }
