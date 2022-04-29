@@ -82,7 +82,7 @@ Tips:
 | HiFiNi | [wjf0214](https://github.com/wjf0214) | [HiFiNi.har](https://raw.githubusercontent.com/qiandao-today/templates/master/HiFiNi.har) | 2021-11-20 21:00:00 | 登录后首页cookie<br><https://www.hifini.com/> |
 | 人人素材 | [wjf0214](https://github.com/wjf0214) | [人人素材.har](https://raw.githubusercontent.com/qiandao-today/templates/master/人人素材.har) | 2021-11-20 21:00:00 | username:账号,手机号<br>password:密码<br><https://www.rrcg.cn/> |
 | SolidWorks机械工程师网 | [wjf0214](https://github.com/wjf0214) | [SolidWorks机械工程师网.har](https://raw.githubusercontent.com/qiandao-today/templates/master/SolidWorks机械工程师网.har) | 2021-12-02 20:00:00 | username:账号<br>password:密码<br><https://www.swbbsc.com/> |
-| 卡饭 | [wjf0214](https://github.com/wjf0214) | [卡饭.har](https://raw.githubusercontent.com/qiandao-today/templates/master/卡饭.har) | 2022-02-28 09:40:00 | username:账号<br>password:密码<br><https://bbs.kafan.cn/> |
+| 卡饭(Cookie版) | [wjf0214](https://github.com/wjf0214) | [卡饭(Cookie版).har](https://raw.githubusercontent.com/qiandao-today/templates/master/卡饭(Cookie版).har) | 2022-04-29 10:40:00 | 登录后首页cookie<br><https://bbs.kafan.cn/> |
 | hostloc主机论坛 | [wjf0214](https://github.com/wjf0214) | [hostloc主机论坛.har](https://raw.githubusercontent.com/qiandao-today/templates/master/hostloc主机论坛.har) | 2021-11-20 22:30:00 | 登录后首页cookie<br><https://hostloc.com> |
 | 粤梦缘 | [wjf0214](https://github.com/wjf0214) | [粤梦缘.har](https://raw.githubusercontent.com/qiandao-today/templates/master/粤梦缘.har) | 2021-11-20 22:30:00 | username:账号<br>password:密码<br><https://www.dranime.net/> |
 | 幕后Muhou | [wjf0214](https://github.com/wjf0214) | [幕后Muhou.har](https://raw.githubusercontent.com/qiandao-today/templates/master/幕后Muhou.har) | 2021-12-31 09:30:00 | username:账号<br>password:密码<br><https://muhou.net/> |

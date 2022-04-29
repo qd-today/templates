@@ -637,16 +637,16 @@
             "version": "20211202",
             "commenturl": "https://github.com/qiandao-today/templates/issues/78"
         },
-        "卡饭": {
-            "name": "卡饭",
+        "卡饭(Cookie版)": {
+            "name": "卡饭(Cookie版)",
             "author": "wjf0214",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/卡饭.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/卡饭(Cookie版).har",
             "update": false,
             "comments": "username:账号<br>password:密码<br>https://bbs.kafan.cn/",
-            "filename": "卡饭.har",
+            "filename": "卡饭(Cookie版).har",
             "content": "",
-            "date": "2022-02-28 09:40:00",
-            "version": "20220228",
+            "date": "2022-04-29 10:40:00",
+            "version": "20220429",
             "commenturl": "https://github.com/qiandao-today/templates/issues/79"
         },
         "hostloc主机论坛": {
