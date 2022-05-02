@@ -1847,7 +1847,20 @@
             "content": "", 
             "date": "2022-04-24 11:29:00",
             "version":"20220424",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/199"             
+            "commenturl":"https://github.com/qiandao-today/templates/issues/199"
+        },
+        "IT技术交流论坛": {
+            "name": "IT技术交流论坛", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/IT技术交流论坛.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://bbs.itzmx.com/", 
+            "filename": "IT技术交流论坛.har", 
+            "content": "", 
+            "date": "2022-05-02 17:13:00",
+            "version":"20220502",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/200"                
+            
         }
     }
 }
