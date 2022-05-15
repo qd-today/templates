@@ -75,7 +75,7 @@ Tips:
 | 91tvg主机玩家的营地 |  [wjf0214](https://github.com/wjf0214)  | [91tvg主机玩家的营地.har](https://raw.githubusercontent.com/qiandao-today/templates/master/91tvg主机玩家的营地.har) | 2021-12-10 13:30:00 |  登录后首页cookie<br><https://www.91tvg.com/> |
 | 致美化 |  [wjf0214](https://github.com/wjf0214)  | [致美化.har](https://raw.githubusercontent.com/qiandao-today/templates/master/致美化.har) | 2021-11-20 21:20:00 |  user:账号<br>pass:密码<br><https://zhutix.com> |
 | hao4k |  [wjf0214](https://github.com/wjf0214)  | [hao4k.har](https://raw.githubusercontent.com/qiandao-today/templates/master/hao4k.har) | 2022-03-02 21:30:00 |  登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br><https://www.hao4k.cn/> |
-| 掘金 | [acooler15](https://github.com/acooler15) | [掘金.har](https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har) | 2021-09-16 19:00:00 | cookies |
+| 掘金 | [acooler15](https://github.com/acooler15) | [掘金.har](https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har) | 2022-05-15 21:00:00 | cookies |
 | 有道云笔记 | [acooler15](https://github.com/acooler15) | [有道云笔记.har](https://raw.githubusercontent.com/qiandao-today/templates/master/有道云笔记.har) | 2021-09-16 19:00:00 | cookies |
 | 爱奇艺 | [a76yyyy](https://github.com/a76yyyy) | [爱奇艺.har](https://raw.githubusercontent.com/qiandao-today/templates/master/爱奇艺.har) | 2022-01-27 18:00:00 | 网址: https://www.iqiyi.com/; <br>首页登录后在cookie中提取变量P00001, P00003 和 _dfp变量中@符号前的部分内容; <br>仅爱奇艺会员可用 |
 | MZFastCloud | [wjf0214](https://github.com/wjf0214) | [MZFastCloud.har](https://raw.githubusercontent.com/qiandao-today/templates/master/MZFastCloud.har) | 2021-11-20 21:00:00 | username:账号<br>password:密码<br><https://www.mzfast.xyz/> |
