@@ -1859,7 +1859,19 @@
             "content": "", 
             "date": "2022-05-02 17:13:00",
             "version":"20220502",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/200"                
+            "commenturl":"https://github.com/qiandao-today/templates/issues/200" 
+        },
+        "苹果团": {
+            "name": "苹果团", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/苹果团.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://appletuan.com/", 
+            "filename": "苹果团.har", 
+            "content": "", 
+            "date": "2022-05-24 00:34:00",
+            "version":"20220524",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/202"                  
             
         }
     }
