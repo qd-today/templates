@@ -184,6 +184,7 @@ Tips:
 | 聆音Club | [wjf0214](https://github.com/wjf0214) | [聆音Club.har](https://github.com/qiandao-today/templates/blob/master/聆音Club.har) | 2022-04-16 18:24:00 | 首页Cookie<br><https://pt.soulvoice.club/> |
 | MC百科 | [FellBan](https://github.com/FellBan) | [MC百科.har](https://github.com/qiandao-today/templates/blob/master/MC百科.har) | 2022-04-24 18:26:00 | 首页Cookie<br><https://center.mcmod.cn/> |
 | IT技术交流论坛 | [FellBan](https://github.com/FellBan) | [IT技术交流论坛.har](https://github.com/qiandao-today/templates/blob/master/IT技术交流论坛.har) | 2022-05-02 17:13:00 | 首页Cookie<br><https://bbs.itzmx.com/> |
+| 苹果团 | [FellBan](https://github.com/FellBan) | [苹果团.har](https://github.com/qiandao-today/templates/blob/master/苹果团.har) | 2022-05-24 00:34:00 | 首页Cookie<br><https://appletuan.com/> |
 
 
 
