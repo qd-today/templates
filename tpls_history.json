@@ -1871,7 +1871,19 @@
             "content": "", 
             "date": "2022-05-24 00:34:00",
             "version":"20220524",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/202"                  
+            "commenturl":"https://github.com/qiandao-today/templates/issues/202"
+        },
+        "游戏大桶": {
+            "name": "游戏大桶", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/游戏大桶.har", 
+            "update": false, 
+            "comments": "游戏大桶<br>https://gamekegs.com", 
+            "filename": "游戏大桶.har", 
+            "content": "", 
+            "date": "2022-05-26 17:04:00",
+            "version":"20220526",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/203"             
             
         }
     }
