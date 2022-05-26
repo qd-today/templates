@@ -185,7 +185,7 @@ Tips:
 | MC百科 | [FellBan](https://github.com/FellBan) | [MC百科.har](https://github.com/qiandao-today/templates/blob/master/MC百科.har) | 2022-04-24 18:26:00 | 首页Cookie<br><https://center.mcmod.cn/> |
 | IT技术交流论坛 | [FellBan](https://github.com/FellBan) | [IT技术交流论坛.har](https://github.com/qiandao-today/templates/blob/master/IT技术交流论坛.har) | 2022-05-02 17:13:00 | 首页Cookie<br><https://bbs.itzmx.com/> |
 | 苹果团 | [FellBan](https://github.com/FellBan) | [苹果团.har](https://github.com/qiandao-today/templates/blob/master/苹果团.har) | 2022-05-24 00:34:00 | 首页Cookie<br><https://appletuan.com/> |
-| 游戏大桶 | [FellBan](https://github.com/FellBan) | [游戏大桶.har](https://github.com/qiandao-today/templates/blob/master/游戏大桶.har) | 2022-05-26 17:04:00 | 账号密码<br>定时-当当天随机延时12000~20000<br><https://gamekegs.com> |
+| 游戏大桶 | [FellBan](https://github.com/FellBan) | [游戏大桶.har](https://github.com/qiandao-today/templates/blob/master/游戏大桶.har) | 2022-05-26 17:04:00 | 账号密码<br>定时-当天随机延时12000~20000<br><https://gamekegs.com> |
 
 
 
