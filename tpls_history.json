@@ -1909,6 +1909,19 @@
             "version":"20220528",
             "commenturl":"https://github.com/qiandao-today/templates/issues/205"    
             
+        },
+        "速蛙云": {
+            "name": "速蛙云", 
+            "author": "a76yyyy", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/速蛙云.har", 
+            "update": false, 
+            "comments": "domain: 速蛙云域名, 如 cloud.sw16.icu ,<br>F12获取info请求 Cookie 和 authorizationmweb 参数", 
+            "filename": "速蛙云.har", 
+            "content": "", 
+            "date": "2022-05-28 12:00:00",
+            "version":"20220528",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/206"    
+            
         }
     }
 }
