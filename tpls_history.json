@@ -1922,6 +1922,19 @@
             "version":"20220528",
             "commenturl":"https://github.com/qiandao-today/templates/issues/206"    
             
+        },
+        "FreeFarm": {
+            "name": "FreeFarm", 
+            "author": "a76yyyy", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/FreeFarm.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://pt.0ff.cc/", 
+            "filename": "速蛙云.har", 
+            "content": "", 
+            "date": "2022-05-28 12:41:00",
+            "version":"20220528",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/207"    
+            
         }
     }
 }
