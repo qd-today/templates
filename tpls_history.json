@@ -1922,6 +1922,32 @@
             "version":"20220528",
             "commenturl":"https://github.com/qiandao-today/templates/issues/206"    
             
+        },
+        "FreeFarm": {
+            "name": "FreeFarm", 
+            "author": "AemonCao", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/FreeFarm.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://pt.0ff.cc/", 
+            "filename": "FreeFarm.har", 
+            "content": "", 
+            "date": "2022-05-28 12:41:00",
+            "version":"20220528",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/208"    
+            
+        },
+        "CarPT": {
+            "name": "CarPT", 
+            "author": "AemonCao", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/CarPT.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://carpt.net/", 
+            "filename": "CarPT.har", 
+            "content": "", 
+            "date": "2022-05-28 12:50:00",
+            "version":"20220528",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/209"    
+            
         }
     }
 }
