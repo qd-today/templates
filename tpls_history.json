@@ -1896,6 +1896,18 @@
             "date": "2022-05-26 17:30:00",
             "version":"20220526",
             "commenturl":"https://github.com/qiandao-today/templates/issues/204"    
+         },
+        "Cnlang国语视界": {
+            "name": "Cnlang国语视界", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/Cnlang国语视界.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://cnlang.org/", 
+            "filename": "Cnlang国语视界.har", 
+            "content": "", 
+            "date": "2022-05-28 09:55:00",
+            "version":"20220528",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/205"    
             
         }
     }
