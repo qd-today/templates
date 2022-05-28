@@ -187,6 +187,7 @@ Tips:
 | 苹果团 | [FellBan](https://github.com/FellBan) | [苹果团.har](https://github.com/qiandao-today/templates/blob/master/苹果团.har) | 2022-05-24 00:34:00 | 首页Cookie<br><https://appletuan.com/> |
 | 游戏大桶 | [FellBan](https://github.com/FellBan) | [游戏大桶.har](https://github.com/qiandao-today/templates/blob/master/游戏大桶.har) | 2022-05-26 17:04:00 | 账号密码<br>定时-当天随机延时12000~20000 不随机容易出滑块就签到不了<br><https://gamekegs.com> |
 | 4K视界 | [FellBan](https://github.com/FellBan) | [4K视界.har](https://github.com/qiandao-today/templates/blob/master/4K视界.har) | 2022-05-26 17:30:00 | 首页Cookie<br><https://www.4ksj.com/> |
+| Cnlang国语视界 | [FellBan](https://github.com/FellBan) | [Cnlang国语视界.har](https://github.com/qiandao-today/templates/blob/master/Cnlang国语视界.har) | 2022-05-28 09:55:00 | 首页Cookie<br><https://cnlang.org/> |
 
 
 
