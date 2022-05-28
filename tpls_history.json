@@ -1929,11 +1929,11 @@
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/FreeFarm.har", 
             "update": false, 
             "comments": "首页Cookie<br>https://pt.0ff.cc/", 
-            "filename": "速蛙云.har", 
+            "filename": "FreeFarm.har", 
             "content": "", 
             "date": "2022-05-28 12:41:00",
             "version":"20220528",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/207"    
+            "commenturl":"https://github.com/qiandao-today/templates/issues/208"    
             
         },
         "CarPT": {
@@ -1946,7 +1946,7 @@
             "content": "", 
             "date": "2022-05-28 12:50:00",
             "version":"20220528",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/208"    
+            "commenturl":"https://github.com/qiandao-today/templates/issues/209"    
             
         }
     }
