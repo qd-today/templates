@@ -190,6 +190,7 @@ Tips:
 | Cnlang国语视界 | [FellBan](https://github.com/FellBan) | [Cnlang国语视界.har](https://github.com/qiandao-today/templates/blob/master/Cnlang国语视界.har) | 2022-05-28 09:55:00 | 首页Cookie<br><https://cnlang.org/> |
 | 速蛙云 | [a76yyyy](https://github.com/a76yyyy) | [速蛙云.har](https://github.com/qiandao-today/templates/blob/master/速蛙云.har) | 2022-05-28 12:00:00 | F12获取info请求 Cookie 和 authorizationmweb 参数, <br>domain: 速蛙云域名, 如 cloud.sw16.icu |
 | FreeFarm | [AemonCao](https://github.com/AemonCao) | [FreeFarm.har](https://github.com/qiandao-today/templates/blob/master/FreeFarm.har) | 2022-05-28 12:00:00 | 首页Cookie<br>https://pt.0ff.cc/ |
+| CarPT | [AemonCao](https://github.com/AemonCao) | [CarPT.har](https://github.com/qiandao-today/templates/blob/master/CarPT.har) | 2022-05-28 12:00:00 | 首页Cookie<br>https://carpt.net/ |
 
 
 ## 📄如何注册第三方库
