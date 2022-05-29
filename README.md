@@ -191,6 +191,9 @@ Tips:
 | 速蛙云 | [a76yyyy](https://github.com/a76yyyy) | [速蛙云.har](https://github.com/qiandao-today/templates/blob/master/速蛙云.har) | 2022-05-28 12:00:00 | F12获取info请求 Cookie 和 authorizationmweb 参数, <br>domain: 速蛙云域名, 如 cloud.sw16.icu |
 | FreeFarm | [AemonCao](https://github.com/AemonCao) | [FreeFarm.har](https://github.com/qiandao-today/templates/blob/master/FreeFarm.har) | 2022-05-28 12:00:00 | 首页Cookie<br>https://pt.0ff.cc/ |
 | CarPT | [AemonCao](https://github.com/AemonCao) | [CarPT.har](https://github.com/qiandao-today/templates/blob/master/CarPT.har) | 2022-05-28 12:00:00 | 首页Cookie<br>https://carpt.net/ |
+| m-team-PT签到(cookie版) | [devil](https://github.com/q123458384) | [m-team-PT签到(cookie版).har](https://raw.githubusercontent.com/qiandao-today/templates/master/m-team%EF%BC%88cookie%E7%89%88%EF%BC%89.har) | 2020-05-25 14:06:23 | cookie<br><https://kp.m-team.cc/> |
+| m-team-PT签到(账号版) | [devil](https://github.com/q123458384) | [ m-team-PT签到(账号版).har](https://raw.githubusercontent.com/qiandao-today/templates/master/m-team%EF%BC%88%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81%E7%89%88%EF%BC%89.har) | 2020-05-25 14:06:23 | username:账号<br>password:密码 |
+
 
 
 ## 📄如何注册第三方库
