@@ -1947,6 +1947,30 @@
             "date": "2022-05-28 12:50:00",
             "version":"20220528",
             "commenturl":"https://github.com/qiandao-today/templates/issues/209"    
+        },
+        "RainPat专利检索": {
+            "name": "RainPat专利检索", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/RainPat专利检索.har", 
+            "update": false, 
+            "comments": "username:账号<br>password:密码<br>https://www.rainpat.com/", 
+            "filename": "RainPat专利检索.har", 
+            "content": "", 
+            "date": "2022-05-30 10:10:00",
+            "version":"20220530",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/210"    
+        },
+        "慢慢游社区": {
+            "name": "慢慢游社区", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/慢慢游社区.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://www.mmybt.com/", 
+            "filename": "慢慢游社区.har", 
+            "content": "", 
+            "date": "2022-05-30 10:10:00",
+            "version":"20220530",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/211" 
             
         }
     }
