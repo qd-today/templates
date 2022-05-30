@@ -193,6 +193,8 @@ Tips:
 | CarPT | [AemonCao](https://github.com/AemonCao) | [CarPT.har](https://github.com/qiandao-today/templates/blob/master/CarPT.har) | 2022-05-28 12:00:00 | 首页Cookie<br>https://carpt.net/ |
 | m-team-PT签到(cookie版) | [devil](https://github.com/q123458384) | [m-team-PT签到(cookie版).har](https://raw.githubusercontent.com/qiandao-today/templates/master/m-team%EF%BC%88cookie%E7%89%88%EF%BC%89.har) | 2020-05-25 14:06:23 | cookie<br><https://kp.m-team.cc/> |
 | m-team-PT签到(账号版) | [devil](https://github.com/q123458384) | [ m-team-PT签到(账号版).har](https://raw.githubusercontent.com/qiandao-today/templates/master/m-team%EF%BC%88%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81%E7%89%88%EF%BC%89.har) | 2020-05-25 14:06:23 | username:账号<br>password:密码 |
+| RainPat专利检索 | [FellBan](https://github.com/FellBan) | [RainPat专利检索.har](https://github.com/qiandao-today/templates/blob/master/RainPat专利检索.har) | 2022-05-30 10:10:00 | username:账号<br>password:密码<br><https://www.rainpat.com/> |
+| 慢慢游社区 | [FellBan](https://github.com/FellBan) | [慢慢游社区.har](https://github.com/qiandao-today/templates/blob/master/慢慢游社区.har) | 2022-05-30 10:10:00 | 首页Cookie<br><https://www.mmybt.com/> |
 
 
 
