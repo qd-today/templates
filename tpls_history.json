@@ -1971,6 +1971,19 @@
             "date": "2022-05-30 10:10:00",
             "version":"20220530",
             "commenturl":"https://github.com/qiandao-today/templates/issues/211" 
+        },
+        "布谷Tv": {
+            "name": "布谷Tv", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/布谷Tv.har", 
+            "update": false, 
+            "comments": "username:账号<br>password:密码<br>https://www.bugutv.net/", 
+            "filename": "布谷Tv.har", 
+            "content": "", 
+            "date": "2022-06-05 17:26:00",
+            "version":"20220605",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/215"    
+        },            
             
         }
     }
