@@ -1983,7 +1983,18 @@
             "date": "2022-06-05 17:26:00",
             "version":"20220605",
             "commenturl":"https://github.com/qiandao-today/templates/issues/215"    
-        },            
+        },
+        "元宇宙创意": {
+            "name": "元宇宙创意", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/元宇宙创意.har", 
+            "update": false, 
+            "comments": "username:账号<br>password:密码<br>https://mult.utour.top/", 
+            "filename": "元宇宙创意.har", 
+            "content": "", 
+            "date": "2022-06-06 09:31:00",
+            "version":"20220606",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/216"    
             
         }
     }
