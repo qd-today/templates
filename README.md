@@ -197,6 +197,7 @@ Tips:
 | 慢慢游社区 | [FellBan](https://github.com/FellBan) | [慢慢游社区.har](https://github.com/qiandao-today/templates/blob/master/慢慢游社区.har) | 2022-05-30 10:10:00 | 首页Cookie<br><https://www.mmybt.com/> |
 | 布谷Tv | [FellBan](https://github.com/FellBan) | [布谷Tv.har](https://github.com/qiandao-today/templates/blob/master/布谷Tv.har) | 2022-06-05 17:25:00 | username:账号<br>password:密码<br><https://www.bugutv.net/> |
 | 元宇宙创意 | [FellBan](https://github.com/FellBan) | [元宇宙创意.har](https://github.com/qiandao-today/templates/blob/master/元宇宙创意.har) | 2022-06-06 09:31:00 | username:账号<br>password:密码<br><https://mult.utour.top/> |
+| NicePT | [FrostKMR](https://github.com/FrostKMR) | [nicept.har](https://github.com/qiandao-today/templates/blob/master/nicept.har) | 2022-06-11 17:45:00 | 首页Cookie<br><https://nicept.net/> |
 
 
 
