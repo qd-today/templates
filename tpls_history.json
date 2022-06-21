@@ -1995,7 +1995,18 @@
             "date": "2022-06-06 09:31:00",
             "version":"20220606",
             "commenturl":"https://github.com/qiandao-today/templates/issues/216"    
-            
-        }
+         },
+         "Nicept": {
+            "name": "Nicept", 
+            "author": "Frostaxe", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/nicept.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://nicept.net/", 
+            "filename": "nicept.har", 
+            "content": "", 
+            "date": "2022-06-11 17:45:00",
+            "version":"20220611",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/221"
+        }    
     }
 }
