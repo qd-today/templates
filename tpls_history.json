@@ -198,10 +198,10 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/萌幻之乡.har",
             "update": false,
-            "comments": "username:账号<br>password:密码<br>https://www.hmoe11.net/",
+            "comments": "username:账号<br>password:密码<br>自定义UA:可选,空为默认UA<br>签到+点赞x4<br>https://www.hmoe11.net/",
             "filename": "萌幻之乡.har",
             "content": "",
-            "date": "2021-12-04 10:20:00",
+            "date": "2022-06-30 20:20:00",
             "version": "20211204",
             "commenturl": "https://github.com/qiandao-today/templates/issues/23"
         },
