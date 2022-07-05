@@ -199,6 +199,7 @@ Tips:
 | 元宇宙创意 | [FellBan](https://github.com/FellBan) | [元宇宙创意.har](https://github.com/qiandao-today/templates/blob/master/元宇宙创意.har) | 2022-06-06 09:31:00 | username:账号<br>password:密码<br><https://mult.utour.top/> |
 | NicePT | [FrostKMR](https://github.com/FrostKMR) | [nicept.har](https://github.com/qiandao-today/templates/blob/master/nicept.har) | 2022-06-11 17:45:00 | 首页Cookie<br><https://nicept.net/> |
 | HDHome | [AlisaCat-S](https://github.com/AlisaCat-S) | [hdhome.har](https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har) | 2022-06-26 10:26:00 | HDHome家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/> |
+| MyQQ | [FellBan](https://github.com/FellBan) | [MyQQ.har](https://github.com/qiandao-today/templates/blob/master/MyQQ.har) | 2022-07-05 19:58:00 | 首页Cookie<br><https://bbs.myqqx.net> |
 
 
 ## 📄如何注册第三方库
