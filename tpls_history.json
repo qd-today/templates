@@ -2019,6 +2019,18 @@
 			"date": "2022-07-02 10:30:00",
 			"version": "20220702",
 			"commenturl": ""
+        },
+         "Nicept": {
+            "name": "MyQQ机器人社区", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MyQQ.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://bbs.myqqx.net", 
+            "filename": "MyQQ.har", 
+            "content": "", 
+            "date": "2022-07-05 19:55:00",
+            "version":"20220705",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/229"			
 		}
     }
 }
