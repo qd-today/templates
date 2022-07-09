@@ -2008,17 +2008,17 @@
             "version":"20220611",
             "commenturl":"https://github.com/qiandao-today/templates/issues/221"
         },
-		"hdhome": {
-			"name": "hdhome",
-			"author": "AlisaCat-S",
-			"url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har",
-			"update": false,
-			"comments": "hdhome,家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/",
-			"filename": "hdhome.har",
-			"content": "",
-			"date": "2022-07-02 10:30:00",
-			"version": "20220702",
-			"commenturl": ""
+         "hdhome": {
+	    "name": "hdhome",
+	    "author": "AlisaCat-S",
+	    "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har",
+	    "update": false,
+	    "comments": "hdhome,家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/",
+	    "filename": "hdhome.har",
+	    "content": "",
+	    "date": "2022-07-02 10:30:00",
+	    "version": "20220702",
+	    "commenturl": "https://github.com/qiandao-today/templates/issues/231"
         },
          "MyQQ": {
             "name": "MyQQ", 
