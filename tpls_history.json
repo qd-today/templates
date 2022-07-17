@@ -201,8 +201,8 @@
             "comments": "username:账号<br>password:密码<br>自定义UA:可选,空为默认UA<br>签到+点赞x4<br>https://www.hmoe11.net/",
             "filename": "萌幻之乡.har",
             "content": "",
-            "date": "2022-06-30 20:20:00",
-            "version": "20211204",
+            "date": "2022-07-17 20:20:00",
+            "version": "20220717",
             "commenturl": "https://github.com/qiandao-today/templates/issues/23"
         },
         "KDays论坛": {
@@ -2028,8 +2028,8 @@
 	        "comments": "hdhome,家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/",
 	        "filename": "hdhome.har",
 	        "content": "",
-	        "date": "2022-07-02 10:30:00",
-	        "version": "20220702",
+	        "date": "2022-07-17 10:30:00",
+	        "version": "20220717",
 	        "commenturl": "https://github.com/qiandao-today/templates/issues/231"
         },
          "MyQQ": {
