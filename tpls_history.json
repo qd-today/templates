@@ -2056,6 +2056,18 @@
             "version":"20220705",
             "commenturl":"https://github.com/qiandao-today/templates/issues/230"		 
         },
+        "m-team-cookie-flaresolverr": {
+            "name": "m-team-cookie-flaresolverr",
+            "author": "Sinkerine",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/m-team-cookie-flaresolverr.har",
+            "update": false,
+            "comments": "cookies_value_tp: Cookies 中 \"tp\" key 的值<br>userid: userdetails.php?id={{userid}} 的用户 id<br>FlareSolverr url. 如 http://localhost:8191/v1",
+            "filename": "m-team-cookie-flaresolverr.har",
+            "content": "",
+            "date": "2022-07-05 09:30:00",
+            "version": "20220705",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/225"
+        },
          "掌上百科账号版": {
             "name": "掌上百科账号版", 
             "author": "AlisaCat-S", 
@@ -2066,7 +2078,7 @@
             "content": "", 
             "date": "2022-07-17 11:05:00",
             "version":"20220717",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/235"		 
+            "commenturl":"https://github.com/qiandao-today/templates/issues/235"
         }
     }
 }
