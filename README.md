@@ -183,6 +183,7 @@ Tips:
 | HDTime | [wjf0214](https://github.com/wjf0214) | [HDTime.har](https://github.com/qiandao-today/templates/blob/master/HDTime.har) | 2022-04-16 18:24:00 | 首页Cookie<br><https://hdtime.org/> |
 | 聆音Club | [wjf0214](https://github.com/wjf0214) | [聆音Club.har](https://github.com/qiandao-today/templates/blob/master/聆音Club.har) | 2022-04-16 18:24:00 | 首页Cookie<br><https://pt.soulvoice.club/> |
 | MC百科 | [FellBan](https://github.com/FellBan) | [MC百科.har](https://github.com/qiandao-today/templates/blob/master/MC百科.har) | 2022-04-24 18:26:00 | 首页Cookie<br><https://center.mcmod.cn/> |
+| MC百科账号版 | [FellBan](https://github.com/FellBan) <br> [AlisaCat-S](https://github.com/AlisaCat-S) | [MC百科账号版.har](https://github.com/qiandao-today/templates/blob/master/MC百科账号版.har) | 2022-07-17 11:09:00 | 用户名密码<br>可选自定义UA,空为默认UA<br><https://center.mcmod.cn/> |
 | IT技术交流论坛 | [FellBan](https://github.com/FellBan) | [IT技术交流论坛.har](https://github.com/qiandao-today/templates/blob/master/IT技术交流论坛.har) | 2022-05-02 17:13:00 | 首页Cookie<br><https://bbs.itzmx.com/> |
 | 苹果团 | [FellBan](https://github.com/FellBan) | [苹果团.har](https://github.com/qiandao-today/templates/blob/master/苹果团.har) | 2022-05-24 00:34:00 | 首页Cookie<br><https://appletuan.com/> |
 | 游戏大桶 | [FellBan](https://github.com/FellBan) | [游戏大桶.har](https://github.com/qiandao-today/templates/blob/master/游戏大桶.har) | 2022-05-26 17:04:00 | 账号密码<br>定时-当天随机延时12000~20000 不随机容易出滑块就签到不了<br><https://gamekegs.com> |
@@ -198,10 +199,11 @@ Tips:
 | 慢慢游社区 | [FellBan](https://github.com/FellBan) | [慢慢游社区.har](https://github.com/qiandao-today/templates/blob/master/慢慢游社区.har) | 2022-05-30 10:10:00 | 首页Cookie<br><https://www.mmybt.com/> |
 | 布谷Tv | [FellBan](https://github.com/FellBan) | [布谷Tv.har](https://github.com/qiandao-today/templates/blob/master/布谷Tv.har) | 2022-06-05 17:25:00 | username:账号<br>password:密码<br><https://www.bugutv.net/> |
 | 元宇宙创意 | [FellBan](https://github.com/FellBan) | [元宇宙创意.har](https://github.com/qiandao-today/templates/blob/master/元宇宙创意.har) | 2022-06-06 09:31:00 | username:账号<br>password:密码<br><https://mult.utour.top/> |
-| NicePT | [FrostKMR](https://github.com/FrostKMR) | [nicept.har](https://github.com/qiandao-today/templates/blob/master/nicept.har) | 2022-06-11 17:45:00 | 首页Cookie<br><https://nicept.net/> |
-| HDHome | [AlisaCat-S](https://github.com/AlisaCat-S) | [hdhome.har](https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har) | 2022-06-26 10:26:00 | HDHome家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/> |
+| NicePT | [FrostKMR](https://github.com/FrostKMR) | [nicept.har](https://github.com/qiandao-today/templates/blob/master/nicept.har) | 2022-07-11 06:55:00 | 首页Cookie<br><https://nicept.net/> |
+| HDHome | [AlisaCat-S](https://github.com/AlisaCat-S) | [hdhome.har](https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har) | 2022-06-26 10:26:00 | HDHome家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br><https://hdhome.org/> |
 | MyQQ | [FellBan](https://github.com/FellBan) | [MyQQ.har](https://github.com/qiandao-today/templates/blob/master/MyQQ.har) | 2022-07-05 19:58:00 | 首页Cookie<br><https://bbs.myqqx.net> |
 | 老男人游戏网配套论坛 | [FellBan](https://github.com/FellBan) | [老男人游戏网配套论坛.har](https://github.com/qiandao-today/templates/blob/master/老男人游戏网配套论坛.har) | 2022-07-05 19:58:00 | 首页Cookie<br><https://bbs.oldmanemu.net/> |
+| 掌上百科账号版 | [AlisaCat-S](https://github.com/AlisaCat-S) | [掌上百科账号版.har](https://github.com/qiandao-today/templates/blob/master/掌上百科账号版.har) | 2022-07-05 19:58:00 | 用户名密码,转盘次数与种树时间可自行调整<br>签到+种树+兑换+转盘抽奖<br><https://www.pdawiki.com/> |
 
 
 ## 📄如何注册第三方库

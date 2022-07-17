@@ -1849,6 +1849,18 @@
             "version":"20220424",
             "commenturl":"https://github.com/qiandao-today/templates/issues/199"
         },
+        "MC百科账号版": {
+            "name": "MC百科账号版", 
+            "author": "FellBan,AlisaCat-S", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MC百科账号版.har", 
+            "update": false, 
+            "comments": "用户名密码<br>可选自定义UA,空为默认UA<br>https://center.mcmod.cn/", 
+            "filename": "MC百科账号版.har", 
+            "content": "", 
+            "date": "2022-07-17 11:09:00",
+            "version":"20220717",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/234"
+        },
         "IT技术交流论坛": {
             "name": "IT技术交流论坛", 
             "author": "FellBan", 
@@ -2004,57 +2016,69 @@
             "comments": "首页Cookie<br>https://nicept.net/", 
             "filename": "nicept.har", 
             "content": "", 
-            "date": "2022-06-11 17:45:00",
-            "version":"20220611",
+            "date": "2022-07-11 06:55:00",
+            "version":"20220711",
             "commenturl":"https://github.com/qiandao-today/templates/issues/221"
         },
-		"hdhome": {
-			"name": "hdhome",
-			"author": "AlisaCat-S",
-			"url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har",
-			"update": false,
-			"comments": "hdhome,家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/",
-			"filename": "hdhome.har",
-			"content": "",
-			"date": "2022-07-02 10:30:00",
-			"version": "20220702",
-			"commenturl": ""
+         "hdhome": {
+	        "name": "hdhome",
+	        "author": "AlisaCat-S",
+	        "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har",
+	        "update": false,
+	        "comments": "hdhome,家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/",
+	        "filename": "hdhome.har",
+	        "content": "",
+	        "date": "2022-07-02 10:30:00",
+	        "version": "20220702",
+	        "commenturl": "https://github.com/qiandao-today/templates/issues/231"
         },
-        "MyQQ": {
-          "name": "MyQQ", 
-          "author": "FellBan", 
-          "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MyQQ.har", 
-          "update": false, 
-          "comments": "首页Cookie<br>https://bbs.myqqx.net", 
-          "filename": "MyQQ.har", 
-          "content": "", 
-          "date": "2022-07-05 19:55:00",
-          "version":"20220705",
-          "commenturl":"https://github.com/qiandao-today/templates/issues/229"	
+         "MyQQ": {
+            "name": "MyQQ", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MyQQ.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://bbs.myqqx.net", 
+            "filename": "MyQQ.har", 
+            "content": "", 
+            "date": "2022-07-05 19:55:00",
+            "version":"20220705",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/229"	
         },
-        "老男人游戏网配套论坛": {
-          "name": "老男人游戏网配套论坛", 
-          "author": "FellBan", 
-          "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/老男人游戏网配套论坛.har", 
-          "update": false, 
-          "comments": "首页Cookie<br>https://bbs.oldmanemu.net/", 
-          "filename": "老男人游戏网配套论坛.har", 
-          "content": "", 
-          "date": "2022-07-05 19:55:00",
-          "version":"20220705",
-          "commenturl":"https://github.com/qiandao-today/templates/issues/230"		 
+         "老男人游戏网配套论坛": {
+            "name": "老男人游戏网配套论坛", 
+            "author": "FellBan", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/老男人游戏网配套论坛.har", 
+            "update": false, 
+            "comments": "首页Cookie<br>https://bbs.oldmanemu.net/", 
+            "filename": "老男人游戏网配套论坛.har", 
+            "content": "", 
+            "date": "2022-07-05 19:55:00",
+            "version":"20220705",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/230"		 
         },
         "m-team-cookie-flaresolverr": {
-          "name": "m-team-cookie-flaresolverr",
-          "author": "Sinkerine",
-          "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/m-team-cookie-flaresolverr.har",
-          "update": false,
-          "comments": "cookies_value_tp: Cookies 中 "tp" key 的值<br>userid: userdetails.php?id={{userid}} 的用户 id<br>FlareSolverr url. 如 http://localhost:8191/v1",
-          "filename": "m-team-cookie-flaresolverr.har",
-          "content": "",
-          "date": "2022-07-05 09:30:00",
-          "version": "20220705",
-          "commenturl": "https://github.com/qiandao-today/templates/issues/225"
+            "name": "m-team-cookie-flaresolverr",
+            "author": "Sinkerine",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/m-team-cookie-flaresolverr.har",
+            "update": false,
+            "comments": "cookies_value_tp: Cookies 中 "tp" key 的值<br>userid: userdetails.php?id={{userid}} 的用户 id<br>FlareSolverr url. 如 http://localhost:8191/v1",
+            "filename": "m-team-cookie-flaresolverr.har",
+            "content": "",
+            "date": "2022-07-05 09:30:00",
+            "version": "20220705",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/225"
+        },
+         "掌上百科账号版": {
+            "name": "掌上百科账号版", 
+            "author": "AlisaCat-S", 
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/掌上百科账号版.har", 
+            "update": false, 
+            "comments": "用户名密码,转盘次数与种树时间可自行调整<br>签到+种树+兑换+转盘抽奖<br>https://www.pdawiki.com/", 
+            "filename": "掌上百科账号版.har", 
+            "content": "", 
+            "date": "2022-07-17 11:05:00",
+            "version":"20220717",
+            "commenturl":"https://github.com/qiandao-today/templates/issues/235"
         }
     }
 }
