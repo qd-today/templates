@@ -2079,6 +2079,18 @@
             "date": "2022-07-17 11:05:00",
             "version":"20220717",
             "commenturl":"https://github.com/qiandao-today/templates/issues/235"
+        },
+        "PT通用登录保号": {
+            "name": "PT通用登录保号",
+            "author": "bipy",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/PT通用登录保号.har",
+            "update": false,
+            "comments": "domain:域名, 如 pt.somept.com <br> cookie: PT的Cookie",
+            "filename": "PT通用登录保号.har",
+            "content": "",
+            "date": "2022-07-31 19:30:00",
+            "version": "20220731",
+            "commenturl": ""
         }
     }
 }

@@ -204,7 +204,7 @@ Tips:
 | MyQQ | [FellBan](https://github.com/FellBan) | [MyQQ.har](https://github.com/qiandao-today/templates/blob/master/MyQQ.har) | 2022-07-05 19:58:00 | 首页Cookie<br><https://bbs.myqqx.net> |
 | 老男人游戏网配套论坛 | [FellBan](https://github.com/FellBan) | [老男人游戏网配套论坛.har](https://github.com/qiandao-today/templates/blob/master/老男人游戏网配套论坛.har) | 2022-07-05 19:58:00 | 首页Cookie<br><https://bbs.oldmanemu.net/> |
 | 掌上百科账号版 | [AlisaCat-S](https://github.com/AlisaCat-S) | [掌上百科账号版.har](https://github.com/qiandao-today/templates/blob/master/掌上百科账号版.har) | 2022-07-05 19:58:00 | 用户名密码,转盘次数与种树时间可自行调整<br>签到+种树+兑换+转盘抽奖<br><https://www.pdawiki.com/> |
-
+| PT通用登录保号 | [bipy](https://github.com/bipy) | [PT通用登录保号.har](PT通用登录保号.har) | 2022-07-31 19:30:00 | domain:域名, 如 pt.somept.com <br> cookie: PT的Cookie |
 
 ## 📄如何注册第三方库
 
