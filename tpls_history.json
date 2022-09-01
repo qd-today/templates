@@ -2091,6 +2091,18 @@
             "date": "2022-07-31 19:30:00",
             "version": "20220731",
             "commenturl": "https://github.com/qiandao-today/templates/issues/237"
+        },
+        "成都吃喝玩乐网": {
+            "name": "成都吃喝玩乐网",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/成都吃喝玩乐网.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.52ch.net/",
+            "filename": "成都吃喝玩乐网.har",
+            "content": "",
+            "date": "2022-09-02 00:33:00",
+            "version": "20220902",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/237"		
         }
     }
 }
