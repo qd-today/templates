@@ -206,7 +206,7 @@ Tips:
 | 掌上百科账号版 | [AlisaCat-S](https://github.com/AlisaCat-S) | [掌上百科账号版.har](https://github.com/qiandao-today/templates/blob/master/掌上百科账号版.har) | 2022-07-05 19:58:00 | 用户名密码,转盘次数与种树时间可自行调整<br>签到+种树+兑换+转盘抽奖<br><https://www.pdawiki.com/> |
 | PT通用登录保号 | [bipy](https://github.com/bipy) | [PT通用登录保号.har](PT通用登录保号.har) | 2022-07-31 19:30:00 | domain:域名, 如 pt.somept.com <br> cookie: PT的Cookie|
 | 成都吃喝玩乐网 | [FellBan](https://github.com/FellBan) | [成都吃喝玩乐网.har](https://github.com/qiandao-today/templates/blob/master/成都吃喝玩乐网.har) | 2022-09-02 00:33:00 | 首页Cookie<br><https://www.52ch.net/> |
-| SF轻小说 | [chen8945](https://github.com/chen8945) | [SF轻小说.har](https://github.com/qiandao-today/templates/blob/master/SF轻小说.har) | 2022-09-23 02:00:00 | 需下载APP自行抓包<br><https://www.sfacg.com/> |
+| SF轻小说 | [chen8945](https://github.com/chen8945) | [SF轻小说.har](https://github.com/qiandao-today/templates/blob/master/SF轻小说.har) | 2022-09-26 00:00:00 | 每日签到和阅读时长任务，需要在凌晨一点后执行<br><https://www.sfacg.com/> |
 
 ## 📄如何注册第三方库
 
