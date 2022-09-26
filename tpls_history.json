@@ -2103,6 +2103,18 @@
             "date": "2022-09-02 00:33:00",
             "version": "20220902",
             "commenturl": "https://github.com/qiandao-today/templates/issues/239"		
+        },
+        "SF轻小说": {
+            "name": "SF轻小说",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/SF轻小说.har",
+            "update": false,
+            "comments": "每日签到和阅读时长任务，需要在凌晨一点后执行<br>https://www.sfacg.com/",
+            "filename": "SF轻小说.har",
+            "content": "",
+            "date": "2022-09-26 00:00:00",
+            "version": "20220926",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/240"		
         }
     }
 }
