@@ -2102,7 +2102,7 @@
             "content": "",
             "date": "2022-09-02 00:33:00",
             "version": "20220902",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/239"		
+            "commenturl": "https://github.com/qiandao-today/templates/issues/239"
         },
         "SF轻小说": {
             "name": "SF轻小说",
@@ -2114,7 +2114,19 @@
             "content": "",
             "date": "2022-09-26 00:00:00",
             "version": "20220926",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/240"		
+            "commenturl": "https://github.com/qiandao-today/templates/issues/241"
+        },
+        "爱桌游": {
+            "name": "爱桌游",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/爱桌游.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.lovezhuoyou.com/",
+            "filename": "爱桌游.har",
+            "content": "",
+            "date": "2022-09-27 13:40:00",
+            "version": "20220927",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/243"
         }
     }
 }
