@@ -585,8 +585,8 @@
             "comments": "网址: https://www.iqiyi.com/; <br>首页登录后在cookie中提取变量P00001, P00003 和 _dfp变量中@符号前的部分内容; <br>仅爱奇艺会员可用",
             "filename": "爱奇艺.har",
             "content": "",
-            "date": "2022-01-27 18:00:00",
-            "version": "20220127",
+            "date": "2022-10-05 20:00:00",
+            "version": "20221005",
             "commenturl": "https://github.com/qiandao-today/templates/issues/74"
         },
         "MZFastCloud": {
