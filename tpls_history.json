@@ -2109,11 +2109,11 @@
             "author": "chen8945",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/SF轻小说.har",
             "update": false,
-            "comments": "每日签到和阅读时长任务，需要在凌晨一点后执行<br>https://www.sfacg.com/",
+            "comments": "每日签到和阅读时长任务，需要在凌晨一点后执行（相应数据需要在APP抓包）<br>https://www.sfacg.com/",
             "filename": "SF轻小说.har",
             "content": "",
-            "date": "2022-09-26 00:00:00",
-            "version": "20220926",
+            "date": "2022-10-06 01:10:00",
+            "version": "20221006",
             "commenturl": "https://github.com/qiandao-today/templates/issues/241"
         },
         "爱桌游": {
