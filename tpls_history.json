@@ -2127,6 +2127,18 @@
             "date": "2022-09-27 13:40:00",
             "version": "20220927",
             "commenturl": "https://github.com/qiandao-today/templates/issues/243"
+        },
+        "DJI大疆社区": {
+            "name": "DJI大疆社区",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/DJI大疆社区.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://bbs.dji.com/",
+            "filename": "DJI大疆社区.har",
+            "content": "",
+            "date": "2022-10-05 21:25:00",
+            "version": "20221005",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/245"
         }
     }
 }
