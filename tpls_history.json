@@ -2138,6 +2138,18 @@
             "content": "",
             "date": "2022-10-05 21:25:00",
             "version": "20221005",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/246"
+        },
+        "白兔俱乐部": {
+            "name": "白兔俱乐部",
+            "author": "AlisaCat-S",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/白兔俱乐部.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://club.hares.top/",
+            "filename": "白兔俱乐部.har",
+            "content": "",
+            "date": "2022-10-06 12:25:00",
+            "version": "20221006",
             "commenturl": "https://github.com/qiandao-today/templates/issues/245"
         }
     }

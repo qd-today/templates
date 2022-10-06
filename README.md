@@ -209,6 +209,7 @@ Tips:
 | SF轻小说 | [chen8945](https://github.com/chen8945) | [SF轻小说.har](https://github.com/qiandao-today/templates/blob/master/SF轻小说.har) | 2022-10-06 01:10:00 | 每日签到和阅读时长任务，需要在凌晨一点后执行（相应数据需要在APP抓包）<br><https://www.sfacg.com/> |
 | 爱桌游 | [chen8945](https://github.com/chen8945) | [爱桌游.har](https://github.com/qiandao-today/templates/blob/master/爱桌游.har) | 2022-09-27 13:40:00 | 首页Cookie<br><https://www.lovezhuoyou.com/> |
 | DJI大疆社区 | [chen8945](https://github.com/chen8945) | [DJI大疆社区.har](https://github.com/qiandao-today/templates/blob/master/DJI大疆社区.har) | 2022-10-05 21:25:00 | 首页Cookie<br><https://bbs.dji.com/> |
+| 白兔俱乐部 | [AlisaCat-S](https://github.com/AlisaCat-S) | [白兔俱乐部.har](https://github.com/qiandao-today/templates/blob/master/白兔俱乐部.har) | 2022-10-06 12:25:00 | 首页Cookie<br><https://club.hares.top//> |
 
 ## 📄如何注册第三方库
 
