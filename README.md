@@ -77,7 +77,7 @@ Tips:
 | hao4k |  [wjf0214](https://github.com/wjf0214)  | [hao4k.har](https://raw.githubusercontent.com/qiandao-today/templates/master/hao4k.har) | 2022-03-02 21:30:00 |  登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br><https://www.hao4k.cn/> |
 | 掘金 | [acooler15](https://github.com/acooler15) | [掘金.har](https://raw.githubusercontent.com/qiandao-today/templates/master/掘金.har) | 2022-05-15 21:00:00 | cookies |
 | 有道云笔记 | [acooler15](https://github.com/acooler15) | [有道云笔记.har](https://raw.githubusercontent.com/qiandao-today/templates/master/有道云笔记.har) | 2021-09-16 19:00:00 | cookies |
-| 爱奇艺 | [a76yyyy](https://github.com/a76yyyy) | [爱奇艺.har](https://raw.githubusercontent.com/qiandao-today/templates/master/爱奇艺.har) | 2022-01-27 18:00:00 | 网址: https://www.iqiyi.com/; <br>首页登录后在cookie中提取变量P00001, P00003 和 _dfp变量中@符号前的部分内容; <br>仅爱奇艺会员可用 |
+| 爱奇艺 | [a76yyyy](https://github.com/a76yyyy) | [爱奇艺.har](https://raw.githubusercontent.com/qiandao-today/templates/master/爱奇艺.har) | 2022-10-05 20:00:00 | 网址: https://www.iqiyi.com/; <br>首页登录后在cookie中提取变量P00001, P00003 和 _dfp变量中@符号前的部分内容; <br>仅爱奇艺会员可用 |
 | MZFastCloud | [wjf0214](https://github.com/wjf0214) | [MZFastCloud.har](https://raw.githubusercontent.com/qiandao-today/templates/master/MZFastCloud.har) | 2021-11-20 21:00:00 | username:账号<br>password:密码<br><https://www.mzfast.xyz/> |
 | HiFiNi | [wjf0214](https://github.com/wjf0214) | [HiFiNi.har](https://raw.githubusercontent.com/qiandao-today/templates/master/HiFiNi.har) | 2021-11-20 21:00:00 | 登录后首页cookie<br><https://www.hifini.com/> |
 | 人人素材 | [wjf0214](https://github.com/wjf0214) | [人人素材.har](https://raw.githubusercontent.com/qiandao-today/templates/master/人人素材.har) | 2021-11-20 21:00:00 | username:账号,手机号<br>password:密码<br><https://www.rrcg.cn/> |
@@ -206,8 +206,9 @@ Tips:
 | 掌上百科账号版 | [AlisaCat-S](https://github.com/AlisaCat-S) | [掌上百科账号版.har](https://github.com/qiandao-today/templates/blob/master/掌上百科账号版.har) | 2022-07-05 19:58:00 | 用户名密码,转盘次数与种树时间可自行调整<br>签到+种树+兑换+转盘抽奖<br><https://www.pdawiki.com/> |
 | PT通用登录保号 | [bipy](https://github.com/bipy) | [PT通用登录保号.har](PT通用登录保号.har) | 2022-07-31 19:30:00 | domain:域名, 如 pt.somept.com <br> cookie: PT的Cookie|
 | 成都吃喝玩乐网 | [FellBan](https://github.com/FellBan) | [成都吃喝玩乐网.har](https://github.com/qiandao-today/templates/blob/master/成都吃喝玩乐网.har) | 2022-09-02 00:33:00 | 首页Cookie<br><https://www.52ch.net/> |
-| SF轻小说 | [chen8945](https://github.com/chen8945) | [SF轻小说.har](https://github.com/qiandao-today/templates/blob/master/SF轻小说.har) | 2022-09-26 00:00:00 | 每日签到和阅读时长任务，需要在凌晨一点后执行<br><https://www.sfacg.com/> |
+| SF轻小说 | [chen8945](https://github.com/chen8945) | [SF轻小说.har](https://github.com/qiandao-today/templates/blob/master/SF轻小说.har) | 2022-10-06 01:10:00 | 每日签到和阅读时长任务，需要在凌晨一点后执行（相应数据需要在APP抓包）<br><https://www.sfacg.com/> |
 | 爱桌游 | [chen8945](https://github.com/chen8945) | [爱桌游.har](https://github.com/qiandao-today/templates/blob/master/爱桌游.har) | 2022-09-27 13:40:00 | 首页Cookie<br><https://www.lovezhuoyou.com/> |
+| DJI大疆社区 | [chen8945](https://github.com/chen8945) | [DJI大疆社区.har](https://github.com/qiandao-today/templates/blob/master/DJI大疆社区.har) | 2022-10-05 21:25:00 | 首页Cookie<br><https://bbs.dji.com/> |
 
 ## 📄如何注册第三方库
 
