@@ -2151,6 +2151,18 @@
             "date": "2022-10-06 12:25:00",
             "version": "20221006",
             "commenturl": "https://github.com/qiandao-today/templates/issues/245"
+        },
+        "小栗子社区": {
+            "name": "小栗子社区",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/小栗子社区.har",
+            "update": false,
+            "comments": "首页Cookie，Cookie请选中复制，不要右键复制<br>https://f.xiaolz.cn/",
+            "filename": "小栗子社区.har",
+            "content": "",
+            "date": "2022-10-06 20:15:00",
+            "version": "20221006",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/248"
         }
     }
 }
