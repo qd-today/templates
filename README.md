@@ -210,7 +210,7 @@ Tips:
 | 爱桌游 | [chen8945](https://github.com/chen8945) | [爱桌游.har](https://github.com/qiandao-today/templates/blob/master/爱桌游.har) | 2022-09-27 13:40:00 | 首页Cookie<br><https://www.lovezhuoyou.com/> |
 | DJI大疆社区 | [chen8945](https://github.com/chen8945) | [DJI大疆社区.har](https://github.com/qiandao-today/templates/blob/master/DJI大疆社区.har) | 2022-10-05 21:25:00 | 首页Cookie<br><https://bbs.dji.com/> |
 | 白兔俱乐部 | [AlisaCat-S](https://github.com/AlisaCat-S) | [白兔俱乐部.har](https://github.com/qiandao-today/templates/blob/master/白兔俱乐部.har) | 2022-10-06 12:25:00 | 首页Cookie<br><https://club.hares.top/> |
-| 小栗子社区 | [chen8945](https://github.com/chen8945) | [小栗子社区.har](https://github.com/qiandao-today/templates/blob/master/小栗子社区.har) | 2022-10-07 11:00:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><https://f.xiaolz.cn/> |
+| 小栗子社区 | [chen8945](https://github.com/chen8945) | [小栗子社区.har](https://github.com/qiandao-today/templates/blob/master/小栗子社区.har) | 2022-10-08 16:20:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><https://f.xiaolz.cn/> |
 
 ## 📄如何注册第三方库
 
