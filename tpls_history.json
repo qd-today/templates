@@ -2163,6 +2163,18 @@
             "date": "2022-10-08 16:20:00",
             "version": "20221008",
             "commenturl": "https://github.com/qiandao-today/templates/issues/248"
+        },
+        "华印社区": {
+            "name": "华印社区",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/华印社区.har",
+            "update": false,
+            "comments": "用户名+密码<br>https://www.52cnp.com/",
+            "filename": "华印社区.har",
+            "content": "",
+            "date": "2022-10-17 00:20:00",
+            "version": "20221017",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/251"
         }
     }
 }
