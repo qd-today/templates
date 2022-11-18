@@ -212,6 +212,7 @@ Tips:
 | 白兔俱乐部 | [AlisaCat-S](https://github.com/AlisaCat-S) | [白兔俱乐部.har](https://github.com/qiandao-today/templates/blob/master/白兔俱乐部.har) | 2022-10-06 12:25:00 | 首页Cookie<br><https://club.hares.top/> |
 | 小栗子社区 | [chen8945](https://github.com/chen8945) | [小栗子社区.har](https://github.com/qiandao-today/templates/blob/master/小栗子社区.har) | 2022-10-08 16:20:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><https://f.xiaolz.cn/> |
 | 华印社区 | [chen8945](https://github.com/github-h) | [华印社区.har](https://github.com/qiandao-today/templates/blob/master/华印社区.har) | 2022-10-17 00:20:00 | 用户名+密码<br><https://www.52cnp.com/> |
+| 360积分中心 | [chen8945](https://github.com/chen8945) | [360积分中心.har](https://github.com/qiandao-today/templates/blob/master/360积分中心.har) | 2022-11-19 01:00:00 | 首页Cookie<br><https://jf.360.cn/> |
 
 ## 📄如何注册第三方库
 
