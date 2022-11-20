@@ -2187,6 +2187,18 @@
             "date": "2022-11-19 01:00:00",
             "version": "20221119",
             "commenturl": "https://github.com/qiandao-today/templates/issues/260"
-        }
+        },
+        "9DM玖大猫": {
+            "name": "9DM玖大猫",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/9DM玖大猫.har",
+            "update": false,
+            "comments": "用户名+密码<br>http://www.9damaogame.net/",
+            "filename": "9DM玖大猫.har",
+            "content": "",
+            "date": "2022-11-20 17:20:00",
+            "version": "20221120",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/261"
+        },
     }
 }
