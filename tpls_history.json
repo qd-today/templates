@@ -2193,11 +2193,23 @@
             "author": "chen8945",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/9DM玖大猫.har",
             "update": false,
-            "comments": "用户名+密码<br>http://www.9damaogame.net/",
+            "comments": "用户名+密码<br>中文用户名请使用另一个邮箱版<br>http://www.9damaogame.net/",
             "filename": "9DM玖大猫.har",
             "content": "",
             "date": "2022-11-22 17:30:00",
             "version": "20221122",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/261"
+        },
+        "9DM玖大猫邮箱版": {
+            "name": "9DM玖大猫邮箱版",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/9DM玖大猫邮箱版.har",
+            "update": false,
+            "comments": "邮箱+密码<br>用户名位置填邮箱<br>http://www.9damaogame.net/",
+            "filename": "9DM玖大猫邮箱版.har",
+            "content": "",
+            "date": "2022-11-27 14:20:00",
+            "version": "20221127",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
         }
     }
