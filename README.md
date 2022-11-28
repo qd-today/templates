@@ -213,8 +213,11 @@ Tips:
 | 小栗子社区 | [chen8945](https://github.com/chen8945) | [小栗子社区.har](https://github.com/qiandao-today/templates/blob/master/小栗子社区.har) | 2022-10-08 16:20:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><https://f.xiaolz.cn/> |
 | 华印社区 | [chen8945](https://github.com/chen8945) | [华印社区.har](https://github.com/qiandao-today/templates/blob/master/华印社区.har) | 2022-10-17 00:20:00 | 用户名+密码<br><https://www.52cnp.com/> |
 | 360积分中心 | [chen8945](https://github.com/chen8945) | [360积分中心.har](https://github.com/qiandao-today/templates/blob/master/360积分中心.har) | 2022-11-19 01:00:00 | 首页Cookie<br><https://jf.360.cn/> |
-| 9DM玖大猫 | [chen8945](https://github.com/chen8945) | [9DM玖大猫.har](https://github.com/qiandao-today/templates/blob/master/9DM玖大猫.har) | 2022-11-22 17:30:00 | 用户名+密码<br>中文用户名请使用另一个邮箱版<br><http://www.9damaogame.net/> |
+| 9DM玖大猫 | [chen8945](https://github.com/chen8945) | [9DM玖大猫.har](https://github.com/qiandao-today/templates/blob/master/9DM玖大猫.har) | 2022-11-27 14:10:00 | 用户名+密码<br>用户名含有中文或者特殊字符请使用另一个邮箱版<br><http://www.9damaogame.net/> |
 | 9DM玖大猫邮箱版 | [chen8945](https://github.com/chen8945) | [9DM玖大猫邮箱版.har](https://github.com/qiandao-today/templates/blob/master/9DM玖大猫邮箱版.har) | 2022-11-27 14:20:00 | 邮箱+密码<br>用户名位置填邮箱<br><http://www.9damaogame.net/> |
+| SSDForum | [chen8945](https://github.com/chen8945) | [SSDForum.har](https://github.com/qiandao-today/templates/blob/master/SSDForum.har) | 2022-11-29 01:50:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><https://ssdforum.org/> |
+| 影视168论坛 | [chen8945](https://github.com/chen8945) | [影视168论坛.har](https://github.com/qiandao-today/templates/blob/master/影视168论坛.har) | 2022-11-29 01:50:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><http://hkdy168.com/> |
+| 狮蝶论坛 | [chen8945](https://github.com/chen8945) | [狮蝶论坛.har](https://github.com/qiandao-today/templates/blob/master/狮蝶论坛.har) | 2022-11-29 01:50:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><http://www.ssdvd.net/> |
 
 ## 📄如何注册第三方库
 

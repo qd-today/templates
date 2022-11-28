@@ -2193,11 +2193,11 @@
             "author": "chen8945",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/9DM玖大猫.har",
             "update": false,
-            "comments": "用户名+密码<br>中文用户名请使用另一个邮箱版<br>http://www.9damaogame.net/",
+            "comments": "用户名+密码<br>用户名含有中文或者特殊字符请使用另一个邮箱版<br>http://www.9damaogame.net/",
             "filename": "9DM玖大猫.har",
             "content": "",
-            "date": "2022-11-22 17:30:00",
-            "version": "20221122",
+            "date": "2022-11-27 14:10:00",
+            "version": "20221127",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
         },
         "9DM玖大猫邮箱版": {
@@ -2211,6 +2211,42 @@
             "date": "2022-11-27 14:20:00",
             "version": "20221127",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
+        },
+        "SSDForum": {
+            "name": "SSDForum",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/SSDForum.har",
+            "update": false,
+            "comments": "首页Cookie，Cookie请选中复制，不要右键复制<br>https://ssdforum.org/",
+            "filename": "SSDForum.har",
+            "content": "",
+            "date": "2022-11-29 01:50:00",
+            "version": "20221129",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/263"
+        },
+        "影视168论坛": {
+            "name": "影视168论坛",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/影视168论坛.har",
+            "update": false,
+            "comments": "首页Cookie，Cookie请选中复制，不要右键复制<br>http://hkdy168.com/",
+            "filename": "影视168论坛.har",
+            "content": "",
+            "date": "2022-11-29 01:50:00",
+            "version": "20221129",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/264"
+        },
+        "狮蝶论坛": {
+            "name": "狮蝶论坛",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/狮蝶论坛.har",
+            "update": false,
+            "comments": "首页Cookie，Cookie请选中复制，不要右键复制<br>http://www.ssdvd.net/",
+            "filename": "狮蝶论坛.har",
+            "content": "",
+            "date": "2022-11-29 01:50:00",
+            "version": "20221129",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/265"
         }
     }
 }
