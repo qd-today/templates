@@ -2247,6 +2247,18 @@
             "date": "2022-11-29 01:50:00",
             "version": "20221129",
             "commenturl": "https://github.com/qiandao-today/templates/issues/265"
+        },
+        "云原神": {
+            "name": "云原神",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/云原神.har",
+            "update": false,
+            "comments": "APP抓包 x-rpc-combo_token和x-rpc-device_id<br>每日 04:00 刷新签到时间，定时请设置在4点以后<br>https://mhyy.mihoyo.com/",
+            "filename": "云原神.har",
+            "content": "",
+            "date": "2022-11-30 20:00:00",
+            "version": "20221130",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/266"
         }
     }
 }
