@@ -217,7 +217,7 @@ Tips:
 | 9DM玖大猫邮箱版 | [chen8945](https://github.com/chen8945) | [9DM玖大猫邮箱版.har](https://github.com/qiandao-today/templates/blob/master/9DM玖大猫邮箱版.har) | 2022-11-27 14:20:00 | 邮箱+密码<br>用户名位置填邮箱<br><http://www.9damaogame.net/> |
 | SSDForum | [chen8945](https://github.com/chen8945) | [SSDForum.har](https://github.com/qiandao-today/templates/blob/master/SSDForum.har) | 2022-11-29 01:50:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><https://ssdforum.org/> |
 | 影视168论坛 | [chen8945](https://github.com/chen8945) | [影视168论坛.har](https://github.com/qiandao-today/templates/blob/master/影视168论坛.har) | 2022-11-29 01:50:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><http://hkdy168.com/> |
-| 狮蝶论坛 | [chen8945](https://github.com/chen8945) | [狮蝶论坛.har](https://github.com/qiandao-today/templates/blob/master/狮蝶论坛.har) | 2022-11-29 01:50:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><http://www.ssdvd.net/> |
+| 狮碟论坛 | [chen8945](https://github.com/chen8945) | [狮碟论坛.har](https://github.com/qiandao-today/templates/blob/master/狮碟论坛.har) | 2022-11-29 01:50:00 | 首页Cookie，Cookie请选中复制，不要右键复制<br><http://www.ssdvd.net/> |
 | 云原神 | [chen8945](https://github.com/chen8945) | [云原神.har](https://github.com/qiandao-today/templates/blob/master/云原神.har) | 2022-11-30 20:00:00 | APP抓包 x-rpc-combo_token和x-rpc-device_id<br>每日 04:00 刷新签到时间，定时请设置在4点以后<br><https://mhyy.mihoyo.com/> |
 
 ## 📄如何注册第三方库

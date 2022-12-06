@@ -2236,13 +2236,13 @@
             "version": "20221129",
             "commenturl": "https://github.com/qiandao-today/templates/issues/264"
         },
-        "狮蝶论坛": {
-            "name": "狮蝶论坛",
+        "狮碟论坛": {
+            "name": "狮碟论坛",
             "author": "chen8945",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/狮蝶论坛.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/狮碟论坛.har",
             "update": false,
             "comments": "首页Cookie，Cookie请选中复制，不要右键复制<br>http://www.ssdvd.net/",
-            "filename": "狮蝶论坛.har",
+            "filename": "狮碟论坛.har",
             "content": "",
             "date": "2022-11-29 01:50:00",
             "version": "20221129",
