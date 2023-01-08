@@ -1,6 +1,30 @@
 {
-    "version": "20221215",
+    "version": "20230105",
     "har": {
+	"S1论坛签到": {
+            "name": "S1论坛签到",
+            "author": "Antiky",
+            "url": "https://raw.githubusercontent.com/Antiky/Qiandao-stage1st/master/saraba1st.har",
+            "update": false,
+            "comments": "用户名+密码 登陆<br>url: https://bbs.saraba1st.com/",
+            "filename": "saraba1st.har",
+            "content": "",
+            "date": "2023-01-05 20:30:00",
+            "version": "20230105",
+            "commenturl": "https://github.com/Antiky/Qiandao-stage1st/issues"
+        },
+        "S1论坛一小时挂机": {
+            "name": "S1论坛一小时挂机",
+            "author": "Antiky",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/saraba1st-1h.har",
+            "update": false,
+            "comments": "用户名密码登陆 一小时挂机<br>运行时长3040s,间隔560s<br>推荐定时cron效果更好：10 * * * *<br>url: https://bbs.saraba1st.com/",
+            "filename": "saraba1st-1h.har",
+            "content": "",
+            "date": "2023-01-05 20:30:00",
+            "version": "20230105",
+            "commenturl": "https://github.com/Antiky/Qiandao-stage1st/issues"
+         },
         "189天翼云盘": {
             "name": "189天翼云盘",
             "author": "gxitm",
