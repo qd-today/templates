@@ -4,7 +4,7 @@
 	"S1论坛签到": {
             "name": "S1论坛签到",
             "author": "Antiky",
-            "url": "https://raw.githubusercontent.com/Antiky/Qiandao-stage1st/master/saraba1st.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/saraba1st.har",
             "update": false,
             "comments": "用户名+密码 登陆<br>url: https://bbs.saraba1st.com/",
             "filename": "saraba1st.har",
