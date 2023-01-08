@@ -2061,11 +2061,11 @@
             "author": "Sinkerine",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/m-team-cookie-flaresolverr.har",
             "update": false,
-            "comments": "cookies_value_tp: Cookies 中 \"tp\" key 的值<br>userid: userdetails.php?id={{userid}} 的用户 id<br>FlareSolverr url. 如 http://localhost:8191/v1",
+            "comments": "cookies_value_tp: Cookies 中 \"tp\" key 的值<br>userid: userdetails.php?id={{userid}} 的用户 id<br>FlareSolverr url. 如 http://localhost:8191/v1 . 需搭配 15cm/flaresolverr:3.0.0 这个 docker image 使用",
             "filename": "m-team-cookie-flaresolverr.har",
             "content": "",
-            "date": "2022-07-05 09:30:00",
-            "version": "20220705",
+            "date": "2023-01-06 00:00:00",
+            "version": "20230106",
             "commenturl": "https://github.com/qiandao-today/templates/issues/225"
         },
          "掌上百科账号版": {
