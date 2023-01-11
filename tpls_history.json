@@ -426,10 +426,10 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/漫画补档.har",
             "update": true,
-            "comments": "Cookies:登录后首页cookie<br>https://www.manhuabudangbbs.com/",
+            "comments": "Cookies:登录后首页cookie<br>UA: user-agent对应的值<br>https://www.manhuabudangbbs.com/",
             "filename": "漫画补档.har",
             "content": "",
-            "date": "2023-01-11 20:00:00",
+            "date": "2023-01-11 23:00:00",
             "version": "20230111",
             "commenturl": "https://github.com/qiandao-today/templates/issues/26"
         },
