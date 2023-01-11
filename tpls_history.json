@@ -2268,18 +2268,6 @@
             "date": "2022-11-30 20:00:00",
             "version": "20221130",
             "commenturl": "https://github.com/qiandao-today/templates/issues/266"
-        },
-        "大众点评": {
-            "name": "大众点评",
-            "author": "q123458384",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/大众点评霸气值签到+分享3次.har",
-            "update": false,
-            "comments": "APP抓包, 获取token<br>https://m.dianping.com/",
-            "filename": "大众点评霸气值签到+分享3次.har",
-            "content": "",
-            "date": "2023-01-01 20:00:00",
-            "version": "20230101",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/10"
         }
     }
 }
