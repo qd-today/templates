@@ -1,7 +1,7 @@
 {
     "version": "20230105",
     "har": {
-	"S1论坛签到": {
+        "S1论坛签到": {
             "name": "S1论坛签到",
             "author": "Antiky",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/saraba1st.har",
@@ -24,7 +24,7 @@
             "date": "2023-01-05 20:30:00",
             "version": "20230105",
             "commenturl": "https://github.com/Antiky/Qiandao-stage1st/issues"
-         },
+        },
         "189天翼云盘": {
             "name": "189天翼云盘",
             "author": "gxitm",
@@ -313,18 +313,6 @@
             "version": "20230101",
             "commenturl": "https://github.com/qiandao-today/templates/issues/24"
         },
-        "CSDN-专业IT技术论坛": {
-            "name": "CSDN-专业IT技术论坛",
-            "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/CSDN-%e4%b8%93%e4%b8%9aIT%e6%8a%80%e6%9c%af%e8%ae%ba%e5%9d%9b.har",
-            "update": false,
-            "comments": "用户名+cookie<br>此为签到模块, 记得定期抽奖<br>https://www.csdn.net/",
-            "filename": "CSDN-专业IT技术论坛.har",
-            "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/19"
-        },
         "杉果": {
             "name": "杉果",
             "author": "github-h,wjf0214",
@@ -433,16 +421,16 @@
             "version": "20230101",
             "commenturl": "https://github.com/qiandao-today/templates/issues/55"
         },
-        "漫画补档(账号密码版)": {
-            "name": "漫画补档(账号密码版)",
+        "漫画补档": {
+            "name": "漫画补档",
             "author": "wjf0214",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/漫画补档(账号密码版).har",
-            "update": false,
-            "comments": "username:账号<br>password:密码<br>https://www.manhuabudang.com",
-            "filename": "漫画补档(账号密码版).har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/漫画补档.har",
+            "update": true,
+            "comments": "Cookies:登录后首页cookie<br>https://www.manhuabudangbbs.com/",
+            "filename": "漫画补档.har",
             "content": "",
-            "date": "2023-01-01 20:00:00",
-            "version": "20230101",
+            "date": "2023-01-11 20:00:00",
+            "version": "20230111",
             "commenturl": "https://github.com/qiandao-today/templates/issues/26"
         },
         "什么值得买7合一": {
@@ -502,7 +490,7 @@
             "filename": "E次元.har",
             "content": "",
             "date": "2023-01-01 22:00:00",
-            "version":"20211208",
+            "version": "20211208",
             "commenturl": "https://github.com/qiandao-today/templates/issues/46"
         },
         "数码之家": {
@@ -838,7 +826,7 @@
             "filename": "经管之家.har",
             "content": "",
             "date": "2023-01-01 22:00:00",
-            "version":"20211208",
+            "version": "20211208",
             "commenturl": "https://github.com/qiandao-today/templates/issues/96"
         },
         "看雪安全论坛": {
@@ -846,11 +834,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/看雪安全论坛.har",
             "update": false,
-            "comments": "登录后首页cookie<br>https://bbs.pediy.com/",
+            "comments": "登录后首页cookie<br>https://bbs.kanxue.com/",
             "filename": "看雪安全论坛.har",
             "content": "",
-            "date": "2023-01-01 20:00:00",
-            "version": "20230101",
+            "date": "2023-01-11 20:00:00",
+            "version": "20230111",
             "commenturl": "https://github.com/qiandao-today/templates/issues/97"
         },
         "科技玩家": {
@@ -874,7 +862,7 @@
             "filename": "科学刀论坛.har",
             "content": "",
             "date": "2022-10-09 16:00:00",
-            "version":"20221009",
+            "version": "20221009",
             "commenturl": "https://github.com/qiandao-today/templates/issues/99"
         },
         "科学刀在线时间": {
@@ -886,7 +874,7 @@
             "filename": "科学刀在线时间.har",
             "content": "",
             "date": "2022-04-24 13:40:00",
-            "version":"20220424",
+            "version": "20220424",
             "commenturl": "https://github.com/qiandao-today/templates/issues/100"
         },
         "龙的天空": {
@@ -910,7 +898,7 @@
             "filename": "猫耳FM-每日鱼干.har",
             "content": "",
             "date": "2021-12-08 22:00:00",
-            "version":"20211208",
+            "version": "20211208",
             "commenturl": "https://github.com/qiandao-today/templates/issues/102"
         },
         "魅族社区": {
@@ -1054,7 +1042,7 @@
             "filename": "阅次元论坛.har",
             "content": "",
             "date": "2023-01-01 13:10:00",
-            "version":"20211217",
+            "version": "20211217",
             "commenturl": "https://github.com/qiandao-today/templates/issues/114"
         },
         "中国原创音乐基地5SING": {
@@ -1102,7 +1090,7 @@
             "filename": "element3ds.har",
             "content": "",
             "date": "2023-01-01 10:00:00",
-            "version":"20220106",
+            "version": "20220106",
             "commenturl": "https://github.com/qiandao-today/templates/issues/118"
         },
         "HDarea高清视界": {
@@ -1126,7 +1114,7 @@
             "filename": "south-plus.har",
             "content": "",
             "date": "2023-01-01 21:40:00",
-            "version":"20211207",
+            "version": "20211207",
             "commenturl": "https://github.com/qiandao-today/templates/issues/120"
         },
         "QooApp": {
@@ -1150,7 +1138,7 @@
             "filename": "VCB-Studio分享论坛.har",
             "content": "",
             "date": "2023-01-01 22:00:00",
-            "version":"20211208",
+            "version": "20211208",
             "commenturl": "https://github.com/qiandao-today/templates/issues/122"
         },
         "ZNDS智能电视网": {
@@ -1174,7 +1162,7 @@
             "filename": "吾爱汇编.har",
             "content": "",
             "date": "2023-01-01 21:50:00",
-            "version":"20220219",
+            "version": "20220219",
             "commenturl": "https://github.com/qiandao-today/templates/issues/124"
         },
         "爱玩网络": {
@@ -1210,7 +1198,7 @@
             "filename": "远景论坛(账号版).har",
             "content": "",
             "date": "2023-01-01 22:00:00",
-            "version":"20211208",
+            "version": "20211208",
             "commenturl": "https://github.com/qiandao-today/templates/issues/127"
         },
         "小米运动": {
@@ -1223,7 +1211,7 @@
             "content": "",
             "date": "2023-01-01 20:00:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/128"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/128"
         },
         "阡陌居": {
             "name": "阡陌居",
@@ -1235,7 +1223,7 @@
             "content": "",
             "date": "2023-01-01 09:45:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/129"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/129"
         },
         "PtTime": {
             "name": "PtTime",
@@ -1247,7 +1235,7 @@
             "content": "",
             "date": "2022-01-03 14:00:00",
             "version": "20220103",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/130"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/130"
         },
         "ToTheGlory": {
             "name": "ToTheGlory",
@@ -1259,7 +1247,7 @@
             "content": "",
             "date": "2023-01-01 13:00:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/131"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/131"
         },
         "B站每日综合签到": {
             "name": "B站每日综合签到",
@@ -1271,7 +1259,7 @@
             "content": "",
             "date": "2023-01-01 17:13:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/133"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/133"
         },
         "OB PT签到 账号密码版": {
             "name": "OB PT签到 账号密码版",
@@ -1283,7 +1271,7 @@
             "content": "",
             "date": "2021-12-14 20:50:00",
             "version": "20211214",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/134"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/134"
         },
         "33iQ": {
             "name": "33iQ",
@@ -1295,7 +1283,7 @@
             "content": "",
             "date": "2021-12-16 21:10:00",
             "version": "20211216",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/136"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/136"
         },
         "万由论坛": {
             "name": "万由论坛",
@@ -1307,7 +1295,7 @@
             "content": "",
             "date": "2021-12-16 21:10:00",
             "version": "20211216",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/137"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/137"
         },
         "魔兽大数据": {
             "name": "魔兽大数据",
@@ -1319,7 +1307,7 @@
             "content": "",
             "date": "2023-01-01 23:00:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/138"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/138"
         },
         "龙de船人": {
             "name": "龙de船人",
@@ -1331,7 +1319,7 @@
             "content": "",
             "date": "2022-03-31 13:45:00",
             "version": "20220331",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/140"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/140"
         },
         "新赚吧": {
             "name": "新赚吧",
@@ -1343,7 +1331,7 @@
             "content": "",
             "date": "2023-01-01 13:00:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/141"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/141"
         },
         "SSPANEL机场通用签到": {
             "name": "SSPANEL机场通用签到",
@@ -1355,7 +1343,7 @@
             "content": "",
             "date": "2023-01-01 14:20:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/142"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/142"
         },
         "萌盘总动员": {
             "name": "萌盘总动员",
@@ -1367,7 +1355,7 @@
             "content": "",
             "date": "2021-12-30 14:00:00",
             "version": "20211230",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/143"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/143"
         },
         "98堂": {
             "name": "98堂",
@@ -1379,7 +1367,7 @@
             "content": "",
             "date": "2021-12-31 15:00:00",
             "version": "20211231",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/144"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/144"
         },
         "学犀牛中文网": {
             "name": "学犀牛中文网",
@@ -1391,7 +1379,7 @@
             "content": "",
             "date": "2021-12-31 15:00:00",
             "version": "20211231",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/145"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/145"
         },
         "大碗岛漫画": {
             "name": "大碗岛漫画",
@@ -1403,7 +1391,7 @@
             "content": "",
             "date": "2023-01-01 16:00:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/146"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/146"
         },
         "捌零发烧音乐网": {
             "name": "捌零发烧音乐网",
@@ -1415,7 +1403,7 @@
             "content": "",
             "date": "2022-01-03 10:00:00",
             "version": "20220103",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/147"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/147"
         },
         "武聆音雄配乐网": {
             "name": "武聆音雄配乐网",
@@ -1427,7 +1415,7 @@
             "content": "",
             "date": "2022-01-03 10:00:00",
             "version": "20220103",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/148"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/148"
         },
         "56brand我来网": {
             "name": "56brand我来网",
@@ -1439,7 +1427,7 @@
             "content": "",
             "date": "2023-01-01 14:00:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/149"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/149"
         },
         "野火论坛": {
             "name": "野火论坛",
@@ -1451,7 +1439,7 @@
             "content": "",
             "date": "2022-01-07 10:00:00",
             "version": "20220107",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/150"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/150"
         },
         "3D溜溜网": {
             "name": "3D溜溜网",
@@ -1463,7 +1451,7 @@
             "content": "",
             "date": "2022-01-06 09:30:00",
             "version": "20220106",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/151"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/151"
         },
         "宽带技术网": {
             "name": "宽带技术网",
@@ -1475,7 +1463,7 @@
             "content": "",
             "date": "2022-01-07 10:00:00",
             "version": "20220107",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/152"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/152"
         },
         "摩登犀牛": {
             "name": "摩登犀牛",
@@ -1487,7 +1475,7 @@
             "content": "",
             "date": "2022-01-06 19:30:00",
             "version": "20220106",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/153"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/153"
         },
         "Goldroom黄金屋": {
             "name": "Goldroom黄金屋",
@@ -1499,7 +1487,7 @@
             "content": "",
             "date": "2022-01-11 17:10:00",
             "version": "20220111",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/154"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/154"
         },
         "OpenFrp": {
             "name": "OpenFrp",
@@ -1511,7 +1499,7 @@
             "content": "",
             "date": "2022-01-24 02:13:00",
             "version": "20220124",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/155"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/155"
         },
         "心动日剧": {
             "name": "心动日剧",
@@ -1523,7 +1511,7 @@
             "content": "",
             "date": "2022-01-26 01:36:00",
             "version": "20220126",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/157"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/157"
         },
         "河洛网": {
             "name": "河洛网",
@@ -1535,7 +1523,7 @@
             "content": "",
             "date": "2022-03-08 21:15:00",
             "version": "20220308",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/159"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/159"
         },
         "落叶次元": {
             "name": "落叶次元",
@@ -1547,7 +1535,7 @@
             "content": "",
             "date": "2023-01-01 22:40:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/160"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/160"
         },
         "tool.lu在线工具": {
             "name": "tool.lu在线工具",
@@ -1571,7 +1559,7 @@
             "content": "",
             "date": "2023-01-01 15:40:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/164"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/164"
         },
         "我爱迅雷": {
             "name": "我爱迅雷",
@@ -1583,7 +1571,7 @@
             "content": "",
             "date": "2023-01-01 16:10:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/165"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/165"
         },
         "geekhub": {
             "name": "geekhub",
@@ -1595,7 +1583,7 @@
             "content": "",
             "date": "2022-02-19 11:40:00",
             "version": "20220219",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/166"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/166"
         },
         "52asus": {
             "name": "52asus",
@@ -1607,7 +1595,7 @@
             "content": "",
             "date": "2022-02-16 19:10:00",
             "version": "20220216",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/167"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/167"
         },
         "eatASMR": {
             "name": "eatASMR",
@@ -1619,7 +1607,7 @@
             "content": "",
             "date": "2022-02-17 10:10:00",
             "version": "20220217",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/168"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/168"
         },
         "好书友": {
             "name": "好书友",
@@ -1631,7 +1619,7 @@
             "content": "",
             "date": "2023-01-01 23:35:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/169"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/169"
         },
         "腾龙工作室": {
             "name": "腾龙工作室",
@@ -1643,7 +1631,7 @@
             "content": "",
             "date": "2022-02-17 11:10:00",
             "version": "20220217",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/170"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/170"
         },
         "蓝光演唱会": {
             "name": "蓝光演唱会",
@@ -1655,7 +1643,7 @@
             "content": "",
             "date": "2022-02-18 11:10:00",
             "version": "20220218",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/172"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/172"
         },
         "原盘天堂": {
             "name": "原盘天堂",
@@ -1667,7 +1655,7 @@
             "content": "",
             "date": "2022-02-19 22:30:00",
             "version": "20220219",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/173"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/173"
         },
         "WhereMyLife": {
             "name": "WhereMyLife",
@@ -1679,7 +1667,7 @@
             "content": "",
             "date": "2022-02-22 10:40:00",
             "version": "20220222",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/174"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/174"
         },
         "Gogo次元": {
             "name": "Gogo次元",
@@ -1691,7 +1679,7 @@
             "content": "",
             "date": "2023-01-01 15:00:00",
             "version": "20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/175"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/175"
         },
         "blue高清公馆": {
             "name": "blue高清公馆",
@@ -1703,7 +1691,7 @@
             "content": "",
             "date": "2022-02-22 20:00:00",
             "version": "20220222",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/176"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/176"
         },
         "国配影迷社区": {
             "name": "国配影迷社区",
@@ -1715,7 +1703,7 @@
             "content": "",
             "date": "2022-02-23 12:00:00",
             "version": "20220223",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/177"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/177"
         },
         "飘云阁": {
             "name": "飘云阁",
@@ -1727,7 +1715,7 @@
             "content": "",
             "date": "2022-03-11 21:20:00",
             "version": "20220311",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/178"
+            "commenturl": "https://github.com/qiandao-today/templates/issues/178"
         },
         "书法江湖": {
             "name": "书法江湖",
@@ -1739,19 +1727,19 @@
             "content": "",
             "date": "2022-02-27 00:00:00",
             "version": "20220227",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/180"
-       },
+            "commenturl": "https://github.com/qiandao-today/templates/issues/180"
+        },
         "全球VPS交流社区": {
-            "name": "全球VPS交流社区", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/全球VPS交流社区.har", 
-            "update": false, 
-            "comments": "username:账号<br>password:密码<br>https://www.qqvps.com", 
-            "filename": "全球VPS交流社区.har", 
-            "content": "", 
+            "name": "全球VPS交流社区",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/全球VPS交流社区.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.qqvps.com",
+            "filename": "全球VPS交流社区.har",
+            "content": "",
             "date": "2022-03-19 18:25:40",
-            "version":"20220329",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/181"
+            "version": "20220329",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/181"
         },
         "废文网": {
             "name": "废文网",
@@ -1763,322 +1751,319 @@
             "content": "",
             "date": "2023-01-01 14:04:15",
             "version": "20230101",
-            "commenturl":""
-       },
+            "commenturl": ""
+        },
         "鸿鹄论坛": {
-            "name": "鸿鹄论坛", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/鸿鹄论坛.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://bbs.hh010.com/", 
-            "filename": "鸿鹄论坛.har", 
-            "content": "", 
+            "name": "鸿鹄论坛",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/鸿鹄论坛.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://bbs.hh010.com/",
+            "filename": "鸿鹄论坛.har",
+            "content": "",
             "date": "2022-03-30 10:32:00",
-            "version":"20220330",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/186"            
-       },
+            "version": "20220330",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/186"
+        },
         "攻城狮论坛-CCNA论坛": {
-            "name": "攻城狮论坛-CCNA论坛", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/攻城狮论坛-CCNA论坛.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>http://bbs.vlan5.com/", 
-            "filename": "攻城狮论坛-CCNA论坛.har", 
-            "content": "", 
+            "name": "攻城狮论坛-CCNA论坛",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/攻城狮论坛-CCNA论坛.har",
+            "update": false,
+            "comments": "首页Cookie<br>http://bbs.vlan5.com/",
+            "filename": "攻城狮论坛-CCNA论坛.har",
+            "content": "",
             "date": "2022-03-30 10:32:00",
-            "version":"20220330",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/188"
+            "version": "20220330",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/188"
         },
         "4K时光官网": {
-            "name": "4K时光官网", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/4K时光官网.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>http://www.4ksg.cn/", 
-            "filename": "4K时光官网.har", 
-            "content": "", 
+            "name": "4K时光官网",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/4K时光官网.har",
+            "update": false,
+            "comments": "首页Cookie<br>http://www.4ksg.cn/",
+            "filename": "4K时光官网.har",
+            "content": "",
             "date": "2022-04-07 17:32:00",
-            "version":"20220407",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/190"            
+            "version": "20220407",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/190"
         },
         "紫猫学院社区": {
-            "name": "紫猫学院社区", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/紫猫学院社区.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://zimaoxy.com/b/forum.php", 
-            "filename": "紫猫学院社区.har", 
-            "content": "", 
+            "name": "紫猫学院社区",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/紫猫学院社区.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://zimaoxy.com/b/forum.php",
+            "filename": "紫猫学院社区.har",
+            "content": "",
             "date": "2022-04-14 16:32:00",
-            "version":"20220414",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/193"
+            "version": "20220414",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/193"
         },
         "修图匠人": {
-            "name": "修图匠人", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/修图匠人.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://www.tsliuyu.com/", 
-            "filename": "修图匠人.har", 
-            "content": "", 
+            "name": "修图匠人",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/修图匠人.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.tsliuyu.com/",
+            "filename": "修图匠人.har",
+            "content": "",
             "date": "2022-04-14 18:01:00",
-            "version":"20220414",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/194"
+            "version": "20220414",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/194"
         },
         "糖果VR资源网": {
-            "name": "糖果VR资源网", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/糖果VR资源网.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://www.tangguo2.com/forum.php", 
-            "filename": "糖果VR资源网.har", 
-            "content": "", 
+            "name": "糖果VR资源网",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/糖果VR资源网.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.tangguo2.com/forum.php",
+            "filename": "糖果VR资源网.har",
+            "content": "",
             "date": "2022-04-14 18:24:00",
-            "version":"20220414",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/195" 
+            "version": "20220414",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/195"
         },
         "HDTime": {
-            "name": "HDTime", 
-            "author": "wjf0214", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/HDTime.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://hdtime.org/", 
-            "filename": "HDTime.har", 
-            "content": "", 
+            "name": "HDTime",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/HDTime.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://hdtime.org/",
+            "filename": "HDTime.har",
+            "content": "",
             "date": "2022-04-16 15:48:58",
-            "version":"20220416",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/196" 
-         },
+            "version": "20220416",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/196"
+        },
         "聆音Club": {
-            "name": "聆音Club", 
-            "author": "wjf0214", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/聆音Club.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://pt.soulvoice.club/", 
-            "filename": "聆音Club.har", 
-            "content": "", 
+            "name": "聆音Club",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/聆音Club.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://pt.soulvoice.club/",
+            "filename": "聆音Club.har",
+            "content": "",
             "date": "2022-04-16 15:48:00",
-            "version":"20220416",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/197"           
+            "version": "20220416",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/197"
         },
         "MC百科": {
-            "name": "MC百科", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MC百科.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://center.mcmod.cn/", 
-            "filename": "MC百科.har", 
-            "content": "", 
+            "name": "MC百科",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MC百科.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://center.mcmod.cn/",
+            "filename": "MC百科.har",
+            "content": "",
             "date": "2022-04-24 11:29:00",
-            "version":"20220424",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/199"
+            "version": "20220424",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/199"
         },
         "MC百科账号版": {
-            "name": "MC百科账号版", 
-            "author": "FellBan,AlisaCat-S", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MC百科账号版.har", 
-            "update": false, 
-            "comments": "用户名密码<br>可选自定义UA,空为默认UA<br>https://center.mcmod.cn/", 
-            "filename": "MC百科账号版.har", 
-            "content": "", 
+            "name": "MC百科账号版",
+            "author": "FellBan,AlisaCat-S",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MC百科账号版.har",
+            "update": false,
+            "comments": "用户名密码<br>可选自定义UA,空为默认UA<br>https://center.mcmod.cn/",
+            "filename": "MC百科账号版.har",
+            "content": "",
             "date": "2022-07-17 11:09:00",
-            "version":"20220717",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/234"
+            "version": "20220717",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/234"
         },
         "IT技术交流论坛": {
-            "name": "IT技术交流论坛", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/IT技术交流论坛.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://bbs.itzmx.com/", 
-            "filename": "IT技术交流论坛.har", 
-            "content": "", 
+            "name": "IT技术交流论坛",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/IT技术交流论坛.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://bbs.itzmx.com/",
+            "filename": "IT技术交流论坛.har",
+            "content": "",
             "date": "2022-05-02 17:13:00",
-            "version":"20220502",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/200" 
+            "version": "20220502",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/200"
         },
         "苹果团": {
-            "name": "苹果团", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/苹果团.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://appletuan.com/", 
-            "filename": "苹果团.har", 
-            "content": "", 
+            "name": "苹果团",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/苹果团.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://appletuan.com/",
+            "filename": "苹果团.har",
+            "content": "",
             "date": "2022-05-24 00:34:00",
-            "version":"20220524",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/202"
+            "version": "20220524",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/202"
         },
         "游戏大桶": {
-            "name": "游戏大桶", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/游戏大桶.har", 
-            "update": false, 
-            "comments": "账号密码<br>定时-当天随机延时12000~20000 不随机容易出滑块就签到不了<br>https://gamekegs.com", 
-            "filename": "游戏大桶.har", 
-            "content": "", 
+            "name": "游戏大桶",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/游戏大桶.har",
+            "update": false,
+            "comments": "账号密码<br>定时-当天随机延时12000~20000 不随机容易出滑块就签到不了<br>https://gamekegs.com",
+            "filename": "游戏大桶.har",
+            "content": "",
             "date": "2022-05-26 17:04:00",
-            "version":"20220526",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/203"             
+            "version": "20220526",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/203"
         },
         "4K视界": {
-            "name": "4K视界", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/4K视界.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://www.4ksj.com/", 
-            "filename": "4K视界.har", 
-            "content": "", 
+            "name": "4K视界",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/4K视界.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.4ksj.com/",
+            "filename": "4K视界.har",
+            "content": "",
             "date": "2022-05-26 17:30:00",
-            "version":"20220526",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/204"    
-         },
+            "version": "20220526",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/204"
+        },
         "Cnlang国语视界": {
-            "name": "Cnlang国语视界", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/Cnlang国语视界.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://cnlang.org/", 
-            "filename": "Cnlang国语视界.har", 
-            "content": "", 
+            "name": "Cnlang国语视界",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/Cnlang国语视界.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://cnlang.org/",
+            "filename": "Cnlang国语视界.har",
+            "content": "",
             "date": "2022-05-28 09:55:00",
-            "version":"20220528",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/205"    
-            
+            "version": "20220528",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/205"
         },
         "速蛙云": {
-            "name": "速蛙云", 
-            "author": "a76yyyy", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/速蛙云.har", 
-            "update": false, 
-            "comments": "domain: 速蛙云域名, 如 cloud.sw16.icu ,<br>F12获取info请求 Cookie 和 authorizationmweb 参数", 
-            "filename": "速蛙云.har", 
-            "content": "", 
+            "name": "速蛙云",
+            "author": "a76yyyy",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/速蛙云.har",
+            "update": false,
+            "comments": "domain: 速蛙云域名, 如 cloud.sw16.icu ,<br>F12获取info请求 Cookie 和 authorizationmweb 参数",
+            "filename": "速蛙云.har",
+            "content": "",
             "date": "2022-05-28 12:00:00",
-            "version":"20220528",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/206"    
-            
+            "version": "20220528",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/206"
         },
         "FreeFarm": {
-            "name": "FreeFarm", 
-            "author": "AemonCao", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/FreeFarm.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://pt.0ff.cc/", 
-            "filename": "FreeFarm.har", 
-            "content": "", 
+            "name": "FreeFarm",
+            "author": "AemonCao",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/FreeFarm.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://pt.0ff.cc/",
+            "filename": "FreeFarm.har",
+            "content": "",
             "date": "2022-05-28 12:41:00",
-            "version":"20220528",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/208"    
-            
+            "version": "20220528",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/208"
         },
         "CarPT": {
-            "name": "CarPT", 
-            "author": "AemonCao", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/CarPT.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://carpt.net/", 
-            "filename": "CarPT.har", 
-            "content": "", 
+            "name": "CarPT",
+            "author": "AemonCao",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/CarPT.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://carpt.net/",
+            "filename": "CarPT.har",
+            "content": "",
             "date": "2022-06-04 9:28:00",
-            "version":"20220528",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/209"    
+            "version": "20220528",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/209"
         },
         "RainPat专利检索": {
-            "name": "RainPat专利检索", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/RainPat专利检索.har", 
-            "update": false, 
-            "comments": "username:账号<br>password:密码<br>https://www.rainpat.com/", 
-            "filename": "RainPat专利检索.har", 
-            "content": "", 
+            "name": "RainPat专利检索",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/RainPat专利检索.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.rainpat.com/",
+            "filename": "RainPat专利检索.har",
+            "content": "",
             "date": "2022-05-30 10:10:00",
-            "version":"20220530",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/210"    
+            "version": "20220530",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/210"
         },
         "慢慢游社区": {
-            "name": "慢慢游社区", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/慢慢游社区.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://www.mmybt.com/", 
-            "filename": "慢慢游社区.har", 
-            "content": "", 
+            "name": "慢慢游社区",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/慢慢游社区.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.mmybt.com/",
+            "filename": "慢慢游社区.har",
+            "content": "",
             "date": "2022-05-30 10:10:00",
-            "version":"20220530",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/211" 
+            "version": "20220530",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/211"
         },
         "布谷Tv": {
-            "name": "布谷Tv", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/布谷Tv.har", 
-            "update": false, 
-            "comments": "username:账号<br>password:密码<br>https://www.bugutv.net/", 
-            "filename": "布谷Tv.har", 
-            "content": "", 
+            "name": "布谷Tv",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/布谷Tv.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://www.bugutv.net/",
+            "filename": "布谷Tv.har",
+            "content": "",
             "date": "2022-06-05 17:26:00",
-            "version":"20220605",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/215"    
+            "version": "20220605",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/215"
         },
         "元宇宙创意": {
-            "name": "元宇宙创意", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/元宇宙创意.har", 
-            "update": false, 
-            "comments": "username:账号<br>password:密码<br>https://mult.utour.top/", 
-            "filename": "元宇宙创意.har", 
-            "content": "", 
+            "name": "元宇宙创意",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/元宇宙创意.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>https://mult.utour.top/",
+            "filename": "元宇宙创意.har",
+            "content": "",
             "date": "2022-06-06 09:31:00",
-            "version":"20220606",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/216"    
+            "version": "20220606",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/216"
         },
-         "Nicept": {
-            "name": "Nicept", 
-            "author": "Frostaxe", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/nicept.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://nicept.net/", 
-            "filename": "nicept.har", 
-            "content": "", 
+        "Nicept": {
+            "name": "Nicept",
+            "author": "Frostaxe",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/nicept.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://nicept.net/",
+            "filename": "nicept.har",
+            "content": "",
             "date": "2022-07-11 06:55:00",
-            "version":"20220711",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/221"
+            "version": "20220711",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/221"
         },
-         "hdhome": {
-	        "name": "hdhome",
-	        "author": "AlisaCat-S",
-	        "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har",
-	        "update": false,
-	        "comments": "hdhome,家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/",
-	        "filename": "hdhome.har",
-	        "content": "",
-	        "date": "2022-07-17 10:30:00",
-	        "version": "20220717",
-	        "commenturl": "https://github.com/qiandao-today/templates/issues/231"
+        "hdhome": {
+            "name": "hdhome",
+            "author": "AlisaCat-S",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdhome.har",
+            "update": false,
+            "comments": "hdhome,家园<br>首页Cookie<br>自定义UA:可选,空为默认UA<br>国内访问经常超时<br>https://hdhome.org/",
+            "filename": "hdhome.har",
+            "content": "",
+            "date": "2022-07-17 10:30:00",
+            "version": "20220717",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/231"
         },
-         "MyQQ": {
-            "name": "MyQQ", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MyQQ.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://bbs.myqqx.net", 
-            "filename": "MyQQ.har", 
-            "content": "", 
+        "MyQQ": {
+            "name": "MyQQ",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MyQQ.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://bbs.myqqx.net",
+            "filename": "MyQQ.har",
+            "content": "",
             "date": "2022-07-05 19:55:00",
-            "version":"20220705",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/229"	
+            "version": "20220705",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/229"
         },
-         "老男人游戏网配套论坛": {
-            "name": "老男人游戏网配套论坛", 
-            "author": "FellBan", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/老男人游戏网配套论坛.har", 
-            "update": false, 
-            "comments": "首页Cookie<br>https://bbs.oldmanemu.net/", 
-            "filename": "老男人游戏网配套论坛.har", 
-            "content": "", 
+        "老男人游戏网配套论坛": {
+            "name": "老男人游戏网配套论坛",
+            "author": "FellBan",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/老男人游戏网配套论坛.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://bbs.oldmanemu.net/",
+            "filename": "老男人游戏网配套论坛.har",
+            "content": "",
             "date": "2022-07-05 19:55:00",
-            "version":"20220705",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/230"		 
+            "version": "20220705",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/230"
         },
         "m-team-cookie-flaresolverr": {
             "name": "m-team-cookie-flaresolverr",
@@ -2092,17 +2077,17 @@
             "version": "20230106",
             "commenturl": "https://github.com/qiandao-today/templates/issues/225"
         },
-         "掌上百科账号版": {
-            "name": "掌上百科账号版", 
-            "author": "AlisaCat-S", 
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/掌上百科账号版.har", 
-            "update": false, 
-            "comments": "用户名密码,转盘次数与种树时间可自行调整<br>签到+种树+兑换+转盘抽奖<br>https://www.pdawiki.com/", 
-            "filename": "掌上百科账号版.har", 
-            "content": "", 
+        "掌上百科账号版": {
+            "name": "掌上百科账号版",
+            "author": "AlisaCat-S",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/掌上百科账号版.har",
+            "update": false,
+            "comments": "用户名密码,转盘次数与种树时间可自行调整<br>签到+种树+兑换+转盘抽奖<br>https://www.pdawiki.com/",
+            "filename": "掌上百科账号版.har",
+            "content": "",
             "date": "2023-01-01 11:05:00",
-            "version":"20230101",
-            "commenturl":"https://github.com/qiandao-today/templates/issues/235"
+            "version": "20230101",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/235"
         },
         "PT通用登录保号": {
             "name": "PT通用登录保号",
@@ -2284,7 +2269,7 @@
             "version": "20221130",
             "commenturl": "https://github.com/qiandao-today/templates/issues/266"
         },
-        "大众点评":{
+        "大众点评": {
             "name": "大众点评",
             "author": "q123458384",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/大众点评霸气值签到+分享3次.har",
