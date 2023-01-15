@@ -1,6 +1,18 @@
 {
     "version": "20230105",
     "har": {
+         "雨晨分享站": {
+            "name": "雨晨分享站",
+            "author": "李大爷",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/雨晨分享站.har",
+            "update": false,
+            "comments": "用户名+密码 登陆<br>url: https://yuchenios.com/",
+            "filename": "雨晨分享站.har",
+            "content": "",
+            "date": "2023-01-15 16:30:00",
+            "version": "20230115",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/275"
+        },       
         "S1论坛签到": {
             "name": "S1论坛签到",
             "author": "Antiky",
