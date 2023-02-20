@@ -165,8 +165,8 @@
             "comments": "cookie<br>https://bbs.zdfx.net/",
             "filename": "终点论坛.har",
             "content": "",
-            "date": "2021-12-24 20:30:00",
-            "version": "20211224",
+            "date": "2023-02-20 17:15:00",
+            "version": "20230220",
             "commenturl": "https://github.com/qiandao-today/templates/issues/16"
         },
         "哥特动漫王国": {
@@ -870,11 +870,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/科学刀论坛.har",
             "update": false,
-            "comments": "登录后首页cookie<br>https://www.k7d.com/",
+            "comments": "登录后首页cookie<br>https://www.kxdao.net/",
             "filename": "科学刀论坛.har",
             "content": "",
-            "date": "2022-10-09 16:00:00",
-            "version": "20221009",
+            "date": "2023-02-20 17:15:00",
+            "version": "20230220",
             "commenturl": "https://github.com/qiandao-today/templates/issues/99"
         },
         "科学刀在线时间": {
@@ -2217,8 +2217,8 @@
             "comments": "用户名+密码<br>用户名含有中文或者特殊字符请使用另一个邮箱版<br>http://www.9damaogame.net/",
             "filename": "9DM玖大猫.har",
             "content": "",
-            "date": "2022-11-27 14:10:00",
-            "version": "20221127",
+            "date": "2023-02-20 17:15:00",
+            "version": "20230220",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
         },
         "9DM玖大猫邮箱版": {
@@ -2229,8 +2229,8 @@
             "comments": "邮箱+密码<br>用户名位置填邮箱<br>http://www.9damaogame.net/",
             "filename": "9DM玖大猫邮箱版.har",
             "content": "",
-            "date": "2022-11-27 14:20:00",
-            "version": "20221127",
+            "date": "2023-02-20 17:15:00",
+            "version": "20230220",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
         },
         "SSDForum": {
