@@ -2292,6 +2292,42 @@
             "date": "2023-02-20 17:15:00",
             "version": "20230220",
             "commenturl": "https://github.com/qiandao-today/templates/issues/284"
+        },
+        "青桔ACG": {
+            "name": "青桔ACG",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/青桔ACG.har",
+            "update": false,
+            "comments": "首页Cookie, Cookie请选中复制, 不要右键复制<br>https://acg.qingjuacg.top/",
+            "filename": "青桔ACG.har",
+            "content": "",
+            "date": "2023-02-26 00:30:00",
+            "version": "20230226",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/285"
+        },
+        "极点ACG": {
+            "name": "极点ACG",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/极点ACG.har",
+            "update": false,
+            "comments": "首页Cookie, Cookie请选中复制, 不要右键复制<br>https://lspgal.com/",
+            "filename": "极点ACG.har",
+            "content": "",
+            "date": "2023-02-26 00:30:00",
+            "version": "20230226",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/286"
+        },
+        "阅读论坛": {
+            "name": "阅读论坛",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/阅读论坛.har",
+            "update": false,
+            "comments": "首页Cookie, Cookie请选中复制, 不要右键复制<br>https://legado.cn/",
+            "filename": "阅读论坛.har",
+            "content": "",
+            "date": "2023-02-26 00:30:00",
+            "version": "20230226",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/287"
         }
     }
 }
