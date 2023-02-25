@@ -246,11 +246,11 @@
             "author": "wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/KDays论坛.har",
             "update": false,
-            "comments": "username:账号<br>password:密码<br>https://bbs.kdays.net/",
+            "comments": "username:账号<br>password:密码<br>https://bbs2.kdays.net/",
             "filename": "KDays论坛.har",
             "content": "",
-            "date": "2023-01-01 21:20:00",
-            "version": "20230101",
+            "date": "2023-02-26 00:30:00",
+            "version": "20230226",
             "commenturl": "https://github.com/qiandao-today/templates/issues/57"
         },
         "吾爱破解": {
