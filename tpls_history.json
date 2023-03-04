@@ -2214,11 +2214,11 @@
             "author": "chen8945",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/9DM玖大猫.har",
             "update": false,
-            "comments": "用户名+密码<br>用户名含有中文或者特殊字符请使用另一个邮箱版<br>http://www.9damaogame.net/",
+            "comments": "用户名+密码<br>用户名含有中文或者特殊字符请使用另一个邮箱版<br>http://www.9damaogames.com/",
             "filename": "9DM玖大猫.har",
             "content": "",
-            "date": "2023-02-20 17:15:00",
-            "version": "20230220",
+            "date": "2023-03-04 13:30:00",
+            "version": "20230304",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
         },
         "9DM玖大猫邮箱版": {
@@ -2226,11 +2226,11 @@
             "author": "chen8945",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/9DM玖大猫邮箱版.har",
             "update": false,
-            "comments": "邮箱+密码<br>用户名位置填邮箱<br>http://www.9damaogame.net/",
+            "comments": "邮箱+密码<br>用户名位置填邮箱<br>http://www.9damaogames.com/",
             "filename": "9DM玖大猫邮箱版.har",
             "content": "",
-            "date": "2023-02-20 17:15:00",
-            "version": "20230220",
+            "date": "2023-03-04 13:30:00",
+            "version": "20230304",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
         },
         "SSDForum": {
