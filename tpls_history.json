@@ -124,13 +124,13 @@
         "summer-plus(原south-plus)": {
             "name": "summer-plus(原south-plus)",
             "author": "AragonSnow,github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/summer-plus(%E5%8E%9Fsouth-plus).har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/summer-plus(原south-plus).har",
             "update": false,
-            "comments": "cookie<br>https://www.summer-plus.net/",
+            "comments": "cookie<br>每日签到,若提示未登录请确保ua和ip与抓取cookie的一致<br>https://www.summer-plus.net/",
             "filename": "summer-plus(原south-plus).har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/31"
         },
         "ZodGame论坛": {
@@ -148,13 +148,13 @@
         "星空论坛seikuu": {
             "name": "星空论坛seikuu",
             "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%E6%98%9F%E7%A9%BA%E8%AE%BA%E5%9D%9Bseikuu.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/星空论坛seikuu.har",
             "update": false,
             "comments": "cookie<br>https://bbs2.seikuu.com/",
             "filename": "星空论坛seikuu.har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/18"
         },
         "终点论坛": {
@@ -243,14 +243,14 @@
         },
         "KDays论坛": {
             "name": "KDays论坛",
-            "author": "wjf0214",
+            "author": "github-h,wjf0214,chen8945",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/KDays论坛.har",
             "update": false,
             "comments": "username:账号<br>password:密码<br>https://bbs2.kdays.net/",
             "filename": "KDays论坛.har",
             "content": "",
-            "date": "2023-02-26 00:30:00",
-            "version": "20230226",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/57"
         },
         "吾爱破解": {
@@ -292,49 +292,49 @@
         "keylol(原SteamCN蒸汽论坛)": {
             "name": "keylol(原SteamCN蒸汽论坛)",
             "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/keylol(%e5%8e%9fSteamCN%e8%92%b8%e6%b1%bd%e8%ae%ba%e5%9d%9b).har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/keylol(原SteamCN蒸汽论坛).har",
             "update": false,
             "comments": "cookie<br>https://keylol.com/",
             "filename": "keylol(原SteamCN蒸汽论坛).har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/17"
         },
         "3DMGAME论坛": {
             "name": "3DMGAME论坛",
             "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/3DMGAME%e8%ae%ba%e5%9d%9b.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/3DMGAME论坛.har",
             "update": false,
-            "comments": "cookie<br>部分日常任务会随等级发生更改, 有能力的可以自行修改<br>https://bbs.3dmgame.com/",
+            "comments": "cookie<br>仅做样例展示,强烈不建议订阅,不定期的前置任务叠前置任务,而且每日发言超过上限直接封号，勇士可以尝试其他办法(issue里有青龙脚本)<br>https://bbs.3dmgame.com/",
             "filename": "3DMGAME论坛.har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/40"
         },
         "QQNTR论坛": {
             "name": "QQNTR论坛",
             "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/QQNTR%e8%ae%ba%e5%9d%9b.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/QQNTR论坛.har",
             "update": false,
-            "comments": "cookie<br>https://iya.app/",
+            "comments": "cookie<br>每日签到<br>https://www.iya.app/",
             "filename": "QQNTR论坛.har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/24"
         },
-        "杉果": {
-            "name": "杉果",
+        "杉果游戏": {
+            "name": "杉果游戏",
             "author": "github-h,wjf0214",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/杉果.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/杉果游戏.har",
             "update": false,
             "comments": "username:账号<br>password:密码<br>https://sonkwo.com/",
-            "filename": "杉果.har",
+            "filename": "杉果游戏.har",
             "content": "",
-            "date": "2023-01-01 10:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/35"
         },
         "华盟论坛": {
@@ -351,14 +351,14 @@
         },
         "飞客茶馆": {
             "name": "飞客茶馆",
-            "author": "wjf0214",
+            "author": "github-h,wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/飞客茶馆.har",
             "update": false,
-            "comments": "username:账号,手机号<br>password:密码<br><https://www.flyert.com/><br>由于网站登录授权特殊,授权次数不固定。请求暂定3次, 超过3次。可能登录不成功。多试几次便可",
+            "comments": "cookie<br>若提示未登录，请确保登录抓取cookie的ua与模板的一致<br><https://www.flyert.com/>",
             "filename": "飞客茶馆.har",
             "content": "",
-            "date": "2023-01-01 13:30:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/38"
         },
         "V2EX": {
@@ -388,25 +388,25 @@
         "IT天空": {
             "name": "IT天空",
             "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/IT%e5%a4%a9%e7%a9%ba.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/IT天空.har",
             "update": false,
             "comments": "cookie<br>https://www.itsk.com/",
             "filename": "IT天空.har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/33"
         },
         "恩山无线论坛": {
             "name": "恩山无线论坛",
             "author": "github-h",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e6%81%a9%e5%b1%b1%e6%97%a0%e7%ba%bf%e8%ae%ba%e5%9d%9b.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/恩山无线论坛.har",
             "update": false,
             "comments": "每日登录奖励<br>若签到不稳定也请自行添加hosts<br>https://www.right.com.cn/forum/forum.php",
             "filename": "恩山无线论坛.har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/58"
         },
         "万能福利吧": {
@@ -417,8 +417,8 @@
             "comments": "cookie  https://www.wnflb2023.com/forum.php",
             "filename": "万能福利吧.har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/54"
         },
         "高清MP4粉": {
@@ -429,10 +429,34 @@
             "comments": "cookie  每日签到  https://mp4fan.org/",
             "filename": "高清MP4粉.har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/55"
         },
+        "看雪安全论坛": {
+            "name": "看雪安全论坛",
+            "author": "wjf0214,github-h",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/看雪安全论坛.har",
+            "update": false,
+            "comments": "cookie<br>每日签到 需要自行填写uid<br>https://bbs.kanxue.com/",
+            "filename": "看雪安全论坛.har",
+            "content": "",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/97"
+        },
+        "MT管理器论坛": {
+			"name": "MT管理器论坛",
+			"author": "github-h",
+			"url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MT管理器论坛.har",
+			"update": false,
+			"comments": "cookie  每日签到 仅限家宽,VPS已加入黑名单 https://bbs.binmt.cc/",
+			"filename": "MT管理器论坛.har",
+			"content": "",
+			"date": "2023-03-10 16:00:00",
+			"version": "20230310",
+			"commenturl": "https://github.com/qiandao-today/templates/issues/289"
+		},
         "漫画补档": {
             "name": "漫画补档",
             "author": "wjf0214",
@@ -840,18 +864,6 @@
             "date": "2023-01-01 22:00:00",
             "version": "20211208",
             "commenturl": "https://github.com/qiandao-today/templates/issues/96"
-        },
-        "看雪安全论坛": {
-            "name": "看雪安全论坛",
-            "author": "wjf0214",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/看雪安全论坛.har",
-            "update": false,
-            "comments": "登录后首页cookie<br>https://bbs.kanxue.com/",
-            "filename": "看雪安全论坛.har",
-            "content": "",
-            "date": "2023-01-11 20:00:00",
-            "version": "20230111",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/97"
         },
         "科技玩家": {
             "name": "科技玩家",
