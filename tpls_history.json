@@ -1347,14 +1347,14 @@
         },
         "98堂": {
             "name": "98堂",
-            "author": "wjf0214",
+            "author": "wjf0214 & Patrick-Ze",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/98堂.har",
             "update": false,
-            "comments": "username:账号<br>password:密码<br>https://wetytrytuyu.net/",
+            "comments": "cookie :登录后首页cookie<br>domain_no_http: 不带前缀后缀的域名，如 www.sehuatang.org<br>",
             "filename": "98堂.har",
             "content": "",
-            "date": "2021-12-31 15:00:00",
-            "version": "20211231",
+            "date": "2023-03-18 09:28:00",
+            "version": "20230318",
             "commenturl": "https://github.com/qiandao-today/templates/issues/144"
         },
         "学犀牛中文网": {
