@@ -1,7 +1,7 @@
 {
     "version": "20230315",
     "har": {
-         "雨晨分享站": {
+        "雨晨分享站": {
             "name": "雨晨分享站",
             "author": "李大爷",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/雨晨分享站.har",
@@ -12,7 +12,7 @@
             "date": "2023-01-15 16:30:00",
             "version": "20230115",
             "commenturl": "https://github.com/qiandao-today/templates/issues/275"
-        },       
+        },
         "S1论坛签到": {
             "name": "S1论坛签到",
             "author": "Antiky",
@@ -210,7 +210,7 @@
             "author": "github-h,wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/飞客茶馆.har",
             "update": false,
-            "comments": "cookie<br>若提示未登录，请确保登录抓取cookie的ua与模板的一致。网站不稳定，重试任务会成功<br>https://www.flyert.com/",
+            "comments": "cookie<br>若提示未登录，请确保登录抓取cookie的ua与模板的一致<br>https://www.flyert.com/",
             "filename": "飞客茶馆.har",
             "content": "",
             "date": "2023-03-15 16:00:00",
@@ -290,17 +290,17 @@
             "commenturl": "https://github.com/qiandao-today/templates/issues/97"
         },
         "MT管理器论坛": {
-			"name": "MT管理器论坛",
-			"author": "github-h",
-			"url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MT管理器论坛.har",
-			"update": false,
-			"comments": "cookie  每日签到 仅限家宽,VPS已加入黑名单 https://bbs.binmt.cc/",
-			"filename": "MT管理器论坛.har",
-			"content": "",
-			"date": "2023-03-10 16:00:00",
-			"version": "20230310",
-			"commenturl": "https://github.com/qiandao-today/templates/issues/289"
-		},
+            "name": "MT管理器论坛",
+            "author": "github-h",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/MT管理器论坛.har",
+            "update": false,
+            "comments": "cookie  每日签到 仅限家宽,VPS已加入黑名单 https://bbs.binmt.cc/",
+            "filename": "MT管理器论坛.har",
+            "content": "",
+            "date": "2023-03-10 16:00:00",
+            "version": "20230310",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/289"
+        },
         "summer-plus(原south-plus)": {
             "name": "summer-plus(原south-plus)",
             "author": "AragonSnow,github-h",
