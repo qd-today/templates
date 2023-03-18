@@ -2304,6 +2304,18 @@
             "date": "2023-02-27 00:30:00",
             "version": "20230227",
             "commenturl": "https://github.com/qiandao-today/templates/issues/287"
+        },
+        "hdatmos": {
+            "name": "hdatmos_阿童木",
+            "author": "iitii",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdatmos.har",
+            "update": false,
+            "comments": "用户 Cookies 从 F12 .php 请求获取",
+            "filename": "hdatmos.har",
+            "content": "",
+            "date": "2023-03-17 12:30:00",
+            "version": "20230227",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/293"
         }
     }
 }
