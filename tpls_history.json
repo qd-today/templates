@@ -129,8 +129,8 @@
             "comments": "登录后首页cookie,f12的时候请选中复制,不要右键复制值。<br>国内vps供应商已经被加ACL黑名单, 请使用家庭IP<br>https://www.52pojie.cn/",
             "filename": "吾爱破解.har",
             "content": "",
-            "date": "2022-05-05 23:30:00",
-            "version": "20220505",
+            "date": "2023-03-19 16:00:00",
+            "version": "20220319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/34"
         },
         "ArcTime字幕平台": {
@@ -153,8 +153,8 @@
             "comments": "username:账号<br>password:密码<br>每日签到，网站不稳定容易崩<br>https://www.uotan.cn//",
             "filename": "柚坛社区.har",
             "content": "",
-            "date": "2023-03-15 16:00:00",
-            "version": "20230315",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/41"
         },
         "keylol(原SteamCN蒸汽论坛)": {
@@ -189,8 +189,8 @@
             "comments": "cookie<br>每日签到<br>https://www.iya.app/",
             "filename": "QQNTR论坛.har",
             "content": "",
-            "date": "2023-03-10 16:00:00",
-            "version": "20230310",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/24"
         },
         "杉果游戏": {
@@ -213,8 +213,8 @@
             "comments": "cookie<br>若提示未登录，请确保登录抓取cookie的ua与模板的一致<br>https://www.flyert.com/",
             "filename": "飞客茶馆.har",
             "content": "",
-            "date": "2023-03-15 16:00:00",
-            "version": "20230315",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/38"
         },
         "V2EX": {
@@ -249,8 +249,8 @@
             "comments": "每日登录奖励<br>若签到不稳定也请自行添加hosts<br>https://www.right.com.cn/forum/forum.php",
             "filename": "恩山无线论坛.har",
             "content": "",
-            "date": "2023-03-10 16:00:00",
-            "version": "20230310",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/58"
         },
         "万能福利吧": {
@@ -261,8 +261,8 @@
             "comments": "cookie  https://www.wnflb2023.com/forum.php",
             "filename": "万能福利吧.har",
             "content": "",
-            "date": "2023-03-10 16:00:00",
-            "version": "20230310",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/54"
         },
         "高清MP4粉": {
@@ -273,8 +273,8 @@
             "comments": "cookie  每日签到  https://mp4fan.org/",
             "filename": "高清MP4粉.har",
             "content": "",
-            "date": "2023-03-10 16:00:00",
-            "version": "20230310",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/55"
         },
         "看雪安全论坛": {
@@ -297,9 +297,21 @@
             "comments": "cookie  每日签到 仅限家宽,VPS已加入黑名单 https://bbs.binmt.cc/",
             "filename": "MT管理器论坛.har",
             "content": "",
-            "date": "2023-03-10 16:00:00",
-            "version": "20230310",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/289"
+        },
+        "火绒安全论坛": {
+            "name": "火绒安全论坛",
+            "author": "github-h",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/火绒安全论坛.har",
+            "update": false,
+            "comments": "cookie<br>每日登录签到<br>https://bbs.huorong.cn/",
+            "filename": "火绒安全论坛.har",
+            "content": "",
+            "date": "2023-03-19 00:00:00",
+            "version": "20230319",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/299"
         },
         "summer-plus(原south-plus)": {
             "name": "summer-plus(原south-plus)",
@@ -321,8 +333,8 @@
             "comments": "cookie<br>每日签到，带有看广告赚积分任务<br>https://zodgame.xyz",
             "filename": "ZodGame论坛.har",
             "content": "",
-            "date": "2023-03-15 16:00:00",
-            "version": "20230315",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/13"
         },
         "星空论坛seikuu": {
@@ -342,11 +354,11 @@
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e7%bb%88%e7%82%b9%e8%ae%ba%e5%9d%9b.har",
             "update": false,
-            "comments": "cookie<br>加入多种谷歌验证码暂无较好方法<br>https://bbs.zdfx.net/",
+            "comments": "cookie<br><br>需要YesCaptcha付费服务通过谷歌验证<br>如果你愿意支持可以使用以下链接，注册即有1500积分可以白嫖签到<br><br>签到(SignJob)和摇一摇功能(GameJob)需要使用付费服务<br>GameJob处填写true为开启，false为关<br>签到易触发风控建议只开摇一摇<br>https://bbs.zdfx.net/",
             "filename": "终点论坛.har",
             "content": "",
-            "date": "2023-02-20 17:15:00",
-            "version": "20230220",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/292"
         },
         "哥特动漫王国": {
@@ -357,8 +369,8 @@
             "comments": "cookie<br>每日签到，带有VIP组和王者萝莉任务<br>https://www.gtloli.gay/",
             "filename": "哥特动漫王国.har",
             "content": "",
-            "date": "2023-03-15 16:00:00",
-            "version": "20230315",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/44"
         },
         "萌出血动漫论坛": {
@@ -369,8 +381,8 @@
             "comments": "cookie<br>https://www.bbsmcx.com/forum.php",
             "filename": "萌出血动漫论坛.har",
             "content": "",
-            "date": "2023-03-15 16:00:00",
-            "version": "20230315",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/45"
         },
         "花火学园": {
@@ -393,8 +405,8 @@
             "comments": "cookie<br>每日签到，论坛容易欠费过期<br>https://bbs.natsunokiseki.org/",
             "filename": "夏跡natsunokiseki.har",
             "content": "",
-            "date": "2023-03-15 16:00:00",
-            "version": "20230315",
+            "date": "2023-03-19 16:00:00",
+            "version": "20230319",
             "commenturl": "https://github.com/qiandao-today/templates/issues/22"
         },
         "萌幻之乡": {
@@ -420,6 +432,42 @@
             "date": "2023-03-10 16:00:00",
             "version": "20230310",
             "commenturl": "https://github.com/qiandao-today/templates/issues/57"
+        },
+        "绯月ScarletMoon": {
+            "name": "绯月ScarletMoon",
+            "author": "github-h",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/绯月ScarletMoon.har",
+            "update": false,
+            "comments": "username:账号<br>password:密码<br>每日签到，带进度分和成长经验<br>https://bbs.kfpromax.com/",
+            "filename": "绯月ScarletMoon.har",
+            "content": "",
+            "date": "2023-03-19 00:00:00",
+            "version": "20230319",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/296"
+        },
+        "天游二次元": {
+            "name": "天游二次元",
+            "author": "github-h",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/天游二次元.har",
+            "update": false,
+            "comments": "cookie<br><br>需要YesCaptcha付费服务通过谷歌验证<br>如果你愿意支持可以使用以下链接，注册即有1500积分可以白嫖签到<br><br>每日签到<br>https://www.tiangal.com/",
+            "filename": "天游二次元.har",
+            "content": "",
+            "date": "2023-03-19 00:00:00",
+            "version": "20230319",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/297"
+        },
+        "天使二次元": {
+            "name": "天使二次元",
+            "author": "github-h",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/天使二次元.har",
+            "update": false,
+            "comments": "cookie<br><br>需要YesCaptcha付费服务通过谷歌验证<br>如果你愿意支持可以使用以下链接，注册即有1500积分可以白嫖签到<br><br>摇一摇功能(GameJob)需要使用付费服务<br>GameJob处填写true为开启，false为关<br>https://bbs.tianshi.one/",
+            "filename": "天使二次元.har",
+            "content": "",
+            "date": "2023-03-19 00:00:00",
+            "version": "20230319",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/298"
         },
         "漫画补档": {
             "name": "漫画补档",
