@@ -249,8 +249,8 @@
             "comments": "cookie<br><br>每日签到 若提示未登录，请确保登录抓取cookie的ua与模板的一致<br><br>https://www.flyert.com/",
             "filename": "飞客茶馆.har",
             "content": "",
-            "date": "2023-03-19 16:00:00",
-            "version": "20230319",
+            "date": "2023-03-21 00:00:00",
+            "version": "20230321",
             "commenturl": "https://github.com/qiandao-today/templates/issues/38"
         },
         "V2EX": {
@@ -261,8 +261,8 @@
             "comments": "cookie<br><br>若访问不稳定也建议添加hosts<br><br>https://www.v2ex.com/",
             "filename": "V2EX.har",
             "content": "",
-            "date": "2023-01-01 16:00:00",
-            "version": "20230101",
+            "date": "2023-03-21 00:00:00",
+            "version": "20230321",
             "commenturl": "https://github.com/qiandao-today/templates/issues/32"
         },
         "看雪安全论坛": {
@@ -354,7 +354,7 @@
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/%e7%bb%88%e7%82%b9%e8%ae%ba%e5%9d%9b.har",
             "update": false,
-            "comments": "cookie<br><br>需要YesCaptcha付费服务通过谷歌验证<br>签到(SignJob)和摇一摇功能(GameJob)需要使用付费服务 GameJob处填写true为开启，false为关<br><br>https://bbs.zdfx.net/",
+            "comments": "cookie<br><br>需要YesCaptcha付费服务通过谷歌验证<br>签到(SignJob)和摇一摇功能(GameJob)需要使用付费服务 GameJob处填写任意字符为开启，不填为关<br><br>https://bbs.zdfx.net/",
             "filename": "终点论坛.har",
             "content": "",
             "date": "2023-03-19 16:00:00",
@@ -462,7 +462,7 @@
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/天使二次元.har",
             "update": false,
-            "comments": "cookie<br><br>每日签到 需要YesCaptcha付费服务通过谷歌验证<br>摇一摇功能(GameJob)需要使用付费服务 GameJob处填写true为开启，false为关<br><br>https://bbs.tianshi.one/",
+            "comments": "cookie<br><br>每日签到 需要YesCaptcha付费服务通过谷歌验证<br>摇一摇功能(GameJob)需要使用付费服务 GameJob处填写任意字符为开启，不填为关<br><br>https://bbs.tianshi.one/",
             "filename": "天使二次元.har",
             "content": "",
             "date": "2023-03-19 00:00:00",
