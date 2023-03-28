@@ -246,11 +246,11 @@
             "author": "github-h,wjf0214",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/飞客茶馆.har",
             "update": false,
-            "comments": "cookie<br><br>每日签到 若提示未登录，请确保登录抓取cookie的ua与模板的一致<br><br>https://www.flyert.com/",
+            "comments": "cookie<br><br>每日签到 若提示未登录，请确保登录抓取cookie的ua与模板的一致<br>第一次失效第二次成功为正常情况，网站波动<br><br>https://www.flyert.com/",
             "filename": "飞客茶馆.har",
             "content": "",
-            "date": "2023-03-21 00:00:00",
-            "version": "20230321",
+            "date": "2023-03-28 00:00:00",
+            "version": "20230328",
             "commenturl": "https://github.com/qiandao-today/templates/issues/38"
         },
         "V2EX": {
@@ -390,7 +390,7 @@
             "author": "wjf0214,github-h",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/花火学园.har",
             "update": false,
-            "comments": "username:账号<br>password:密码<br>目前无有效过CF盾方式<br>https://www.sayhuahuo.com/",
+            "comments": "username:账号 password:密码<br><br>目前无有效过CF盾方式<br><br>https://www.sayhuahuo.com/",
             "filename": "花火学园.har",
             "content": "",
             "date": "2022-03-02 21:00:00",
