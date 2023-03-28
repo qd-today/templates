@@ -2154,11 +2154,11 @@
             "author": "chen8945",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/SF轻小说.har",
             "update": false,
-            "comments": "每日签到和阅读时长任务, 需要在凌晨一点后执行（相应数据需要在APP抓包）<br>https://www.sfacg.com/",
+            "comments": "每日签到和阅读时长任务, 需要在凌晨一点后执行（网页或者APP均可，Cookie只能用抓取请求时所使用的UA，不可随意更改）<br>https://www.sfacg.com/",
             "filename": "SF轻小说.har",
             "content": "",
-            "date": "2022-10-06 01:10:00",
-            "version": "20221006",
+            "date": "2023-03-29 01:55:00",
+            "version": "20230329",
             "commenturl": "https://github.com/qiandao-today/templates/issues/241"
         },
         "爱桌游": {
@@ -2364,6 +2364,18 @@
             "date": "2023-03-17 12:30:00",
             "version": "20230227",
             "commenturl": "https://github.com/qiandao-today/templates/issues/293"
+        },
+        "极点ACG - 账号密码版": {
+            "name": "极点ACG - 账号密码版",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/极点ACG - 账号密码版.har",
+            "update": false,
+            "comments": "用户名或邮箱+密码<br>Cookie有效期只有一个月，出一个账号密码版省事<br>https://lspgal.com/",
+            "filename": "极点ACG - 账号密码版.har",
+            "content": "",
+            "date": "2023-03-29 01:55:00",
+            "version": "20230329",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/286"
         }
     }
 }
