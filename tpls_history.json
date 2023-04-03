@@ -453,8 +453,20 @@
             "comments": "cookie<br><br>每日签到 需要YesCaptcha付费服务通过谷歌验证<br><br>https://www.tiangal.com/",
             "filename": "天游二次元.har",
             "content": "",
-            "date": "2023-03-19 00:00:00",
-            "version": "20230319",
+            "date": "2023-04-03 00:00:00",
+            "version": "20230403",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/297"
+        },
+        "天游二次元(账号版)": {
+            "name": "天游二次元(账号版)",
+            "author": "github-h",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/天游二次元(账号版).har",
+            "update": false,
+            "comments": "username:账号 password:密码<br><br>每日签到 需要YesCaptcha付费服务通过谷歌验证<br><br>https://www.tiangal.com/",
+            "filename": "天游二次元(账号版).har",
+            "content": "",
+            "date": "2023-04-03 00:00:00",
+            "version": "20230403",
             "commenturl": "https://github.com/qiandao-today/templates/issues/297"
         },
         "天使二次元": {
