@@ -2354,8 +2354,8 @@
             "commenturl": "https://github.com/qiandao-today/templates/issues/287"
         },
         "hdatmos": {
-            "name": "hdatmos_阿童木",
-            "author": "iitii",
+            "name": "hdatmos_阿童木 签到_保号",
+            "author": "IITII",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdatmos.har",
             "update": false,
             "comments": "用户 Cookies 从 F12 .php 请求获取",
@@ -2364,6 +2364,18 @@
             "date": "2023-03-17 12:30:00",
             "version": "20230227",
             "commenturl": "https://github.com/qiandao-today/templates/issues/293"
+        },
+        "pthome": {
+            "name": "pthome_铂金家 签到_保号",
+            "author": "IITII",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdatmos.har",
+            "update": false,
+            "comments": "用户 Cookies 从 F12 .php 请求获取",
+            "filename": "pthome.har",
+            "content": "",
+            "date": "2023-03-31 21:30:00",
+            "version": "20230331",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/300"
         },
         "极点ACG - 账号密码版": {
             "name": "极点ACG - 账号密码版",
@@ -2376,6 +2388,18 @@
             "date": "2023-03-29 01:55:00",
             "version": "20230329",
             "commenturl": "https://github.com/qiandao-today/templates/issues/286"
+        },
+        "2xfree": {
+            "name": "2xfree 签到_保号",
+            "author": "IITII",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/2xfree.har",
+            "update": false,
+            "comments": "用户 Cookies 从 F12 .php 请求获取",
+            "filename": "2xfree.har",
+            "content": "https://pt.2xfree.org/",
+            "date": "2023-04-03 10:30:00",
+            "version": "20230403",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/302"
         }
     }
 }
