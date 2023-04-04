@@ -2412,6 +2412,18 @@
             "date": "2023-04-03 10:30:00",
             "version": "20230403",
             "commenturl": "https://github.com/qiandao-today/templates/issues/302"
+        },
+        "kamept": {
+            "name": "kamept 签到_保号",
+            "author": "IITII",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/kamept.har",
+            "update": false,
+            "comments": "用户 Cookies 从 F12 .php 请求获取",
+            "filename": "kamept.har",
+            "content": "https://kamept.com",
+            "date": "2023-04-04 10:30:00",
+            "version": "20230404",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/303"
         }
     }
 }
