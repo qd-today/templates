@@ -2380,7 +2380,7 @@
         "pthome": {
             "name": "pthome_铂金家 签到_保号",
             "author": "IITII",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/hdatmos.har",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/pthome.har",
             "update": false,
             "comments": "用户 Cookies 从 F12 .php 请求获取",
             "filename": "pthome.har",
