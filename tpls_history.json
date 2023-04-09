@@ -2424,6 +2424,18 @@
             "date": "2023-04-04 10:30:00",
             "version": "20230404",
             "commenturl": "https://github.com/qiandao-today/templates/issues/303"
+        },
+        "yunyaokz": {
+            "name": "yunyaokz",
+            "author": "",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/yunyaokz.har",
+            "update": false,
+            "comments": "content签到的文字。<br>emotid签到的的心情，1到8.<br>Cookies首页cookie.<br>注意论坛对签到时间的限制。<br>https://www.yunyaokz.com/",
+            "filename": "yunyaokz.har",
+            "content": "",
+            "date": "2023-04-09 18:00:00",
+            "version": "20230409",
+            "commenturl": ""
         }
     }
 }
