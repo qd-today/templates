@@ -2166,11 +2166,11 @@
             "author": "chen8945",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/SF轻小说.har",
             "update": false,
-            "comments": "每日签到和阅读时长任务, 需要在凌晨一点后执行（网页或者APP均可，Cookie只能用抓取请求时所使用的UA，不可随意更改）<br>https://www.sfacg.com/",
+            "comments": "每日签到和阅读时长任务, 需要在凌晨一点后执行<br>（网页或者APP均可，需要使用抓取 Cookie 时对应 UA，不可更改）<br>https://www.sfacg.com/",
             "filename": "SF轻小说.har",
             "content": "",
-            "date": "2023-03-29 01:55:00",
-            "version": "20230329",
+            "date": "2023-04-10 18:00:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/241"
         },
         "爱桌游": {
@@ -2253,8 +2253,8 @@
             "comments": "用户名+密码<br>用户名含有中文或者特殊字符请使用另一个邮箱版<br>http://www.9damaogames.com/",
             "filename": "9DM玖大猫.har",
             "content": "",
-            "date": "2023-03-04 13:30:00",
-            "version": "20230304",
+            "date": "2023-04-10 18:00:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
         },
         "9DM玖大猫邮箱版": {
@@ -2265,8 +2265,8 @@
             "comments": "邮箱+密码<br>用户名位置填邮箱<br>http://www.9damaogames.com/",
             "filename": "9DM玖大猫邮箱版.har",
             "content": "",
-            "date": "2023-03-04 13:30:00",
-            "version": "20230304",
+            "date": "2023-04-10 18:00:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/261"
         },
         "SSDForum": {
@@ -2337,8 +2337,8 @@
             "comments": "首页Cookie, Cookie请选中复制, 不要右键复制<br>https://acg.qingjuacg.top/",
             "filename": "青桔ACG.har",
             "content": "",
-            "date": "2023-02-26 00:30:00",
-            "version": "20230226",
+            "date": "2023-04-10 18:00:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/285"
         },
         "极点ACG": {
@@ -2351,6 +2351,18 @@
             "content": "",
             "date": "2023-02-26 00:30:00",
             "version": "20230226",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/286"
+        },
+        "极点ACG - 账号密码版": {
+            "name": "极点ACG - 账号密码版",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/极点ACG - 账号密码版.har",
+            "update": false,
+            "comments": "用户名或邮箱+密码<br>Cookie有效期只有一个月，出一个账号密码版省事<br>https://lspgal.com/",
+            "filename": "极点ACG - 账号密码版.har",
+            "content": "",
+            "date": "2023-03-29 01:55:00",
+            "version": "20230329",
             "commenturl": "https://github.com/qiandao-today/templates/issues/286"
         },
         "阅读论坛": {
@@ -2389,18 +2401,6 @@
             "version": "20230331",
             "commenturl": "https://github.com/qiandao-today/templates/issues/300"
         },
-        "极点ACG - 账号密码版": {
-            "name": "极点ACG - 账号密码版",
-            "author": "chen8945",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/极点ACG - 账号密码版.har",
-            "update": false,
-            "comments": "用户名或邮箱+密码<br>Cookie有效期只有一个月，出一个账号密码版省事<br>https://lspgal.com/",
-            "filename": "极点ACG - 账号密码版.har",
-            "content": "",
-            "date": "2023-03-29 01:55:00",
-            "version": "20230329",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/286"
-        },
         "2xfree": {
             "name": "2xfree 签到_保号",
             "author": "IITII",
@@ -2425,8 +2425,8 @@
             "version": "20230404",
             "commenturl": "https://github.com/qiandao-today/templates/issues/303"
         },
-        "yunyaokz": {
-            "name": "yunyaokz",
+        "云遥客栈": {
+            "name": "云遥客栈",
             "author": "",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/yunyaokz.har",
             "update": false,
@@ -2435,7 +2435,43 @@
             "content": "",
             "date": "2023-04-09 18:00:00",
             "version": "20230409",
-            "commenturl": ""
+            "commenturl": "https://github.com/qiandao-today/templates/issues/311"
+        },
+        "FOXGAME": {
+            "name": "FOXGAME",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/FOXGAME.har",
+            "update": false,
+            "comments": "账号+密码<br>https://www.foxsgame.com/",
+            "filename": "FOXGAME.har",
+            "content": "",
+            "date": "2023-04-10 18:00:00",
+            "version": "20230410",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/308"
+        },
+        "TruckGame": {
+            "name": "TruckGame",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/TruckGame.har",
+            "update": false,
+            "comments": "账号+密码<br>https://truckgame.cn/",
+            "filename": "TruckGame.har",
+            "content": "",
+            "date": "2023-04-10 18:00:00",
+            "version": "20230410",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/309"
+        },
+        "遇见小馒头": {
+            "name": "遇见小馒头",
+            "author": "chen8945",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/遇见小馒头.har",
+            "update": false,
+            "comments": "账号+密码<br>https://5ixmt.com/",
+            "filename": "遇见小馒头.har",
+            "content": "",
+            "date": "2023-04-10 18:00:00",
+            "version": "20230410",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/310"
         }
     }
 }
