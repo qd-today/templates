@@ -2424,6 +2424,54 @@
             "date": "2023-04-04 10:30:00",
             "version": "20230404",
             "commenturl": "https://github.com/qiandao-today/templates/issues/303"
+        },
+        "观众": {
+            "name": "观众_签到",
+            "author": "MyFaith",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/观众.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://audiences.me/",
+            "filename": "观众.har",
+            "content": "https://audiences.me",
+            "date": "2023-4-10 19:19:24",
+            "version": "20230404",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/312"
+        },
+        "猫站": {
+            "name": "猫站_签到",
+            "author": "MyFaith",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/猫站.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://pterclub.com/",
+            "filename": "猫站.har",
+            "content": "https://pterclub.com",
+            "date": "22023-4-10 19:21:19",
+            "version": "20230404",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/313"
+        },
+        "司机社": {
+            "name": "司机社_签到",
+            "author": "MyFaith",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/司机社.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://xsijishe.com/",
+            "filename": "司机社.har",
+            "content": "https://xsijishe.com",
+            "date": "2023-4-10 19:23:03",
+            "version": "20230404",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/314"
+        },
+        "invites.fun": {
+            "name": "invites.fun_签到",
+            "author": "MyFaith",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/invites.fun.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://invites.fun/",
+            "filename": "invites.fun.har",
+            "content": "https://invites.fun",
+            "date": "2023-4-10 19:23:43",
+            "version": "20230404",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/315"
         }
     }
 }
