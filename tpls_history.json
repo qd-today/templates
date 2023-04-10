@@ -2408,9 +2408,9 @@
             "update": false,
             "comments": "用户 Cookies 从 F12 .php 请求获取",
             "filename": "2xfree.har",
-            "content": "https://pt.2xfree.org/",
-            "date": "2023-04-03 10:30:00",
-            "version": "20230403",
+            "content": "",
+            "date": "2023-04-10 21:20:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/302"
         },
         "kamept": {
@@ -2420,9 +2420,9 @@
             "update": false,
             "comments": "用户 Cookies 从 F12 .php 请求获取",
             "filename": "kamept.har",
-            "content": "https://kamept.com",
-            "date": "2023-04-04 10:30:00",
-            "version": "20230404",
+            "content": "",
+            "date": "2023-04-10 21:20:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/303"
         },
         "云遥客栈": {
@@ -2480,9 +2480,9 @@
             "update": false,
             "comments": "首页Cookie<br>https://audiences.me/",
             "filename": "观众.har",
-            "content": "https://audiences.me",
-            "date": "2023-4-10 19:19:24",
-            "version": "20230404",
+            "content": "",
+            "date": "2023-04-10 21:20:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/312"
         },
         "猫站": {
@@ -2492,9 +2492,9 @@
             "update": false,
             "comments": "首页Cookie<br>https://pterclub.com/",
             "filename": "猫站.har",
-            "content": "https://pterclub.com",
-            "date": "22023-4-10 19:21:19",
-            "version": "20230404",
+            "content": "",
+            "date": "2023-04-10 21:20:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/313"
         },
         "司机社": {
@@ -2504,9 +2504,9 @@
             "update": false,
             "comments": "首页Cookie<br>https://xsijishe.com/",
             "filename": "司机社.har",
-            "content": "https://xsijishe.com",
-            "date": "2023-4-10 19:23:03",
-            "version": "20230404",
+            "content": "",
+            "date": "2023-04-10 21:20:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/314"
         },
         "invites.fun": {
@@ -2516,9 +2516,9 @@
             "update": false,
             "comments": "首页Cookie<br>https://invites.fun/",
             "filename": "invites.fun.har",
-            "content": "https://invites.fun",
-            "date": "2023-4-10 19:23:43",
-            "version": "20230404",
+            "content": "",
+            "date": "2023-04-10 21:20:00",
+            "version": "20230410",
             "commenturl": "https://github.com/qiandao-today/templates/issues/315"
         }
     }
