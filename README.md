@@ -37,9 +37,9 @@ Tips:
     {
         "version":"版本号 yyyymmdd",
         "har": {
-            "必填，和name保值一致，注意要在文件里保持唯一": {
+            "必填，和name保持一致，注意要在文件里保持唯一": {
                 "name": "必填", 
-                "author": "选题，作者", 
+                "author": "选填，作者", 
                 "url": "选填，har链接", 
                 "update": false, 
                 "comments": "选填，har文件的注释，可用来解释har所需变量的说明", 
