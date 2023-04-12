@@ -2526,11 +2526,11 @@
             "author": "IITII",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/btschool.har",
             "update": false,
-            "comments": "使用详情看评论区",
+            "comments": "c_secure_uid, c_secure_pass, c_secure_login 自行从 cookies 里面提取<br>flaresolverr 地址填写格式: http://{ip}:{port}/v1, 比如 http://localhost:8191/v1<br>具体看评论区",
             "filename": "btschool.har",
             "content": "",
-            "date": "2023-04-10 22:20:00",
-            "version": "20230410",
+            "date": "2023-04-12 12:20:00",
+            "version": "20230412",
             "commenturl": "https://github.com/qiandao-today/templates/issues/316"
         }
     }
