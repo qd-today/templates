@@ -2532,6 +2532,30 @@
             "date": "2023-04-12 12:20:00",
             "version": "20230412",
             "commenturl": "https://github.com/qiandao-today/templates/issues/316"
+        },
+        "sharkpt": {
+            "name": "sharkpt 鲨鱼 签到_保号",
+            "author": "IITII",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/sharkpt.har",
+            "update": false,
+            "comments": "用户 Cookies 从 F12 .php 请求获取",
+            "filename": "sharkpt.har",
+            "content": "",
+            "date": "2023-04-25 22:20:00",
+            "version": "20230425",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/325"
+        },
+        "torrentleech": {
+            "name": "torrentleech 保号",
+            "author": "IITII",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/torrentleech.har",
+            "update": false,
+            "comments": "用户 Cookies 从 F12 .php 请求获取. 数据没有过多清洗",
+            "filename": "torrentleech.har",
+            "content": "",
+            "date": "2023-04-25 22:30:00",
+            "version": "20230425",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/326"
         }
     }
 }
