@@ -37,28 +37,16 @@
             "version": "20230112",
             "commenturl": "https://github.com/Antiky/Qiandao-stage1st/issues"
         },
-        "189天翼云盘": {
-            "name": "189天翼云盘",
-            "author": "gxitm",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/189%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98.har",
+        "189天翼云(账号密码版)": {
+            "name": "189天翼云(账号密码版)",
+            "author": "wjf0214",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/189天翼云(账号密码版).har",
             "update": false,
-            "comments": "手机抓包, accessToken在链接里<br>url: https://api.cloud.189.cn/login4MergedClient.action",
-            "filename": "189天翼云盘.har",
+            "comments": "username:账号<br>password:密码<br>https://cloud.189.cn/",
+            "filename": "189天翼云(账号密码版).har",
             "content": "",
-            "date": "2020-06-08 14:35:16",
-            "version": "20210428",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/25"
-        },
-        "189天翼云盘-账号版": {
-            "name": "189天翼云盘-账号版",
-            "author": "a76yyyy",
-            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/189天翼云盘-账号版.har",
-            "update": false,
-            "comments": "用户名+密码<br>用户名为手机号<br>https://cloud.189.cn/",
-            "filename": "189天翼云盘-账号版.har",
-            "content": "",
-            "date": "2023-01-01 20:30:00",
-            "version": "20230101",
+            "date": "2023-05-12 09:30:00",
+            "version": "20230512",
             "commenturl": "https://github.com/qiandao-today/templates/issues/25"
         },
         "轻之国度": {
