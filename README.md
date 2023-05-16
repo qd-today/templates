@@ -1,6 +1,6 @@
-# 公共模板库 <sub>For Qiandao 签到框架</sub>
+# 公共模板库 <sub>For QD 签到框架</sub>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/qiandao-today/templates.svg?style=popout-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/qd-today/templates.svg?style=popout-square)
 
 ## 🏠简介
 
@@ -8,11 +8,11 @@
 
 - [binux/qiandao](https://github.com/binux/qiandao) 最初版本框架，已停止维护。
 
-- [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao)  最新版框架，现持续更新中。
+- [qd-today/qd](https://github.com/qd-today/qd)  最新版框架，现持续更新中。
 
-- 现模板基于 [最新版框架](https://github.com/qiandao-today/qiandao) 使用, 具体使用方式请自行学习。
+- 现模板基于 [最新版框架](https://github.com/qd-today/qd) 使用, 具体使用方式请自行学习。
 
-> 极个别模板不兼容 [旧版本](https://github.com/binux/qiandao) 框架, 如有不兼容请使用 [最新版](https://github.com/qiandao-today/qiandao) 。
+> 极个别模板不兼容 [旧版本](https://github.com/binux/qiandao) 框架, 如有不兼容请使用 [最新版](https://github.com/qd-today/qd) 。
 >
 > 仅20211228及之后版本签到框架支持`api://`请求, 其他版本使用模板时请自行升级签到框架 或 将`api://`更换为`http://localhost/`
 
@@ -29,7 +29,7 @@ Tips:
 
 ## 📄如何注册第三方库
 
-20211021版本已经开放注册第三方库的功能，默认提供 <https://github.com/qiandao-today/templates> 仓库，如果需要自建第三方库，请注意一下几点：
+20211021版本已经开放注册第三方库的功能，默认提供 <https://github.com/qd-today/templates> 仓库，如果需要自建第三方库，请注意一下几点：
 
 1. **仓库根目录必须要有 `tpls_history.json` 文件**, 需符合以下规范:
 
