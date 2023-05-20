@@ -2550,7 +2550,7 @@
             "author": "嘉然今天吃什么",
             "url": "https://raw.githubusercontent.com/qd-today/templates/master/op.gg自动刷新LOL战绩.har",
             "update": false,
-            "comments": "只填id就行，为游戏id，模板为日服模板，其他服务器自己改一下。间隔时间不要太短，2-3小时以上",
+            "comments": "只填id就行，为游戏id，模板为日服模板，其他服务器自己改一下。<br>间隔时间不要太短，2-3小时以上。QD框架版本需要大于20230520",
             "filename": "op.gg自动刷新LOL战绩.har",
             "content": "",
             "date": "2023-05-21 01:30:00",
