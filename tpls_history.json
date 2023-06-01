@@ -2545,7 +2545,31 @@
             "version": "20230425",
             "commenturl": "https://github.com/qd-today/templates/issues/326"
         },
-        "torrentleech": {
+        "PT通用签到保号": {
+            "name": "PT通用签到保号",
+            "author": "IITII",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/PT通用签到保号.har",
+            "update": false,
+            "comments": "用户 Cookies 从 F12 .php 请求获取. 签到结果获取目前只适配了原版 NexusPHP",
+            "filename": "PT通用签到保号.har",
+            "content": "",
+            "date": "2023-05-04 22:30:00",
+            "version": "20230504",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/328"
+        },
+        "PT通用过CF签到保号": {
+            "name": "PT通用过CF签到保号",
+            "author": "IITII",
+            "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/PT通用过CF签到保号.har",
+            "update": false,
+            "comments": "c_secure_uid, c_secure_pass, c_secure_login 自行从 cookies 里面提取<br>flaresolverr 地址填写格式: http://{ip}:{port}/v1, 比如 http://localhost:8191/v1<br>具体看评论区",
+            "filename": "PT通用过CF签到保号.har",
+            "content": "",
+            "date": "2023-05-04 22:30:00",
+            "version": "20230504",
+            "commenturl": "https://github.com/qiandao-today/templates/issues/329"
+        },
+        "op.gg自动刷新LOL战绩": {
             "name": "op.gg自动刷新LOL战绩",
             "author": "嘉然今天吃什么",
             "url": "https://raw.githubusercontent.com/qd-today/templates/master/op.gg自动刷新LOL战绩.har",
