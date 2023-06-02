@@ -1,0 +1,39 @@
+name: Update Base64 Content
+on:
+  workflow_dispatch: {}
+  push:
+    paths: [tpls_history.json]
+  pull_request:
+    paths: [tpls_history.json]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Run python code
+        run: |
+          python3 -c """
+          import base64
+          import json
+
+          with open('tpls_history.json', 'r', encoding='utf8') as f:
+              hfile = json.loads(f.read())
+              for name, har in list(hfile['har'].items()):
+                  with open(har['filename'], 'rb') as f:
+                      har_content = f.read()
+                      hfile['har'][name]['content'] = base64.b64encode(har_content).decode()
+          json.dump(hfile, open('tpls_history.json', 'w', encoding='utf8'), indent=4, ensure_ascii=False)
+          """
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated update content
