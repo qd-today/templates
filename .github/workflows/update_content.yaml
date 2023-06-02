@@ -3,12 +3,14 @@ on:
   workflow_dispatch: {}
   push:
     paths: [tpls_history.json]
-  pull_request:
-    paths: [tpls_history.json]
+    branches:
+      - master
+      - main
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' && !contains(github.event.head_commit.author.name, '[bot]')
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python 3.11

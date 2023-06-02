@@ -1,0 +1,93 @@
+name: HAR_Process
+on:
+  workflow_dispatch: {}
+  issues:
+    types: [edited, labeled]
+
+env:
+  TZ: Asia/Shanghai
+  REPO_DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+
+jobs:
+  extract-issue-body:
+    runs-on: ubuntu-latest
+    # Only run if the issue is not a PR and is labeled by har
+    if: github.event.issue.pull_request == null && contains(github.event.issue.labels.*.name, 'har')
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - uses: stefanbuck/github-issue-parser@v3
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/process_har.yaml
+
+      - name: Echo issue body
+        run: |
+          echo "${{ steps.issue-parser.outputs.jsonString }}"
+
+      - name: Obtain HARNAME
+        env:
+          ISSUE_JSON: ${{ steps.issue-parser.outputs.jsonString }}
+        id: harname
+        run: |
+          harname=$(python3 -c """
+          import json
+          import os
+
+          issue_json:dict = json.loads(os.getenv('ISSUE_JSON','{}'))
+          if len(issue_json) > 0 and 'name' in issue_json:
+              print(issue_json['name'])
+          else:
+              print('')
+          """)
+          echo "harname=${harname}" >> $GITHUB_OUTPUT
+
+      - name: Judge HAR is update
+        env:
+          ISSUE_JSON: ${{ steps.issue-parser.outputs.jsonString }}
+        id: isupdate
+        run: |
+          isupdate=$(python3 -c """
+          import json
+          import os
+
+          with open('tpls_history.json', 'r', encoding='utf8') as f:
+              hfile = json.loads(f.read())
+          issue_json:dict = json.loads(os.getenv('ISSUE_JSON','{}'))
+          if len(issue_json) > 0 and 'name' in issue_json:
+              if (issue_json['name'] in hfile['har']):
+                  print('Update')
+              else:
+                  print('Add')
+          else:
+              print('Add')
+          """)
+          echo "isupdate=${isupdate}" >> $GITHUB_OUTPUT
+
+
+      - name: Extract issue to json
+        env:
+          ISSUE_JSON: ${{ steps.issue-parser.outputs.jsonString }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+          REPO_FULL_NAME: ${{ github.repository }}
+        run: |
+          python .github/src/extract_issue_body.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "${{ steps.isupdate.outputs.isupdate }} HAR: ${{ steps.harname.outputs.harname }}"
+          title: "${{ steps.isupdate.outputs.isupdate }} HAR: ${{ steps.harname.outputs.harname }}"
+          body: "Auto create pull request by HAR_Process action.\n\nIssue: ${{ github.event.issue.html_url }}\n\nAuthor: @${{ github.event.issue.user.login }}"
+          branch: process-har-${{ github.event.issue.number }}
+          delete-branch: true
+          base: ${{ env.REPO_DEFAULT_BRANCH }}
