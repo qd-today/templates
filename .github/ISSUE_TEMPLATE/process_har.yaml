@@ -41,3 +41,10 @@ body:
       description: |
         请将 HAR 文件内容粘贴到此处, 建议使用 json 格式化工具进行格式化后再粘贴
       render: JSON
+  - type: textarea
+    id: other_information
+    attributes:
+      label: 其他信息
+      description: |
+        请提供其他信息, 例如: 对于 Issue 的其他说明, 选填
+      render: Markdown
