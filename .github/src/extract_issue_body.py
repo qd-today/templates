@@ -48,7 +48,7 @@ if len(issue_json) > 0 and 'name' in issue_json and 'author' in issue_json and '
         'author': issue_json['author'],
         'url': 'https://raw.githubusercontent.com/'+ repo_full_name + '/' + repo_default_branch + '/' + issue_json['filename'],
         'update': update,
-        'comments': issue_json.get('comments','').replace('\\r', '\r').replace('\\n', '\n').replace('\r','').replace('\n','<br>'),
+        'comments': issue_json.get('comments','').replace('\\r', '\r').replace('\\n', '\n').replace('\r','').replace('\n','<br>').strip(),
         'filename': issue_json['filename'],
         'content': base64.b64encode(content_jsonstring.encode('utf8')).decode('utf8'),
         'date': hfile['har'][issue_json['name']]['date'] if update else time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()),

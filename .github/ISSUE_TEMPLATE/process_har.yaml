@@ -8,7 +8,7 @@ body:
     attributes:
       label: HAR 模板名称
       description: |
-        请提供 HAR 文件的命名, 空格请用下划线代替, 允许中文
+        请提供 HAR 文件的命名, 空格请用下划线代替, 允许中文, 请勿使用括号等特殊字符
       placeholder: "Example_HARNAME"
     validations:
       required: true
@@ -17,7 +17,7 @@ body:
     attributes:
       label: 作者信息
       description: |
-        请提供 HAR 文件的作者名或昵称, 用英文逗号 `,` 分隔多个作者
+        请提供 HAR 文件的作者名或昵称, 用英文逗号 `,` 分隔多个作者, 请勿使用括号等特殊字符
       placeholder: "Example_Author1, Example_Author2"
     validations:
       required: false
@@ -26,13 +26,13 @@ body:
     attributes:
       label: 模板备注及说明
       description: |
-        HAR 文件的备注信息及说明, 选填
+        HAR 文件的备注信息及说明, 选填, 请勿使用英文括号等特殊字符, 如需括号请使用中文括号
   - type: input
     id: filename
     attributes:
       label: HAR 文件名
       description: |
-        请提供 HAR 文件的文件名, 含 `.har` 后缀, 允许中文
+        请提供 HAR 文件的文件名, 含 `.har` 后缀, 允许中文, 请勿使用括号等特殊字符
       placeholder: "Example_HARNAME.har"
   - type: textarea
     id: har_content
@@ -46,5 +46,5 @@ body:
     attributes:
       label: 其他信息
       description: |
-        请提供其他信息, 例如: 对于 Issue 的其他说明, 选填
+        请提供其他信息, 例如: 对于 Issue 的其他说明, 选填, 请勿使用英文括号等特殊字符, 如需括号请使用中文括号
       render: Markdown
