@@ -1,15 +1,17 @@
 blank_issues_enabled: false
 
 contact_links:
-  - name: Report a bug
-    url: https://github.com/qd-today/templates/discussions/344
-    about: 创建一个报告, 以帮助我们改进模板发布流程.
+  - name: 模板需求提交
+    url: https://github.com/qd-today/templates/discussions/171
+    about: 如有制作模板需求, 请在此提交, 请勿重复提交需求.
+  - name: 失效模板报告
+    url: https://github.com/qd-today/templates/discussions/272
+    about: 存在网站关站或已彻底失效的模板时, 请在此提交, 待确认后从仓库中删除或者更新.
   - name: Get help
     url: https://github.com/qd-today/templates/discussions
     about: 有关于模板库的使用问题, 请在 GitHub Discussions 中提问.
-  - name: 模板需求提交
-    url: https://github.com/qd-today/templates/discussions/171
-    about: 有制作模板需求的, 请在此提交, 请勿重复提交需求.
-  - name: 失效模板报告
-    url: https://github.com/qd-today/templates/discussions/272
-    about: 有网站关站或模板已彻底失效的, 请在此提交, 待确认后从仓库中删除或者进行更新.
+  - name: Report a bug
+    url: https://github.com/qd-today/templates/discussions/344
+    about: 创建一个 BUG 报告, 以帮助我们改进 HAR 模板发布流程.
+
+

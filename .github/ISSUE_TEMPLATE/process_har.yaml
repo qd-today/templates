@@ -1,4 +1,4 @@
-name: Process HAR
+name: HAR 模板发布
 description: 请按照提示, 发布新的 HAR 模板, 修改 HAR 模板文件请在原模板评论区进行.
 title: " 评论区"
 labels: ["har"]
