@@ -2,7 +2,9 @@ name: Update Base64 Content
 on:
   workflow_dispatch: {}
   push:
-    paths: [tpls_history.json]
+    paths:
+      - tpls_history.json
+      - .github\workflows\update_content.yaml
     branches:
       - master
       - main
@@ -32,7 +34,8 @@ jobs:
               for name, har in list(hfile['har'].items()):
                   with open(har['filename'], 'rb') as f:
                       har_content = f.read()
-                      hfile['har'][name]['content'] = base64.b64encode(har_content).decode()
+                      json_content = json.loads(har_content)
+                      hfile['har'][name]['content'] = base64.b64encode(json.dumps(json_content, ensure_ascii=False).encode('utf8')).decode('utf8')
           json.dump(hfile, open('tpls_history.json', 'w', encoding='utf8'), indent=4, ensure_ascii=False)
           """
       - name: Commit changes

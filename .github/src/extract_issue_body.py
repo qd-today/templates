@@ -39,9 +39,8 @@ if len(issue_json) > 0 and 'name' in issue_json and 'author' in issue_json and '
     if update and issue_json['filename'] != hfile['har'][issue_json['name']]['filename'] and os.path.exists(hfile['har'][issue_json['name']]['filename']):
         os.remove(hfile['har'][issue_json['name']]['filename'])
 
-    content_jsonstring = json.dumps(har_content, indent=4, ensure_ascii=False)
     with open(issue_json['filename'], 'w', encoding='utf8') as f:
-        f.write(content_jsonstring)
+        f.write(json.dumps(har_content, indent=4, ensure_ascii=False))
 
     har = {
         'name': issue_json['name'],
@@ -50,7 +49,7 @@ if len(issue_json) > 0 and 'name' in issue_json and 'author' in issue_json and '
         'update': update,
         'comments': issue_json.get('comments','').replace('\\r', '\r').replace('\\n', '\n').replace('\r','').replace('\n','<br>').strip(),
         'filename': issue_json['filename'],
-        'content': base64.b64encode(content_jsonstring.encode('utf8')).decode('utf8'),
+        'content': base64.b64encode(json.dumps(har_content, ensure_ascii=False).encode('utf8')).decode('utf8'),
         'date': hfile['har'][issue_json['name']]['date'] if update else time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()),
         'version': hfile['har'][issue_json['name']]['version'] if update else time.strftime('%Y%m%d', time.localtime()),
         'commenturl': commenturl
