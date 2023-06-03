@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - tpls_history.json
-      - .github\workflows\update_content.yaml
+      - .github/workflows/update_content.yaml
     branches:
       - master
       - main
