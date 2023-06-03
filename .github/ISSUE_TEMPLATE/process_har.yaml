@@ -26,7 +26,7 @@ body:
     attributes:
       label: 模板备注及说明
       description: |
-        HAR 文件的备注信息及说明, 选填, 请勿使用英文括号等特殊字符, 如需括号请使用中文括号
+        HAR 文件的备注信息及说明, 选填
   - type: input
     id: filename
     attributes:
@@ -35,16 +35,16 @@ body:
         请提供 HAR 文件的文件名, 含 `.har` 后缀, 允许中文, 请勿使用括号等特殊字符
       placeholder: "Example_HARNAME.har"
   - type: textarea
+    id: other_information
+    attributes:
+      label: 其他信息
+      description: |
+        请提供其他信息, 例如: 对于 Issue 的其他说明, 选填, 如无请填暂无
+      render: Markdown
+  - type: textarea
     id: har_content
     attributes:
       label: HAR 模板内容
       description: |
         请将 HAR 文件内容粘贴到此处, 允许使用 json 格式化工具进行格式化后再粘贴
       render: JSON
-  - type: textarea
-    id: other_information
-    attributes:
-      label: 其他信息
-      description: |
-        请提供其他信息, 例如: 对于 Issue 的其他说明, 选填, 请勿使用英文括号等特殊字符, 如需括号请使用中文括号
-      render: Markdown
