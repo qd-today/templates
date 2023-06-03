@@ -39,7 +39,7 @@ body:
     attributes:
       label: HAR 模板内容
       description: |
-        请将 HAR 文件内容粘贴到此处, 建议使用 json 格式化工具进行格式化后再粘贴
+        请将 HAR 文件内容粘贴到此处, 允许使用 json 格式化工具进行格式化后再粘贴
       render: JSON
   - type: textarea
     id: other_information
