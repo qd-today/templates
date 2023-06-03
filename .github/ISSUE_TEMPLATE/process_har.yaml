@@ -1,5 +1,5 @@
 name: Process HAR
-description: 请按照提示, 上传或修改 HAR 模板文件
+description: 请按照提示, 上传或修改 HAR 模板文件.
 title: " 评论区"
 labels: ["har"]
 body:
