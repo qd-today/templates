@@ -3,10 +3,10 @@ blank_issues_enabled: false
 contact_links:
   - name: Report a bug
     url: https://github.com/qd-today/templates/discussions/344
-    about: 创建一个报告以帮助我们改进模板发布流程.
-  - name: 求模板区
-    url: https://github.com/qd-today/templates/discussions/171
-    about: 有制作模板需求的, 请在此提交.
+    about: 创建一个报告, 以帮助我们改进模板发布流程.
   - name: Get help
     url: https://github.com/qd-today/templates/discussions
     about: 有关于模板库的使用问题, 请在 GitHub Discussions 中提问.
+  - name: 求模板区
+    url: https://github.com/qd-today/templates/discussions/171
+    about: 有制作模板需求的, 请在此提交.
