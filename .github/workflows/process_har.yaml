@@ -31,7 +31,7 @@ jobs:
 
       - name: Echo issue body
         run: |
-          echo "${{ steps.issue-parser.outputs.jsonString }}"
+          cat ${HOME}/issue-parser-result.json
 
       - name: Obtain HARNAME
         env:
