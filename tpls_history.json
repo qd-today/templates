@@ -2537,13 +2537,13 @@
             "name": "PT通用签到保号",
             "author": "IITII",
             "url": "https://raw.githubusercontent.com/qd-today/templates/master/PT通用签到保号.har",
-            "update": false,
-            "comments": "用户 Cookies 从 F12 .php 请求获取. 签到结果获取目前只适配了原版 NexusPHP",
+            "update": true,
+            "comments": "用户 Cookies 请通过 F12 在 .php 请求获取. <br>签到结果获取目前只适配了原版 NexusPHP",
             "filename": "PT通用签到保号.har",
             "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly97e2RvbWFpbn19L2F0dGVuZGFuY2UucGhwIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIjptZXRob2QiLCAidmFsdWUiOiAiR0VUIn0sIHsibmFtZSI6ICI6cGF0aCIsICJ2YWx1ZSI6ICIvYXR0ZW5kYW5jZS5waHAifSwgeyJuYW1lIjogInVwZ3JhZGUtaW5zZWN1cmUtcmVxdWVzdHMiLCAidmFsdWUiOiAiMSJ9LCB7Im5hbWUiOiAiZG50IiwgInZhbHVlIjogIjEifSwgeyJuYW1lIjogInVzZXItYWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xODIgU2FmYXJpLzUzNy4zNiJ9LCB7Im5hbWUiOiAiYWNjZXB0IiwgInZhbHVlIjogInRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL2F2aWYsaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCxhcHBsaWNhdGlvbi9zaWduZWQtZXhjaGFuZ2U7dj1iMztxPTAuOSJ9LCB7Im5hbWUiOiAic2VjLWZldGNoLXNpdGUiLCAidmFsdWUiOiAic2FtZS1vcmlnaW4ifSwgeyJuYW1lIjogInNlYy1mZXRjaC1tb2RlIiwgInZhbHVlIjogIm5hdmlnYXRlIn0sIHsibmFtZSI6ICJzZWMtZmV0Y2gtdXNlciIsICJ2YWx1ZSI6ICI/MSJ9LCB7Im5hbWUiOiAic2VjLWZldGNoLWRlc3QiLCAidmFsdWUiOiAiZG9jdW1lbnQifSwgeyJuYW1lIjogImFjY2VwdC1lbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlLCBiciJ9LCB7Im5hbWUiOiAiYWNjZXB0LWxhbmd1YWdlIiwgInZhbHVlIjogInpoLUNOLHpoO3E9MC45In0sIHsibmFtZSI6ICJjb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9XSwgImNvb2tpZXMiOiBbXX0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFt7InJlIjogIuWFs+mXree7tOaKpCIsICJmcm9tIjogImNvbnRlbnQifV0sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAicmVjaGVja19jbnQiLCAicmUiOiAi56ysW1xcc1xcU10r5LuK5pel562+5Yiw5o6S5ZCN77yaPGI+XFxkKzwvYj4gLyA8Yj5cXGQrPC9iPiIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogInRyYWZmaWMiLCAicmUiOiAi5YiG5Lqr546HWzpdW1xcc1xcU10r5b2T5YmN5rS75YqoIiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAi5a2X56ym5Liy5pu/5o2iIiwgInJlcXVlc3QiOiB7Im1ldGhvZCI6ICJQT1NUIiwgInVybCI6ICJhcGk6Ly91dGlsL3N0cmluZy9yZXBsYWNlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAicj10ZXh0JnA95b2T5YmN5rS75YqoJnQ9JnM9e3tkb21haW59fToge3t0cmFmZmljIHwgc3RyaXB0YWdzfX0ge3tyZWdleF9yZXBsYWNlKHJlY2hlY2tfY250IHwgc3RyaXB0YWdzLCBcIueCueWHu1tcXHNcXFNdK+ebruWJjVwiLCBcIlwiKX19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIk9LXCIiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJfX2xvZ19fIiwgInJlIjogIi4qIiwgImZyb20iOiAiY29udGVudCJ9XX19XQ==",
-            "date": "2023-05-04 22:30:00",
-            "version": "20230504",
-            "commenturl": "https://github.com/qiandao-today/templates/issues/328"
+            "date": "2023-06-04 11:00:33",
+            "version": "20230604",
+            "commenturl": "https://github.com/qd-today/templates/issues/328"
         },
         "PT通用过CF签到保号": {
             "name": "PT通用过CF签到保号",
