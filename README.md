@@ -39,7 +39,7 @@
 ### 发布模板流程
 
 1. 进入 Issue 界面
-2. 点击右上角 `New issue` 按钮, 选择 `Process HAR` 对应的 `Get Started` 按钮
+2. 点击右上角 `New issue` 按钮, 选择 `HAR 模板发布` 对应的 `Get Started` 按钮
 3. 标题填写 "模板名称 评论区",内容按照要求的格式进行填写
 4. 点击 `Submit new issue` 按钮
 5. 等待 Github Actions 运行完成, 会自动进行 PR
