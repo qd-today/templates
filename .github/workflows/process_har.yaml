@@ -91,3 +91,72 @@ jobs:
           branch: process-har-${{ github.event.issue.number }}
           delete-branch: true
           base: ${{ env.REPO_DEFAULT_BRANCH }}
+
+  delete-invalid-har:
+    runs-on: ubuntu-latest
+    # Only run if the issue is not a PR and is labeled by har
+    if: github.event.issue.pull_request == null && contains(github.event.issue.labels.*.name, 'invalid')
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - uses: stefanbuck/github-issue-parser@v3
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/process_har.yaml
+
+      - name: Echo issue body
+        run: |
+          cat ${HOME}/issue-parser-result.json
+
+      - name: Obtain HARNAME
+        env:
+          ISSUE_JSON: ${{ steps.issue-parser.outputs.jsonString }}
+        id: harname
+        run: |
+          harname=$(python3 -c """
+          import json
+          import os
+
+          issue_json:dict = json.loads(os.getenv('ISSUE_JSON','{}'))
+          if len(issue_json) > 0 and 'name' in issue_json:
+              print(issue_json['name'])
+          else:
+              print('')
+          """)
+          echo "harname=${harname}" >> $GITHUB_OUTPUT
+
+      - name: Delete HAR by harname
+        env:
+          ISSUE_JSON: ${{ steps.issue-parser.outputs.jsonString }}
+        run: |
+          existed=$(python3 .github/src/delete_har.py)
+          if [ "${existed}" == "True" ]; then
+              echo "Delete HAR: ${{ steps.harname.outputs.harname }}"
+          else
+              echo "HAR: ${{ steps.harname.outputs.harname }} not existed"
+          fi
+
+      - name: Creat Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Delete HAR: ${{ steps.harname.outputs.harname }}"
+          title: "Delete HAR: ${{ steps.harname.outputs.harname }}"
+          body: "Auto create pull request by HAR_Process action.\n\nIssue: ${{ github.event.issue.html_url }}\n\nAuthor: @${{ github.event.issue.user.login }}"
+          branch: process-har-${{ github.event.issue.number }}
+          delete-branch: true
+          base: ${{ env.REPO_DEFAULT_BRANCH }}
+
+      - name: Close issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "HAR: ${{ steps.harname.outputs.harname }} is invalid, close it."
