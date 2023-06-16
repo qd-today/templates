@@ -48,44 +48,55 @@
 
 > Tips:
 >
-> 1. 请勿在 Issue 里发布其他内容, 否则会被关闭
-> 2. 更新模板直接在 Issue 里编辑内容, 不要重新发布 Issue
-> 3. 仓库管理员对 PR 进行 Merge 时推荐使用 `Squash Merge` 方式
+> 1. 请勿在 Issue 里发布其他内容, 否则会被关闭.
+> 2. 自动化 **更新** 模板:  直接在 Issue 里编辑内容, 不要重新发布 Issue.
+>
+>    > **PS:**
+>    >
+>    > Issue 内容须符合下述模板格式, 请确保 Issue 包含 `har` 标签;
+>    >
+>    > 非 Issue 作者更新, 请在评论区提交 har 模板内容并 @Issue作者或仓库管理员.
+>
+> 3. 自动化 **删除** 无效模板: 直接将对应的 Issue 标签标记为 `invalid` 即可.
+>
+>    > PS: Issue 内容须符合下述模板格式.
+>
+> 4. 仓库管理员对 PR 进行 Merge 时推荐使用 `Squash Merge` 方式.
 
-> **PS: 旧的 HAR 模板如何更新?**
->
-> 复制以下格式内容至 HAR 模板所对应的 Issue 评论区内主楼部分, 编辑并修改其中的内容:
->
-> ~~~markdown
-> ### HAR 模板名称
->
-> 请将此行替换为**模板名称** ( HAR 文件的命名, 空格请用下划线代替, 允许中文, 请勿使用括号等特殊字符)
->
-> ### 作者信息
->
-> 请将此行替换为**作者信息** ( HAR 文件的作者名或昵称, 用英文逗号 `,` 分隔多个作者, 请勿使用括号等特殊字符)
->
-> ### 模板备注及说明
->
-> 请在此输入模板备注及说明 ( HAR 文件的备注及说明, 直接换行即可, 无需<br>)
->
-> ### HAR 文件名
->
-> 请将此行替换为 **HAR 文件名** ( HAR 文件的文件名, 含 `.har` 后缀, 允许中文, 请勿使用括号等特殊字符)
->
-> ### 其他信息
->
-> 请在此输入Issue的其他信息, 选填, 如无请填暂无 ( 例如: 对于 Issue 的其他说明 )
->
-> ### HAR 模板内容
->
-> ```JSON
-> 请将此行替换为 **HAR 模板内容** (请粘贴 HAR 文件内容, 允许使用 json 格式化工具进行格式化后再粘贴)
-> ```
->
-> ~~~
->
-> 修改完成后, 请为 Issue 添加 `har` 标签, 并点击 `Submit changes` 按钮进行提交
+### Q&A: 旧的 HAR 模板如何更新?
+
+1. 复制以下格式内容至 HAR 模板所对应的 Issue 评论区内主楼部分, 编辑并修改其中的内容:
+
+    ~~~markdown
+    ### HAR 模板名称
+
+    请将此行替换为**模板名称** ( HAR 文件的命名, 空格请用下划线代替, 允许中文, 请勿使用括号等特殊字符)
+
+    ### 作者信息
+
+    请将此行替换为**作者信息** ( HAR 文件的作者名或昵称, 用英文逗号 `,` 分隔多个作者, 请勿使用括号等特殊字符)
+
+    ### 模板备注及说明
+
+    请在此输入模板备注及说明 ( HAR 文件的备注及说明, 直接换行即可, 无需<br>)
+
+    ### HAR 文件名
+
+    请将此行替换为 **HAR 文件名** ( HAR 文件的文件名, 含 `.har` 后缀, 允许中文, 请勿使用括号等特殊字符)
+
+    ### 其他信息
+
+    请在此输入Issue的其他信息, 选填, 如无请填暂无 ( 例如: 对于 Issue 的其他说明 )
+
+    ### HAR 模板内容
+
+    ```JSON
+    请将此行替换为 **HAR 模板内容** (请粘贴 HAR 文件内容, 允许使用 json 格式化工具进行格式化后再粘贴)
+    ```
+
+    ~~~
+
+2. 修改完成后, 请为 Issue 添加 `har` 标签, 并点击 `Submit changes` 按钮进行提交
 
 ## 📄如何注册第三方库
 
@@ -132,6 +143,8 @@
 
 ## 💝鸣谢
 
+排名不分先后:
+
 - [gxitm](https://github.com/gxitm)
 - [AragonSnow](https://github.com/AragonSnow)
 - [FellBan](https://github.com/FellBan)
@@ -143,3 +156,9 @@
 - [acooler15](https://github.com/acooler15)
 - [wjf0214](https://github.com/wjf0214)
 - [a76yyyy](https://github.com/a76yyyy)
+- [MyFaith](https://github.com/MyFaith)
+- [chen8945](https://github.com/chen8945)
+- [ddd-zero](https://github.com/ddd-zero)
+- [IITII](https://github.com/IITII)
+- [AlisaCat-S](https://github.com/AlisaCat-S)
+- ...
