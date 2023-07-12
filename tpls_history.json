@@ -2652,6 +2652,18 @@
             "date": "2023-07-06 21:33:00",
             "version": "20230706",
             "commenturl": "https://github.com/qd-today/templates/issues/390"
+        },
+        "贴吧一键签到": {
+            "name": "贴吧一键签到",
+            "author": "qiandao.today",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/贴吧一键签到cookie.har",
+            "update": false,
+            "comments": "模拟网页端调用“常逛的吧”的一键签到功能进行签到<br>填入在百度贴吧登录后的cookie即可",
+            "filename": "贴吧一键签到cookie.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cDovL3RpZWJhLmJhaWR1LmNvbS9kYy9jb21tb24vdGJzIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkFjY2VwdC1FbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlLCBzZGNoIn0sIHsibmFtZSI6ICJIb3N0IiwgInZhbHVlIjogInRpZWJhLmJhaWR1LmNvbSJ9LCB7Im5hbWUiOiAiQWNjZXB0LUxhbmd1YWdlIiwgInZhbHVlIjogInpoLUNOLHpoO3E9MC44LGVuLVVTO3E9MC42LGVuO3E9MC40LGtvO3E9MC4yIn0sIHsibmFtZSI6ICJVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzIiwgInZhbHVlIjogIjEifSwgeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTFfNCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzUwLjAuMjY2MS4xMDIgU2FmYXJpLzUzNy4zNiJ9LCB7Im5hbWUiOiAiQWNjZXB0IiwgInZhbHVlIjogInRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsKi8qO3E9MC44In0sIHsibmFtZSI6ICJDb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9LCB7Im5hbWUiOiAiQ29ubmVjdGlvbiIsICJ2YWx1ZSI6ICJrZWVwLWFsaXZlIn1dLCAiY29va2llcyI6IFtdfSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogInRicyIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJyZSI6ICJ7XCJ0YnNcIjpcIihbXFxzXFxTXSo/KVwiIiwgImZyb20iOiAiY29udGVudCIsICJuYW1lIjogInRicyJ9XX19LCB7InJlcXVlc3QiOiB7Im1ldGhvZCI6ICJQT1NUIiwgInVybCI6ICJodHRwOi8vdGllYmEuYmFpZHUuY29tL3RibWFsbC9vbmVrZXlTaWduaW4xIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In0sIHsibmFtZSI6ICJPcmlnaW4iLCAidmFsdWUiOiAiaHR0cDovL3RpZWJhLmJhaWR1LmNvbSJ9LCB7Im5hbWUiOiAiQWNjZXB0LUVuY29kaW5nIiwgInZhbHVlIjogImd6aXAsIGRlZmxhdGUifSwgeyJuYW1lIjogIkhvc3QiLCAidmFsdWUiOiAidGllYmEuYmFpZHUuY29tIn0sIHsibmFtZSI6ICJBY2NlcHQtTGFuZ3VhZ2UiLCAidmFsdWUiOiAiemgtQ04semg7cT0wLjgsZW4tVVM7cT0wLjYsZW47cT0wLjQsa287cT0wLjIifSwgeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTFfNCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzUwLjAuMjY2MS4xMDIgU2FmYXJpLzUzNy4zNiJ9LCB7Im5hbWUiOiAiQ29udGVudC1UeXBlIiwgInZhbHVlIjogImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZDsgY2hhcnNldD1VVEYtOCJ9LCB7Im5hbWUiOiAiQWNjZXB0IiwgInZhbHVlIjogIiovKiJ9LCB7Im5hbWUiOiAiUmVmZXJlciIsICJ2YWx1ZSI6ICJodHRwOi8vdGllYmEuYmFpZHUuY29tLyJ9LCB7Im5hbWUiOiAiWC1SZXF1ZXN0ZWQtV2l0aCIsICJ2YWx1ZSI6ICJYTUxIdHRwUmVxdWVzdCJ9LCB7Im5hbWUiOiAiQ29ubmVjdGlvbiIsICJ2YWx1ZSI6ICJrZWVwLWFsaXZlIn1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJpZT11dGYtOCZ0YnM9e3t0YnN8dXJsZW5jb2RlfX0iLCAibWltZVR5cGUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICJzdWNjZXNzIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX1d",
+            "date": "2023-07-13 03:50:53",
+            "version": "20230713",
+            "commenturl": "https://github.com/qd-today/templates/issues/393"
         }
     }
 }
