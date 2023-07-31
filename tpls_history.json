@@ -2664,6 +2664,18 @@
             "date": "2023-07-19 02:50:24",
             "version": "20230719",
             "commenturl": "https://github.com/qd-today/templates/issues/393"
+        },
+        "T00ls": {
+            "name": "T00ls",
+            "author": "cheth",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/t00ls论坛.har",
+            "update": false,
+            "comments": "一个简单的t00ls签到模板",
+            "filename": "t00ls论坛.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vd3d3LnQwMGxzLmNvbS9sb2dpbi5qc29uIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc5LjAuMzk0NS44OCBTYWZhcmkvNTM3LjM2In1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJhY3Rpb249bG9naW4mdXNlcm5hbWU9e3t1c2VybmFtZX19JnBhc3N3b3JkPXt7cGFzc3dvcmR9fSZxdWVzdGlvbmlkPXt7cXVlc3Rpb25pZH19JmFuc3dlcj17e2Fuc3dlcn19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJyZSI6ICJcXFwiY29va2llXFxcIlxcOnsoLispfX0iLCAiZnJvbSI6ICJjb250ZW50IiwgIm5hbWUiOiAiY29va2llIn1dfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly93d3cudDAwbHMuY29tL21lbWJlcnMtcHJvZmlsZS5qc29uIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc5LjAuMzk0NS44OCBTYWZhcmkvNTM3LjM2In1dLCAiY29va2llcyI6IFtdfSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7InJlIjogIlxcXCJ1aWRcXFwiXFw6XFxcIihcXGQrKVxcXCIiLCAiZnJvbSI6ICJjb250ZW50IiwgIm5hbWUiOiAidWlkIn0sIHsicmUiOiAiXFxcImZvcm1oYXNoXFxcIlxcOlxcXCIoLispXFxcIiIsICJmcm9tIjogImNvbnRlbnQiLCAibmFtZSI6ICJmb3JtaGFzaCJ9XX19LCB7InJlcXVlc3QiOiB7Im1ldGhvZCI6ICJQT1NUIiwgInVybCI6ICJodHRwczovL3d3dy50MDBscy5jb20vYWpheC1zaWduLmpzb24iLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiUmVmZXJlciIsICJ2YWx1ZSI6ICJodHRwczovL3d3dy50MDBscy5jb20vbWVtYmVycy1wcm9maWxlLXt7dWlkfX0uaHRtbCJ9LCB7Im5hbWUiOiAiVXNlci1BZ2VudCIsICJ2YWx1ZSI6ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzkuMC4zOTQ1Ljg4IFNhZmFyaS81MzcuMzYifV0sICJjb29raWVzIjogW10sICJkYXRhIjogInNpZ25zdWJtaXQ9YXBwbHkmZm9ybWhhc2g9e3tmb3JtaGFzaH19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJyZSI6ICIuKyIsICJmcm9tIjogImNvbnRlbnQiLCAibmFtZSI6ICJfX2xvZ19fIn1dfX1d",
+            "date": "2023-07-31 12:01:30",
+            "version": "20230731",
+            "commenturl": "https://github.com/qd-today/templates/issues/403"
         }
     }
 }
