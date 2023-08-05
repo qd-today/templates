@@ -2676,6 +2676,18 @@
             "date": "2023-07-31 12:01:30",
             "version": "20230731",
             "commenturl": "https://github.com/qd-today/templates/issues/403"
+        },
+        "刺猬猫": {
+            "name": "刺猬猫",
+            "author": "cheth",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/刺猬猫.har",
+            "update": false,
+            "comments": "欢乐书客简单签到模板",
+            "filename": "刺猬猫.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vc2suaGJvb2tlci5jb20vcmVhZGVyL2dldF9kYWlseV90YXNrX2JvbnVzIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkNvbm5lY3Rpb27CoCIsICJ2YWx1ZSI6ICJrZWVwLWFsaXZlIn0sIHsibmFtZSI6ICJVc2VyLUFnZW50IiwgInZhbHVlIjogIkFuZHJvaWQgwqBjb20ua3Vhbmd4aWFuZy5ub3ZlbCDCoDEuNS41NzIsbGdlLCBMTS1WNTAwTiwgMjksIDEwIn0sIHsibmFtZSI6ICJDb250ZW50LVR5cGUiLCAidmFsdWUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJhcHBfdmVyc2lvbj0xLjUuNTcyJmxvZ2luX3Rva2VuPXt7TG9naW5fdG9rZW59fSZ0YXNrX3R5cGU9MSZhY2NvdW50PXt7QWNjb3VudH19JmRldmljZV90b2tlbj0ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW3sicmUiOiAiOVQ2bjFibCIsICJmcm9tIjogImNvbnRlbnQifSwgeyJyZSI6ICJvRUhyamVJdlVEd0VkSFYiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19XQ==",
+            "date": "2023-08-02 01:49:24",
+            "version": "20230802",
+            "commenturl": "https://github.com/qd-today/templates/issues/405"
         }
     }
 }
