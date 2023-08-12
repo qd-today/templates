@@ -2688,6 +2688,18 @@
             "date": "2023-08-02 01:49:24",
             "version": "20230802",
             "commenturl": "https://github.com/qd-today/templates/issues/405"
+        },
+        "shadowsky": {
+            "name": "shadowsky",
+            "author": "joesonshaw",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/shadowsky.har",
+            "update": false,
+            "comments": "cookie 签到领取流量奖励<br>https://www.shadowsky.xyz/",
+            "filename": "shadowsky.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vd3d3LnNoYWRvd3NreS54eXovdXNlci9jaGVja2luIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkFjY2VwdCIsICJ2YWx1ZSI6ICJhcHBsaWNhdGlvbi9qc29uLCB0ZXh0L2phdmFzY3JpcHQsICovKjsgcT0wLjAxIn0sIHsibmFtZSI6ICJBY2NlcHQtRW5jb2RpbmciLCAidmFsdWUiOiAiZ3ppcCwgZGVmbGF0ZSwgYnIifSwgeyJuYW1lIjogIkFjY2VwdC1MYW5ndWFnZSIsICJ2YWx1ZSI6ICJ6aC1DTix6aDtxPTAuOSxlbjtxPTAuOCxlbi1HQjtxPTAuNyxlbi1VUztxPTAuNiJ9LCB7Im5hbWUiOiAiQ2FjaGUtQ29udHJvbCIsICJ2YWx1ZSI6ICJuby1jYWNoZSJ9LCB7Im5hbWUiOiAiQ29ubmVjdGlvbiIsICJ2YWx1ZSI6ICJrZWVwLWFsaXZlIn0sIHsibmFtZSI6ICJDb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9LCB7Im5hbWUiOiAiRE5UIiwgInZhbHVlIjogIjEifSwgeyJuYW1lIjogIk9yaWdpbiIsICJ2YWx1ZSI6ICJodHRwczovL3d3dy5zaGFkb3dza3kueHl6In0sIHsibmFtZSI6ICJQcmFnbWEiLCAidmFsdWUiOiAibm8tY2FjaGUifSwgeyJuYW1lIjogIlJlZmVyZXIiLCAidmFsdWUiOiAiaHR0cHM6Ly93d3cuc2hhZG93c2t5Lnh5ei91c2VyIn0sIHsibmFtZSI6ICJTZWMtRmV0Y2gtRGVzdCIsICJ2YWx1ZSI6ICJlbXB0eSJ9LCB7Im5hbWUiOiAiU2VjLUZldGNoLU1vZGUiLCAidmFsdWUiOiAiY29ycyJ9LCB7Im5hbWUiOiAiU2VjLUZldGNoLVNpdGUiLCAidmFsdWUiOiAic2FtZS1vcmlnaW4ifSwgeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMTUuMC4xOTAxLjE4OCJ9LCB7Im5hbWUiOiAiWC1SZXF1ZXN0ZWQtV2l0aCIsICJ2YWx1ZSI6ICJYTUxIdHRwUmVxdWVzdCJ9LCB7Im5hbWUiOiAic2VjLWNoLXVhIiwgInZhbHVlIjogIlwiTm90L0EpQnJhbmRcIjt2PVwiOTlcIiwgXCJNaWNyb3NvZnQgRWRnZVwiO3Y9XCIxMTVcIiwgXCJDaHJvbWl1bVwiO3Y9XCIxMTVcIiJ9LCB7Im5hbWUiOiAic2VjLWNoLXVhLW1vYmlsZSIsICJ2YWx1ZSI6ICI/MCJ9LCB7Im5hbWUiOiAic2VjLWNoLXVhLXBsYXRmb3JtIiwgInZhbHVlIjogIlwiV2luZG93c1wiIn1dLCAiY29va2llcyI6IFtdfSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW3sicmUiOiAiMzAyIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogImxvZ192YWx1ZSIsICJyZSI6ICJ7XFxcIm1zZ1xcXCI6XFxcIiguKz8pXCIsIiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiVW5pY29kZei9rOaNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91bmljb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiaHRtbF91bmVzY2FwZT1mYWxzZSZjb250ZW50PeetvuWIsOe7k+aenO+8miB7e2xvZ192YWx1ZX19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIjIwMFwiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOiBcIiguKilcIiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
+            "date": "2023-08-12 11:51:43",
+            "version": "20230812",
+            "commenturl": "https://github.com/qd-today/templates/issues/412"
         }
     }
 }
