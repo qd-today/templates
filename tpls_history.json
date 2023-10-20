@@ -2681,12 +2681,12 @@
             "name": "刺猬猫",
             "author": "cheth",
             "url": "https://raw.githubusercontent.com/qd-today/templates/master/刺猬猫.har",
-            "update": false,
+            "update": true,
             "comments": "欢乐书客简单签到模板",
             "filename": "刺猬猫.har",
-            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vc2suaGJvb2tlci5jb20vcmVhZGVyL2dldF9kYWlseV90YXNrX2JvbnVzIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkNvbm5lY3Rpb27CoCIsICJ2YWx1ZSI6ICJrZWVwLWFsaXZlIn0sIHsibmFtZSI6ICJVc2VyLUFnZW50IiwgInZhbHVlIjogIkFuZHJvaWQgwqBjb20ua3Vhbmd4aWFuZy5ub3ZlbCDCoDEuNS41NzIsbGdlLCBMTS1WNTAwTiwgMjksIDEwIn0sIHsibmFtZSI6ICJDb250ZW50LVR5cGUiLCAidmFsdWUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIn1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJhcHBfdmVyc2lvbj0xLjUuNTcyJmxvZ2luX3Rva2VuPXt7TG9naW5fdG9rZW59fSZ0YXNrX3R5cGU9MSZhY2NvdW50PXt7QWNjb3VudH19JmRldmljZV90b2tlbj0ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW3sicmUiOiAiOVQ2bjFibCIsICJmcm9tIjogImNvbnRlbnQifSwgeyJyZSI6ICJvRUhyamVJdlVEd0VkSFYiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19XQ==",
-            "date": "2023-08-02 01:49:24",
-            "version": "20230802",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vYXBwLmhib29rZXIuY29tL3JlYWRlci9nZXRfdGFza19ib251c193aXRoX3NpZ25fcmVjb21tZW5kIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkNvbm5lY3Rpb24gIiwgInZhbHVlIjogImtlZXAtYWxpdmUifSwgeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiQW5kcm9pZCAgY29tLmt1YW5neGlhbmcubm92ZWwgIHt7YXBwX3ZlcnNpb259fSxsZ2UsIENoZXRoLVYxMDA4Nk4sIDI5LCAxMSJ9LCB7Im5hbWUiOiAiQ29udGVudC1UeXBlIiwgInZhbHVlIjogImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiYXBwX3ZlcnNpb249e3thcHBfdmVyc2lvbn19JmxvZ2luX3Rva2VuPXt7TG9naW5fdG9rZW59fSZ0YXNrX3R5cGU9MSZhY2NvdW50PXt7QWNjb3VudH19JmRldmljZV90b2tlbj17e2RldmljZV90b2tlbn19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFt7InJlIjogIjlUNm4xYmwiLCAiZnJvbSI6ICJjb250ZW50In0sIHsicmUiOiAib0VIcmplSXZVRHdFZEhWIiwgImZyb20iOiAiY29udGVudCJ9LCB7InJlIjogInlzVGdBSWhIIiwgImZyb20iOiAiY29udGVudCJ9XSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fV0=",
+            "date": "2023-10-20 09:59:01",
+            "version": "20231020",
             "commenturl": "https://github.com/qd-today/templates/issues/405"
         },
         "shadowsky": {
