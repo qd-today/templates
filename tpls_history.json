@@ -2808,6 +2808,18 @@
             "date": "2023-10-30 21:40:47",
             "version": "20231030",
             "commenturl": "https://github.com/qd-today/templates/issues/449"
+        },
+        "绅士之庭gmgard.com": {
+            "name": "绅士之庭gmgard.com",
+            "author": "TheTruthYouKnow",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/gmgard.com绅士之庭.har",
+            "update": false,
+            "comments": "绅士之庭的签到模板，个人能力问题，仅域名为 **gmgard.com** 时可用。<br>该模板因为绅士之庭无法直接访问，故需要自行想办法解决网络问题。。",
+            "filename": "gmgard.com绅士之庭.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vZ21nYXJkLmNvbS9hcGkvUHVuY2hJbi9EbyIsICJoZWFkZXJzIjogW3sibmFtZSI6ICI6bWV0aG9kIiwgInZhbHVlIjogIlBPU1QifSwgeyJuYW1lIjogIjphdXRob3JpdHkiLCAidmFsdWUiOiAiZ21nYXJkLmNvbSJ9LCB7Im5hbWUiOiAiOnNjaGVtZSIsICJ2YWx1ZSI6ICJodHRwcyJ9LCB7Im5hbWUiOiAiOnBhdGgiLCAidmFsdWUiOiAiL2FwaS9QdW5jaEluL0RvIn0sIHsibmFtZSI6ICJhY2NlcHQiLCAidmFsdWUiOiAiKi8qIn0sIHsibmFtZSI6ICJ4LXJlcXVlc3RlZC13aXRoIiwgInZhbHVlIjogIlhNTEh0dHBSZXF1ZXN0In0sIHsibmFtZSI6ICJjb250ZW50LXR5cGUiLCAidmFsdWUiOiAiYXBwbGljYXRpb24vanNvbiJ9LCB7Im5hbWUiOiAib3JpZ2luIiwgInZhbHVlIjogImh0dHBzOi8vZ21nYXJkLmNvbSJ9LCB7Im5hbWUiOiAic2VjLWZldGNoLXNpdGUiLCAidmFsdWUiOiAic2FtZS1vcmlnaW4ifSwgeyJuYW1lIjogInNlYy1mZXRjaC1tb2RlIiwgInZhbHVlIjogImNvcnMifSwgeyJuYW1lIjogInNlYy1mZXRjaC1kZXN0IiwgInZhbHVlIjogImVtcHR5In0sIHsibmFtZSI6ICJyZWZlcmVyIiwgInZhbHVlIjogImh0dHBzOi8vZ21nYXJkLmNvbS8ifSwgeyJuYW1lIjogImFjY2VwdC1lbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlLCBiciJ9LCB7Im5hbWUiOiAiYWNjZXB0LWxhbmd1YWdlIiwgInZhbHVlIjogInpoLUNOLHpoO3E9MC45In0sIHsibmFtZSI6ICJjb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAie30iLCAibWltZVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXX19XQ==",
+            "date": "2023-10-30 21:42:46",
+            "version": "20231030",
+            "commenturl": "https://github.com/qd-today/templates/issues/451"
         }
     }
 }
