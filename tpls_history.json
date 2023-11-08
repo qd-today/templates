@@ -2832,6 +2832,18 @@
             "date": "2023-10-30 21:45:48",
             "version": "20231030",
             "commenturl": "https://github.com/qd-today/templates/issues/453"
+        },
+        "雨云签到": {
+            "name": "雨云签到",
+            "author": "lxh",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/雨云签到.har",
+            "update": false,
+            "comments": "雨云自动签到领取积分，apikey在个人资料中生成",
+            "filename": "雨云签到.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vYXBpLnYyLnJhaW55dW4uY29tL3VzZXIvcmV3YXJkL3Rhc2tzIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIngtYXBpLWtleSIsICJ2YWx1ZSI6ICJ7eyBhcGlrZXkgfX0ifSwgeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiQXBpZm94LzEuMC4wIChodHRwczovL2FwaWZveC5jb20pIn0sIHsibmFtZSI6ICJDb250ZW50LVR5cGUiLCAidmFsdWUiOiAiYXBwbGljYXRpb24vanNvbiJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAie1widGFza19uYW1lXCI6IFwi5q+P5pel562+5YiwXCJ9In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19XQ==",
+            "date": "2023-11-08 12:04:58",
+            "version": "20231108",
+            "commenturl": "https://github.com/qd-today/templates/issues/463"
         }
     }
 }
