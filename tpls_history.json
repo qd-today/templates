@@ -3000,6 +3000,18 @@
             "date": "2024-02-15 14:43:20",
             "version": "20240215",
             "commenturl": "https://github.com/qd-today/templates/issues/512"
+        },
+        "魔性论坛": {
+            "name": "魔性论坛",
+            "author": "loveqianool",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/moxing69.com.har",
+            "update": false,
+            "comments": "moxing69.com",
+            "filename": "moxing69.com.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9tb3hpbmc2OS5jb20vIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIkRvbWFpbiIsICJyZSI6ICJocmVmPVwiKC4rKVwiIiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiIiwgInJlcXVlc3QiOiB7Im1ldGhvZCI6ICJHRVQiLCAidXJsIjogInt7RG9tYWlufX0vaG9tZS5waHA/bW9kPXNwYWNlJmRvPW5vdGljZSZ2aWV3PWludGVyYWN0aXZlIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogImNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In1dLCAiY29va2llcyI6IFtdfSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIumAgOWHuiIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogImZvcm1oYXNoIiwgInJlIjogImZvcm1oYXNoPShcXHcrKSIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogInVpZCIsICJyZSI6ICJ1aWRcXHM9XFxzJyhcXGQrKSciLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsiY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAie3tEb21haW59fS9ob21lLnBocD9tb2Q9Zm9sbG93JmRvPWZvbGxvd2VyIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXX0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19LCB7InJlcXVlc3QiOiB7Im1ldGhvZCI6ICJHRVQiLCAidXJsIjogInt7RG9tYWlufX0vcGx1Z2luLnBocD9pZD1rX21pc2lnbiUzQXNpZ24mb3BlcmF0aW9uPXFpYW5kYW8mZm9ybWF0PWdsb2JhbF91c2VybmF2X2V4dHJhJmZvcm1oYXNoPXt7Zm9ybWhhc2h8dXJsZW5jb2RlfX0maW5hamF4PTEmYWpheHRhcmdldD1rX21pc2lnbl90b3BiIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXX0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICLku4rml6Xlt7Lnrb4iLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJ7e0RvbWFpbn19L2hvbWUucGhwP21vZD1zcGFjZSZ1aWQ9e3t1aWR8dXJsZW5jb2RlfX0iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdfSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIuWcqOe6v+aXtumXtCIsICJmcm9tIjogImNvbnRlbnQifSwgeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sicmUiOiAi5Zyo57q/5pe26Ze0Lis+KC4r5bCP5pe2KSIsICJmcm9tIjogImNvbnRlbnQiLCAibmFtZSI6ICJfX2xvZ19fIn1dfX1d",
+            "date": "2024-02-15 14:45:37",
+            "version": "20240215",
+            "commenturl": "https://github.com/qd-today/templates/issues/516"
         }
     }
 }
