@@ -3084,6 +3084,18 @@
             "date": "2024-02-15 15:03:17",
             "version": "20240215",
             "commenturl": "https://github.com/qd-today/templates/issues/528"
+        },
+        "WK_综合论坛": {
+            "name": "WK_综合论坛",
+            "author": "loveqianool",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/waikeung.net.har",
+            "update": false,
+            "comments": "waikeung.net",
+            "filename": "waikeung.net.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly93YWlrZXVuZy5uZXQvcGx1Z2luLnBocD9pZD1rX21pc2lnbiUzQXNpZ24iLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiY29va2llIiwgInZhbHVlIjogInt7IGNvb2tpZSB9fSJ9XSwgImNvb2tpZXMiOiBbXX0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJyZSI6ICJuYW1lPVwiZm9ybWhhc2hcIiB2YWx1ZT1cIiguKylcIiIsICJmcm9tIjogImNvbnRlbnQiLCAibmFtZSI6ICJmb3JtaGFzaCJ9LCB7Im5hbWUiOiAidWlkIiwgInJlIjogImRpc2N1el91aWQgPSAnKFxcZCspJyIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwczovL3dhaWtldW5nLm5ldC9wbHVnaW4ucGhwP2lkPWtfbWlzaWduJTNBc2lnbiZvcGVyYXRpb249cWlhbmRhbyZmb3JtaGFzaD17e2Zvcm1oYXNofHVybGVuY29kZX19JmZvcm1hdD1lbXB0eSIsICJoZWFkZXJzIjogW3sibmFtZSI6ICJjb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9XSwgImNvb2tpZXMiOiBbXX0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19LCB7ImNvbW1lbnQiOiAiIiwgInJlcXVlc3QiOiB7Im1ldGhvZCI6ICJHRVQiLCAidXJsIjogImh0dHBzOi8vd2Fpa2V1bmcubmV0L3BsdWdpbi5waHA/aWQ9a19taXNpZ24lM0FzaWduJm9wZXJhdGlvbj1xaWFuZGFvJmZvcm1oYXNoPXt7Zm9ybWhhc2h8dXJsZW5jb2RlfX0mZm9ybWF0PWVtcHR5IiwgImhlYWRlcnMiOiBbeyJuYW1lIjogImNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In1dLCAiY29va2llcyI6IFtdfSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIuS7iuaXpeW3siIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19LCB7InJlcXVlc3QiOiB7Im1ldGhvZCI6ICJHRVQiLCAidXJsIjogImh0dHBzOi8vd2Fpa2V1bmcubmV0L2hvbWUucGhwP21vZD1zcGFjZSZ1aWQ9e3t1aWR8dXJsZW5jb2RlfX0iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdfSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7InJlIjogIijkuIrmrKHmtLvli5XmmYLplpMuKz8pPCIsICJmcm9tIjogImNvbnRlbnQiLCAibmFtZSI6ICJfX2xvZ19fIn1dfX1d",
+            "date": "2024-02-15 15:05:41",
+            "version": "20240215",
+            "commenturl": "https://github.com/qd-today/templates/issues/530"
         }
     }
 }
