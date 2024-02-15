@@ -3060,6 +3060,18 @@
             "date": "2024-02-15 14:57:47",
             "version": "20240215",
             "commenturl": "https://github.com/qd-today/templates/issues/524"
+        },
+        "xbbs.me": {
+            "name": "xbbs.me",
+            "author": "loveqianool",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/xbbs.me.har",
+            "update": false,
+            "comments": "用户名密码<br>https://xbbs.me",
+            "filename": "xbbs.me.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8veGJicy5tZS9hamF4LnBocCIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogImFjdGlvbj1sb2dpbiZlbWFpbD17e3VzZXJuYW1lfX0mcGFzc3dvcmQ9e3twYXNzd29yZH19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICJcImNvZGVcIjowIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsiY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8veGJicy5tZS9hamF4LnBocCIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogImFjdGlvbj1kYWlseUNoZWNrSW4ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIlwiY29kZVwiOjAiLCAiZnJvbSI6ICJjb250ZW50In0sIHsicmUiOiAi5bey57uP562+5Yiw6L+HIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly94YmJzLm1lL215Lmh0bWwiLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICIo5b2T5YmN56ev5YiGW1xcc1xcU10rP+WIhikiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
+            "date": "2024-02-15 14:59:40",
+            "version": "20240215",
+            "commenturl": "https://github.com/qd-today/templates/issues/526"
         }
     }
 }
