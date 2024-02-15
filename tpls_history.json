@@ -3013,18 +3013,6 @@
             "version": "20240215",
             "commenturl": "https://github.com/qd-today/templates/issues/516"
         },
-        "sex8.cc.har": {
-            "name": "sex8.cc.har",
-            "author": "loveqianool",
-            "url": "https://raw.githubusercontent.com/qd-today/templates/master/sex8.cc.har",
-            "update": false,
-            "comments": "选填",
-            "filename": "sex8.cc.har",
-            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vc2V4OC5jYy9wbHVnaW4ucGhwP2lkPXNpZ25pbiUzQXNpZ25pbl9yZWciLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiY29va2llIiwgInZhbHVlIjogInt7IGNvb2tpZSB9fSJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiJmFjPXJlZ3NpZ24ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsiY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vc2V4OC5jYy9wbHVnaW4ucGhwP2lkPXNpZ25pbiUzQXNpZ25pbl9yZWciLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICImYWM9cmVnc2lnbiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiXFxcXHU1ZGYyXFxcXHU3YjdlIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAicyIsICJyZSI6ICIoXFxcXC4rPylcIiIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwczovL3NleDguY2MvaG9tZS5waHA/bW9kPXNwYWNlJmRvPW5vdGljZSZ2aWV3PXN5c3RlbSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW119LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwOi8vc2V4OC5jYy9ob21lLnBocD9tb2Q9c3BhY2VjcCZhYz1jcmVkaXQmc2hvd2NyZWRpdD0xIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIm5pY2tuYW1lIiwgInJlIjogIuiuv+mXruaIkeeahOepuumXtFwiPiguKz8pPCIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogImpmIiwgInJlIjogIijpk7bluIE6W1xcc1xcU10qKVxcKCA8dT7mgLsiLCAiZnJvbSI6ICJjb250ZW50In0sIHsibmFtZSI6ICJnIiwgInJlIjogIijnlKjmiLfnu4QuKyk8IiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiVW5pY29kZei9rOaNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91bmljb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiY29udGVudD3nlKjmiLflkI06IHt7bmlja25hbWV9fSB7e2d9fSB7e3VuaWNvZGUocyl9fSB7eyBqZiB8IHN0cmlwdGFncyB9fSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAiXCLnirbmgIFcIjogXCIyMDBcIiIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIl9fbG9nX18iLCAicmUiOiAiXCLovazmjaLlkI5cIjogXCIoLiopXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
-            "date": "2024-02-15 14:50:17",
-            "version": "20240215",
-            "commenturl": "https://github.com/qd-today/templates/issues/518"
-        },
         "520cc": {
             "name": "520cc",
             "author": "loveqianool",
@@ -3096,6 +3084,18 @@
             "date": "2024-02-15 15:05:41",
             "version": "20240215",
             "commenturl": "https://github.com/qd-today/templates/issues/530"
+        },
+        "sex8.cc": {
+            "name": "sex8.cc",
+            "author": "loveqianool",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/sex8.cc.har",
+            "update": true,
+            "comments": "选填",
+            "filename": "sex8.cc.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vc2V4OC5jYy9wbHVnaW4ucGhwP2lkPXNpZ25pbiUzQXNpZ25pbl9yZWciLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiY29va2llIiwgInZhbHVlIjogInt7IGNvb2tpZSB9fSJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiJmFjPXJlZ3NpZ24ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsiY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vc2V4OC5jYy9wbHVnaW4ucGhwP2lkPXNpZ25pbiUzQXNpZ25pbl9yZWciLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICImYWM9cmVnc2lnbiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiXFxcXHU1ZGYyXFxcXHU3YjdlIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAicyIsICJyZSI6ICIoXFxcXC4rPylcIiIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwczovL3NleDguY2MvaG9tZS5waHA/bW9kPXNwYWNlJmRvPW5vdGljZSZ2aWV3PXN5c3RlbSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW119LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwOi8vc2V4OC5jYy9ob21lLnBocD9tb2Q9c3BhY2VjcCZhYz1jcmVkaXQmc2hvd2NyZWRpdD0xIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIm5pY2tuYW1lIiwgInJlIjogIuiuv+mXruaIkeeahOepuumXtFwiPiguKz8pPCIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogImpmIiwgInJlIjogIijpk7bluIE6W1xcc1xcU10qKVxcKCA8dT7mgLsiLCAiZnJvbSI6ICJjb250ZW50In0sIHsibmFtZSI6ICJnIiwgInJlIjogIijnlKjmiLfnu4QuKyk8IiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiVW5pY29kZei9rOaNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91bmljb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiY29udGVudD3nlKjmiLflkI06IHt7bmlja25hbWV9fSB7e2d9fSB7e3VuaWNvZGUocyl9fSB7eyBqZiB8IHN0cmlwdGFncyB9fSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAiXCLnirbmgIFcIjogXCIyMDBcIiIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIl9fbG9nX18iLCAicmUiOiAiXCLovazmjaLlkI5cIjogXCIoLiopXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
+            "date": "2024-02-15 15:07:47",
+            "version": "20240215",
+            "commenturl": "https://github.com/qd-today/templates/issues/518"
         }
     }
 }
