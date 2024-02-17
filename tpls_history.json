@@ -3132,6 +3132,18 @@
             "date": "2024-02-17 18:59:51",
             "version": "20240217",
             "commenturl": "https://github.com/qd-today/templates/issues/535"
+        },
+        "云原神网页版": {
+            "name": "云原神网页版",
+            "author": "z",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/云原神网页版.har",
+            "update": false,
+            "comments": "打开 https://ys.mihoyo.com/cloud<br>登录后查找 https://api-cloudgame.mihoyo.com 的连接<br>将 x-rpc-combo_token 填入 combo_token",
+            "filename": "云原神网页版.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9hcGktY2xvdWRnYW1lLm1paG95by5jb20vaGs0ZV9jZ19jbi93YWxsZXQvd2FsbGV0L2dldCIsICJoZWFkZXJzIjogW3sibmFtZSI6ICJ4LXJwYy1jb21ib190b2tlbiIsICJ2YWx1ZSI6ICJ7e2NvbWJvX3Rva2VufX0ifV0sICJjb29raWVzIjogW10sICJkYXRhIjogIiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiZnJlZV90aW1lIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW3sicmUiOiAi55m75b2VIiwgImZyb20iOiAiY29udGVudCJ9XSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJfX2xvZ19fIiwgInJlIjogIlwiZnJlZV90aW1lXCI6XCJcXGQrXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
+            "date": "2024-02-18 03:05:31",
+            "version": "20240218",
+            "commenturl": "https://github.com/qd-today/templates/issues/538"
         }
     }
 }
