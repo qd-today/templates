@@ -3216,6 +3216,18 @@
             "date": "2024-02-26 20:38:44",
             "version": "20240226",
             "commenturl": "https://github.com/qd-today/templates/issues/559"
+        },
+        "嘉立创EDA开源硬件平台": {
+            "name": "嘉立创EDA开源硬件平台",
+            "author": "loveqianool",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/嘉立创EDA开源硬件平台.har",
+            "update": false,
+            "comments": "https://oshwhub.com<br> cookie",
+            "filename": "嘉立创EDA开源硬件平台.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9vc2h3aHViLmNvbS9zaWduX2luIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogImNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogImNzcmYtdG9rZW4iLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJjc3JmIiwgInJlIjogImNzcmYtdG9rZW5cIiBjb250ZW50PVwiKFxcdyspXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vb3Nod2h1Yi5jb20vYXBpL3VzZXIvc2lnbl9pbiIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogIiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJjb21tZW50IjogIiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwczovL29zaHdodWIuY29tL3NpZ25faW4iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiamYiLCAicmUiOiAiPijmiJHnmoTnp6/liIZbXFxzXFxTXSspPGEgY2xhc3M9XCJpbnRlZ3JhbC1jZW50ZXJcIiIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJjb21tZW50IjogIlVuaWNvZGXovazmjaIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImFwaTovL3V0aWwvdW5pY29kZSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogImh0bWxfdW5lc2NhcGU9ZmFsc2UmY29udGVudD17e2pmIHwgc3RyaXB0YWdzfX0ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOiBcIiguKilcIiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
+            "date": "2024-02-26 22:11:38",
+            "version": "20240226",
+            "commenturl": "https://github.com/qd-today/templates/issues/561"
         }
     }
 }
