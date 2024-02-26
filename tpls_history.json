@@ -3192,6 +3192,18 @@
             "date": "2024-02-25 08:40:33",
             "version": "20240225",
             "commenturl": "https://github.com/qd-today/templates/issues/553"
+        },
+        "AcgFun": {
+            "name": "AcgFun",
+            "author": "loveqianool",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/AcgFun.har",
+            "update": false,
+            "comments": "",
+            "filename": "AcgFun.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vYWNnZnVuLm1vZS9tZW1iZXIucGhwP21vZD1sb2dnaW5nJmFjdGlvbj1sb2dpbiZsb2dpbnN1Ym1pdD15ZXMmaGFuZGxla2V5PWxvZ2luJmluYWpheD0xIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogImNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJ1c2VybmFtZT17e3VzZXJuYW1lfX0mcGFzc3dvcmQ9e3twYXNzd29yZH19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICLmrKLov44iLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJ1aWQiLCAicmUiOiAidWlkJzonKFxcZCspJyIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwczovL2FjZ2Z1bi5tb2UvcGx1Z2luLnBocD9pZD1rX21pc2lnbiUzQXNpZ24iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiZm9ybWhhc2giLCAicmUiOiAiZm9ybWhhc2g9KFxcdyspXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9hY2dmdW4ubW9lL3BsdWdpbi5waHA/aWQ9a19taXNpZ24lM0FzaWduJm9wZXJhdGlvbj1xaWFuZGFvJmZvcm1oYXNoPXt7Zm9ybWhhc2h8dXJsZW5jb2RlfX0mZm9ybWF0PWVtcHR5JmluYWpheD0xJmFqYXh0YXJnZXQ9SkRfc2lnbiIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogIiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwczovL2FjZ2Z1bi5tb2Uvc3BhY2UtdWlkLXt7dWlkfX0uaHRtbCIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogIiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAi5rOo6ZSA55m75b2VIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAidXNlciIsICJyZSI6ICJrZXl3b3Jkc1wiIGNvbnRlbnQ9XCIoLisp55qE5Liq5Lq66LWE5paZXCIiLCAiZnJvbSI6ICJjb250ZW50In0sIHsibmFtZSI6ICJqZiIsICJyZSI6ICIoPGVtPuenr+WIhltcXHNcXFNdK+WkqeepuuefszwvZW0+XFxkKykgPCIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogImdyb3VwIiwgInJlIjogIueUqOaIt+e7hFwiPiBcXCgoLispXFwpPCIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJjb21tZW50IjogIlVuaWNvZGXovazmjaIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImFwaTovL3V0aWwvdW5pY29kZSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogImh0bWxfdW5lc2NhcGU9ZmFsc2UmY29udGVudD3nlKjmiLc6IHt7dXNlcn19IOeUqOaIt+e7hDoge3tncm91cH19IHt7amYgfCBzdHJpcHRhZ3N9fSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAiXCLnirbmgIFcIjogXCIyMDBcIiIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIl9fbG9nX18iLCAicmUiOiAiXCLovazmjaLlkI5cIjogXCIoLiopXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
+            "date": "2024-02-26 19:41:15",
+            "version": "20240226",
+            "commenturl": "https://github.com/qd-today/templates/issues/557"
         }
     }
 }
