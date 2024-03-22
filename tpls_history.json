@@ -281,12 +281,12 @@
             "name": "火绒安全论坛",
             "author": "github-h",
             "url": "https://raw.githubusercontent.com/qd-today/templates/master/火绒安全论坛.har",
-            "update": false,
-            "comments": "cookie<br><br>每日登录签到<br><br>https://bbs.huorong.cn/",
+            "update": true,
+            "comments": "cookie<br><br>每日签到奖励<br><br>https://bbs.huorong.cn",
             "filename": "火绒安全论坛.har",
             "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9iYnMuaHVvcm9uZy5jbi8iLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiSG9zdCIsICJ2YWx1ZSI6ICJiYnMuaHVvcm9uZy5jbiJ9LCB7Im5hbWUiOiAiQ29ubmVjdGlvbiIsICJ2YWx1ZSI6ICJrZWVwLWFsaXZlIn0sIHsibmFtZSI6ICJzZWMtY2gtdWEiLCAidmFsdWUiOiAiXCJHb29nbGUgQ2hyb21lXCI7dj1cIjEwM1wiLCBcIkNocm9taXVtXCI7dj1cIjEwM1wiLCBcIk5vdD1BP0JyYW5kXCI7dj1cIjI0XCIifSwgeyJuYW1lIjogInNlYy1jaC11YS1tb2JpbGUiLCAidmFsdWUiOiAiPzAifSwgeyJuYW1lIjogInNlYy1jaC11YS1wbGF0Zm9ybSIsICJ2YWx1ZSI6ICJcIldpbmRvd3NcIiJ9LCB7Im5hbWUiOiAiVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0cyIsICJ2YWx1ZSI6ICIxIn0sIHsibmFtZSI6ICJVc2VyLUFnZW50IiwgInZhbHVlIjogIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMy4wLjAuMCBTYWZhcmkvNTM3LjM2In0sIHsibmFtZSI6ICJBY2NlcHQiLCAidmFsdWUiOiAidGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCxhcHBsaWNhdGlvbi9zaWduZWQtZXhjaGFuZ2U7dj1iMztxPTAuNyJ9LCB7Im5hbWUiOiAiU2VjLUZldGNoLVNpdGUiLCAidmFsdWUiOiAic2FtZS1vcmlnaW4ifSwgeyJuYW1lIjogIlNlYy1GZXRjaC1Nb2RlIiwgInZhbHVlIjogIm5hdmlnYXRlIn0sIHsibmFtZSI6ICJTZWMtRmV0Y2gtVXNlciIsICJ2YWx1ZSI6ICI/MSJ9LCB7Im5hbWUiOiAiU2VjLUZldGNoLURlc3QiLCAidmFsdWUiOiAiZG9jdW1lbnQifSwgeyJuYW1lIjogIlJlZmVyZXIiLCAidmFsdWUiOiAiaHR0cHM6Ly9iYnMuaHVvcm9uZy5jbi9ob21lLnBocD9tb2Q9c3BhY2UmZG89bm90aWNlJnZpZXc9aW50ZXJhY3RpdmUmdHlwZT1mcmllbmQifSwgeyJuYW1lIjogIkFjY2VwdC1FbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlLCBiciJ9LCB7Im5hbWUiOiAiQWNjZXB0LUxhbmd1YWdlIiwgInZhbHVlIjogInpoLUNOLHpoO3E9MC45LGVuO3E9MC44LGVuLUdCO3E9MC43LGVuLVVTO3E9MC42In0sIHsibmFtZSI6ICJDb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiIiwgIm1pbWVUeXBlIjogIiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJsb2dfdmFsdWUiLCAicmUiOiAiaWQ9XCJoY3JlZGl0XzJcIj4oLis/KTwvc3Bhbj4iLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsiY29tbWVudCI6ICLnlJ/miJDml6Xlv5ciLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImFwaTovL3V0aWwvdXJsZGVjb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiY29udGVudD3ph5HpkrE6IHt7bG9nX3ZhbHVlfX0ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9LCB7InJlIjogIlwi54q25oCBXCI6IFwiMjAwXCIiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJfX2xvZ19fIiwgInJlIjogIlwi6L2s5o2i5ZCOXCI6IFwiKC4qKVwiIiwgImZyb20iOiAiY29udGVudCJ9XX19XQ==",
-            "date": "2023-03-19 00:00:00",
-            "version": "20230319",
+            "date": "2024-03-22 16:49:20",
+            "version": "20240322",
             "commenturl": "https://github.com/qd-today/templates/issues/299"
         },
         "summer-plus": {
