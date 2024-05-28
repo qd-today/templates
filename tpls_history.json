@@ -3408,6 +3408,18 @@
             "date": "2024-05-27 22:00:37",
             "version": "20240527",
             "commenturl": "https://github.com/qd-today/templates/issues/651"
+        },
+        "知轩藏书": {
+            "name": "知轩藏书",
+            "author": "李大爷",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/知轩藏书.har",
+            "update": false,
+            "comments": "Cookie登陆并显示日志",
+            "filename": "知轩藏书.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8venhjc29sLmNvbS93cC1hZG1pbi9hZG1pbi1hamF4LnBocCIsICJoZWFkZXJzIjogW3sibmFtZSI6ICJBY2NlcHQiLCAidmFsdWUiOiAiYXBwbGljYXRpb24vanNvbiwgdGV4dC9qYXZhc2NyaXB0LCAqLyo7IHE9MC4wMSJ9LCB7Im5hbWUiOiAiQWNjZXB0LUVuY29kaW5nIiwgInZhbHVlIjogImd6aXAsIGRlZmxhdGUsIGJyIn0sIHsibmFtZSI6ICJBY2NlcHQtTGFuZ3VhZ2UiLCAidmFsdWUiOiAiemgtQ04semg7cT0wLjkifSwgeyJuYW1lIjogIkNvbm5lY3Rpb24iLCAidmFsdWUiOiAia2VlcC1hbGl2ZSJ9LCB7Im5hbWUiOiAiQ29udGVudC1MZW5ndGgiLCAidmFsdWUiOiAiMTkifSwgeyJuYW1lIjogIkNvbnRlbnQtVHlwZSIsICJ2YWx1ZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQ7IGNoYXJzZXQ9VVRGLTgifSwgeyJuYW1lIjogIkNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In0sIHsibmFtZSI6ICJETlQiLCAidmFsdWUiOiAiMSJ9LCB7Im5hbWUiOiAiSG9zdCIsICJ2YWx1ZSI6ICJ6eGNzb2wuY29tIn0sIHsibmFtZSI6ICJPcmlnaW4iLCAidmFsdWUiOiAiaHR0cHM6Ly96eGNzb2wuY29tIn0sIHsibmFtZSI6ICJSZWZlcmVyIiwgInZhbHVlIjogImh0dHBzOi8venhjc29sLmNvbS8ifSwgeyJuYW1lIjogIlNlYy1GZXRjaC1EZXN0IiwgInZhbHVlIjogImVtcHR5In0sIHsibmFtZSI6ICJTZWMtRmV0Y2gtTW9kZSIsICJ2YWx1ZSI6ICJjb3JzIn0sIHsibmFtZSI6ICJTZWMtRmV0Y2gtU2l0ZSIsICJ2YWx1ZSI6ICJzYW1lLW9yaWdpbiJ9LCB7Im5hbWUiOiAiVXNlci1BZ2VudCIsICJ2YWx1ZSI6ICJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA4LjAuNTM1OS45NSBTYWZhcmkvNTM3LjM2In0sIHsibmFtZSI6ICJYLVJlcXVlc3RlZC1XaXRoIiwgInZhbHVlIjogIlhNTEh0dHBSZXF1ZXN0In0sIHsibmFtZSI6ICJzZWMtY2gtdWEiLCAidmFsdWUiOiAiXCJOb3QtQS5CcmFuZFwiO3Y9XCIyNFwiLCBcIkNocm9taXVtXCI7dj1cIjE0XCIifSwgeyJuYW1lIjogInNlYy1jaC11YS1tb2JpbGUiLCAidmFsdWUiOiAiPzAifSwgeyJuYW1lIjogInNlYy1jaC11YS1wbGF0Zm9ybSIsICJ2YWx1ZSI6ICJcIm1hY09TXCIifV0sICJjb29raWVzIjogW10sICJkYXRhIjogImFjdGlvbj11c2VyX2NoZWNraW4iLCAibWltZVR5cGUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogInh4IiwgInJlIjogIlwibXNnXCI6XCIoLispXCIsXCJkYXRhIiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiVW5pY29kZei9rOaNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91bmljb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiaHRtbF91bmVzY2FwZT1mYWxzZSZjb250ZW50PXt7eHh9fSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAiXCLnirbmgIFcIjogXCIyMDBcIiIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIl9fbG9nX18iLCAicmUiOiAiXCLovazmjaLlkI5cIjogXCIoLiopXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
+            "date": "2024-05-28 08:36:47",
+            "version": "20240528",
+            "commenturl": "https://github.com/qd-today/templates/issues/653"
         }
     }
 }
