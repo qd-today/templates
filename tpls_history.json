@@ -3205,18 +3205,6 @@
             "version": "20240227",
             "commenturl": "https://github.com/qd-today/templates/issues/565"
         },
-        "超能胖次": {
-            "name": "超能胖次",
-            "author": "NSFW",
-            "url": "https://raw.githubusercontent.com/qd-today/templates/master/超能胖次.har",
-            "update": false,
-            "comments": "http://wacos.top<br>账户密码",
-            "filename": "超能胖次.har",
-            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHA6Ly93YWNvcy50b3AvbWVtYmVyLnBocD9tb2Q9bG9nZ2luZyZhY3Rpb249bG9naW4mbG9naW5zdWJtaXQ9eWVzJmluYWpheD0xIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAidXNlcm5hbWU9e3t1c2VybmFtZX19JnBhc3N3b3JkPXt7cGFzc3dvcmR9fSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAi5qyi6L+OIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cDovL3dhY29zLnRvcC9wbHVnaW4ucGhwP2lkPWRzdV9wYXVsc2lnbiUzQXNpZ24iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiZm9ybWhhc2giLCAicmUiOiAiZm9ybWhhc2hcIiB2YWx1ZT1cIihcXHcrKSIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiaHR0cDovL3dhY29zLnRvcC9wbHVnaW4ucGhwP2lkPWRzdV9wYXVsc2lnbiUzQXNpZ24mb3BlcmF0aW9uPXFpYW5kYW8maW5hamF4PTEiLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJmb3JtaGFzaD17e2Zvcm1oYXNofX0mcWR4cT1reCJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwOi8vd2Fjb3MudG9wL3BsdWdpbi5waHA/aWQ9ZHN1X3BhdWxzaWduJTNBc2lnbiIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogIiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJfX2xvZ19fIiwgInJlIjogIuacquW8gOWniyhbXFxzXFxTXSop562+5Yiw5o6S6KGM5qacIiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiVW5pY29kZei9rOaNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91bmljb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiY29udGVudD17eyBfX2xvZ19fIHwgc3RyaXB0YWdzIH19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIjIwMFwiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOiBcIiguKilcIiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
-            "date": "2024-02-27 08:04:03",
-            "version": "20240227",
-            "commenturl": "https://github.com/qd-today/templates/issues/567"
-        },
         "老司機論壇": {
             "name": "老司機論壇",
             "author": "NSFW",
