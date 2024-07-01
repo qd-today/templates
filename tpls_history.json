@@ -3456,6 +3456,18 @@
             "date": "2024-06-29 22:34:24",
             "version": "20240629",
             "commenturl": "https://github.com/qd-today/templates/issues/676"
+        },
+        "希沃白板.har": {
+            "name": "希沃白板.har",
+            "author": "无敌最俊朗",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/希沃白板.har",
+            "update": false,
+            "comments": "电脑端或手机端抓包cookies",
+            "filename": "希沃白板.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vZWFzaW5vdGUuc2Vld28uY29tL2V4dGVuZC9hcGlzP2FjdGlvbk5hbWU9U0lHTl9MT1RURVJZIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkhvc3QiLCAidmFsdWUiOiAiZWFzaW5vdGUuc2Vld28uY29tIn0sIHsibmFtZSI6ICJDb29raWUiLCAidmFsdWUiOiAie3tjb29raWVzfX0ifSwgeyJuYW1lIjogIk9yaWdpbiIsICJ2YWx1ZSI6ICJlYXNpbm90ZS5zZWV3by5jb20ifSwgeyJuYW1lIjogIkNvbnRlbnQtVHlwZSIsICJ2YWx1ZSI6ICJhcHBsaWNhdGlvbi9qc29uIn1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJ7XCJfY3NyZlwiOlwiXCJ9IiwgIm1pbWVUeXBlIjogInRleHQvanNvbiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJtc2ciLCAicmUiOiAiXCJtZXNzYWdlXCI6XCIoLio/KVwiIiwgImZyb20iOiAiY29udGVudCJ9LCB7Im5hbWUiOiAiZXJyb3JfY29kZSIsICJyZSI6ICJcImVycm9yX2NvZGVcIjooLiopfSIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogImRhdGEiLCAicmUiOiAiXCJkYXRhXCI6KC4qKSwiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC9zdHJpbmcvcmVwbGFjZT9yPXRleHQmcD0lM0F2YWx1ZSZzPSUzQXZhbHVlJnQ9JUUzJTgwJTkwJUU0JUJGJUExJUU2JTgxJUFGJUUzJTgwJTkxe3ttc2d8dXJsZW5jb2RlfX0lRUYlQkMlOEMlRTMlODAlOTAlRTglQUYlQTYlRTYlODMlODUlRTMlODAlOTF7e2RhdGF8dXJsZW5jb2RlfX0iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIiLCAibWltZVR5cGUiOiAiIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIl9fbG9nX18iLCAicmUiOiAiLioiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
+            "date": "2024-07-01 11:10:30",
+            "version": "20240701",
+            "commenturl": "https://github.com/qd-today/templates/issues/678"
         }
     }
 }
