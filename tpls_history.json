@@ -3744,6 +3744,18 @@
             "date": "2024-11-09 20:27:20",
             "version": "20241109",
             "commenturl": "https://github.com/qd-today/templates/issues/798"
+        },
+        "xdouban无损音乐网": {
+            "name": "xdouban无损音乐网",
+            "author": "z",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/xdouban.com.har",
+            "update": false,
+            "comments": "https://xdouban.com/",
+            "filename": "xdouban.com.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8veGRvdWJhbi5jb20vbWVtYmVyLnBocD9tb2Q9bG9nZ2luZyZhY3Rpb249bG9naW4mbG9naW5zdWJtaXQ9eWVzJmluZmxvYXQ9eWVzJmxzc3VibWl0PXllcyZpbmFqYXg9MSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogInVzZXJuYW1lPXt7dXNlcm5hbWV9fSZwYXNzd29yZD17e3Bhc3N3b3JkfX0ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly94ZG91YmFuLmNvbS9ob21lLnBocD9tb2Q9c3BhY2UiLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIumAgOWHuiIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogInUiLCAicmUiOiAiPiguKynnmoTkuKrkurrotYTmlpkiLCAiZnJvbSI6ICJjb250ZW50In0sIHsibmFtZSI6ICJmIiwgInJlIjogIijnp6/liIY8L2VtPlxcZCspIiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiVW5pY29kZei9rOaNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91bmljb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiaHRtbF91bmVzY2FwZT1mYWxzZSZjb250ZW50PXt7dX19IHt7ZiB8IHN0cmlwdGFnc319In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIjIwMFwiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOiBcIiguKilcIiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
+            "date": "2024-11-09 23:10:34",
+            "version": "20241109",
+            "commenturl": "https://github.com/qd-today/templates/issues/796"
         }
     }
 }
