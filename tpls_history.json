@@ -3732,6 +3732,18 @@
             "date": "2024-11-08 09:12:54",
             "version": "20241108",
             "commenturl": "https://github.com/qd-today/templates/issues/788"
+        },
+        "HiFiNi音乐磁场": {
+            "name": "HiFiNi音乐磁场",
+            "author": "z",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/hifini.com.har",
+            "update": false,
+            "comments": "选填",
+            "filename": "hifini.com.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly93d3cuaGlmaW5pLmNvbS8iLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiY29va2llIiwgInZhbHVlIjogInt7Y29va2llfX0ifV0sICJjb29raWVzIjogW10sICJkYXRhIjogIiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAi6YCA5Ye6IiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAic2lnbiIsICJyZSI6ICJzaWduID0gXCIoXFx3KykiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vd3d3LmhpZmluaS5jb20vc2dfc2lnbi5odG0iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJzaWduPXt7c2lnbn19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19LCB7InJlcXVlc3QiOiB7Im1ldGhvZCI6ICJHRVQiLCAidXJsIjogImh0dHBzOi8vd3d3LmhpZmluaS5jb20vbXkuaHRtIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIl9fbG9nX18iLCAicmUiOiAi6YeR5biB77yaPGVtLis+XFxkKzwvZW0+IiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiVW5pY29kZei9rOaNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91bmljb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiaHRtbF91bmVzY2FwZT1mYWxzZSZjb250ZW50PXt7X19sb2dfXyB8IHN0cmlwdGFnc319In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIjIwMFwiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOiBcIiguKilcIiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
+            "date": "2024-11-09 20:27:20",
+            "version": "20241109",
+            "commenturl": "https://github.com/qd-today/templates/issues/798"
         }
     }
 }
