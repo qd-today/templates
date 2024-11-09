@@ -3756,6 +3756,18 @@
             "date": "2024-11-09 23:10:34",
             "version": "20241109",
             "commenturl": "https://github.com/qd-today/templates/issues/796"
+        },
+        "深夜读书会": {
+            "name": "深夜读书会",
+            "author": "z",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/ritdon.har",
+            "update": false,
+            "comments": "http://ritdon.com/",
+            "filename": "ritdon.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHA6Ly9yaXRkb24uY29tL21lbWJlci5waHA/bW9kPWxvZ2dpbmcmYWN0aW9uPWxvZ2luJmxvZ2luc3VibWl0PXllcyZpbmZsb2F0PXllcyZsc3N1Ym1pdD15ZXMmaW5hamF4PTEiLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJ1c2VybmFtZT17e3VzZXJuYW1lfX0mcGFzc3dvcmQ9e3twYXNzd29yZH19In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19LCB7InJlcXVlc3QiOiB7Im1ldGhvZCI6ICJHRVQiLCAidXJsIjogImh0dHA6Ly9yaXRkb24uY29tL2hvbWUucGhwP21vZD1zcGFjZWNwJmFjPWNyZWRpdCZzaG93Y3JlZGl0PTEiLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAidSIsICJyZSI6ICLnqbrpl7RcIj4oLis/KTwiLCAiZnJvbSI6ICJjb250ZW50In0sIHsibmFtZSI6ICJqIiwgInJlIjogIj4o56ev5YiGOiBcXGQrKTwiLCAiZnJvbSI6ICJjb250ZW50In0sIHsibmFtZSI6ICJnIiwgInJlIjogIijnlKjmiLfnu4Q6IC4rKTwiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsiY29tbWVudCI6ICJVbmljb2Rl6L2s5o2iIiwgInJlcXVlc3QiOiB7Im1ldGhvZCI6ICJQT1NUIiwgInVybCI6ICJhcGk6Ly91dGlsL3VuaWNvZGUiLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJodG1sX3VuZXNjYXBlPWZhbHNlJmNvbnRlbnQ9IHt7dX19IHt7an19IHt7Z319In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIjIwMFwiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOiBcIiguKilcIiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
+            "date": "2024-11-09 23:15:26",
+            "version": "20241109",
+            "commenturl": "https://github.com/qd-today/templates/issues/792"
         }
     }
 }
