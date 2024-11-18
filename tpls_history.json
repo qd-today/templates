@@ -3049,18 +3049,6 @@
             "version": "20240218",
             "commenturl": "https://github.com/qd-today/templates/issues/538"
         },
-        "小鸡内网穿透": {
-            "name": "小鸡内网穿透",
-            "author": "小鸡内网穿透",
-            "url": "https://raw.githubusercontent.com/qd-today/templates/master/小鸡内网穿透.har",
-            "update": false,
-            "comments": "账号密码",
-            "filename": "小鸡内网穿透.har",
-            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vYXBpLmNoaWNrZnJwLmNvbS9sb2dpbiIsICJoZWFkZXJzIjogW3sibmFtZSI6ICJDb250ZW50LVR5cGUiLCAidmFsdWUiOiAiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PXV0Zi04In1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJ7XCJ1c2VybmFtZVwiOlwie3t1c2VybmFtZX19XCIsXCJwYXNzd29yZFwiOlwie3twYXNzd29yZH19XCJ9In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICJjb2RlXCI6MjAwIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vYXBpLmNoaWNrZnJwLmNvbS9pbmRleC9zaWduIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICLnrb7liLDmiJDlip8iLCAiZnJvbSI6ICJjb250ZW50In0sIHsicmUiOiAi5LuK5aSp5bey562+5YiwIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICIo562+5Yiw5oiQ5YqffOS7iuWkqeW3suetvuWIsCkiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
-            "date": "2024-02-18 13:01:11",
-            "version": "20240218",
-            "commenturl": "https://github.com/qd-today/templates/issues/543"
-        },
         "藏宝湾网游单机站": {
             "name": "藏宝湾网游单机站",
             "author": "z",
