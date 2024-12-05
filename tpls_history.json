@@ -3792,6 +3792,18 @@
             "date": "2024-12-01 12:04:49",
             "version": "20241201",
             "commenturl": "https://github.com/qd-today/templates/issues/810"
+        },
+        "奶圈": {
+            "name": "奶圈",
+            "author": "NSFW",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/naiquan.har",
+            "update": false,
+            "comments": "https://naiq.cc/<br>账户内密码",
+            "filename": "naiquan.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9uYWlxLmNjLyIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogIiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJEb21haW4iLCAicmUiOiAiaHJlZj1cIihodHRwLis/KVwiIiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7InJlcXVlc3QiOiB7Im1ldGhvZCI6ICJQT1NUIiwgInVybCI6ICJ7e0RvbWFpbn19L3dwLWFkbWluL2FkbWluLWFqYXgucGhwIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAie3tVQSB8IGRlZmF1bHQoXCJNb3ppbGxhLzUuMCAoQW5kcm9pZCAxNDsgTW9iaWxlOyBydjoxMzAuMCkgR2Vja28vMTMwLjAgRmlyZWZveC8xMzMuMFwiKSB9fSJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAidXNlcm5hbWU9e3t1c2VybmFtZX19JnBhc3N3b3JkPXt7cGFzc3dvcmR9fSZyZW1lbWJlcj1mb3JldmVyJmFjdGlvbj11c2VyX3NpZ25pbiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiXFxcXHU2MjEwXFxcXHU1MjlmXFxcXHU3NjdiXFxcXHU1ZjU1IiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogInt7RG9tYWlufX0vd3AtYWRtaW4vYWRtaW4tYWpheC5waHAiLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiVXNlci1BZ2VudCIsICJ2YWx1ZSI6ICJ7e1VBfX0ifV0sICJjb29raWVzIjogW10sICJkYXRhIjogImFjdGlvbj11c2VyX2NoZWNraW4ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAie3tEb21haW59fS93cC1hZG1pbi9hZG1pbi1hamF4LnBocD9hY3Rpb249Y2hlY2tpbl9kZXRhaWxzX21vZGFsIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAie3tVQX19In1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJbXFxzXFxTXSsiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsiY29tbWVudCI6ICJVbmljb2Rl6L2s5o2iIiwgInJlcXVlc3QiOiB7Im1ldGhvZCI6ICJQT1NUIiwgInVybCI6ICJhcGk6Ly91dGlsL3VuaWNvZGUiLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJodG1sX3VuZXNjYXBlPWZhbHNlJmNvbnRlbnQ9e3tfX2xvZ19fIHwgc3RyaXB0YWdzfX0ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9LCB7InJlIjogIlwi54q25oCBXCI6IFwiMjAwXCIiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJfX2xvZ19fIiwgInJlIjogIlwi6L2s5o2i5ZCOXCI6IFwiKC4qKVwiIiwgImZyb20iOiAiY29udGVudCJ9XX19XQ==",
+            "date": "2024-12-05 23:19:00",
+            "version": "20241205",
+            "commenturl": "https://github.com/qd-today/templates/issues/813"
         }
     }
 }
