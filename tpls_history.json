@@ -2929,18 +2929,6 @@
             "version": "20240215",
             "commenturl": "https://github.com/qd-today/templates/issues/520"
         },
-        "4550.fun_黑料不打烊": {
-            "name": "4550.fun_黑料不打烊",
-            "author": "loveqianool",
-            "url": "https://raw.githubusercontent.com/qd-today/templates/master/4550.fun.har",
-            "update": false,
-            "comments": "用户名密码",
-            "filename": "4550.fun.har",
-            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vNDU1MC5mdW4vbWVtYmVyLnBocD9tb2Q9bG9nZ2luZyZhY3Rpb249bG9naW4mbG9naW5zdWJtaXQ9eWVzJmluYWpheD0xIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAidXNlcm5hbWU9e3t1c2VybmFtZX19JnBhc3N3b3JkPXt7cGFzc3dvcmR9fSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAi5qyi6L+O5oKoIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly80NTUwLmZ1bi9wbHVnaW4ucGhwP2lkPWRzdV9wYXVsc2lnbiUzQXNpZ24iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiZm9ybWhhc2giLCAicmUiOiAiZm9ybWhhc2g9KFxcd3s4fSkiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsiY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vNDU1MC5mdW4vcGx1Z2luLnBocD9pZD1kc3VfcGF1bHNpZ24lM0FzaWduJm9wZXJhdGlvbj1xaWFuZGFvJmluZmxvYXQ9MSZpbmFqYXg9MSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogImZvcm1oYXNoPXt7Zm9ybWhhc2h9fSZxZHhxPXdsIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19LCB7ImNvbW1lbnQiOiAiIiwgInJlcXVlc3QiOiB7Im1ldGhvZCI6ICJQT1NUIiwgInVybCI6ICJodHRwczovLzQ1NTAuZnVuL3BsdWdpbi5waHA/aWQ9ZHN1X3BhdWxzaWduJTNBc2lnbiZvcGVyYXRpb249cWlhbmRhbyZpbmZsb2F0PTEmaW5hamF4PTEiLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJmb3JtaGFzaD17e2Zvcm1oYXNofX0mcWR4cT13bCJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAi5oKo5LuK5pel5bey57uP562+5YiwIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsiY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly80NTUwLmZ1bi9wbHVnaW4ucGhwP2lkPWRzdV9wYXVsc2lnbiUzQXNpZ24iLCAiaGVhZGVycyI6IFtdLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICLmnKrlvIDlp4soW1xcc1xcU10qKeetvuWIsOaOkuihjOamnCIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJjb21tZW50IjogIlVuaWNvZGXovazmjaIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImFwaTovL3V0aWwvdW5pY29kZSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogImNvbnRlbnQ9e3sgX19sb2dfXyB8IHN0cmlwdGFncyB9fSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAiXCLnirbmgIFcIjogXCIyMDBcIiIsICJmcm9tIjogImNvbnRlbnQifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIl9fbG9nX18iLCAicmUiOiAiXCLovazmjaLlkI5cIjogXCIoLiopXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX1d",
-            "date": "2024-02-15 14:55:14",
-            "version": "20240215",
-            "commenturl": "https://github.com/qd-today/templates/issues/522"
-        },
         "acgcbk.top": {
             "name": "acgcbk.top",
             "author": "loveqianool",
