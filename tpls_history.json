@@ -3816,6 +3816,18 @@
             "date": "2025-01-07 10:44:43",
             "version": "20250107",
             "commenturl": "https://github.com/qd-today/templates/issues/831"
+        },
+        "gamegamept.har": {
+            "name": "gamegamept.har",
+            "author": "fengymi",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/gamegamept.har",
+            "update": false,
+            "comments": "支持gamegamept自动签到",
+            "filename": "gamegamept.har",
+            "content": "W3siY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly93d3cuZ2FtZWdhbWVwdC5jb20vYXR0ZW5kYW5jZS5waHAiLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiYWNjZXB0IiwgInZhbHVlIjogInRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL2F2aWYsaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCxhcHBsaWNhdGlvbi9zaWduZWQtZXhjaGFuZ2U7dj1iMztxPTAuNyJ9LCB7Im5hbWUiOiAiYWNjZXB0LWxhbmd1YWdlIiwgInZhbHVlIjogInpoLUNOLHpoO3E9MC45LGVuO3E9MC44In0sIHsibmFtZSI6ICJjYWNoZS1jb250cm9sIiwgInZhbHVlIjogIm5vLWNhY2hlIn0sIHsibmFtZSI6ICJjb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9LCB7Im5hbWUiOiAicHJhZ21hIiwgInZhbHVlIjogIm5vLWNhY2hlIn0sIHsibmFtZSI6ICJwcmlvcml0eSIsICJ2YWx1ZSI6ICJ1PTAsIGkifSwgeyJuYW1lIjogInJlZmVyZXIiLCAidmFsdWUiOiAiaHR0cHM6Ly93d3cuZ2FtZWdhbWVwdC5jb20vZm9ydW1zLnBocCJ9LCB7Im5hbWUiOiAic2VjLWNoLXVhIiwgInZhbHVlIjogIlwiR29vZ2xlIENocm9tZVwiO3Y9XCIxMzFcIiwgXCJDaHJvbWl1bVwiO3Y9XCIxMzFcIiwgXCJOb3RfQSBCcmFuZFwiO3Y9XCIyNFwiIn0sIHsibmFtZSI6ICJzZWMtY2gtdWEtbW9iaWxlIiwgInZhbHVlIjogIj8wIn0sIHsibmFtZSI6ICJzZWMtY2gtdWEtcGxhdGZvcm0iLCAidmFsdWUiOiAiXCJtYWNPU1wiIn0sIHsibmFtZSI6ICJzZWMtZmV0Y2gtZGVzdCIsICJ2YWx1ZSI6ICJkb2N1bWVudCJ9LCB7Im5hbWUiOiAic2VjLWZldGNoLW1vZGUiLCAidmFsdWUiOiAibmF2aWdhdGUifSwgeyJuYW1lIjogInNlYy1mZXRjaC1zaXRlIiwgInZhbHVlIjogInNhbWUtb3JpZ2luIn0sIHsibmFtZSI6ICJzZWMtZmV0Y2gtdXNlciIsICJ2YWx1ZSI6ICI/MSJ9LCB7Im5hbWUiOiAidXBncmFkZS1pbnNlY3VyZS1yZXF1ZXN0cyIsICJ2YWx1ZSI6ICIxIn0sIHsibmFtZSI6ICJ1c2VyLWFnZW50IiwgInZhbHVlIjogIk1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC4wLjAgU2FmYXJpLzUzNy4zNiJ9XSwgImNvb2tpZXMiOiBbXX0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbXSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiYWxsX3RpbWVzIiwgInJlIjogIi4qP+i/meaYr+aCqOeahOesrC4qPyhcXGQrKSIsICJmcm9tIjogImNvbnRlbnQifSwgeyJuYW1lIjogImNfdGltZXMiLCAicmUiOiAiLio/5bey6L+e57ut562+5YiwLio/KFxcZCspIiwgImZyb20iOiAiY29udGVudCJ9LCB7Im5hbWUiOiAibW9saSIsICJyZSI6ICLmnKzmrKHnrb7liLDojrflvpcuKj8oXFxkKykiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsiY29tbWVudCI6ICJVUkzop6PnoIEiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91cmxkZWNvZGU/Y29udGVudD0lRTglQkYlOTklRTYlOTglQUYlRTYlODIlQTglRTclOUElODQlRTclQUMlQUMlMjB7e2FsbF90aW1lc3x1cmxlbmNvZGV9fSUyMCVFNiVBQyVBMSVFNyVBRCVCRSVFNSU4OCVCMCVFRiVCQyU4QyVFNSVCNyVCMiVFOCVCRiU5RSVFNyVCQiVBRCVFNyVBRCVCRSVFNSU4OCVCMCUyMHt7Y190aW1lc3x1cmxlbmNvZGV9fSUyMCVFNSVBNCVBOSVFRiVCQyU4QyVFNiU5QyVBQyVFNiVBQyVBMSVFNyVBRCVCRSVFNSU4OCVCMCVFOCU4RSVCNyVFNSVCRSU5NyUyMHt7bW9saXx1cmxlbmNvZGV9fSUyMCVFNCVCOCVBQSVFOSVBRCU5NCVFNSU4QSU5QiVFNSU4MCVCQyUwQSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogInVucXVvdGVfcGx1cz1mYWxzZSZlbmNvZGluZz11dGYtOCZjb250ZW50PSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAiXCLnirbmgIFcIjpcIjIwMFwiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOlwiKC4rKVwiIiwgImZyb20iOiAiY29udGVudCJ9XX19XQ==",
+            "date": "2025-01-10 08:15:32",
+            "version": "20250110",
+            "commenturl": "https://github.com/qd-today/templates/issues/833"
         }
     }
 }
