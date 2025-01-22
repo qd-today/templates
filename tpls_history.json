@@ -3852,6 +3852,18 @@
             "date": "2025-01-15 20:18:40",
             "version": "20250115",
             "commenturl": "https://github.com/qd-today/templates/issues/782"
+        },
+        "什么值得买每日签到": {
+            "name": "什么值得买每日签到",
+            "author": "DDD",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/smzdm.har",
+            "update": false,
+            "comments": "cookie：建议是手机端的cookie，据说网页端的有效期短。<br>只有签到 不做的任务",
+            "filename": "smzdm.har",
+            "content": "W3siY29tbWVudCI6ICIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vdXNlci1hcGkuc216ZG0uY29tL2NoZWNraW4iLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiQ29udGVudC1UeXBlIiwgInZhbHVlIjogImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCJ9LCB7Im5hbWUiOiAicmVxdWVzdF9rZXkiLCAidmFsdWUiOiAiMjk0OTcxOTQxNjcyMTI4MTkyIn0sIHsibmFtZSI6ICJBY2NlcHQiLCAidmFsdWUiOiAiKi8qIn0sIHsibmFtZSI6ICJDb25uZWN0aW9uIiwgInZhbHVlIjogImtlZXAtYWxpdmUifSwgeyJuYW1lIjogIkNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In0sIHsibmFtZSI6ICJDb250ZW50LUVuY29kaW5nIiwgInZhbHVlIjogImd6aXAifSwgeyJuYW1lIjogIkFjY2VwdC1MYW5ndWFnZSIsICJ2YWx1ZSI6ICJ6aC1IYW5zLUNOO3E9MSJ9LCB7Im5hbWUiOiAiVXNlci1BZ2VudCIsICJ2YWx1ZSI6ICJzbXpkbSAxMC40LjE1IHJ2OjEzMy4yIChpUGhvbmUgMTE7IGlPUyAxNS40OyB6aF9DTikvaXBob25lX3NtemRtYXBwLzEwLjQuMTUifSwgeyJuYW1lIjogIkFjY2VwdC1FbmNvZGluZyIsICJ2YWx1ZSI6ICJkZWZsYXRlLCBnemlwIn1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJmPWlwaG9uZSZzaWduPUZFODg2MEY5Qjg1NTk5NjZBNzREQ0MyQ0IwMDYyRjFCJnRpbWU9MTY3MjEyODE5MTAwMCZ2PTEwLjQuMTUmd2VpeGluPTEiLCAibWltZVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW10sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogInFkIiwgInJlIjogImVycm9yX21zZ1wiOiBcIiguKz8pXCIiLCAiZnJvbSI6ICJjb250ZW50In1dfX0sIHsicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vYXBpLnNtemRtLmNvbS92MS91c2VyL2NoZWNraW4iLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiVXNlci1hZ2VudCIsICJ2YWx1ZSI6ICJzbXpkbSAxMC40LjE1IHJ2OjEzMy4yIChpUGhvbmUgMTE7IGlPUyAxNS40OyB6aF9DTikvaXBob25lX3NtemRtYXBwLzEwLjQuMTUifSwgeyJuYW1lIjogIkNvbnRlbnQtVHlwZSIsICJ2YWx1ZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQ7IGNoYXJzZXQ9VVRGLTgifSwgeyJuYW1lIjogIkNvbm5lY3Rpb24iLCAidmFsdWUiOiAiS2VlcC1BbGl2ZSJ9LCB7Im5hbWUiOiAiQWNjZXB0LUVuY29kaW5nIiwgInZhbHVlIjogImd6aXAifSwgeyJuYW1lIjogIlByYWdtYSIsICJ2YWx1ZSI6ICJuby1jYWNoZSJ9LCB7Im5hbWUiOiAiQ2FjaGUtQ29udHJvbCIsICJ2YWx1ZSI6ICJuby1jYWNoZSJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAidj04LjcuOCZzPTZiWVBGTUZHTXBhaUNIYUsyTE45RGFXWkxFZGFDVTdlJnNpZ249NDcxMzZFNkJGOEI2NUFDMTY3REEyN0QzN0U5RTZDM0QmdGltZT0xNTI5NTk3NTM5MDAwJndlaXhpbj0xJnNrPXlSSThuQkZlZkxES1pRVCUyQnNNSU04T1VsTkdmNEFqS2ZLQ3JLT3pvb2xrUSUzRCZ0b2tlbj1aV1ExTTJKOE1UVXpNelEzTlRVNE5ud3pNVE0wTWpnME16VTRmRGMyTnpReU5UUmlPVFF5TVRVNVpUa3pZVFl6TWpReVpUTm1NekJtT0dZMCZmPWFuZHJvaWQmY2FwdGNoYT0iLCAibWltZVR5cGUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICJcImVycm9yX2NvZGVcIjpcIjAiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sicmUiOiAiKFwiZGFpbHlfbnVtXCI6XCJcXGQrXCIsXCJjcG9pbnRzXCI6XCJcXGQrXCIsXCJjZXhwZXJpZW5jZVwiOlwiXFxkK1wiLFwiY2dvbGRcIjpcIlxcZCtcIikiLCAiZnJvbSI6ICJjb250ZW50IiwgIm5hbWUiOiAiX19sb2dfXyJ9XX19XQ==",
+            "date": "2025-01-22 09:32:17",
+            "version": "20250122",
+            "commenturl": "https://github.com/qd-today/templates/issues/850"
         }
     }
 }
