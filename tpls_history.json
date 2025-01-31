@@ -3900,6 +3900,18 @@
             "date": "2025-01-31 08:10:17",
             "version": "20250131",
             "commenturl": "https://github.com/qd-today/templates/issues/862"
+        },
+        "永硕E盘活跃签到ys168": {
+            "name": "永硕E盘活跃签到ys168",
+            "author": "Trainliang",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/永硕活跃签到ys168.har",
+            "update": false,
+            "comments": "用户名密码登录，默认建议调整到每季度一次登录即可激活账号，官方要求每年至少一次登录<br>http://www.ys168.com/<br>作为国内老一代云盘选手，从网吧时代坚挺到现在，为老板点赞👍",
+            "filename": "永硕活跃签到ys168.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHA6Ly9odC55czE2OC5jb20vbG9naW4uYXNweCIsICJoZWFkZXJzIjogW3sibmFtZSI6ICJBY2NlcHQiLCAidmFsdWUiOiAidGV4dC9wbGFpbiwgKi8qOyBxPTAuMDEifSwgeyJuYW1lIjogIkFjY2VwdC1FbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlIn0sIHsibmFtZSI6ICJBY2NlcHQtTGFuZ3VhZ2UiLCAidmFsdWUiOiAiemgtQ04semg7cT0wLjksZW47cT0wLjgsZW4tR0I7cT0wLjcsZW4tVVM7cT0wLjYifSwgeyJuYW1lIjogIkNvbnRlbnQtVHlwZSIsICJ2YWx1ZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQ7IGNoYXJzZXQ9VVRGLTgifSwgeyJuYW1lIjogIkROVCIsICJ2YWx1ZSI6ICIxIn0sIHsibmFtZSI6ICJIb3N0IiwgInZhbHVlIjogImh0LnlzMTY4LmNvbSJ9LCB7Im5hbWUiOiAiT3JpZ2luIiwgInZhbHVlIjogImh0dHA6Ly9odC55czE2OC5jb20ifSwgeyJuYW1lIjogIlByb3h5LUNvbm5lY3Rpb24iLCAidmFsdWUiOiAia2VlcC1hbGl2ZSJ9LCB7Im5hbWUiOiAiUmVmZXJlciIsICJ2YWx1ZSI6ICJodHRwOi8vaHQueXMxNjguY29tL2xvZ2luLmFzcHgifSwgeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMi4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMzIuMC4wLjAifSwgeyJuYW1lIjogIlgtUmVxdWVzdGVkLVdpdGgiLCAidmFsdWUiOiAiWE1MSHR0cFJlcXVlc3QifV0sICJjb29raWVzIjogW10sICJkYXRhIjogImN6PURsJnlobT17e3VzZXJuYW1lfHVybGVuY29kZX19JmdsbW09e3twYXNzd29yZHx1cmxlbmNvZGV9fSIsICJtaW1lVHlwZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQ7IGNoYXJzZXQ9VVRGLTgifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICIuKyIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
+            "date": "2025-01-31 11:21:08",
+            "version": "20250131",
+            "commenturl": "https://github.com/qd-today/templates/issues/864"
         }
     }
 }
