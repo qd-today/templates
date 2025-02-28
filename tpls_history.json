@@ -3960,6 +3960,18 @@
             "date": "2025-02-15 09:42:39",
             "version": "20250215",
             "commenturl": "https://github.com/qd-today/templates/issues/879"
+        },
+        "通用pt签到保号支持雨星陨阁": {
+            "name": "通用pt签到保号支持雨星陨阁",
+            "author": "thhbdd",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/通用pt签到保号支持雨星陨阁.har",
+            "update": false,
+            "comments": "f12获取cookie，填入pt站点的域名，参考了作者 @IITII 制作的通用pt签到保号脚本，在原作者基础上删去了部分请求头并添加了一些新请求头，用来签到雨和星陨阁pt站点，但不清楚改动后的请求头后还是否能用在他站点签到，自己只测试试验了部分小的站点是可以，和原作者一样只原版 NexusPHP。<br>不知道改动是否会影响其他站点使用，就提交了新的模板，如果用不了就请使用IITII制作的har。",
+            "filename": "通用pt签到保号支持雨星陨阁.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly97e2RvbWFpbn19L2F0dGVuZGFuY2UucGhwIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIkFjY2VwdCIsICJ2YWx1ZSI6ICJ0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS9hdmlmLGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgsYXBwbGljYXRpb24vc2lnbmVkLWV4Y2hhbmdlO3Y9YjM7cT0wLjcifSwgeyJuYW1lIjogIkFjY2VwdC1FbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlLCBiciwgenN0ZCJ9LCB7Im5hbWUiOiAiQWNjZXB0LUxhbmd1YWdlIiwgInZhbHVlIjogInpoLUNOLHpoO3E9MC45LGVuO3E9MC44In0sIHsibmFtZSI6ICJhdmNjZXB0IiwgInZhbHVlIjogImtlZXAtYWxpdmUifSwgeyJuYW1lIjogIlJlZmVyZXIiLCAidmFsdWUiOiAiaHR0cHM6Ly97e2RvbWFpbn19L2luZGV4LnBocCJ9LCB7Im5hbWUiOiAiU2VjLUZldGNoLURlc3QiLCAidmFsdWUiOiAiZG9jdW1lbnQifSwgeyJuYW1lIjogIlNlYy1GZXRjaC1Nb2RlIiwgInZhbHVlIjogIm5hdmlnYXRlIn0sIHsibmFtZSI6ICJTZWMtRmV0Y2gtU2l0ZSIsICJ2YWx1ZSI6ICJzYW1lLW9yaWdpbiJ9LCB7Im5hbWUiOiAiU2VjLUZldGNoLVVzZXIiLCAidmFsdWUiOiAiPzEifSwgeyJuYW1lIjogIlVwZ3JhZGUtSW5zZWN1cmUtUmVxdWVzdHMiLCAidmFsdWUiOiAiMSJ9LCB7Im5hbWUiOiAiVXNlci1BZ2VudCIsICJ2YWx1ZSI6ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMzLjAuMC4wIFNhZmFyaS81MzcuMzYifSwgeyJuYW1lIjogInNlYy1jaC11YSIsICJ2YWx1ZSI6ICJcXFwiTm90KEE6QnJhbmRcXFwiO3Y9XFxcIjk5XFxcIiwgXFxcIkdvb2dsZSBDaHJvbWVcXFwiO3Y9XFxcIjEzM1xcXCIsIFxcXCJDaHJvbWl1bVxcXCI7dj1cXFwiMTMzXFxcIiJ9LCB7Im5hbWUiOiAic2VjLWNoLXVhLW1vYmlsZSIsICJ2YWx1ZSI6ICI/MCJ9LCB7Im5hbWUiOiAic2VjLWNoLXVhLXBsYXRmb3JtIiwgInZhbHVlIjogIlxcXCJXaW5kb3dzXFxcIiJ9LCB7Im5hbWUiOiAiY29va2llIiwgInZhbHVlIjogInt7Y29va2llfX0ifV0sICJjb29raWVzIjogW119LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbeyJyZSI6ICLlhbPpl63nu7TmiqQiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogInJlY2hlY2tfY250IiwgInJlIjogIuesrFtcXHNcXFNdK+S7iuaXpeetvuWIsOaOkuWQje+8mjxiPlxcZCs8L2I+IC8gPGI+XFxkKzwvYj4iLCAiZnJvbSI6ICJjb250ZW50In0sIHsibmFtZSI6ICJ0cmFmZmljIiwgInJlIjogIuWIhuS6q+eOh1s6XVtcXHNcXFNdK+W9k+WJjea0u+WKqCIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJjb21tZW50IjogIuWtl+espuS4suabv+aNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC9zdHJpbmcvcmVwbGFjZSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogInI9dGV4dCZwPeW9k+WJjea0u+WKqCZ0PSZzPXt7ZG9tYWlufX06IHt7dHJhZmZpYyB8IHN0cmlwdGFnc319IHt7cmVnZXhfcmVwbGFjZShyZWNoZWNrX2NudCB8IHN0cmlwdGFncywgXCLngrnlh7tbXFxzXFxTXSvnm67liY1cIiwgXCJcIil9fSJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAiXCLnirbmgIFcIjogXCJPS1wiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICIuKiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
+            "date": "2025-02-28 16:50:33",
+            "version": "20250228",
+            "commenturl": "https://github.com/qd-today/templates/issues/884"
         }
     }
 }
