@@ -4188,6 +4188,18 @@
             "date": "2025-06-09 00:50:57",
             "version": "20250609",
             "commenturl": "https://github.com/qd-today/templates/issues/957"
+        },
+        "知轩藏书zxcstxt": {
+            "name": "知轩藏书zxcstxt",
+            "author": "FellBan,zhoucheng8023",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/知轩藏书zxcstxt.har",
+            "update": false,
+            "comments": "主站地址更新,原模版在https://github.com/qd-today/templates/issues/653<br>替换zxcsol.com为zxcstxt.com<br>@FellBan",
+            "filename": "知轩藏书zxcstxt.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8venhjc3R4dC5jb20vd3AtYWRtaW4vYWRtaW4tYWpheC5waHAiLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiQWNjZXB0IiwgInZhbHVlIjogImFwcGxpY2F0aW9uL2pzb24sIHRleHQvamF2YXNjcmlwdCwgKi8qOyBxPTAuMDEifSwgeyJuYW1lIjogIkFjY2VwdC1FbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlLCBiciJ9LCB7Im5hbWUiOiAiQWNjZXB0LUxhbmd1YWdlIiwgInZhbHVlIjogInpoLUNOLHpoO3E9MC45In0sIHsibmFtZSI6ICJDb25uZWN0aW9uIiwgInZhbHVlIjogImtlZXAtYWxpdmUifSwgeyJuYW1lIjogIkNvbnRlbnQtTGVuZ3RoIiwgInZhbHVlIjogIjE5In0sIHsibmFtZSI6ICJDb250ZW50LVR5cGUiLCAidmFsdWUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04In0sIHsibmFtZSI6ICJDb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9LCB7Im5hbWUiOiAiRE5UIiwgInZhbHVlIjogIjEifSwgeyJuYW1lIjogIkhvc3QiLCAidmFsdWUiOiAienhjc3R4dC5jb20ifSwgeyJuYW1lIjogIk9yaWdpbiIsICJ2YWx1ZSI6ICJodHRwczovL3p4Y3N0eHQuY29tIn0sIHsibmFtZSI6ICJSZWZlcmVyIiwgInZhbHVlIjogImh0dHBzOi8venhjc3R4dC5jb20vIn0sIHsibmFtZSI6ICJTZWMtRmV0Y2gtRGVzdCIsICJ2YWx1ZSI6ICJlbXB0eSJ9LCB7Im5hbWUiOiAiU2VjLUZldGNoLU1vZGUiLCAidmFsdWUiOiAiY29ycyJ9LCB7Im5hbWUiOiAiU2VjLUZldGNoLVNpdGUiLCAidmFsdWUiOiAic2FtZS1vcmlnaW4ifSwgeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOC4wLjUzNTkuOTUgU2FmYXJpLzUzNy4zNiJ9LCB7Im5hbWUiOiAiWC1SZXF1ZXN0ZWQtV2l0aCIsICJ2YWx1ZSI6ICJYTUxIdHRwUmVxdWVzdCJ9LCB7Im5hbWUiOiAic2VjLWNoLXVhIiwgInZhbHVlIjogIlwiTm90LUEuQnJhbmRcIjt2PVwiMjRcIiwgXCJDaHJvbWl1bVwiO3Y9XCIxNFwiIn0sIHsibmFtZSI6ICJzZWMtY2gtdWEtbW9iaWxlIiwgInZhbHVlIjogIj8wIn0sIHsibmFtZSI6ICJzZWMtY2gtdWEtcGxhdGZvcm0iLCAidmFsdWUiOiAiXCJtYWNPU1wiIn1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJhY3Rpb249dXNlcl9jaGVja2luIiwgIm1pbWVUeXBlIjogImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZDsgY2hhcnNldD1VVEYtOCJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJ4eCIsICJyZSI6ICJcIm1zZ1wiOlwiKC4rKVwiLFwiZGF0YSIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJjb21tZW50IjogIlVuaWNvZGXovazmjaIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImFwaTovL3V0aWwvdW5pY29kZSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogImh0bWxfdW5lc2NhcGU9ZmFsc2UmY29udGVudD17e3h4fX0ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9LCB7InJlIjogIlwi54q25oCBXCI6IFwiMjAwXCIiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJfX2xvZ19fIiwgInJlIjogIlwi6L2s5o2i5ZCOXCI6IFwiKC4qKVwiIiwgImZyb20iOiAiY29udGVudCJ9XX19XQ==",
+            "date": "2025-06-22 09:30:41",
+            "version": "20250622",
+            "commenturl": "https://github.com/qd-today/templates/issues/962"
         }
     }
 }
