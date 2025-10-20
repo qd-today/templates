@@ -4368,6 +4368,18 @@
             "date": "2025-10-14 19:15:18",
             "version": "20251014",
             "commenturl": "https://github.com/qd-today/templates/issues/1021"
+        },
+        "绿联NAS私有云社区": {
+            "name": "绿联NAS私有云社区",
+            "author": "happy",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/绿联NAS私有云社区.har",
+            "update": false,
+            "comments": "cookie登录<br>日志显示<br>https://club.ugnas.com/",
+            "filename": "绿联NAS私有云社区.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9jbHViLnVnbmFzLmNvbS9mb3J1bS5waHAiLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiOmF1dGhvcml0eSIsICJ2YWx1ZSI6ICJjbHViLnVnbmFzLmNvbSJ9LCB7Im5hbWUiOiAiOm1ldGhvZCIsICJ2YWx1ZSI6ICJHRVQifSwgeyJuYW1lIjogIjpwYXRoIiwgInZhbHVlIjogIi9mb3J1bS5waHAifSwgeyJuYW1lIjogIjpzY2hlbWUiLCAidmFsdWUiOiAiaHR0cHMifSwgeyJuYW1lIjogImFjY2VwdCIsICJ2YWx1ZSI6ICJ0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS9hdmlmLGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgsYXBwbGljYXRpb24vc2lnbmVkLWV4Y2hhbmdlO3Y9YjM7cT0wLjcifSwgeyJuYW1lIjogImFjY2VwdC1lbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlLCBiciwgenN0ZCJ9LCB7Im5hbWUiOiAiYWNjZXB0LWxhbmd1YWdlIiwgInZhbHVlIjogInpoLUNOLHpoO3E9MC45LGVuO3E9MC44In0sIHsibmFtZSI6ICJkbnQiLCAidmFsdWUiOiAiMSJ9LCB7Im5hbWUiOiAicHJpb3JpdHkiLCAidmFsdWUiOiAidT0wLCBpIn0sIHsibmFtZSI6ICJzZWMtY2gtdWEiLCAidmFsdWUiOiAiXCJNaWNyb3NvZnQgRWRnZVwiO3Y9XCIxNDFcIiwgXCJOb3Q/QV9CcmFuZFwiO3Y9XCI4XCIsIFwiQ2hyb21pdW1cIjt2PVwiMTQxXCIifSwgeyJuYW1lIjogInNlYy1jaC11YS1tb2JpbGUiLCAidmFsdWUiOiAiPzAifSwgeyJuYW1lIjogInNlYy1jaC11YS1wbGF0Zm9ybSIsICJ2YWx1ZSI6ICJcIldpbmRvd3NcIiJ9LCB7Im5hbWUiOiAic2VjLWZldGNoLWRlc3QiLCAidmFsdWUiOiAiZG9jdW1lbnQifSwgeyJuYW1lIjogInNlYy1mZXRjaC1tb2RlIiwgInZhbHVlIjogIm5hdmlnYXRlIn0sIHsibmFtZSI6ICJzZWMtZmV0Y2gtc2l0ZSIsICJ2YWx1ZSI6ICJub25lIn0sIHsibmFtZSI6ICJzZWMtZmV0Y2gtdXNlciIsICJ2YWx1ZSI6ICI/MSJ9LCB7Im5hbWUiOiAidXBncmFkZS1pbnNlY3VyZS1yZXF1ZXN0cyIsICJ2YWx1ZSI6ICIxIn0sIHsibmFtZSI6ICJ1c2VyLWFnZW50IiwgInZhbHVlIjogIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDEuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTQxLjAuMC4wIn0sIHsibmFtZSI6ICJDb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9XSwgImNvb2tpZXMiOiBbXX0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbeyJuYW1lIjogIl9fbG9nX18iLCAicmUiOiAi56ev5YiGOiBcXGQrIiwgImZyb20iOiAiY29udGVudCJ9XX19XQ==",
+            "date": "2025-10-20 21:02:52",
+            "version": "20251020",
+            "commenturl": "https://github.com/qd-today/templates/issues/1027"
         }
     }
 }
