@@ -4512,6 +4512,18 @@
             "date": "2025-12-14 19:24:35",
             "version": "20251214",
             "commenturl": "https://github.com/qd-today/templates/issues/1060"
+        },
+        "落雪音乐助手": {
+            "name": "落雪音乐助手",
+            "author": "YOON",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/落雪音乐助手.har",
+            "update": false,
+            "comments": "Cookie签到 15天过期一次",
+            "filename": "落雪音乐助手.har",
+            "content": "W3sicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImh0dHBzOi8vd3d3Lmx4bXVzaWMuY2Mvd3AtYWRtaW4vYWRtaW4tYWpheC5waHAiLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiVXNlci1BZ2VudCIsICJ2YWx1ZSI6ICJ7e3VhfX0ifSwgeyJuYW1lIjogIkFjY2VwdCIsICJ2YWx1ZSI6ICJhcHBsaWNhdGlvbi9qc29uLCB0ZXh0L2phdmFzY3JpcHQsICovKjsgcT0wLjAxIn0sIHsibmFtZSI6ICJBY2NlcHQtTGFuZ3VhZ2UiLCAidmFsdWUiOiAiemgtQ04semg7cT0wLjgsemgtVFc7cT0wLjcsemgtSEs7cT0wLjUsZW4tVVM7cT0wLjMsZW47cT0wLjIifSwgeyJuYW1lIjogIkFjY2VwdC1FbmNvZGluZyIsICJ2YWx1ZSI6ICJnemlwLCBkZWZsYXRlLCBiciwgenN0ZCJ9LCB7Im5hbWUiOiAiQ29udGVudC1UeXBlIiwgInZhbHVlIjogImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZDsgY2hhcnNldD1VVEYtOCJ9LCB7Im5hbWUiOiAiWC1SZXF1ZXN0ZWQtV2l0aCIsICJ2YWx1ZSI6ICJYTUxIdHRwUmVxdWVzdCJ9LCB7Im5hbWUiOiAiT3JpZ2luIiwgInZhbHVlIjogImh0dHBzOi8vd3d3Lmx4bXVzaWMuY2MifSwgeyJuYW1lIjogIkNvbm5lY3Rpb24iLCAidmFsdWUiOiAia2VlcC1hbGl2ZSJ9LCB7Im5hbWUiOiAiUmVmZXJlciIsICJ2YWx1ZSI6ICJodHRwczovL3d3dy5seG11c2ljLmNjLyJ9LCB7Im5hbWUiOiAiQ29va2llIiwgInZhbHVlIjogInt7Y29va2llfX0ifSwgeyJuYW1lIjogIlNlYy1GZXRjaC1EZXN0IiwgInZhbHVlIjogImVtcHR5In0sIHsibmFtZSI6ICJTZWMtRmV0Y2gtTW9kZSIsICJ2YWx1ZSI6ICJjb3JzIn0sIHsibmFtZSI6ICJTZWMtRmV0Y2gtU2l0ZSIsICJ2YWx1ZSI6ICJzYW1lLW9yaWdpbiJ9LCB7Im5hbWUiOiAiUHJpb3JpdHkiLCAidmFsdWUiOiAidT0wIn0sIHsibmFtZSI6ICJQcmFnbWEiLCAidmFsdWUiOiAibm8tY2FjaGUifSwgeyJuYW1lIjogIkNhY2hlLUNvbnRyb2wiLCAidmFsdWUiOiAibm8tY2FjaGUifSwgeyJuYW1lIjogIlRFIiwgInZhbHVlIjogInRyYWlsZXJzIn1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICJhY3Rpb249dXNlcl9jaGVja2luIiwgIm1pbWVUeXBlIjogImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCJ9LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJtc2ciLCAicmUiOiAiXCJtc2dcIlxccyo6XFxzKlwiKFteXCJdKylcIiIsICJmcm9tIjogImNvbnRlbnQifV19fSwgeyJjb21tZW50IjogIlVuaWNvZGXovazmjaIiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIlBPU1QiLCAidXJsIjogImFwaTovL3V0aWwvdW5pY29kZSIsICJoZWFkZXJzIjogW10sICJjb29raWVzIjogW10sICJkYXRhIjogImh0bWxfdW5lc2NhcGU9ZmFsc2UmY29udGVudD17e21zZ319In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIjIwMFwiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOiBcIiguKilcIiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
+            "date": "2026-01-13 15:33:19",
+            "version": "20260113",
+            "commenturl": "https://github.com/qd-today/templates/issues/1073"
         }
     }
 }
