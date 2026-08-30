@@ -4632,6 +4632,18 @@
             "date": "2026-08-26 20:38:46",
             "version": "20260826",
             "commenturl": "https://github.com/qd-today/templates/issues/1145"
+        },
+        "NodeSeek签到": {
+            "name": "NodeSeek签到",
+            "author": "hao1196561270",
+            "url": "https://raw.githubusercontent.com/qd-today/templates/master/NodeSeek签到_Cookie版.har",
+            "update": false,
+            "comments": "",
+            "filename": "NodeSeek签到_Cookie版.har",
+            "content": "W3siY29tbWVudCI6ICIxLiDmiZPlvIDniYjlnZfpobXvvIznoa7orqTlj6/orr/pl67vvIjnmbvlvZXmgIHnlLHnrKwy5q2lQVBJ5Yik5a6a77yJIiwgInJlcXVlc3QiOiB7Im1ldGhvZCI6ICJHRVQiLCAidXJsIjogImh0dHBzOi8vd3d3Lm5vZGVzZWVrLmNvbS9ib2FyZCIsICJoZWFkZXJzIjogW3sibmFtZSI6ICJVc2VyLUFnZW50IiwgInZhbHVlIjogIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTI1LjAuMC4wIn0sIHsibmFtZSI6ICJBY2NlcHQiLCAidmFsdWUiOiAidGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksKi8qO3E9MC44In0sIHsibmFtZSI6ICJBY2NlcHQtTGFuZ3VhZ2UiLCAidmFsdWUiOiAiemgtQ04semg7cT0wLjkifSwgeyJuYW1lIjogImNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In1dLCAiY29va2llcyI6IFtdLCAiZGF0YSI6ICIiLCAibWltZVR5cGUiOiAidGV4dC9odG1sIn0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifV0sICJmYWlsZWRfYXNzZXJ0cyI6IFtdLCAiZXh0cmFjdF92YXJpYWJsZXMiOiBbXX19LCB7ImNvbW1lbnQiOiAiMi4g5q+P5pel562+5Yiw77yIYXBpL2F0dGVuZGFuY2XvvInjgIJyYW5kb209dHJ1ZT3or5Xor5XmiYvmsJQo6ZqP5py6LE5vZGVTZWVrLVNpZ25pbum7mOiupCnvvJvmg7PopoHlm7rlrpo16bih6IW/5pS55Li6IHJhbmRvbT1mYWxzZe+8iOWunua1i+OAjOm4oeiFv3g144CN5oyJ6ZKu5Y2z5q2k5Y+C5pWw77yJ44CC5oiQ5YqfL+W3suetvuWIsOWdh+inhuS4uuaIkOWKn++8m0Nvb2tpZeWkseaViOS8muWRveS4reWksei0peaWreiogCIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiaHR0cHM6Ly93d3cubm9kZXNlZWsuY29tL2FwaS9hdHRlbmRhbmNlP3JhbmRvbT10cnVlIiwgImhlYWRlcnMiOiBbeyJuYW1lIjogIlVzZXItQWdlbnQiLCAidmFsdWUiOiAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMjUuMC4wLjAifSwgeyJuYW1lIjogIkFjY2VwdCIsICJ2YWx1ZSI6ICJhcHBsaWNhdGlvbi9qc29uLCB0ZXh0L3BsYWluLCAqLyoifSwgeyJuYW1lIjogIkFjY2VwdC1MYW5ndWFnZSIsICJ2YWx1ZSI6ICJ6aC1DTix6aDtxPTAuOSJ9LCB7Im5hbWUiOiAiQ29udGVudC1UeXBlIiwgInZhbHVlIjogImFwcGxpY2F0aW9uL2pzb24ifSwgeyJuYW1lIjogIk9yaWdpbiIsICJ2YWx1ZSI6ICJodHRwczovL3d3dy5ub2Rlc2Vlay5jb20ifSwgeyJuYW1lIjogIlJlZmVyZXIiLCAidmFsdWUiOiAiaHR0cHM6Ly93d3cubm9kZXNlZWsuY29tL2JvYXJkIn0sIHsibmFtZSI6ICJjb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9XSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiIiwgIm1pbWVUeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIum4oeiFvyIsICJmcm9tIjogImNvbnRlbnQifSwgeyJyZSI6ICLlt7LlrozmiJDnrb7liLAiLCAiZnJvbSI6ICJjb250ZW50In1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbeyJyZSI6ICIo5pyq55m75b2VfOivt+WFiOeZu+W9lXznmbvlvZXlpLHmlYh855m75b2V5bey6L+H5pyffFwic3RhdHVzXCJcXHMqOlxccyo0MDQpIiwgImZyb20iOiAiY29udGVudCJ9XSwgImV4dHJhY3RfdmFyaWFibGVzIjogW3sibmFtZSI6ICJfX2xvZ19fIiwgInJlIjogIlwibWVzc2FnZVwiXFxzKjpcXHMqXCIoW15cIl0rKVwiIiwgImZyb20iOiAiY29udGVudCJ9XX19XQ==",
+            "date": "2026-08-30 23:50:11",
+            "version": "20260830",
+            "commenturl": "https://github.com/qd-today/templates/issues/1156"
         }
     }
 }
