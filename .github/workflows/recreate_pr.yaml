@@ -57,10 +57,12 @@ jobs:
         run: |
           set -euo pipefail
 
+          # 变量统一初始化（set -u 下未定义变量会直接失败）
+          ISSUE_NUMBER="${ISSUE_NUMBER_INPUT:-}"
+          PR_NUMBER="${PR_NUMBER:-${PR_NUMBER_INPUT:-}}"
+
           if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
             # 手动触发：issue_number 与 pr_number 二选一（均选填）
-            ISSUE_NUMBER="$ISSUE_NUMBER_INPUT"
-            PR_NUMBER="$PR_NUMBER_INPUT"
             if [ -z "$ISSUE_NUMBER" ] && [ -z "$PR_NUMBER" ]; then
               echo "::error::手动触发时 issue_number 与 pr_number 至少填写一项"
               exit 1
@@ -117,7 +119,7 @@ jobs:
           if [ -n "$PR_NUMBER" ]; then
             gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefOid --jq '.headRefOid' > /tmp/pr_head_before || echo ""
           fi
-          gh issue view "$ISSUE_NUMBER" --repo "$REPO" --json number,author,html_url > /tmp/source_issue.json
+          gh issue view "$ISSUE_NUMBER" --repo "$REPO" --json number,author,url > /tmp/source_issue.json
 
           # 6) 解析 commit 署名：优先沿用原 PR head commit 的实际作者——
           #    原 PR 由 HAR_Process 在 issue 编辑时生成（github.actor 即编辑者），
@@ -145,7 +147,7 @@ jobs:
           {
             echo "issue_number=$ISSUE_NUMBER"
             echo "pr_number=${PR_NUMBER:-}"
-            echo "issue_url=$(jq -r '.html_url' /tmp/source_issue.json)"
+            echo "issue_url=$(jq -r '.url' /tmp/source_issue.json)"
             echo "issue_author=$ISSUE_AUTHOR_LOGIN"
             echo "issue_author_id=$ISSUE_AUTHOR_ID"
             echo "commit_author_name=$COMMIT_AUTHOR_NAME"
