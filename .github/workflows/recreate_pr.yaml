@@ -1,0 +1,299 @@
+name: Recreate_PR
+
+# 在 HAR_Process 生成的 PR 下评论以下命令，即基于最新 master 原地重制该 PR（零入参）：
+#   /recreate          或  @qd-bot recreate
+# 原理：完全复用 HAR_Process 的 issue 解析与 create-pull-request 强制提交逻辑——
+#   重新解析源 issue 表单 → extract_issue_body.py 落盘 HAR → create-pull-request
+#   以同一分支 process-har-{issue_number} 重新提交（基于最新 master 的单个干净 commit，
+#   已有 PR 原地更新，编号/评论/审查历史保留）。
+# 也支持 workflow_dispatch 手动触发：issue_number 与 pr_number 均选填、二选一——
+#   只填 PR 编号会自动反查源 issue；只填 issue 编号会自动发现关联 PR。
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: '源 issue 编号（与 pr_number 二选一）'
+        required: false
+      pr_number:
+        description: 'PR 编号（与 issue_number 二选一，自动反查源 issue）'
+        required: false
+  issue_comment:
+    types: [created]
+
+concurrency:
+  group: recreate-pr
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  TZ: Asia/Shanghai
+  REPO_DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+
+jobs:
+  recreate-pr:
+    # PR 评论含 recreate 字样时粗过滤，精确匹配与权限校验在 Gate 步骤；或手动触发
+    if: github.event_name == 'workflow_dispatch' || (github.event.issue.pull_request != null && contains(github.event.comment.body, 'recreate'))
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gate (command match, permission check & resolve source issue)
+        id: gate
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          EVENT_NAME: ${{ github.event_name }}
+          PR_NUMBER: ${{ github.event.issue.number }}
+          PR_NUMBER_INPUT: ${{ github.event.inputs.pr_number }}
+          ISSUE_NUMBER_INPUT: ${{ github.event.inputs.issue_number }}
+          COMMENTER: ${{ github.event.comment.user.login }}
+          ASSOC: ${{ github.event.comment.author_association }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+          ACTOR: ${{ github.actor }}
+          ACTOR_ID: ${{ github.actor_id }}
+        run: |
+          set -euo pipefail
+
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            # 手动触发：issue_number 与 pr_number 二选一（均选填）
+            ISSUE_NUMBER="$ISSUE_NUMBER_INPUT"
+            PR_NUMBER="$PR_NUMBER_INPUT"
+            if [ -z "$ISSUE_NUMBER" ] && [ -z "$PR_NUMBER" ]; then
+              echo "::error::手动触发时 issue_number 与 pr_number 至少填写一项"
+              exit 1
+            fi
+          else
+            # 1) 精确命令匹配: /recreate 或 @qd-bot recreate
+            CMD_RE='(^|[^[:alnum:]_/-])/(recreate)([[:space:]]|$)|(^|[^[:alnum:]_-])@qd-bot([[:space:]]+)(recreate)([[:space:]]|$)'
+            if ! printf '%s\n' "$COMMENT_BODY" | grep -qE "$CMD_RE"; then
+              echo "::notice::Comment does not match recreate command, skipping"
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+
+          # 2) 反查源 issue（两路径共用）：优先 PR 分支名 process-har-{N}，兜底 PR 正文 Issue 链接
+          if [ -z "$ISSUE_NUMBER" ] && [ -n "$PR_NUMBER" ]; then
+            HEAD_REF=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefName --jq '.headRefName')
+            ISSUE_NUMBER=$(echo "$HEAD_REF" | grep -oE 'process-har-[0-9]+' | grep -oE '[0-9]+' || true)
+            if [ -z "$ISSUE_NUMBER" ]; then
+              PR_BODY=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json body --jq '.body')
+              ISSUE_NUMBER=$(echo "$PR_BODY" | grep -oE '/issues/[0-9]+' | grep -oE '[0-9]+' | head -1 || true)
+            fi
+            if [ -z "$ISSUE_NUMBER" ]; then
+              if [ "$EVENT_NAME" != "workflow_dispatch" ]; then
+                gh pr comment "$PR_NUMBER" --repo "$REPO" --body "无法重制：本 PR 非 HAR_Process 生成（head 分支 \`$HEAD_REF\` 且正文无源 Issue 链接）。"
+              else
+                echo "::error::PR #$PR_NUMBER 非 HAR_Process 生成（head 分支 $HEAD_REF 且正文无源 Issue 链接），无法反查源 issue"
+              fi
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+
+          # 3) 权限校验（仅评论触发需要；workflow_dispatch 触发者本身须有仓库写权限）
+          if [ "$EVENT_NAME" != "workflow_dispatch" ]; then
+            ISSUE_AUTHOR=$(gh issue view "$ISSUE_NUMBER" --repo "$REPO" --json author --jq '.author.login')
+            PERM=$(gh api "repos/$REPO/collaborators/$COMMENTER/permission" --jq '.permission' 2>/dev/null || echo none)
+            case "$ASSOC:$PERM:$COMMENTER" in
+              OWNER:*:*|MEMBER:*:*|COLLABORATOR:*:*|*:admin:*|*:maintain:*|*:write:*|*:*:"$ISSUE_AUTHOR")
+                ;;
+              *)
+                gh pr comment "$PR_NUMBER" --repo "$REPO" --body "拒绝执行：@$COMMENTER 无权触发 \`/recreate\`（需要仓库写权限，或为本 HAR 模板的提交者）。"
+                exit 1
+                ;;
+            esac
+          fi
+
+          # 4) 若只给了 issue 编号，自动发现关联 PR（head 为 process-har-{N} 的开启 PR，用于结果反馈）
+          if [ -z "$PR_NUMBER" ]; then
+            PR_NUMBER=$(gh pr list --repo "$REPO" --head "process-har-${ISSUE_NUMBER}" --state open --json number --jq '.[0].number // empty')
+          fi
+
+          # 5) 记录重制前的 PR head（用于结果对比），并校验源 issue 存在
+          if [ -n "$PR_NUMBER" ]; then
+            gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefOid --jq '.headRefOid' > /tmp/pr_head_before || echo ""
+          fi
+          gh issue view "$ISSUE_NUMBER" --repo "$REPO" --json number,author,html_url > /tmp/source_issue.json
+
+          # 6) 解析 commit 署名：优先沿用原 PR head commit 的实际作者——
+          #    原 PR 由 HAR_Process 在 issue 编辑时生成（github.actor 即编辑者），
+          #    编辑者未必是 issue 作者（如维护者代为修正格式），重制应保持原 PR 署名一致；
+          #    无原 PR（重建分支场景）或取不到时回落源 issue 作者，作者注销再回落触发者
+          ISSUE_AUTHOR_LOGIN=$(jq -r '.author.login // empty' /tmp/source_issue.json 2>/dev/null)
+          ISSUE_AUTHOR_ID=$(jq -r '.author.id // empty' /tmp/source_issue.json 2>/dev/null)
+          if [ -z "$ISSUE_AUTHOR_LOGIN" ] || [ -z "$ISSUE_AUTHOR_ID" ]; then
+            ISSUE_AUTHOR_LOGIN="$ACTOR"
+            ISSUE_AUTHOR_ID="$ACTOR_ID"
+          fi
+
+          COMMIT_AUTHOR_NAME=""
+          COMMIT_AUTHOR_EMAIL=""
+          HEAD_SHA_BEFORE=$(cat /tmp/pr_head_before 2>/dev/null || echo "")
+          if [ -n "$HEAD_SHA_BEFORE" ]; then
+            COMMIT_AUTHOR_NAME=$(gh api "repos/$REPO/commits/$HEAD_SHA_BEFORE" --jq '.commit.author.name // empty' 2>/dev/null || echo "")
+            COMMIT_AUTHOR_EMAIL=$(gh api "repos/$REPO/commits/$HEAD_SHA_BEFORE" --jq '.commit.author.email // empty' 2>/dev/null || echo "")
+          fi
+          if [ -z "$COMMIT_AUTHOR_NAME" ] || [ -z "$COMMIT_AUTHOR_EMAIL" ]; then
+            COMMIT_AUTHOR_NAME="$ISSUE_AUTHOR_LOGIN"
+            COMMIT_AUTHOR_EMAIL="${ISSUE_AUTHOR_ID}+${ISSUE_AUTHOR_LOGIN}@users.noreply.github.com"
+          fi
+
+          {
+            echo "issue_number=$ISSUE_NUMBER"
+            echo "pr_number=${PR_NUMBER:-}"
+            echo "issue_url=$(jq -r '.html_url' /tmp/source_issue.json)"
+            echo "issue_author=$ISSUE_AUTHOR_LOGIN"
+            echo "issue_author_id=$ISSUE_AUTHOR_ID"
+            echo "commit_author_name=$COMMIT_AUTHOR_NAME"
+            echo "commit_author_email=$COMMIT_AUTHOR_EMAIL"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Checkout base repository
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Parse source issue form
+        # 按 issue 模板的 label-id 映射解析源 issue 表单（等效于 github-issue-parser，
+        # 但支持解析非当前事件的 issue，且不受 step output 大小限制）
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
+        run: |
+          set -euo pipefail
+          gh issue view "$ISSUE_NUMBER" --repo "$REPO" --json body --jq '.body' > /tmp/issue_body.md
+          python3 - << 'EOF'
+          import json, re, yaml
+
+          # 模板 label -> 表单 id 映射，自动跟随模板变化
+          tpl = yaml.safe_load(open('.github/ISSUE_TEMPLATE/process_har.yaml', encoding='utf8'))
+          label2id = {f['attributes']['label']: f['id'] for f in tpl['body'] if f['type'] in ('input', 'textarea')}
+
+          result = {}
+          body = open('/tmp/issue_body.md', encoding='utf8').read()
+          # GitHub issue 表单正文的固定格式: "### {label}\n\n{value}"
+          for part in re.split(r'^### ', body, flags=re.M)[1:]:
+              lines = part.split('\n', 1)
+              if len(lines) == 2 and lines[0].strip() in label2id:
+                  result[label2id[lines[0].strip()]] = lines[1].strip()
+
+          with open('/tmp/issue.json', 'w', encoding='utf8') as f:
+              json.dump(result, f, ensure_ascii=False)
+          EOF
+
+      - name: Obtain HARNAME
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          ISSUE_JSON_FILE: /tmp/issue.json
+        id: harname
+        run: |
+          ISSUE_JSON=$(cat "$ISSUE_JSON_FILE")
+          export ISSUE_JSON
+          harname=$(python3 -c """
+          import json
+          import os
+
+          issue_json:dict = json.loads(os.getenv('ISSUE_JSON','{}'))
+          if len(issue_json) > 0 and 'name' in issue_json:
+              print(issue_json['name'])
+          else:
+              print('')
+          """)
+          echo "harname=${harname}" >> $GITHUB_OUTPUT
+
+      - name: Judge HAR is update
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          ISSUE_JSON_FILE: /tmp/issue.json
+        id: isupdate
+        run: |
+          ISSUE_JSON=$(cat "$ISSUE_JSON_FILE")
+          export ISSUE_JSON
+          isupdate=$(python3 -c """
+          import json
+          import os
+
+          with open('tpls_history.json', 'r', encoding='utf8') as f:
+              hfile = json.loads(f.read())
+          issue_json:dict = json.loads(os.getenv('ISSUE_JSON','{}'))
+          if len(issue_json) > 0 and 'name' in issue_json:
+              if (issue_json['name'] in hfile['har']):
+                  print('Update')
+              else:
+                  print('Add')
+          else:
+              print('Add')
+          """)
+          echo "isupdate=${isupdate}" >> $GITHUB_OUTPUT
+
+      - name: Extract issue to json
+        # 复用 HAR_Process 的同一脚本重新落盘 HAR 文件与 tpls_history.json
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          ISSUE_JSON_FILE: /tmp/issue.json
+          ISSUE_URL: ${{ steps.gate.outputs.issue_url }}
+          REPO_FULL_NAME: ${{ github.repository }}
+        run: |
+          ISSUE_JSON=$(cat "$ISSUE_JSON_FILE")
+          export ISSUE_JSON
+          python .github/src/extract_issue_body.py
+
+      - name: Recreate Pull Request
+        # 复用 HAR_Process 的 create-pull-request 强制提交逻辑：
+        # 基于最新默认分支生成单个干净 commit，推送回同一 process-har-{N} 分支，
+        # 已有 PR 原地更新（编号/评论/审查历史保留），分支不存在则重建 PR
+        # author 优先沿用原 PR head commit 的实际署名（原 PR 可能由维护者编辑
+        # issue 触发生成，署名未必是 issue 作者）；无原 PR 时回落源 issue 作者
+        if: steps.gate.outputs.skip != 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          author: "${{ steps.gate.outputs.commit_author_name }} <${{ steps.gate.outputs.commit_author_email }}>"
+          committer: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          commit-message: "${{ steps.isupdate.outputs.isupdate }} HAR: ${{ steps.harname.outputs.harname }}"
+          title: "${{ steps.isupdate.outputs.isupdate }} HAR: ${{ steps.harname.outputs.harname }}"
+          body: "Auto recreate pull request based on latest master by Recreate_PR action.\n\nIssue: ${{ steps.gate.outputs.issue_url }}\n\nAuthor: @${{ steps.gate.outputs.issue_author }}\n\nTriggered by: @${{ github.event.comment.user.login || github.actor }}"
+          branch: process-har-${{ steps.gate.outputs.issue_number }}
+          delete-branch: true
+          base: ${{ env.REPO_DEFAULT_BRANCH }}
+
+      - name: Feedback
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ steps.gate.outputs.pr_number }}
+          ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
+          COMMENTER: ${{ github.event.comment.user.login || github.actor }}
+        run: |
+          set -euo pipefail
+          MSG_BODY="已基于最新 \`${REPO_DEFAULT_BRANCH:-master}\` 重制：复用 HAR_Process 流程重新解析源 issue #${ISSUE_NUMBER} 并强制提交至原分支 \`process-har-${ISSUE_NUMBER}\`，PR 原地更新，提交历史收敛为单个 commit（署名沿用原 PR 作者）。触发：@${COMMENTER}"
+
+          if [ -n "$PR_NUMBER" ]; then
+            HEAD_AFTER=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefOid --jq '.headRefOid' 2>/dev/null || echo "")
+            HEAD_BEFORE=$(cat /tmp/pr_head_before 2>/dev/null || echo "")
+            if [ -n "$HEAD_AFTER" ] && [ "$HEAD_AFTER" = "$HEAD_BEFORE" ]; then
+              gh pr comment "$PR_NUMBER" --repo "$REPO" --body "提示：源 issue #${ISSUE_NUMBER} 的内容相对最新 master 无变化，PR 未更新（改动可能已合并）。"
+            else
+              gh pr comment "$PR_NUMBER" --repo "$REPO" --body "✅ ${MSG_BODY}"
+            fi
+          else
+            gh issue comment "$ISSUE_NUMBER" --repo "$REPO" --body "✅ ${MSG_BODY}"
+          fi
