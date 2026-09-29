@@ -1,0 +1,203 @@
+name: Recreate_PR
+
+# 在任意 PR 下评论以下命令触发（需仓库写权限，或为该 PR 的作者）：
+#   /recreate          基于最新 master 原地重制本 PR：重放全部文件改动后强推回 PR 分支
+#   @qd-bot recreate   等价写法（@qd-bot 为虚拟命令前缀，无需真实存在）
+#
+# 适用场景：PR 的 fork 落后 master、提交历史混乱或存在冲突时，
+# 由维护者触发本命令，将 PR 分支重写为「最新 master + 单个干净 commit」。
+# PR 编号、评论与审查历史全部保留，CI 自动重新触发。
+#
+# 原地更新方式（不开新 PR）：
+#   - 同仓库分支的 PR：直接强推回原分支（GITHUB_TOKEN 即可）
+#   - fork PR：需作者开启 "Allow edits by maintainers" 且仓库配置 secrets.RECREATE_PAT
+#     （GITHUB_TOKEN 作用域仅限本仓库，无法推送到 fork）
+# 原作者贡献通过 commit --author 署名保留。
+
+on:
+  issue_comment:
+    types: [created]
+
+concurrency:
+  group: recreate-pr-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  TZ: Asia/Shanghai
+  REPO_DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+
+jobs:
+  recreate:
+    # 仅 PR 的评论触发；此处为粗过滤（含 recreate 字样），精确匹配与权限校验在 Gate 步骤
+    if: github.event.issue.pull_request != null && contains(github.event.comment.body, 'recreate')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gate (command match & permission check)
+        id: gate
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.issue.number }}
+          COMMENTER: ${{ github.event.comment.user.login }}
+          ASSOC: ${{ github.event.comment.author_association }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+        run: |
+          set -euo pipefail
+
+          # 1) 精确命令匹配: /recreate 或 @qd-bot recreate
+          CMD_RE='(^|[^[:alnum:]_/-])/(recreate)([[:space:]]|$)|(^|[^[:alnum:]_-])@qd-bot([[:space:]]+)(recreate)([[:space:]]|$)'
+          if ! printf '%s\n' "$COMMENT_BODY" | grep -qE "$CMD_RE"; then
+            echo "::notice::Comment does not match recreate command, skipping"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # 2) 权限校验：评论者须为 OWNER/MEMBER/COLLABORATOR、拥有仓库写权限，或为 PR 作者
+          PR_AUTHOR=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json author --jq '.author.login')
+          PERM=$(gh api "repos/$REPO/collaborators/$COMMENTER/permission" --jq '.permission' 2>/dev/null || echo none)
+          case "$ASSOC:$PERM:$COMMENTER" in
+            OWNER:*:*|MEMBER:*:*|COLLABORATOR:*:*|*:admin:*|*:maintain:*|*:write:*|*:*:"$PR_AUTHOR")
+              ;;
+            *)
+              gh pr comment "$PR_NUMBER" --repo "$REPO" --body "拒绝执行：@$COMMENTER 无权触发 \`/recreate\`（需要仓库写权限，或为本 PR 作者）。"
+              exit 1
+              ;;
+          esac
+          echo "pr_author=$PR_AUTHOR" >> "$GITHUB_OUTPUT"
+
+      - name: Checkout base repository
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Replay PR changes onto latest master
+        id: replay
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.issue.number }}
+          COMMENTER: ${{ github.event.comment.user.login }}
+          PR_AUTHOR: ${{ steps.gate.outputs.pr_author }}
+          DEFAULT_BRANCH: ${{ env.REPO_DEFAULT_BRANCH }}
+        run: |
+          set -euo pipefail
+
+          # 1) 读取 PR 元信息
+          gh pr view "$PR_NUMBER" --repo "$REPO" \
+            --json title,headRefName,headRefOid,headRepository,baseRefName,isCrossRepository,maintainerCanModify > /tmp/pr.json
+          HEAD_REF=$(jq -r '.headRefName' /tmp/pr.json)
+          HEAD_SHA=$(jq -r '.headRefOid' /tmp/pr.json)
+          HEAD_REPO=$(jq -r '.headRepository.fullName // ""' /tmp/pr.json)
+          BASE_REF=$(jq -r '.baseRefName' /tmp/pr.json)
+          IS_CROSS=$(jq -r '.isCrossRepository' /tmp/pr.json)
+          CAN_MODIFY=$(jq -r '.maintainerCanModify' /tmp/pr.json)
+          echo "head=$HEAD_REPO@$HEAD_REF base=$BASE_REF cross=$IS_CROSS maintainer_can_modify=$CAN_MODIFY"
+
+          # 2) PR base 必须是默认分支，重放才有意义
+          if [ "$BASE_REF" != "$DEFAULT_BRANCH" ]; then
+            gh pr comment "$PR_NUMBER" --repo "$REPO" --body "无法重制：本 PR 的 base 是 \`$BASE_REF\` 而非默认分支 \`$DEFAULT_BRANCH\`，跳过执行。"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # 3) fork PR 且未开启「允许维护者修改」时无法原地更新
+          if [ "$IS_CROSS" = "true" ] && [ "$CAN_MODIFY" != "true" ]; then
+            gh pr comment "$PR_NUMBER" --repo "$REPO" --body "无法原地重制：本 PR 来自 fork 且未开启 **Allow edits by maintainers**。请作者 @$PR_AUTHOR 在 PR 页面勾选该选项后重试，或由维护者手动处理。"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # 4) 拉取最新默认分支与 PR head（pull/N/head 对同仓库与 fork 的 PR 均有效）
+          git fetch --depth=1 origin \
+            "$DEFAULT_BRANCH:refs/remotes/origin/$DEFAULT_BRANCH" \
+            "pull/$PR_NUMBER/head:refs/remotes/pr-head"
+
+          # 5) 通过 API 获取 PR 变更文件清单（不依赖本地 merge-base，浅克隆安全）
+          gh api "repos/$REPO/pulls/$PR_NUMBER/files" --paginate \
+            -q '.[] | [.status, .filename, (.previous_filename // "")] | @tsv' > /tmp/changed.tsv
+          TOTAL=$(wc -l < /tmp/changed.tsv)
+          echo "Changed files: $TOTAL"
+
+          # 6) 基于最新默认分支重放全部文件快照
+          git checkout -q -B recreate-work "refs/remotes/origin/$DEFAULT_BRANCH"
+          while IFS=$'\t' read -r st f1 f2; do
+            case "$st" in
+              removed)
+                git rm -q -f --ignore-unmatch -- "$f1"
+                ;;
+              renamed)
+                git checkout -q refs/remotes/pr-head -- "$f1"
+                git rm -q -f --ignore-unmatch -- "$f2"
+                ;;
+              *)
+                git checkout -q refs/remotes/pr-head -- "$f1"
+                ;;
+            esac
+          done < /tmp/changed.tsv
+
+          # 7) 无实际变更则终止（PR 本就与最新 master 同步）
+          if git diff --cached --quiet && git diff --quiet; then
+            gh pr comment "$PR_NUMBER" --repo "$REPO" --body "提示：PR #$PR_NUMBER 的文件改动相对最新 \`$DEFAULT_BRANCH\` 已是最新，无需重制。"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # 8) 提交（作者署名为原 PR 作者，贡献得以保留）
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          AUTHOR_ID=$(jq -r '.author.id // empty' /tmp/pr.json)
+          MSG_BODY="Files replayed from $HEAD_REPO@${HEAD_SHA:0:7} onto latest $DEFAULT_BRANCH (file-level snapshot, original history dropped). Triggered by @$COMMENTER via /recreate."
+          if [ -n "$AUTHOR_ID" ] && [ -n "$PR_AUTHOR" ]; then
+            git commit -q \
+              --author="$PR_AUTHOR <$AUTHOR_ID+$PR_AUTHOR@users.noreply.github.com>" \
+              -m "Recreate #$PR_NUMBER based on latest $DEFAULT_BRANCH" \
+              -m "$MSG_BODY"
+          else
+            git commit -q \
+              -m "Recreate #$PR_NUMBER based on latest $DEFAULT_BRANCH" \
+              -m "$MSG_BODY"
+          fi
+
+          {
+            echo "is_cross=$IS_CROSS"
+            echo "head_repo=$HEAD_REPO"
+            echo "head_ref=$HEAD_REF"
+            echo "total=$TOTAL"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Force push back to PR branch (in-place update)
+        if: steps.gate.outputs.skip != 'true' && steps.replay.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RECREATE_PAT: ${{ secrets.RECREATE_PAT }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.issue.number }}
+          COMMENTER: ${{ github.event.comment.user.login }}
+          PR_AUTHOR: ${{ steps.gate.outputs.pr_author }}
+          IS_CROSS: ${{ steps.replay.outputs.is_cross }}
+          HEAD_REPO: ${{ steps.replay.outputs.head_repo }}
+          HEAD_REF: ${{ steps.replay.outputs.head_ref }}
+          TOTAL: ${{ steps.replay.outputs.total }}
+        run: |
+          set -euo pipefail
+
+          if [ "$IS_CROSS" != "true" ]; then
+            # 同仓库分支：GITHUB_TOKEN 直接强推，PR 原地更新
+            git push -f origin "HEAD:refs/heads/$HEAD_REF"
+          else
+            # fork 分支：GITHUB_TOKEN 无法跨仓库推送，需 RECREATE_PAT
+            if [ -z "$RECREATE_PAT" ]; then
+              gh pr comment "$PR_NUMBER" --repo "$REPO" --body "无法原地重制：fork PR 需要仓库配置 \`RECREATE_PAT\` secret（具 repo 权限的 PAT）才能推送到 fork 分支。文件重制结果已在 Actions 日志中生成但未推送。"
+              exit 1
+            fi
+            git push -f "https://x-access-token:${RECREATE_PAT}@github.com/${HEAD_REPO}.git" "HEAD:refs/heads/$HEAD_REF"
+          fi
+
+          gh pr comment "$PR_NUMBER" --repo "$REPO" --body \
+            "✅ 已基于最新 \`master\` 原地重制本 PR：重放 $TOTAL 个文件改动为单个 commit（原作者 @$PR_AUTHOR 署名保留），已强制推送回 \`$HEAD_REF\`。历史已清理，CI 将自动重新运行。触发：@$COMMENTER"
