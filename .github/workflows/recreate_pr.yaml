@@ -52,6 +52,8 @@ jobs:
           COMMENTER: ${{ github.event.comment.user.login }}
           ASSOC: ${{ github.event.comment.author_association }}
           COMMENT_BODY: ${{ github.event.comment.body }}
+          ACTOR: ${{ github.actor }}
+          ACTOR_ID: ${{ github.actor_id }}
         run: |
           set -euo pipefail
 
@@ -117,11 +119,20 @@ jobs:
           fi
           gh issue view "$ISSUE_NUMBER" --repo "$REPO" --json number,author,html_url > /tmp/source_issue.json
 
+          # 6) 解析源 issue 作者（commit 署名保留给模板贡献者；作者注销时回落触发者）
+          ISSUE_AUTHOR_LOGIN=$(jq -r '.author.login // empty' /tmp/source_issue.json 2>/dev/null)
+          ISSUE_AUTHOR_ID=$(jq -r '.author.id // empty' /tmp/source_issue.json 2>/dev/null)
+          if [ -z "$ISSUE_AUTHOR_LOGIN" ] || [ -z "$ISSUE_AUTHOR_ID" ]; then
+            ISSUE_AUTHOR_LOGIN="$ACTOR"
+            ISSUE_AUTHOR_ID="$ACTOR_ID"
+          fi
+
           {
             echo "issue_number=$ISSUE_NUMBER"
             echo "pr_number=${PR_NUMBER:-}"
             echo "issue_url=$(jq -r '.html_url' /tmp/source_issue.json)"
-            [ -z "$(jq -r '.author.login // empty' /tmp/source_issue.json 2>/dev/null)" ] || echo "issue_author=$(jq -r '.author.login' /tmp/source_issue.json)"
+            echo "issue_author=$ISSUE_AUTHOR_LOGIN"
+            echo "issue_author_id=$ISSUE_AUTHOR_ID"
           } >> "$GITHUB_OUTPUT"
 
       - name: Checkout base repository
@@ -231,10 +242,14 @@ jobs:
         # 复用 HAR_Process 的 create-pull-request 强制提交逻辑：
         # 基于最新默认分支生成单个干净 commit，推送回同一 process-har-{N} 分支，
         # 已有 PR 原地更新（编号/评论/审查历史保留），分支不存在则重建 PR
+        # author 显式指定为源 issue 作者（HAR 模板贡献者）——否则默认为触发命令的
+        # github.actor（如维护者），署名会归错人；committer 保持 GitHub bot
         if: steps.gate.outputs.skip != 'true'
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          author: "${{ steps.gate.outputs.issue_author }} <${{ steps.gate.outputs.issue_author_id }}+${{ steps.gate.outputs.issue_author }}@users.noreply.github.com>"
+          committer: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           commit-message: "${{ steps.isupdate.outputs.isupdate }} HAR: ${{ steps.harname.outputs.harname }}"
           title: "${{ steps.isupdate.outputs.isupdate }} HAR: ${{ steps.harname.outputs.harname }}"
           body: "Auto recreate pull request based on latest master by Recreate_PR action.\n\nIssue: ${{ steps.gate.outputs.issue_url }}\n\nAuthor: @${{ steps.gate.outputs.issue_author }}\n\nTriggered by: @${{ github.event.comment.user.login || github.actor }}"
@@ -249,10 +264,11 @@ jobs:
           REPO: ${{ github.repository }}
           PR_NUMBER: ${{ steps.gate.outputs.pr_number }}
           ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
+          ISSUE_AUTHOR: ${{ steps.gate.outputs.issue_author }}
           COMMENTER: ${{ github.event.comment.user.login || github.actor }}
         run: |
           set -euo pipefail
-          MSG_BODY="已基于最新 \`${REPO_DEFAULT_BRANCH:-master}\` 重制：复用 HAR_Process 流程重新解析源 issue #${ISSUE_NUMBER} 并强制提交至原分支 \`process-har-${ISSUE_NUMBER}\`，PR 原地更新，提交历史收敛为单个 commit。触发：@${COMMENTER}"
+          MSG_BODY="已基于最新 \`${REPO_DEFAULT_BRANCH:-master}\` 重制：复用 HAR_Process 流程重新解析源 issue #${ISSUE_NUMBER} 并强制提交至原分支 \`process-har-${ISSUE_NUMBER}\`，PR 原地更新，提交历史收敛为单个 commit（作者署名保留给 @$ISSUE_AUTHOR）。触发：@${COMMENTER}"
 
           if [ -n "$PR_NUMBER" ]; then
             HEAD_AFTER=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefOid --jq '.headRefOid' 2>/dev/null || echo "")
