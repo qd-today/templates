@@ -1,21 +1,22 @@
 name: Recreate_PR
 
-# 在 HAR_Process 生成的 PR 下评论以下命令，即基于最新 master 原地重制该 PR：
+# 在 HAR_Process 生成的 PR 下评论以下命令，即基于最新 master 原地重制该 PR（零入参）：
 #   /recreate          或  @qd-bot recreate
 # 原理：完全复用 HAR_Process 的 issue 解析与 create-pull-request 强制提交逻辑——
 #   重新解析源 issue 表单 → extract_issue_body.py 落盘 HAR → create-pull-request
 #   以同一分支 process-har-{issue_number} 重新提交（基于最新 master 的单个干净 commit，
 #   已有 PR 原地更新，编号/评论/审查历史保留）。
-# 也支持 workflow_dispatch 手动指定源 issue 编号重制。
+# 也支持 workflow_dispatch 手动触发：issue_number 与 pr_number 均选填、二选一——
+#   只填 PR 编号会自动反查源 issue；只填 issue 编号会自动发现关联 PR。
 
 on:
   workflow_dispatch:
     inputs:
       issue_number:
-        description: '源 issue 编号（即 HAR 模板提交 issue）'
-        required: true
+        description: '源 issue 编号（与 pr_number 二选一）'
+        required: false
       pr_number:
-        description: '可选，关联 PR 编号（用于结果反馈）'
+        description: 'PR 编号（与 issue_number 二选一，自动反查源 issue）'
         required: false
   issue_comment:
     types: [created]
@@ -55,9 +56,13 @@ jobs:
           set -euo pipefail
 
           if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
-            # 手动触发：直接采用输入的 issue 编号
+            # 手动触发：issue_number 与 pr_number 二选一（均选填）
             ISSUE_NUMBER="$ISSUE_NUMBER_INPUT"
             PR_NUMBER="$PR_NUMBER_INPUT"
+            if [ -z "$ISSUE_NUMBER" ] && [ -z "$PR_NUMBER" ]; then
+              echo "::error::手动触发时 issue_number 与 pr_number 至少填写一项"
+              exit 1
+            fi
           else
             # 1) 精确命令匹配: /recreate 或 @qd-bot recreate
             CMD_RE='(^|[^[:alnum:]_/-])/(recreate)([[:space:]]|$)|(^|[^[:alnum:]_-])@qd-bot([[:space:]]+)(recreate)([[:space:]]|$)'
@@ -66,9 +71,10 @@ jobs:
               echo "skip=true" >> "$GITHUB_OUTPUT"
               exit 0
             fi
+          fi
 
-            # 2) 反查源 issue：HAR_Process 生成的 PR 分支名固定为 process-har-{N}，
-            #    兜底从 PR body 的 Issue 链接提取
+          # 2) 反查源 issue（两路径共用）：优先 PR 分支名 process-har-{N}，兜底 PR 正文 Issue 链接
+          if [ -z "$ISSUE_NUMBER" ] && [ -n "$PR_NUMBER" ]; then
             HEAD_REF=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefName --jq '.headRefName')
             ISSUE_NUMBER=$(echo "$HEAD_REF" | grep -oE 'process-har-[0-9]+' | grep -oE '[0-9]+' || true)
             if [ -z "$ISSUE_NUMBER" ]; then
@@ -76,12 +82,18 @@ jobs:
               ISSUE_NUMBER=$(echo "$PR_BODY" | grep -oE '/issues/[0-9]+' | grep -oE '[0-9]+' | head -1 || true)
             fi
             if [ -z "$ISSUE_NUMBER" ]; then
-              gh pr comment "$PR_NUMBER" --repo "$REPO" --body "无法重制：本 PR 非 HAR_Process 生成（head 分支 \`$HEAD_REF\` 且正文无源 Issue 链接）。"
+              if [ "$EVENT_NAME" != "workflow_dispatch" ]; then
+                gh pr comment "$PR_NUMBER" --repo "$REPO" --body "无法重制：本 PR 非 HAR_Process 生成（head 分支 \`$HEAD_REF\` 且正文无源 Issue 链接）。"
+              else
+                echo "::error::PR #$PR_NUMBER 非 HAR_Process 生成（head 分支 $HEAD_REF 且正文无源 Issue 链接），无法反查源 issue"
+              fi
               echo "skip=true" >> "$GITHUB_OUTPUT"
               exit 0
             fi
+          fi
 
-            # 3) 权限校验：评论者须为 OWNER/MEMBER/COLLABORATOR、拥有仓库写权限，或为源 issue 作者
+          # 3) 权限校验（仅评论触发需要；workflow_dispatch 触发者本身须有仓库写权限）
+          if [ "$EVENT_NAME" != "workflow_dispatch" ]; then
             ISSUE_AUTHOR=$(gh issue view "$ISSUE_NUMBER" --repo "$REPO" --json author --jq '.author.login')
             PERM=$(gh api "repos/$REPO/collaborators/$COMMENTER/permission" --jq '.permission' 2>/dev/null || echo none)
             case "$ASSOC:$PERM:$COMMENTER" in
@@ -92,10 +104,14 @@ jobs:
                 exit 1
                 ;;
             esac
-            echo "issue_author=$ISSUE_AUTHOR" >> "$GITHUB_OUTPUT"
           fi
 
-          # 4) 记录重制前的 PR head（用于结果对比），并校验源 issue 存在
+          # 4) 若只给了 issue 编号，自动发现关联 PR（head 为 process-har-{N} 的开启 PR，用于结果反馈）
+          if [ -z "$PR_NUMBER" ]; then
+            PR_NUMBER=$(gh pr list --repo "$REPO" --head "process-har-${ISSUE_NUMBER}" --state open --json number --jq '.[0].number // empty')
+          fi
+
+          # 5) 记录重制前的 PR head（用于结果对比），并校验源 issue 存在
           if [ -n "$PR_NUMBER" ]; then
             gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefOid --jq '.headRefOid' > /tmp/pr_head_before || echo ""
           fi
