@@ -165,14 +165,17 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
+        # 本仓库无 requirements.txt；解析 issue 模板需要 PyYAML，显式安装
         if: steps.gate.outputs.skip != 'true'
         run: |
           python -m pip install --upgrade pip
+          pip install pyyaml
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Parse source issue form
         # 按 issue 模板的 label-id 映射解析源 issue 表单（等效于 github-issue-parser，
         # 但支持解析非当前事件的 issue，且不受 step output 大小限制）
+        # PyYAML 已在上一步显式安装
         if: steps.gate.outputs.skip != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
