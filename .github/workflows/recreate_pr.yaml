@@ -119,12 +119,27 @@ jobs:
           fi
           gh issue view "$ISSUE_NUMBER" --repo "$REPO" --json number,author,html_url > /tmp/source_issue.json
 
-          # 6) 解析源 issue 作者（commit 署名保留给模板贡献者；作者注销时回落触发者）
+          # 6) 解析 commit 署名：优先沿用原 PR head commit 的实际作者——
+          #    原 PR 由 HAR_Process 在 issue 编辑时生成（github.actor 即编辑者），
+          #    编辑者未必是 issue 作者（如维护者代为修正格式），重制应保持原 PR 署名一致；
+          #    无原 PR（重建分支场景）或取不到时回落源 issue 作者，作者注销再回落触发者
           ISSUE_AUTHOR_LOGIN=$(jq -r '.author.login // empty' /tmp/source_issue.json 2>/dev/null)
           ISSUE_AUTHOR_ID=$(jq -r '.author.id // empty' /tmp/source_issue.json 2>/dev/null)
           if [ -z "$ISSUE_AUTHOR_LOGIN" ] || [ -z "$ISSUE_AUTHOR_ID" ]; then
             ISSUE_AUTHOR_LOGIN="$ACTOR"
             ISSUE_AUTHOR_ID="$ACTOR_ID"
+          fi
+
+          COMMIT_AUTHOR_NAME=""
+          COMMIT_AUTHOR_EMAIL=""
+          HEAD_SHA_BEFORE=$(cat /tmp/pr_head_before 2>/dev/null || echo "")
+          if [ -n "$HEAD_SHA_BEFORE" ]; then
+            COMMIT_AUTHOR_NAME=$(gh api "repos/$REPO/commits/$HEAD_SHA_BEFORE" --jq '.commit.author.name // empty' 2>/dev/null || echo "")
+            COMMIT_AUTHOR_EMAIL=$(gh api "repos/$REPO/commits/$HEAD_SHA_BEFORE" --jq '.commit.author.email // empty' 2>/dev/null || echo "")
+          fi
+          if [ -z "$COMMIT_AUTHOR_NAME" ] || [ -z "$COMMIT_AUTHOR_EMAIL" ]; then
+            COMMIT_AUTHOR_NAME="$ISSUE_AUTHOR_LOGIN"
+            COMMIT_AUTHOR_EMAIL="${ISSUE_AUTHOR_ID}+${ISSUE_AUTHOR_LOGIN}@users.noreply.github.com"
           fi
 
           {
@@ -133,6 +148,8 @@ jobs:
             echo "issue_url=$(jq -r '.html_url' /tmp/source_issue.json)"
             echo "issue_author=$ISSUE_AUTHOR_LOGIN"
             echo "issue_author_id=$ISSUE_AUTHOR_ID"
+            echo "commit_author_name=$COMMIT_AUTHOR_NAME"
+            echo "commit_author_email=$COMMIT_AUTHOR_EMAIL"
           } >> "$GITHUB_OUTPUT"
 
       - name: Checkout base repository
@@ -242,13 +259,13 @@ jobs:
         # 复用 HAR_Process 的 create-pull-request 强制提交逻辑：
         # 基于最新默认分支生成单个干净 commit，推送回同一 process-har-{N} 分支，
         # 已有 PR 原地更新（编号/评论/审查历史保留），分支不存在则重建 PR
-        # author 显式指定为源 issue 作者（HAR 模板贡献者）——否则默认为触发命令的
-        # github.actor（如维护者），署名会归错人；committer 保持 GitHub bot
+        # author 优先沿用原 PR head commit 的实际署名（原 PR 可能由维护者编辑
+        # issue 触发生成，署名未必是 issue 作者）；无原 PR 时回落源 issue 作者
         if: steps.gate.outputs.skip != 'true'
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          author: "${{ steps.gate.outputs.issue_author }} <${{ steps.gate.outputs.issue_author_id }}+${{ steps.gate.outputs.issue_author }}@users.noreply.github.com>"
+          author: "${{ steps.gate.outputs.commit_author_name }} <${{ steps.gate.outputs.commit_author_email }}>"
           committer: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           commit-message: "${{ steps.isupdate.outputs.isupdate }} HAR: ${{ steps.harname.outputs.harname }}"
           title: "${{ steps.isupdate.outputs.isupdate }} HAR: ${{ steps.harname.outputs.harname }}"
@@ -264,11 +281,10 @@ jobs:
           REPO: ${{ github.repository }}
           PR_NUMBER: ${{ steps.gate.outputs.pr_number }}
           ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
-          ISSUE_AUTHOR: ${{ steps.gate.outputs.issue_author }}
           COMMENTER: ${{ github.event.comment.user.login || github.actor }}
         run: |
           set -euo pipefail
-          MSG_BODY="已基于最新 \`${REPO_DEFAULT_BRANCH:-master}\` 重制：复用 HAR_Process 流程重新解析源 issue #${ISSUE_NUMBER} 并强制提交至原分支 \`process-har-${ISSUE_NUMBER}\`，PR 原地更新，提交历史收敛为单个 commit（作者署名保留给 @$ISSUE_AUTHOR）。触发：@${COMMENTER}"
+          MSG_BODY="已基于最新 \`${REPO_DEFAULT_BRANCH:-master}\` 重制：复用 HAR_Process 流程重新解析源 issue #${ISSUE_NUMBER} 并强制提交至原分支 \`process-har-${ISSUE_NUMBER}\`，PR 原地更新，提交历史收敛为单个 commit（署名沿用原 PR 作者）。触发：@${COMMENTER}"
 
           if [ -n "$PR_NUMBER" ]; then
             HEAD_AFTER=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefOid --jq '.headRefOid' 2>/dev/null || echo "")
