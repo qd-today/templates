@@ -87,7 +87,7 @@ jobs:
             fi
             if [ -z "$ISSUE_NUMBER" ]; then
               if [ "$EVENT_NAME" != "workflow_dispatch" ]; then
-                gh pr comment "$PR_NUMBER" --repo "$REPO" --body "无法重制：本 PR 非 HAR_Process 生成（head 分支 \`$HEAD_REF\` 且正文无源 Issue 链接）。"
+                gh pr comment "$PR_NUMBER" --repo "$REPO" --body "$(printf '## ⚠️ 无法重制\n\n本 PR 非 HAR_Process 生成（head 分支为 \`%s\`，正文亦无源 Issue 链接），无法定位源 issue。' "$HEAD_REF")"
               else
                 echo "::error::PR #$PR_NUMBER 非 HAR_Process 生成（head 分支 $HEAD_REF 且正文无源 Issue 链接），无法反查源 issue"
               fi
@@ -104,7 +104,7 @@ jobs:
               OWNER:*:*|MEMBER:*:*|COLLABORATOR:*:*|*:admin:*|*:maintain:*|*:write:*|*:*:"$ISSUE_AUTHOR")
                 ;;
               *)
-                gh pr comment "$PR_NUMBER" --repo "$REPO" --body "拒绝执行：@$COMMENTER 无权触发 \`/recreate\`（需要仓库写权限，或为本 HAR 模板的提交者）。"
+                gh pr comment "$PR_NUMBER" --repo "$REPO" --body "$(printf '## ⛔ 无权执行 /recreate\n\n@%s 需要具备**仓库写权限**，或为本 HAR 模板的提交者。' "$COMMENTER")"
                 exit 1
                 ;;
             esac
@@ -286,19 +286,77 @@ jobs:
           REPO: ${{ github.repository }}
           PR_NUMBER: ${{ steps.gate.outputs.pr_number }}
           ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
+          COMMIT_AUTHOR: ${{ steps.gate.outputs.commit_author_name }}
+          DEFAULT_BRANCH: ${{ env.REPO_DEFAULT_BRANCH }}
           COMMENTER: ${{ github.event.comment.user.login || github.actor }}
+          EVENT_NAME: ${{ github.event_name }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           set -euo pipefail
-          MSG_BODY="已基于最新 \`${REPO_DEFAULT_BRANCH:-master}\` 重制：复用 HAR_Process 流程重新解析源 issue #${ISSUE_NUMBER} 并强制提交至原分支 \`process-har-${ISSUE_NUMBER}\`，PR 原地更新，提交历史收敛为单个 commit（署名沿用原 PR 作者）。触发：@${COMMENTER}"
 
-          if [ -n "$PR_NUMBER" ]; then
-            HEAD_AFTER=$(gh pr view "$PR_NUMBER" --repo "$REPO" --json headRefOid --jq '.headRefOid' 2>/dev/null || echo "")
-            HEAD_BEFORE=$(cat /tmp/pr_head_before 2>/dev/null || echo "")
-            if [ -n "$HEAD_AFTER" ] && [ "$HEAD_AFTER" = "$HEAD_BEFORE" ]; then
-              gh pr comment "$PR_NUMBER" --repo "$REPO" --body "提示：源 issue #${ISSUE_NUMBER} 的内容相对最新 master 无变化，PR 未更新（改动可能已合并）。"
-            else
-              gh pr comment "$PR_NUMBER" --repo "$REPO" --body "✅ ${MSG_BODY}"
-            fi
+          # 目标：有 PR 评论到 PR，否则评论到源 issue
+          TARGET_NUMBER="$PR_NUMBER"
+          if [ -z "$TARGET_NUMBER" ]; then
+            TARGET_NUMBER=$(gh pr list --repo "$REPO" --head "process-har-${ISSUE_NUMBER}" --state open --json number --jq '.[0].number // empty')
+          fi
+          TARGET_KIND="pr"; [ -z "$TARGET_NUMBER" ] && TARGET_KIND="issue" && TARGET_NUMBER="$ISSUE_NUMBER"
+
+          HEAD_AFTER=$(gh pr view "$TARGET_NUMBER" --repo "$REPO" --json headRefOid --jq '.headRefOid' 2>/dev/null || echo "")
+          HEAD_BEFORE=$(cat /tmp/pr_head_before 2>/dev/null || echo "")
+
+          if [ -n "$HEAD_AFTER" ] && [ "$HEAD_AFTER" = "$HEAD_BEFORE" ]; then
+            # 无变化
+            BODY=$(cat << 'EOF'
+          ## ℹ️ 无需重制
+
+          源 issue #{ISSUE_NUMBER} 的内容相对最新 {DEFAULT_BRANCH} 无变化，本 PR 保持原样（改动可能已被合并）。
+          EOF
+            )
+            BODY=$(echo "$BODY" | sed "s/{ISSUE_NUMBER}/$ISSUE_NUMBER/; s/{DEFAULT_BRANCH}/$DEFAULT_BRANCH/")
           else
-            gh issue comment "$ISSUE_NUMBER" --repo "$REPO" --body "✅ ${MSG_BODY}"
+            # 成功：拉取重制后的实时统计
+            STATS=$(gh pr view "$TARGET_NUMBER" --repo "$REPO" --json changedFiles,additions,deletions,commits --jq '[.changedFiles, .additions, .deletions, (.commits | length)] | @tsv' 2>/dev/null || echo "")
+            if [ -n "$STATS" ]; then
+              FILES=$(echo "$STATS" | cut -f1); ADDS=$(echo "$STATS" | cut -f2); DELS=$(echo "$STATS" | cut -f3); NCOMMITS=$(echo "$STATS" | cut -f4)
+              FILES_LINE="${FILES} 个文件（+${ADDS} / −${DELS}），收敛为 ${NCOMMITS} 个 commit"
+              PR_LINE="#${TARGET_NUMBER}（原地更新）"
+            else
+              FILES_LINE="—"
+              PR_LINE="process-har-${ISSUE_NUMBER}（新建）"
+            fi
+            BRANCH_LINE="process-har-${ISSUE_NUMBER}：\`${HEAD_BEFORE:0:7}\` → \`${HEAD_AFTER:0:7}\`"
+            [ -z "$HEAD_BEFORE" ] && BRANCH_LINE="process-har-${ISSUE_NUMBER}：\`${HEAD_AFTER:0:7}\`（新建）"
+            if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+              TRIGGER_LINE="workflow_dispatch · @${COMMENTER}"
+            else
+              TRIGGER_LINE="\`/recreate\` · @${COMMENTER}"
+            fi
+            if [ -n "$PR_NUMBER" ]; then
+              TARGET_LINE="#${PR_NUMBER}（原地更新）"
+            elif [ -n "$TARGET_NUMBER" ]; then
+              TARGET_LINE="#${TARGET_NUMBER}（新建 PR）"
+            else
+              TARGET_LINE="process-har-${ISSUE_NUMBER}（新建分支）"
+            fi
+            BODY=$(cat << EOF
+          ## ✅ 已基于最新 ${DEFAULT_BRANCH} 重制
+
+          | | |
+          | :-- | :-- |
+          | 源 Issue | #${ISSUE_NUMBER} |
+          | Pull Request | ${TARGET_LINE} |
+          | 分支更新 | ${BRANCH_LINE} |
+          | 文件变更 | ${FILES_LINE} |
+          | Commit 作者 | @${COMMIT_AUTHOR}（沿用原 PR） |
+          | 触发 | ${TRIGGER_LINE} |
+
+          冲突已随重制消除，CI 将自动重新运行 · [运行日志](${RUN_URL})
+          EOF
+            )
+          fi
+
+          if [ "$TARGET_KIND" = "pr" ]; then
+            gh pr comment "$TARGET_NUMBER" --repo "$REPO" --body "$BODY"
+          else
+            gh issue comment "$TARGET_NUMBER" --repo "$REPO" --body "$BODY"
           fi
