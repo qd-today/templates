@@ -517,18 +517,6 @@
             "version": "20220302",
             "commenturl": "https://github.com/qd-today/templates/issues/51"
         },
-        "远景论坛": {
-            "name": "远景论坛",
-            "author": "iianab",
-            "url": "https://raw.githubusercontent.com/qd-today/templates/master/pcbeta_cookie版.har",
-            "update": true,
-            "comments": "使用cookie进行签到<br>https://i.pcbeta.com/home.php?mod=task&item=new<br>cookie获取方法：<br>https://github.com/qd-today/templates/issues/1198",
-            "filename": "pcbeta_cookie版.har",
-            "content": "W3siY29tbWVudCI6ICLku7vliqHpobUiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9pLnBjYmV0YS5jb20vaG9tZS5waHA/bW9kPXRhc2siLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiY29va2llIiwgInZhbHVlIjogInt7Y29va2llfX0ifV0sICJjb29raWVzIjogW119LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMjAwIiwgImZyb20iOiAic3RhdHVzIn1dLCAiZmFpbGVkX2Fzc2VydHMiOiBbXSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJjb21tZW50IjogIumihuWPluS7u+WKoSIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwczovL2kucGNiZXRhLmNvbS9ob21lLnBocD9tb2Q9dGFzayZkbz1hcHBseSZpZD0xNDkiLCAiaGVhZGVycyI6IFt7Im5hbWUiOiAiY29va2llIiwgInZhbHVlIjogInt7Y29va2llfX0ifV0sICJjb29raWVzIjogW119LCAicnVsZSI6IHsic3VjY2Vzc19hc3NlcnRzIjogW3sicmUiOiAiMzAyIiwgImZyb20iOiAic3RhdHVzIn0sIHsicmUiOiAi5bey55Sz6K+36L+H5q2k5Lu75YqhIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW3sicmUiOiAi6ZyA6KaB5YWI55m75b2VIiwgImZyb20iOiAiY29udGVudCJ9XSwgImV4dHJhY3RfdmFyaWFibGVzIjogW119fSwgeyJjb21tZW50IjogIuWujOaIkOS7u+WKoSIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiR0VUIiwgInVybCI6ICJodHRwczovL2kucGNiZXRhLmNvbS9ob21lLnBocD9tb2Q9dGFzayZkbz1kcmF3JmlkPTE0OSIsICJoZWFkZXJzIjogW3sibmFtZSI6ICJjb29raWUiLCAidmFsdWUiOiAie3tjb29raWV9fSJ9XSwgImNvb2tpZXMiOiBbXX0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICLmiJDlip/lrozmiJAiLCAiZnJvbSI6ICJjb250ZW50In0sIHsicmUiOiAi5LiN5piv6L+b6KGM5LitIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFtdfX0sIHsiY29tbWVudCI6ICLnp6/liIbpobUiLCAicmVxdWVzdCI6IHsibWV0aG9kIjogIkdFVCIsICJ1cmwiOiAiaHR0cHM6Ly9pLnBjYmV0YS5jb20vaG9tZS5waHA/bW9kPXNwYWNlY3AmYWM9Y3JlZGl0IiwgImhlYWRlcnMiOiBbeyJuYW1lIjogImNvb2tpZSIsICJ2YWx1ZSI6ICJ7e2Nvb2tpZX19In1dLCAiY29va2llcyI6IFtdfSwgInJ1bGUiOiB7InN1Y2Nlc3NfYXNzZXJ0cyI6IFt7InJlIjogIjIwMCIsICJmcm9tIjogInN0YXR1cyJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAibmlja05hbWUiLCAicmUiOiAi6K6/6Zeu5oiR55qE56m66Ze0XCI+KC4rPyk8IiwgImZyb20iOiAiY29udGVudCJ9LCB7Im5hbWUiOiAiZiIsICJyZSI6ICI8ZW0+IFBC5biBW1xcc1xcU10rPzwvdWw+IiwgImZyb20iOiAiY29udGVudCJ9XX19LCB7ImNvbW1lbnQiOiAiVW5pY29kZei9rOaNoiIsICJyZXF1ZXN0IjogeyJtZXRob2QiOiAiUE9TVCIsICJ1cmwiOiAiYXBpOi8vdXRpbC91bmljb2RlIiwgImhlYWRlcnMiOiBbXSwgImNvb2tpZXMiOiBbXSwgImRhdGEiOiAiaHRtbF91bmVzY2FwZT1mYWxzZSZjb250ZW50PXt7ZiB8IHN0cmlwdGFnc319In0sICJydWxlIjogeyJzdWNjZXNzX2Fzc2VydHMiOiBbeyJyZSI6ICIyMDAiLCAiZnJvbSI6ICJzdGF0dXMifSwgeyJyZSI6ICJcIueKtuaAgVwiOiBcIjIwMFwiIiwgImZyb20iOiAiY29udGVudCJ9XSwgImZhaWxlZF9hc3NlcnRzIjogW10sICJleHRyYWN0X3ZhcmlhYmxlcyI6IFt7Im5hbWUiOiAiX19sb2dfXyIsICJyZSI6ICJcIui9rOaNouWQjlwiOiBcIiguKilcIiIsICJmcm9tIjogImNvbnRlbnQifV19fV0=",
-            "date": "2026-10-12 16:33:08",
-            "version": "20261012",
-            "commenturl": "https://github.com/qd-today/templates/issues/1198"
-        },
         "91tvg主机玩家的营地": {
             "name": "91tvg主机玩家的营地",
             "author": "wjf0214",
